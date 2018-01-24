@@ -1,0 +1,783 @@
+<scripts><script id="0" source="2"><item slot="1" original="Purchase airplane ticket online, in person, or over the phone." ></item>
+<item slot="2" original="Arrive at the airport one to three hours before departure." ></item>
+<item slot="3" original="Check in, check luggage if carrying any" ></item>
+<item slot="4" original="Receive boarding pass" ></item>
+<item slot="5" original="Check in through security" ></item>
+<item slot="6" original="Find departure gate by matching flight number with gate number" ></item>
+<item slot="7" original="Wait until it is time to board the flight" ></item>
+<item slot="8" original="Show staff your boarding pass." ></item>
+<item slot="9" original="Walk down corridor to the plane." ></item>
+<item slot="10" original="Board the plane." ></item>
+<item slot="11" original="Find your seat." ></item>
+<item slot="12" original="Put your seatbelt on." ></item>
+<item slot="13" original="Prepare for take off." ></item>
+</script><script id="1" source="2"><item slot="1" original="Buy a ticket for your flight." ></item>
+<item slot="2" original="Drive to the airport." ></item>
+<item slot="3" original="Turn in your ticket." ></item>
+<item slot="4" original="Get boarding pass." ></item>
+<item slot="5" original="Wait till they call flight number." ></item>
+<item slot="6" original="Wait in line to board plane." ></item>
+<item slot="7" original="Put carry on luggage in overhead bin." ></item>
+<item slot="8" original="Sit down." ></item>
+<item slot="9" original="Follow instructions from flight attendant." ></item>
+<item slot="10" original="Get off plane when it lands." ></item>
+</script><script id="2" source="2"><item slot="1" original="Get on the plane" ></item>
+<item slot="2" original="Put your luggage in the overhead bins" ></item>
+<item slot="3" original="Put your seatbelt on" ></item>
+<item slot="4" original="Put away all electronic devices" ></item>
+<item slot="5" original="Chew some gum" ></item>
+<item slot="6" original="Take off" ></item>
+<item slot="7" original="Have a drink and snack" ></item>
+<item slot="8" original="Read" ></item>
+<item slot="9" original="Wait for the plane to land" ></item>
+</script><script id="5" source="2"><item slot="1" original="Go online" ></item>
+<item slot="2" original="Buy airplane ticket" ></item>
+<item slot="3" original="Gather luggage" ></item>
+<item slot="4" original="Go to airport" ></item>
+<item slot="5" original="Check luggage" ></item>
+<item slot="6" original="Wait for plane" ></item>
+<item slot="7" original="Board plane" ></item>
+<item slot="8" original="Sit down" ></item>
+<item slot="9" original="Wait for plane to land" ></item>
+<item slot="10" original="Leave plane" ></item>
+<item slot="11" original="Pick up luggage" ></item>
+</script><script id="6" source="2"><item slot="1" original="Purchase airline ticket." ></item>
+<item slot="2" original="Prepare and pack luggage." ></item>
+<item slot="3" original="Arrive at airport." ></item>
+<item slot="4" original="Check luggage." ></item>
+<item slot="5" original="Go through security." ></item>
+<item slot="6" original="Wait to board plane." ></item>
+<item slot="7" original="Board plane, when it is called." ></item>
+<item slot="8" original="Look for your assigned seat and sit in it." ></item>
+<item slot="9" original="Listen to instructions from flight attendants." ></item>
+<item slot="10" original="Buckle your seat belt." ></item>
+<item slot="11" original="Enjoy flight." ></item>
+</script><script id="7" source="2"><item slot="1" original="Take boarding pass from airline counter" ></item>
+<item slot="2" original="Go to the gate as per boarding pass" ></item>
+<item slot="3" original="Enter the airplane" ></item>
+<item slot="4" original="Sit on seat as per boarding pass" ></item>
+<item slot="5" original="Listen to verbal instructions" ></item>
+<item slot="6" original="Fasten seat belt" ></item>
+<item slot="7" original="Relax and enjoy music and movies" ></item>
+<item slot="8" original="When destination is reached,  get out of the plane as instructed" ></item>
+</script><script id="8" source="2"><item slot="1" original="Travel to the airport" ></item>
+<item slot="2" original="Enter airport" ></item>
+<item slot="3" original="Go through security" ></item>
+<item slot="4" original="Find your gate" ></item>
+<item slot="5" original="Walk onto the plane when it's time" ></item>
+<item slot="6" original="Fly to your destination" ></item>
+<item slot="7" original="Disembark when you arrive at your destination" ></item>
+</script><script id="9" source="2"><item slot="1" original="Book a ticket" ></item>
+<item slot="2" original="Pack the essentials" ></item>
+<item slot="3" original="Get to the airport" ></item>
+<item slot="4" original="Get to the porting area" ></item>
+<item slot="5" original="Show the document you bring" ></item>
+<item slot="6" original="Confirm your booking" ></item>
+<item slot="7" original="Get into the correct plane" ></item>
+<item slot="8" original="Take the seat allotted for you" ></item>
+<item slot="9" original="Put on your seat belts" ></item>
+<item slot="10" original="Plane takes off" ></item>
+<item slot="11" original="Plane lands on the destination" ></item>
+<item slot="12" original="Remove your seat belt" ></item>
+<item slot="13" original="Leave the plane" ></item>
+</script><script id="12" source="2"><item slot="1" original="Go to airport" ></item>
+<item slot="2" original="Scan ticket" ></item>
+<item slot="3" original="Check bags" ></item>
+<item slot="4" original="Pass security" ></item>
+<item slot="5" original="Walk to gate" ></item>
+<item slot="6" original="Scan ticket" ></item>
+<item slot="7" original="Walk to airplane" ></item>
+<item slot="8" original="Choose seat" ></item>
+<item slot="9" original="Fly" ></item>
+</script><script id="13" source="2"><item slot="1" original="Go online and purchase plane tickets." ></item>
+<item slot="2" original="Go to airline website and check in electronically." ></item>
+<item slot="3" original="Pack suitcase." ></item>
+<item slot="4" original="Drive to airport." ></item>
+<item slot="5" original="Check in bag at desk." ></item>
+<item slot="6" original="Go through security line." ></item>
+<item slot="7" original="Walk through xray machine." ></item>
+<item slot="8" original="Find correct gate listed on ticket." ></item>
+<item slot="9" original="Sit in chair and wait for my row to be called." ></item>
+<item slot="10" original="When called, walk to ticket agent and hand her ticket." ></item>
+<item slot="11" original="Find correct seat on plane." ></item>
+<item slot="12" original="Put bag up and buckle seatbelt." ></item>
+<item slot="13" original="Listen to safety brief." ></item>
+<item slot="14" original="Watch take off out of window." ></item>
+<item slot="15" original="Relax." ></item>
+<item slot="16" original="Land." ></item>
+</script><script id="14" source="2"><item slot="1" original="Get in car" ></item>
+<item slot="2" original="drive to airport" ></item>
+<item slot="3" original="go inside" ></item>
+<item slot="4" original="buy a ticket" ></item>
+<item slot="5" original="board the plane" ></item>
+<item slot="6" original="take your seat" ></item>
+</script><script id="17" source="2"><item slot="1" original="Buy airline ticket" ></item>
+<item slot="2" original="Drive to airport" ></item>
+<item slot="3" original="Park at airport" ></item>
+<item slot="4" original="Go through airport security" ></item>
+<item slot="5" original="Wait at the gate" ></item>
+<item slot="6" original="Board airplane" ></item>
+<item slot="7" original="Sit in airplane seat" ></item>
+<item slot="8" original="Get drink from stewardess" ></item>
+<item slot="9" original="Wait while plane lands" ></item>
+<item slot="10" original="Get off plane" ></item>
+</script><script id="20" source="2"><item slot="1" original="Go to airport" ></item>
+<item slot="2" original="Buy plane ticket" ></item>
+<item slot="3" original="Wait in terminal for plane" ></item>
+<item slot="4" original="Hand ticket to ticket taker" ></item>
+<item slot="5" original="Board plane" ></item>
+<item slot="6" original="Find your seat" ></item>
+<item slot="7" original="Put on seat belt" ></item>
+<item slot="8" original="Plane takes off" ></item>
+<item slot="9" original="Plane lands at destination" ></item>
+<item slot="10" original="Take off seat belt" ></item>
+<item slot="11" original="Leave plane" ></item>
+<item slot="12" original="Enter airport" ></item>
+</script><script id="21" source="2"><item slot="1" original="Plan travel and book ticket" ></item>
+<item slot="2" original="Start from home early and reach airport in time" ></item>
+<item slot="3" original="Enter the lobby" ></item>
+<item slot="4" original="Go to reporting officer and get boarding pass" ></item>
+<item slot="5" original="Get the hand baggage scanned" ></item>
+<item slot="6" original="Wait in the lounge" ></item>
+<item slot="7" original="Enter into the airplane when announcement is made" ></item>
+<item slot="8" original="Get seated in the allotted seat" ></item>
+<item slot="9" original="Secure seat belt when take-off is announced" ></item>
+<item slot="10" original="Have food supplied" ></item>
+<item slot="11" original="Enjoy the journey" ></item>
+<item slot="12" original="Get down at destination" ></item>
+</script><script id="22" source="2"><item slot="1" original="Obtain ticket." ></item>
+<item slot="2" original="Go to airport." ></item>
+<item slot="3" original="Check in at airline counter." ></item>
+<item slot="4" original="Go through security checkpoint." ></item>
+<item slot="5" original="Board plane." ></item>
+<item slot="6" original="Sit in assigned seat." ></item>
+<item slot="7" original="Apply seat belt." ></item>
+<item slot="8" original="Fly in plane." ></item>
+<item slot="9" original="Remove seat belt upon landing." ></item>
+<item slot="10" original="get off of plane." ></item>
+<item slot="11" original="Collect luggage." ></item>
+</script><script id="25" source="2"><item slot="1" original="Buy your ticket." ></item>
+<item slot="2" original="Pack your clothes." ></item>
+<item slot="3" original="Drive to airport." ></item>
+<item slot="4" original="Check into your flight." ></item>
+<item slot="5" original="Board plane." ></item>
+</script><script id="26" source="2"><item slot="1" original="Buy a ticket" ></item>
+<item slot="2" original="Pack bags" ></item>
+<item slot="3" original="Go to airport" ></item>
+<item slot="4" original="Check in" ></item>
+<item slot="5" original="Go through security" ></item>
+<item slot="6" original="Find your gate" ></item>
+<item slot="7" original="Board plane" ></item>
+<item slot="8" original="Put bag in overhead bin" ></item>
+<item slot="9" original="Find your seat" ></item>
+<item slot="10" original="Sit down" ></item>
+<item slot="11" original="Wait to arrive at destination" ></item>
+<item slot="12" original="Get up" ></item>
+<item slot="13" original="Retrieve bag" ></item>
+<item slot="14" original="Leave plane" ></item>
+<item slot="15" original="Leave airport" ></item>
+</script><script id="27" source="2"><item slot="1" original="Drive to airport." ></item>
+<item slot="2" original="Find parking spot." ></item>
+<item slot="3" original="Enter airport." ></item>
+<item slot="4" original="Buy ticket." ></item>
+<item slot="5" original="Go through security." ></item>
+<item slot="6" original="Board plane." ></item>
+<item slot="7" original="Wait for plane to start." ></item>
+</script><script id="28" source="2"><item slot="1" original="Get packed" ></item>
+<item slot="2" original="Grab keys" ></item>
+<item slot="3" original="Go to car" ></item>
+<item slot="4" original="Drive to airport" ></item>
+<item slot="5" original="Park" ></item>
+<item slot="6" original="Check in" ></item>
+<item slot="7" original="Wait for plane" ></item>
+<item slot="8" original="Board plane" ></item>
+<item slot="9" original="Sit" ></item>
+</script><script id="29" source="2"><item slot="1" original="Obtain tickets for flight" ></item>
+<item slot="2" original="Go to airport" ></item>
+<item slot="3" original="Wait in waiting area" ></item>
+<item slot="4" original="Board plane" ></item>
+<item slot="5" original="Relax while plane is in flight" ></item>
+</script><script id="30" source="2"><item slot="1" original="Enter airplane" ></item>
+<item slot="2" original="Find seat" ></item>
+<item slot="3" original="Put carry on luggage in overhead bin" ></item>
+<item slot="4" original="Sit down" ></item>
+<item slot="5" original="Put seatbelt on" ></item>
+<item slot="6" original="Enjoy flight" ></item>
+<item slot="7" original="When landed, remove seatbelt" ></item>
+<item slot="8" original="Collect carry on luggage" ></item>
+<item slot="9" original="Leave airplane" ></item>
+</script><script id="31" source="2"><item slot="1" original="buy ticket" ></item>
+<item slot="2" original="arrive at airport" ></item>
+<item slot="3" original="check in" ></item>
+<item slot="4" original="pass security" ></item>
+<item slot="5" original="board flight" ></item>
+<item slot="6" original="find seat" ></item>
+<item slot="7" original="fly off" ></item>
+<item slot="8" original="arrive destination" ></item>
+</script><script id="32" source="2"><item slot="1" original="Go to airport" ></item>
+<item slot="2" original="Check-in and leave luggage" ></item>
+<item slot="3" original="Go through security" ></item>
+<item slot="4" original="Wait to board" ></item>
+<item slot="5" original="Board and take-off" ></item>
+<item slot="6" original="Fly to destination" ></item>
+<item slot="7" original="Leave plane at destination" ></item>
+<item slot="8" original="Go through customs" ></item>
+<item slot="9" original="Get luggage" ></item>
+</script><script id="33" source="2"><item slot="1" original="Get inside airplane." ></item>
+<item slot="2" original="Look for your seat." ></item>
+<item slot="3" original="Place baggages in above compartment." ></item>
+<item slot="4" original="Place backpacks under chair." ></item>
+<item slot="5" original="Sit down." ></item>
+<item slot="6" original="Listen to instructions." ></item>
+<item slot="7" original="Turn off electronics." ></item>
+<item slot="8" original="Wait for airplane to ascend." ></item>
+<item slot="9" original="Take a nap." ></item>
+</script><script id="34" source="2"><item slot="1" original="Buy a ticket." ></item>
+<item slot="2" original="Pack a bag." ></item>
+<item slot="3" original="Drive to the airport." ></item>
+<item slot="4" original="Park the car." ></item>
+<item slot="5" original="Check your bag." ></item>
+<item slot="6" original="Go through security." ></item>
+<item slot="7" original="Board the plane." ></item>
+<item slot="8" original="Take off." ></item>
+</script><script id="35" source="2"><item slot="1" original="Drive to airport" ></item>
+<item slot="2" original="Get luggage out of car" ></item>
+<item slot="3" original="Enter airport" ></item>
+<item slot="4" original="Check luggage in" ></item>
+<item slot="5" original="Get in security line" ></item>
+<item slot="6" original="Take out all items from pockets" ></item>
+<item slot="7" original="Take shoes off" ></item>
+<item slot="8" original="Go into scanner" ></item>
+<item slot="9" original="Put shoes back on" ></item>
+<item slot="10" original="Put items back in pockets" ></item>
+<item slot="11" original="Proceed to gate" ></item>
+<item slot="12" original="Go onto plane" ></item>
+<item slot="13" original="Find seat" ></item>
+<item slot="14" original="Sit down" ></item>
+<item slot="15" original="Fly to destination" ></item>
+</script><script id="36" source="2"><item slot="1" original="Board the airplane before its scheduled departure" ></item>
+<item slot="2" original="Stow your luggage" ></item>
+<item slot="3" original="Sit in your seat and buckle the seatbelt" ></item>
+<item slot="4" original="Patiently wait for the plane to arrive at its destination" ></item>
+<item slot="5" original="Disembark from the plane." ></item>
+</script><script id="37" source="2"><item slot="1" original="Order ticket online" ></item>
+<item slot="2" original="Go to airport" ></item>
+<item slot="3" original="Meet with airline worker" ></item>
+<item slot="4" original="Give ticket" ></item>
+<item slot="5" original="Enter airplane" ></item>
+</script><script id="39" source="2"><item slot="1" original="Drive to airport" ></item>
+<item slot="2" original="Park at airport" ></item>
+<item slot="3" original="Enter airport" ></item>
+<item slot="4" original="Walk to ticket counter" ></item>
+<item slot="5" original="Purchase ticket" ></item>
+<item slot="6" original="Enter inspection area" ></item>
+<item slot="7" original="Walk through metal detector" ></item>
+<item slot="8" original="Walk to luggage check in" ></item>
+<item slot="9" original="Check in luggage" ></item>
+<item slot="10" original="Walk to correct gate" ></item>
+<item slot="11" original="Get in line" ></item>
+<item slot="12" original="Turn ticket in to airport personnel" ></item>
+<item slot="13" original="Walk to plane" ></item>
+<item slot="14" original="Find correct seat" ></item>
+<item slot="15" original="Sit in seat" ></item>
+<item slot="16" original="Buckle seatbelt" ></item>
+</script><script id="40" source="2"><item slot="1" original="board airplane" ></item>
+<item slot="2" original="locate seat" ></item>
+<item slot="3" original="place carry-on luggage in overhead storage" ></item>
+<item slot="4" original="sit down" ></item>
+<item slot="5" original="put on seat belt" ></item>
+<item slot="6" original="take off" ></item>
+<item slot="7" original="sleep through flight" ></item>
+<item slot="8" original="land" ></item>
+<item slot="9" original="exit plane" ></item>
+</script><script id="42" source="2"><item slot="1" original="Drive to airport" ></item>
+<item slot="2" original="Check luggage" ></item>
+<item slot="3" original="Check in" ></item>
+<item slot="4" original="Get boarding pass" ></item>
+<item slot="5" original="Enter security line" ></item>
+<item slot="6" original="go through security" ></item>
+<item slot="7" original="find gate" ></item>
+<item slot="8" original="wait for flight to board" ></item>
+<item slot="9" original="board plane" ></item>
+<item slot="10" original="sit in your seat" ></item>
+<item slot="11" original="wait for plane to take off and land" ></item>
+<item slot="12" original="exit plane" ></item>
+</script><script id="43" source="2"><item slot="1" original="Arrive at airport." ></item>
+<item slot="2" original="Check in bags." ></item>
+<item slot="3" original="Go to terminal." ></item>
+<item slot="4" original="Show ticket to clerk." ></item>
+<item slot="5" original="Go onto plane when allowed." ></item>
+<item slot="6" original="Find seat and sit down." ></item>
+<item slot="7" original="Put seat belt on." ></item>
+<item slot="8" original="Chew gum." ></item>
+<item slot="9" original="Leave plane when arrived at destination." ></item>
+</script><script id="44" source="2"><item slot="1" original="Go to airport." ></item>
+<item slot="2" original="Purchase ticket." ></item>
+<item slot="3" original="Pass security checks." ></item>
+<item slot="4" original="Board plane." ></item>
+<item slot="5" original="Fly in plane." ></item>
+<item slot="6" original="nap." ></item>
+</script><script id="45" source="2"><item slot="1" original="Drive to airport" ></item>
+<item slot="2" original="Walk in the airport" ></item>
+<item slot="3" original="Walk through security" ></item>
+<item slot="4" original="Sit and wait to board plane" ></item>
+<item slot="5" original="Walk in and find seat number" ></item>
+<item slot="6" original="Place luggage above seats" ></item>
+<item slot="7" original="Sit in seat" ></item>
+<item slot="8" original="Fly to destination" ></item>
+</script><script id="46" source="2"><item slot="1" original="Arrive at airport" ></item>
+<item slot="2" original="Choose the flight" ></item>
+<item slot="3" original="Purchase plane ticket" ></item>
+<item slot="4" original="Check in bags" ></item>
+<item slot="5" original="Go through security" ></item>
+<item slot="6" original="Step onto plane" ></item>
+<item slot="7" original="Find a seat" ></item>
+<item slot="8" original="Fasten seatbelt" ></item>
+<item slot="9" original="Enjoy the plane ride" ></item>
+<item slot="10" original="Arrive at destination" ></item>
+<item slot="11" original="Unbuckle seatbelt" ></item>
+<item slot="12" original="Get off plane" ></item>
+<item slot="13" original="Find baggage claim" ></item>
+<item slot="14" original="Leave airport" ></item>
+</script><script id="47" source="2"><item slot="1" original="purchase ticket" ></item>
+<item slot="2" original="drive to airport" ></item>
+<item slot="3" original="check bag" ></item>
+<item slot="4" original="go through security" ></item>
+<item slot="5" original="go to gate" ></item>
+<item slot="6" original="board plane" ></item>
+<item slot="7" original="fly to destination" ></item>
+<item slot="8" original="de-board plane" ></item>
+<item slot="9" original="get bag" ></item>
+<item slot="10" original="leave airport" ></item>
+</script><script id="48" source="2"><item slot="1" original="Go to the airport" ></item>
+<item slot="2" original="Go to my gate" ></item>
+<item slot="3" original="Wait in line" ></item>
+<item slot="4" original="Go through security" ></item>
+<item slot="5" original="Board the plane" ></item>
+<item slot="6" original="Wait for it to take off" ></item>
+<item slot="7" original="Fly" ></item>
+</script><script id="49" source="2"><item slot="1" original="Go to the airport." ></item>
+<item slot="2" original="Get ticket from the counter." ></item>
+<item slot="3" original="Go to security." ></item>
+<item slot="4" original="Put luggage and personal belongings on the conveyor belt." ></item>
+<item slot="5" original="Take off shoes and jacket and put them on the conveyor belt." ></item>
+<item slot="6" original="Walk through x-ray machine." ></item>
+<item slot="7" original="Retrieve luggage, shoes, and jacket from conveyor belt." ></item>
+<item slot="8" original="Walk to gate." ></item>
+<item slot="9" original="Wait for boarding time." ></item>
+<item slot="10" original="Board the plane." ></item>
+<item slot="11" original="Find assigned seat and sit down." ></item>
+<item slot="12" original="Buckle seat belt." ></item>
+<item slot="13" original="Enjoy the flight." ></item>
+<item slot="14" original="Exit the plane." ></item>
+</script><script id="50" source="2"><item slot="1" original="board plane" ></item>
+<item slot="2" original="safety belt" ></item>
+<item slot="3" original="try to relax for take off" ></item>
+<item slot="4" original="remove belt after take off" ></item>
+<item slot="5" original="once leveled off listen to some music or keep mind busy for the duration" ></item>
+<item slot="6" original="buckle up heading into landing" ></item>
+<item slot="7" original="exit plane after successful land" ></item>
+</script><script id="51" source="2"><item slot="1" original="Go through airport customs" ></item>
+<item slot="2" original="Get on airplane" ></item>
+<item slot="3" original="Find your designated seat" ></item>
+<item slot="4" original="Place luggage in luggage compartment" ></item>
+<item slot="5" original="Wait for plane to take off and reach destination" ></item>
+<item slot="6" original="Remove luggage from luggage compartment" ></item>
+<item slot="7" original="Get off plane" ></item>
+</script><script id="52" source="2"><item slot="1" original="Purchase airplane ticket online" ></item>
+<item slot="2" original="Pack luggage" ></item>
+<item slot="3" original="Go to the airport" ></item>
+<item slot="4" original="Walk into the airport" ></item>
+<item slot="5" original="Check in at the counter" ></item>
+<item slot="6" original="Receive boarding pass" ></item>
+<item slot="7" original="Board airplane" ></item>
+<item slot="8" original="Sit in seat" ></item>
+<item slot="9" original="Fasten seat belt" ></item>
+</script><script id="54" source="2"><item slot="1" original="BOARD THE PLANE" ></item>
+<item slot="2" original="SIT IN YOUR SEAT" ></item>
+<item slot="3" original="ENJOY THE FLIGHT" ></item>
+<item slot="4" original="WHEN THE PLANE LANDS, GET OFF THE PLANE" ></item>
+<item slot="5" original="CONTINUE WITH YOUR DAY." ></item>
+</script><script id="55" source="2"><item slot="1" original="Go to the airport." ></item>
+<item slot="2" original="Check in at your terminal." ></item>
+<item slot="3" original="Wait for the flight attendants to call your row for seating." ></item>
+<item slot="4" original="Check in to the airplane." ></item>
+<item slot="5" original="Walk through the terminal and into the plane." ></item>
+<item slot="6" original="Find your seat." ></item>
+<item slot="7" original="Store any carrying on luggage." ></item>
+<item slot="8" original="Sit down and wait for all other passengers to be seated." ></item>
+<item slot="9" original="Sit back, relax, and enjoy the flight." ></item>
+</script><script id="57" source="2"><item slot="1" original="drive to airport" ></item>
+<item slot="2" original="go through security checkpoint" ></item>
+<item slot="3" original="walk to gate" ></item>
+<item slot="4" original="hand ticket to airline employee" ></item>
+<item slot="5" original="walk down terminal" ></item>
+<item slot="6" original="arrive to plane" ></item>
+<item slot="7" original="select seat" ></item>
+<item slot="8" original="put on seatbelt" ></item>
+<item slot="9" original="prepare for pilot to announce plane flying" ></item>
+</script><script id="58" source="2"><item slot="1" original="Arrive at airport well ahead of departure time" ></item>
+<item slot="2" original="Check in at departure counter" ></item>
+<item slot="3" original="Get plane ticket" ></item>
+<item slot="4" original="Check luggage" ></item>
+<item slot="5" original="Wait in waiting area for flight to be called" ></item>
+<item slot="6" original="Present ticket to attendant when flight is called" ></item>
+<item slot="7" original="Wait in line to get on plane" ></item>
+<item slot="8" original="Get in assigned seat on plane" ></item>
+<item slot="9" original="Buckle seat belt" ></item>
+<item slot="10" original="Follow flight crew's instructions during flight" ></item>
+<item slot="11" original="Exit plane at the end of flight" ></item>
+</script><script id="59" source="2"><item slot="1" original="Choose flight need to fly" ></item>
+<item slot="2" original="Book ticket" ></item>
+<item slot="3" original="Prepare all items need to carry" ></item>
+<item slot="4" original="Go to airport" ></item>
+<item slot="5" original="Check out" ></item>
+<item slot="6" original="Enter into flight" ></item>
+<item slot="7" original="Listen to the instructions and follow" ></item>
+</script><script id="60" source="2"><item slot="1" original="purchase ticket" ></item>
+<item slot="2" original="go through security" ></item>
+<item slot="3" original="wait in line" ></item>
+<item slot="4" original="board the plane" ></item>
+<item slot="5" original="locate seat" ></item>
+<item slot="6" original="take off" ></item>
+</script><script id="62" source="2"><item slot="1" original="Go online to check prices." ></item>
+<item slot="2" original="Buy a ticket." ></item>
+<item slot="3" original="Drive to the airport." ></item>
+<item slot="4" original="Check my boarding pass." ></item>
+<item slot="5" original="Get on the airplane." ></item>
+</script><script id="63" source="2"><item slot="1" original="Go to airport" ></item>
+<item slot="2" original="Check in" ></item>
+<item slot="3" original="Check luggage" ></item>
+<item slot="4" original="Get printed ticket" ></item>
+<item slot="5" original="Go to security" ></item>
+<item slot="6" original="Follow instructions for security" ></item>
+<item slot="7" original="Once through security, go to your gate" ></item>
+<item slot="8" original="Wait at gate until they call your row to board" ></item>
+<item slot="9" original="Board plane when called" ></item>
+<item slot="10" original="Stow luggage and sit" ></item>
+<item slot="11" original="Put seatbelt on" ></item>
+<item slot="12" original="Follow safety instructions" ></item>
+<item slot="13" original="Fly in airplane" ></item>
+</script><script id="65" source="2"><item slot="1" original="enter into airport" ></item>
+<item slot="2" original="check in at check in counter" ></item>
+<item slot="3" original="find out gate" ></item>
+<item slot="4" original="go through security" ></item>
+<item slot="5" original="go to gate" ></item>
+<item slot="6" original="wait to board" ></item>
+<item slot="7" original="hand ticket to person" ></item>
+<item slot="8" original="walk down gate way" ></item>
+<item slot="9" original="get on plane" ></item>
+<item slot="10" original="find seat" ></item>
+<item slot="11" original="sit down" ></item>
+<item slot="12" original="buckle up" ></item>
+<item slot="13" original="fly" ></item>
+<item slot="14" original="land" ></item>
+<item slot="15" original="get off plane" ></item>
+</script><script id="66" source="2"><item slot="1" original="Walk into airport." ></item>
+<item slot="2" original="Give luggage to attendant." ></item>
+<item slot="3" original="Give ticket to attendant." ></item>
+<item slot="4" original="Walk on plane." ></item>
+<item slot="5" original="Find your seat." ></item>
+<item slot="6" original="Sit down." ></item>
+<item slot="7" original="Buckle your seat belt." ></item>
+<item slot="8" original="Plane takes off." ></item>
+</script><script id="67" source="2"><item slot="1" original="Board the airplane prior to departure time." ></item>
+<item slot="2" original="Find the seat which your plane ticket specifies." ></item>
+<item slot="3" original="Sit in your assigned seat." ></item>
+<item slot="4" original="Put cell phone in 'airplane mode'." ></item>
+<item slot="5" original="Wait for the airplane to take off." ></item>
+<item slot="6" original="Entertain yourself with a book or movie while riding in the plane." ></item>
+</script><script id="69" source="2"><item slot="1" original="Open the website of the airliner" ></item>
+<item slot="2" original="Book a ticket" ></item>
+<item slot="3" original="Pack the luggage" ></item>
+<item slot="4" original="Take your luggage and passport" ></item>
+<item slot="5" original="Get dropped at airport" ></item>
+<item slot="6" original="Have the luggage security check done" ></item>
+<item slot="7" original="Check in" ></item>
+<item slot="8" original="Get the passport stamped at Immigration counter if required" ></item>
+<item slot="9" original="Complete the personal security check" ></item>
+<item slot="10" original="Go to the waiting area near the respective gate" ></item>
+<item slot="11" original="Sit on a chair" ></item>
+<item slot="12" original="Board the aircraft when asked to do so" ></item>
+<item slot="13" original="Sit on the seat as per seat number in the ticket" ></item>
+<item slot="14" original="Fasten your seat belt" ></item>
+<item slot="15" original="Follow the instructions of the cabin crew" ></item>
+<item slot="16" original="Get down at the destination" ></item>
+</script><script id="70" source="2"><item slot="1" original="GO TO AIRPORT" ></item>
+<item slot="2" original="CHECK-IN THE BAGS" ></item>
+<item slot="3" original="GET BOARDING PASS" ></item>
+<item slot="4" original="ENTER THE FLIGHT" ></item>
+<item slot="5" original="FIND OUR SEAT" ></item>
+<item slot="6" original="WEAR SEAT BELT" ></item>
+<item slot="7" original="WATCHING MOVIES" ></item>
+<item slot="8" original="TAKE FOOD" ></item>
+<item slot="9" original="TAKE SOME REST" ></item>
+<item slot="10" original="READING MAGAZINES" ></item>
+<item slot="11" original="LEAVE THE FLIGHT" ></item>
+</script><script id="71" source="2"><item slot="1" original="book your plane ticket" ></item>
+<item slot="2" original="go to the airport" ></item>
+<item slot="3" original="check in at the counter" ></item>
+<item slot="4" original="collect the boarding pass" ></item>
+<item slot="5" original="deposit the luggage" ></item>
+<item slot="6" original="go through the security check" ></item>
+<item slot="7" original="board the aeroplane" ></item>
+<item slot="8" original="wait for the airplane to take off" ></item>
+</script><script id="72" source="2"><item slot="1" original="Go to airport" ></item>
+<item slot="2" original="Go through security" ></item>
+<item slot="3" original="Find your terminal" ></item>
+<item slot="4" original="Wait in line to board" ></item>
+<item slot="5" original="Give boarding pass" ></item>
+<item slot="6" original="Enter plane" ></item>
+<item slot="7" original="Find seat" ></item>
+<item slot="8" original="Put bag overhead" ></item>
+<item slot="9" original="Sit down for flight" ></item>
+<item slot="10" original="Take off" ></item>
+<item slot="11" original="Arrive at destination" ></item>
+<item slot="12" original="Remove bag" ></item>
+<item slot="13" original="Leave plane" ></item>
+</script><script id="73" source="2"><item slot="1" original="Select destination" ></item>
+<item slot="2" original="Lookup fares on website" ></item>
+<item slot="3" original="Select flights" ></item>
+<item slot="4" original="Pay for flights" ></item>
+<item slot="5" original="Verify departure time" ></item>
+<item slot="6" original="Arrive at airport an hour before the plane is supposed to leave" ></item>
+<item slot="7" original="Enter airport and go through security checkpoint" ></item>
+<item slot="8" original="Find airline's check-in counter and check luggage" ></item>
+<item slot="9" original="Receive boarding passes" ></item>
+<item slot="10" original="Find departure gate and wait as needed until plane begins boarding" ></item>
+<item slot="11" original="When turn arrives, board plane as instructed" ></item>
+<item slot="12" original="Stow away carry-ons in the overhead bins" ></item>
+<item slot="13" original="Fasten seatbelt and follow instructions for flight" ></item>
+</script><script id="74" source="2"><item slot="1" original="Determine destination" ></item>
+<item slot="2" original="Select airline and flight based on schedule" ></item>
+<item slot="3" original="Purchase ticket" ></item>
+<item slot="4" original="Pack luggage" ></item>
+<item slot="5" original="On day of travel, go to airport several hours ahead of departure" ></item>
+<item slot="6" original="Go to check in counter or kiosk" ></item>
+<item slot="7" original="Receive boarding pass and drop off checked luggage, if any" ></item>
+<item slot="8" original="Determine departure gate" ></item>
+<item slot="9" original="Go through security screening" ></item>
+<item slot="10" original="Go to departure gate" ></item>
+<item slot="11" original="Board plane" ></item>
+<item slot="12" original="Be seated" ></item>
+<item slot="13" original="Stow luggage" ></item>
+<item slot="14" original="Arrive at destination" ></item>
+<item slot="15" original="Retrieve luggage" ></item>
+<item slot="16" original="Exit airport" ></item>
+</script><script id="75" source="2"><item slot="1" original="Wait for call to board plane" ></item>
+<item slot="2" original="Gather carry ons and proceed to gate" ></item>
+<item slot="3" original="Present boarding pass and board plane" ></item>
+<item slot="4" original="Find seat" ></item>
+<item slot="5" original="Stow carry on under seat if it fits" ></item>
+<item slot="6" original="Put on seat belt adjusting if necessary" ></item>
+<item slot="7" original="Wait for plane to take off" ></item>
+<item slot="8" original="Read book or magazine" ></item>
+<item slot="9" original="Request drink and snacks when flight attendant serves" ></item>
+<item slot="10" original="Check time occasionally to determine when flight ends" ></item>
+<item slot="11" original="Wait for plane to arrive destination" ></item>
+</script><script id="76" source="2"><item slot="1" original="Buy airline tickets" ></item>
+<item slot="2" original="Get to the airport" ></item>
+<item slot="3" original="Get your baggage checked" ></item>
+<item slot="4" original="Go through security check" ></item>
+<item slot="5" original="Board the plane" ></item>
+<item slot="6" original="Enjoy your flight" ></item>
+</script><script id="77" source="2"><item slot="1" original="Make sure you have all your carry-on's with you" ></item>
+<item slot="2" original="Board the plane" ></item>
+<item slot="3" original="Find your seat" ></item>
+<item slot="4" original="Put your carry on in overhead compartment" ></item>
+<item slot="5" original="Take your seat" ></item>
+<item slot="6" original="Follow flight attendant's instructions" ></item>
+<item slot="7" original="Read a book or watch movie to pass time" ></item>
+<item slot="8" original="Take a nap if your flight is long" ></item>
+<item slot="9" original="Remain respectful of others" ></item>
+<item slot="10" original="Wait to arrive at your destination" ></item>
+</script><script id="78" source="2"><item slot="1" original="Enter plane" ></item>
+<item slot="2" original="Find seat number on ticket" ></item>
+<item slot="3" original="Walk to that seat number" ></item>
+<item slot="4" original="Put bag in overhead compartment" ></item>
+<item slot="5" original="Sit down in assigned seat" ></item>
+<item slot="6" original="Buckle seat belt" ></item>
+<item slot="7" original="Enjoy flight" ></item>
+<item slot="8" original="When flight lands and announcement is made, unbuckle seat belt" ></item>
+<item slot="9" original="Stand up" ></item>
+<item slot="10" original="Gather bag from overhead compartment" ></item>
+<item slot="11" original="Walk off plane" ></item>
+</script><script id="79" source="2"><item slot="1" original="Buy ticket for flight." ></item>
+<item slot="2" original="Go to airport." ></item>
+<item slot="3" original="Check in at ticket counter." ></item>
+<item slot="4" original="Check any baggage that you're not carrying onto the plane." ></item>
+<item slot="5" original="Go through security check." ></item>
+<item slot="6" original="Go to gate where flight is leaving." ></item>
+<item slot="7" original="Buy bottle of water for flight." ></item>
+<item slot="8" original="Get on plane." ></item>
+<item slot="9" original="Put away any carry-on baggage." ></item>
+<item slot="10" original="Sit in seat." ></item>
+<item slot="11" original="Buckle seatbelt." ></item>
+<item slot="12" original="Get out book to read and water to drink." ></item>
+</script><script id="80" source="2"><item slot="1" original="Go to airport." ></item>
+<item slot="2" original="Check bags at airline counter." ></item>
+<item slot="3" original="Go through airport security." ></item>
+<item slot="4" original="Proceed to the appropriate gate." ></item>
+<item slot="5" original="Board the airplane when called." ></item>
+<item slot="6" original="Show the boarding pass when boarding." ></item>
+<item slot="7" original="Take the appropriate seat on the airplane." ></item>
+<item slot="8" original="Turn off electronic equipment." ></item>
+<item slot="9" original="Fasten your seat belt." ></item>
+<item slot="10" original="Wait until arriving at destination." ></item>
+<item slot="11" original="Plane comes to a complete stop at the gate." ></item>
+<item slot="12" original="Get off the plane." ></item>
+<item slot="13" original="Retrieve bags at baggage claim" ></item>
+</script><script id="82" source="2"><item slot="1" original="Get in a car" ></item>
+<item slot="2" original="Get dropped off at the airport" ></item>
+<item slot="3" original="Check in" ></item>
+<item slot="4" original="Go through security" ></item>
+<item slot="5" original="Wait in terminal" ></item>
+<item slot="6" original="board plane" ></item>
+<item slot="7" original="look outside plane" ></item>
+<item slot="8" original="unboard plane" ></item>
+<item slot="9" original="gather luggage" ></item>
+</script><script id="84" source="2"><item slot="1" original="Board the plane" ></item>
+<item slot="2" original="Find seat" ></item>
+<item slot="3" original="Put luggage away" ></item>
+<item slot="4" original="Sit down" ></item>
+<item slot="5" original="Wait" ></item>
+<item slot="6" original="Put seatbelt on" ></item>
+<item slot="7" original="Listen to instructions" ></item>
+<item slot="8" original="Plane takes off" ></item>
+<item slot="9" original="Wait for instructions" ></item>
+<item slot="10" original="Take seatbelt off" ></item>
+<item slot="11" original="Watch movie" ></item>
+<item slot="12" original="Listen to instructions" ></item>
+<item slot="13" original="Put seatbelt on" ></item>
+<item slot="14" original="Plane lands" ></item>
+</script><script id="85" source="2"><item slot="1" original="Arrive at airport" ></item>
+<item slot="2" original="Check in" ></item>
+<item slot="3" original="Check luggage" ></item>
+<item slot="4" original="Go through security" ></item>
+<item slot="5" original="Wait at gate" ></item>
+<item slot="6" original="Board airplane" ></item>
+<item slot="7" original="Listen to safety presentation" ></item>
+<item slot="8" original="Fall asleep on the plane" ></item>
+<item slot="9" original="Wake up" ></item>
+<item slot="10" original="Arrive at destination" ></item>
+</script><script id="86" source="2"><item slot="1" original="Purchase ticket online as early as possible" ></item>
+<item slot="2" original="Pack your bags" ></item>
+<item slot="3" original="Drive to airport on the appointed day" ></item>
+<item slot="4" original="Print ticket at machines" ></item>
+<item slot="5" original="Check in" ></item>
+<item slot="6" original="Check bags" ></item>
+<item slot="7" original="Endure intrusive exams from police state" ></item>
+<item slot="8" original="X-ray carry on bags" ></item>
+<item slot="9" original="Proceed to departure lounge" ></item>
+<item slot="10" original="Wait for a long time" ></item>
+<item slot="11" original="Get in line to board plane" ></item>
+<item slot="12" original="Board plane" ></item>
+<item slot="13" original="Find your seat" ></item>
+<item slot="14" original="Place carry-on bags in overhead compartment" ></item>
+<item slot="15" original="Listen to safety lecture" ></item>
+<item slot="16" original="Fly" ></item>
+</script><script id="88" source="2"><item slot="1" original="Check into the airport" ></item>
+<item slot="2" original="Check your checked luggage" ></item>
+<item slot="3" original="Go to the boarding gate" ></item>
+<item slot="4" original="Wait until boarding time" ></item>
+<item slot="5" original="Get in line to board" ></item>
+<item slot="6" original="Get on the airplane" ></item>
+<item slot="7" original="Once you airplane takes off you will be flying" ></item>
+</script><script id="90" source="2"><item slot="1" original="Get on the airplane" ></item>
+<item slot="2" original="Go to your seat" ></item>
+<item slot="3" original="Sit down and buckle seat belt" ></item>
+<item slot="4" original="Put your tray table up and seat back in the full upright position" ></item>
+<item slot="5" original="Listen to the safety brief from the flight attendants" ></item>
+<item slot="6" original="Taxi to the runway" ></item>
+<item slot="7" original="Take off" ></item>
+<item slot="8" original="Fly to your destination" ></item>
+<item slot="9" original="Wait for the plane to land" ></item>
+<item slot="10" original="Disembark plane at your destination" ></item>
+</script><script id="91" source="2"><item slot="1" original="Buy ticket" ></item>
+<item slot="2" original="Pack luggage" ></item>
+<item slot="3" original="Go to the airport" ></item>
+<item slot="4" original="Go through security" ></item>
+<item slot="5" original="Wait at the gate" ></item>
+<item slot="6" original="Board airplane" ></item>
+<item slot="7" original="Put up luggage" ></item>
+<item slot="8" original="sit back and ride airplane to destination" ></item>
+</script><script id="92" source="2"><item slot="1" original="Take off small airplane" ></item>
+<item slot="2" original="Flying in air" ></item>
+<item slot="3" original="seeing pretty location" ></item>
+<item slot="4" original="rounding in sky" ></item>
+<item slot="5" original="Land the plane" ></item>
+</script><script id="93" source="2"><item slot="1" original="Purchase airline ticket" ></item>
+<item slot="2" original="Pack clothing for trip" ></item>
+<item slot="3" original="Take a taxi to the airport" ></item>
+<item slot="4" original="Check into the airline system" ></item>
+<item slot="5" original="Check baggage into airline system" ></item>
+<item slot="6" original="Board plane" ></item>
+<item slot="7" original="Fasten seatbelt" ></item>
+<item slot="8" original="Wait for takeoff" ></item>
+</script><script id="94" source="2"><item slot="1" original="arrive at the airport" ></item>
+<item slot="2" original="enter the terminal and find your airling" ></item>
+<item slot="3" original="approach the clerk and buy your ticket" ></item>
+<item slot="4" original="check in your bags" ></item>
+<item slot="5" original="go through the check point" ></item>
+<item slot="6" original="arrive at your gate and have a seat" ></item>
+<item slot="7" original="board the plane when they are ready" ></item>
+<item slot="8" original="buckle your seat belt" ></item>
+<item slot="9" original="plane will taxi down the runway" ></item>
+<item slot="10" original="plane will then take off" ></item>
+<item slot="11" original="at maximum flying altitude you will be able to move freely" ></item>
+<item slot="12" original="relax and enjoy the flight" ></item>
+<item slot="13" original="have a meal if provided" ></item>
+<item slot="14" original="watch a movie if provided" ></item>
+<item slot="15" original="arrive at destination" ></item>
+<item slot="16" original="get off plane." ></item>
+</script><script id="95" source="2"><item slot="1" original="Go to the airport" ></item>
+<item slot="2" original="Check in for your flight at the kiosk" ></item>
+<item slot="3" original="Weigh and check baggage" ></item>
+<item slot="4" original="Go to specified terminal" ></item>
+<item slot="5" original="Sit and wait for flight to be ready to board" ></item>
+<item slot="6" original="Board the flight when indicated" ></item>
+<item slot="7" original="Sit in assigned seat." ></item>
+<item slot="8" original="Sit for remainder of flight." ></item>
+<item slot="9" original="Depart from plane when it has completely landed at destination." ></item>
+<item slot="10" original="Gather luggage at baggage claims." ></item>
+</script><script id="96" source="2"><item slot="1" original="determine where you want to go" ></item>
+<item slot="2" original="buy plane ticket" ></item>
+<item slot="3" original="choose seat" ></item>
+<item slot="4" original="drive to airport" ></item>
+<item slot="5" original="check in at airport" ></item>
+<item slot="6" original="go to gate" ></item>
+<item slot="7" original="board the plane" ></item>
+<item slot="8" original="find your seat" ></item>
+<item slot="9" original="buckle your seatbelt" ></item>
+<item slot="10" original="enjoy the trip" ></item>
+</script><script id="97" source="2"><item slot="1" original="enter airport" ></item>
+<item slot="2" original="buy a ticket" ></item>
+<item slot="3" original="go through security" ></item>
+<item slot="4" original="Sit and wait" ></item>
+<item slot="5" original="Board your plane" ></item>
+<item slot="6" original="Ride" ></item>
+</script><script id="98" source="2"><item slot="1" original="Purchase a ticket" ></item>
+<item slot="2" original="Travel to airport" ></item>
+<item slot="3" original="Check in at counter" ></item>
+<item slot="4" original="Check bags" ></item>
+<item slot="5" original="Go through security screening" ></item>
+<item slot="6" original="Walk to your flight's gate" ></item>
+<item slot="7" original="Wait near gate" ></item>
+<item slot="8" original="Listen for the call to board plane" ></item>
+<item slot="9" original="Board plane" ></item>
+<item slot="10" original="Sit in your assigned seat" ></item>
+<item slot="11" original="Attach seat belt" ></item>
+<item slot="12" original="Follow flight attendant's directions" ></item>
+<item slot="13" original="Be polite and considerate of others" ></item>
+<item slot="14" original="Prepare as directed for landing" ></item>
+<item slot="15" original="Wait your turn to get off" ></item>
+<item slot="16" original="Get off plane" ></item>
+</script><script id="99" source="2"><item slot="1" original="Arrive early at airport" ></item>
+<item slot="2" original="Check in" ></item>
+<item slot="3" original="Wait for plane to arrive" ></item>
+<item slot="4" original="Board airplane" ></item>
+<item slot="5" original="Find seat" ></item>
+<item slot="6" original="Buckle seatbelt" ></item>
+<item slot="7" original="Relax and enjoy the ride" ></item>
+<item slot="8" original="Arrive at destination" ></item>
+</script></scripts>

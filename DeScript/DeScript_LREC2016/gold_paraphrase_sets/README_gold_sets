@@ -1,0 +1,18 @@
+The DeScript corpus also includes a gold standard corpus of aligned event descriptions annotated by experts. The gold standard covers 10 scenarios, with 50 ESDs each, separated into two files of 25 ESDs each. 
+
+Each scenario file contains several paraphrase sets identified by "event" attribute that depicts the script event being expressed in the paraphrase set.
+
+Explanation of particular "event" labels:
+UnrelEv - depicts an event that is not part of the script
+RelNScrEv - depicts an event that is related to the script but not necessarily part of the script
+other_* - depicts an event that could be part of the script but is considered to be too fine-rained or is not mentioned often enough. 
+
+Each item in a paraphrase set is identified by the "source", "script"(script_ID of the ESD where the event description comes from) and "slot" attributes. "total_slots" attribute gives the total number of slots in the ESD where the event description comes from.
+
+Example paraphrase set:
+
+<label type="PARAPHRASE" event="measure_ingredients">
+<item source="2" script="3" slot="3" total_slots="13" original="Measure each ingredient according to the recipe"></item>
+<item source="1" script="11" slot="5" total_slots="16" original="Measure wet ingredients."></item>
+<item source="1" script="11" slot="6" total_slots="16" original="Measure dry ingredients."></item>
+</label>

@@ -1,0 +1,946 @@
+<scripts><script id="0" source="2"><item slot="1" original="Make a list of items you need at the grocery" ></item>
+<item slot="2" original="Find a grocery nearby" ></item>
+<item slot="3" original="Go to grocery" ></item>
+<item slot="4" original="Get a shopping cart if needed" ></item>
+<item slot="5" original="Find items on your list" ></item>
+<item slot="6" original="Place items in grocery cart" ></item>
+<item slot="7" original="Go to check out line" ></item>
+<item slot="8" original="Place items in cart on belt for cashier to scan" ></item>
+<item slot="9" original="Pay for groceries" ></item>
+</script><script id="1" source="2"><item slot="1" original="Make a menu for the coming week" ></item>
+<item slot="2" original="Make a shopping list based on the menu and items you need" ></item>
+<item slot="3" original="Take list to store" ></item>
+<item slot="4" original="Drive to store" ></item>
+<item slot="5" original="Park and get a cart" ></item>
+<item slot="6" original="Find the items on your list" ></item>
+<item slot="7" original="Cross them off your list" ></item>
+<item slot="8" original="Put them in your cart" ></item>
+<item slot="9" original="Bring cart to register" ></item>
+<item slot="10" original="Put items on counter" ></item>
+<item slot="11" original="Pay for items" ></item>
+<item slot="12" original="Put bags in cart" ></item>
+<item slot="13" original="Take cart to car" ></item>
+<item slot="14" original="Put bags in car" ></item>
+<item slot="15" original="Go home" ></item>
+</script><script id="2" source="2"><item slot="1" original="make grocery list" ></item>
+<item slot="2" original="get tote bag" ></item>
+<item slot="3" original="get coupons" ></item>
+<item slot="4" original="get wallet" ></item>
+<item slot="5" original="take bus to grocery store" ></item>
+<item slot="6" original="shop" ></item>
+<item slot="7" original="check out food" ></item>
+<item slot="8" original="pay for food" ></item>
+<item slot="9" original="bag food" ></item>
+<item slot="10" original="get receipt" ></item>
+<item slot="11" original="carry food to bus stop" ></item>
+<item slot="12" original="take food home" ></item>
+<item slot="13" original="put food away in kitchen" ></item>
+</script><script id="3" source="2"><item slot="1" original="enter grocery store" ></item>
+<item slot="2" original="get cart" ></item>
+<item slot="3" original="walk through store" ></item>
+<item slot="4" original="take things off shelf" ></item>
+<item slot="5" original="walk to check out line" ></item>
+<item slot="6" original="put items on belt" ></item>
+<item slot="7" original="pay for items" ></item>
+<item slot="8" original="leave store with items" ></item>
+</script><script id="4" source="2"><item slot="1" original="Write list" ></item>
+<item slot="2" original="Go to grocery store" ></item>
+<item slot="3" original="Get cart" ></item>
+<item slot="4" original="Get items on list" ></item>
+<item slot="5" original="Put in cart" ></item>
+<item slot="6" original="Take cart to checkout" ></item>
+<item slot="7" original="Put items on conveyor belt" ></item>
+<item slot="8" original="Pay for items" ></item>
+<item slot="9" original="Take items" ></item>
+<item slot="10" original="Leave" ></item>
+</script><script id="5" source="2"><item slot="1" original="Making grocery list" ></item>
+<item slot="2" original="Get into car" ></item>
+<item slot="3" original="Drive to grocery store" ></item>
+<item slot="4" original="Go shopping" ></item>
+<item slot="5" original="Get in car" ></item>
+</script><script id="6" source="2"><item slot="1" original="Make grocery list" ></item>
+<item slot="2" original="Enter super market" ></item>
+<item slot="3" original="Take a cart" ></item>
+<item slot="4" original="Go down aisles" ></item>
+<item slot="5" original="Find things from list" ></item>
+<item slot="6" original="Put them in cart" ></item>
+<item slot="7" original="Bring cart to cashier" ></item>
+<item slot="8" original="Put items on table" ></item>
+<item slot="9" original="Wait for them to be scanned" ></item>
+<item slot="10" original="Cashier gives total" ></item>
+<item slot="11" original="Pay total" ></item>
+<item slot="12" original="Bagger bags groceries" ></item>
+<item slot="13" original="Bagger places in cart" ></item>
+<item slot="14" original="Wheel cart outside" ></item>
+<item slot="15" original="Take groceries out" ></item>
+</script><script id="7" source="2"><item slot="1" original="Get ready" ></item>
+<item slot="2" original="Make a list of grocery required" ></item>
+<item slot="3" original="Take money" ></item>
+<item slot="4" original="Go to the favorite grocery shop" ></item>
+<item slot="5" original="Select grocery items as per the list" ></item>
+<item slot="6" original="Look closely to exclude any expired items" ></item>
+<item slot="7" original="Go to the teller with the items" ></item>
+<item slot="8" original="Pay the total amount" ></item>
+<item slot="9" original="Take the grocery bags to the car" ></item>
+<item slot="10" original="Drive back home" ></item>
+</script><script id="8" source="2"><item slot="1" original="List out the things you want to buy" ></item>
+<item slot="2" original="Get to a shop" ></item>
+<item slot="3" original="Take the things you want to buy" ></item>
+<item slot="4" original="Put them on to the trolley" ></item>
+<item slot="5" original="Get to the counter" ></item>
+<item slot="6" original="Check out the things" ></item>
+<item slot="7" original="Pay for the shopping" ></item>
+<item slot="8" original="Get the bill" ></item>
+<item slot="9" original="Bring things to the home" ></item>
+</script><script id="9" source="2"><item slot="1" original="Drive to store" ></item>
+<item slot="2" original="Park car and walk inside" ></item>
+<item slot="3" original="Look for the food you want" ></item>
+<item slot="4" original="Put food in cart" ></item>
+<item slot="5" original="Go to checkout lane" ></item>
+<item slot="6" original="Pay for food" ></item>
+<item slot="7" original="Go home" ></item>
+</script><script id="10" source="2"><item slot="1" original="Make a grocery list." ></item>
+<item slot="2" original="Drive to grocery store." ></item>
+<item slot="3" original="Go into store." ></item>
+<item slot="4" original="Get everything on your list." ></item>
+<item slot="5" original="Go to checkout counter" ></item>
+<item slot="6" original="Wait for cashier to finish ringing you up." ></item>
+<item slot="7" original="Pay the cashier." ></item>
+<item slot="8" original="Take all your groceries." ></item>
+<item slot="9" original="Put groceries in your car" ></item>
+<item slot="10" original="Go home" ></item>
+</script><script id="12" source="2"><item slot="1" original="Visit the mall, park the vehicle" ></item>
+<item slot="2" original="Enter the shopping place and take a trolley" ></item>
+<item slot="3" original="Just have look around for any discounts and offers" ></item>
+<item slot="4" original="Refer my list and pick up what is needed from the shelves" ></item>
+<item slot="5" original="Check for the price and validity" ></item>
+<item slot="6" original="Place in the trolley properly" ></item>
+<item slot="7" original="Check whether the list is complete" ></item>
+<item slot="8" original="Head for the counter" ></item>
+<item slot="9" original="Take groceries one by one for billing" ></item>
+<item slot="10" original="Pay by credit card" ></item>
+<item slot="11" original="Pack the things in my bag and leave the mall" ></item>
+</script><script id="13" source="2"><item slot="1" original="Check existing stock." ></item>
+<item slot="2" original="Make a list of needed items." ></item>
+<item slot="3" original="Proceed to store." ></item>
+<item slot="4" original="retrieve a cart (if necessary)" ></item>
+<item slot="5" original="Gather items on list." ></item>
+<item slot="6" original="proceed to checkout." ></item>
+<item slot="7" original="Pay for items." ></item>
+<item slot="8" original="bag items." ></item>
+<item slot="9" original="return to home with items" ></item>
+<item slot="10" original="unload items." ></item>
+</script><script id="14" source="2"><item slot="1" original="First see that you prepare the entire list for shopping" ></item>
+<item slot="2" original="Double check with the list you prepared is in low quantity or null in your house." ></item>
+<item slot="3" original="A survey says that without prior list grocery shopping result in excess or double shopping" ></item>
+<item slot="4" original="In your favorite store take a trolley if more things to be purchased or a bag for small." ></item>
+<item slot="5" original="First pick up the bottle things so that it goes in bottom of the trolley." ></item>
+<item slot="6" original="Then shop for the packet items." ></item>
+<item slot="7" original="Now time for oil, milk items so that it won't get crushed by other heavy things." ></item>
+<item slot="8" original="Bill it in the counter." ></item>
+<item slot="9" original="Pay for it ." ></item>
+<item slot="10" original="Get neatly packed and take it to home." ></item>
+<item slot="11" original="The last but not least one is you must set right what you purchase in the same day at home" ></item>
+</script><script id="15" source="2"><item slot="1" original="Make a list of what is needed." ></item>
+<item slot="2" original="Find a grocery store." ></item>
+<item slot="3" original="Drive or walk to the store." ></item>
+<item slot="4" original="Enter the store." ></item>
+<item slot="5" original="Find the items from the list." ></item>
+<item slot="6" original="Go to the check out area." ></item>
+<item slot="7" original="Pay for groceries." ></item>
+<item slot="8" original="Leave the store." ></item>
+<item slot="9" original="Go home." ></item>
+<item slot="10" original="Put groceries away." ></item>
+</script><script id="16" source="2"><item slot="1" original="Prepare grocery list" ></item>
+<item slot="2" original="Go to grocery store" ></item>
+<item slot="3" original="Enter grocery store" ></item>
+<item slot="4" original="Get a basket" ></item>
+<item slot="5" original="Find items on the list" ></item>
+<item slot="6" original="Place items into basket" ></item>
+<item slot="7" original="Bring items to checkout" ></item>
+<item slot="8" original="Wait in line" ></item>
+<item slot="9" original="Pay the cashier for your items" ></item>
+<item slot="10" original="Bring the groceries home" ></item>
+</script><script id="17" source="2"><item slot="1" original="Make list of needed items." ></item>
+<item slot="2" original="Get into car." ></item>
+<item slot="3" original="Drive to store." ></item>
+<item slot="4" original="Find cart." ></item>
+<item slot="5" original="Walk aisles with cart and fill with items from list." ></item>
+<item slot="6" original="Stand in line for register." ></item>
+<item slot="7" original="Unload items onto conveyer belt." ></item>
+<item slot="8" original="Pay cashier." ></item>
+<item slot="9" original="Pick up bags." ></item>
+<item slot="10" original="Go to car." ></item>
+<item slot="11" original="Go home." ></item>
+</script><script id="18" source="2"><item slot="1" original="make out a list" ></item>
+<item slot="2" original="get your money" ></item>
+<item slot="3" original="get in car" ></item>
+<item slot="4" original="drive to the store" ></item>
+<item slot="5" original="get out get a cart" ></item>
+<item slot="6" original="enter store and buy what is on your list" ></item>
+</script><script id="19" source="2"><item slot="1" original="Get into my car" ></item>
+<item slot="2" original="Drive to the grocery store" ></item>
+<item slot="3" original="Enter the grocery store and grab a shopping cart" ></item>
+<item slot="4" original="Go up and down the aisles" ></item>
+<item slot="5" original="Get any non-expiring products first" ></item>
+<item slot="6" original="Next, go for items like fruit, vegetables, eggs, and bread" ></item>
+<item slot="7" original="Finally, get any dairy items" ></item>
+<item slot="8" original="Go to the front of the store to check out" ></item>
+<item slot="9" original="Wait in line for checkout, perhaps looking at a magazine while doing so" ></item>
+<item slot="10" original="Scan all my items while somebody bags them" ></item>
+<item slot="11" original="Walk to the car with my groceries" ></item>
+<item slot="12" original="Unload the groceries into the backseat of my car" ></item>
+<item slot="13" original="Drive home" ></item>
+</script><script id="20" source="2"><item slot="1" original="Take inventory of items you will need" ></item>
+<item slot="2" original="Make a list of things you are going to buy" ></item>
+<item slot="3" original="Go to grocery store" ></item>
+<item slot="4" original="Get a grocery cart" ></item>
+<item slot="5" original="Go through store picking items, and checking off of your list" ></item>
+<item slot="6" original="Go up to check out line" ></item>
+<item slot="7" original="Present any coupons you may have for items purchased" ></item>
+<item slot="8" original="Pay for your groceries with either cash, check, or debit or credit" ></item>
+<item slot="9" original="Take groceries to your car and load them up" ></item>
+<item slot="10" original="Drive home and put away groceries" ></item>
+</script><script id="21" source="2"><item slot="1" original="Make a list of things needed before leaving home." ></item>
+<item slot="2" original="Make a trip to the store." ></item>
+<item slot="3" original="If several items are needed, grab a basket." ></item>
+<item slot="4" original="Check list and find items that you need." ></item>
+<item slot="5" original="When you have completed getting items on your list, head toward the checkout lanes." ></item>
+<item slot="6" original="Wait in line for your turn." ></item>
+<item slot="7" original="Put your items on the counter or belt to be scanned and rang up." ></item>
+<item slot="8" original="When all items are scanned, the cashier will give you a total." ></item>
+<item slot="9" original="Pay for your items." ></item>
+<item slot="10" original="Go home." ></item>
+<item slot="11" original="Put away your groceries." ></item>
+</script><script id="22" source="2"><item slot="1" original="Make a grocery list" ></item>
+<item slot="2" original="Get dressed to go out" ></item>
+<item slot="3" original="Get inside the car" ></item>
+<item slot="4" original="Drive the car to the grocery" ></item>
+<item slot="5" original="Take a shopping cart" ></item>
+<item slot="6" original="Fill the shopping cart with grocery items" ></item>
+<item slot="7" original="Pay for the grocery" ></item>
+</script><script id="23" source="2"><item slot="1" original="Look at ads" ></item>
+<item slot="2" original="Make list" ></item>
+<item slot="3" original="Go to store" ></item>
+<item slot="4" original="Put items in cart" ></item>
+<item slot="5" original="Take to check out" ></item>
+<item slot="6" original="Have cashier check you out" ></item>
+<item slot="7" original="go home" ></item>
+<item slot="8" original="unload groceries" ></item>
+</script><script id="24" source="2"><item slot="1" original="Drive to grocery store" ></item>
+<item slot="2" original="Enter store" ></item>
+<item slot="3" original="Grab a shopping cart" ></item>
+<item slot="4" original="Walk down desired aisles" ></item>
+<item slot="5" original="Put items in cart" ></item>
+<item slot="6" original="Navigate to checkout" ></item>
+<item slot="7" original="Put items on belt" ></item>
+<item slot="8" original="Pay for items" ></item>
+</script><script id="25" source="2"><item slot="1" original="Look in the fridge" ></item>
+<item slot="2" original="Make a list" ></item>
+<item slot="3" original="Get in the car" ></item>
+<item slot="4" original="Go to grocery shop" ></item>
+<item slot="5" original="Buy everything on list" ></item>
+<item slot="6" original="Pay for grocery" ></item>
+<item slot="7" original="Go home" ></item>
+<item slot="8" original="Fill the fridge" ></item>
+</script><script id="26" source="2"><item slot="1" original="Make a grocery list." ></item>
+<item slot="2" original="Start at the non cold side of the store." ></item>
+<item slot="3" original="Get the boxed, bagged, jarred food from your list." ></item>
+<item slot="4" original="Get the cold, frozen and produce." ></item>
+<item slot="5" original="Pay and check out." ></item>
+<item slot="6" original="Put bags in car and go home." ></item>
+</script><script id="27" source="2"><item slot="1" original="make a list" ></item>
+<item slot="2" original="drive to grocery store" ></item>
+<item slot="3" original="grab a cart" ></item>
+<item slot="4" original="consult list and find products" ></item>
+<item slot="5" original="put products in your cart" ></item>
+<item slot="6" original="go to checkout" ></item>
+<item slot="7" original="remove items from cart" ></item>
+<item slot="8" original="pay cashier" ></item>
+<item slot="9" original="pick up bags" ></item>
+<item slot="10" original="take bags to car" ></item>
+</script><script id="28" source="2"><item slot="1" original="Make a list of what you need." ></item>
+<item slot="2" original="Drive or walk to the store." ></item>
+<item slot="3" original="Get a basket if needed." ></item>
+<item slot="4" original="Select the items on your list, trying to stay on the perimeter of the store." ></item>
+<item slot="5" original="Take your items to the checkout counter." ></item>
+<item slot="6" original="Let the cashier ring up your items." ></item>
+<item slot="7" original="Pay for your groceries." ></item>
+<item slot="8" original="If necessary, bag your items." ></item>
+<item slot="9" original="Leave the store." ></item>
+</script><script id="29" source="2"><item slot="1" original="Enter grocery store" ></item>
+<item slot="2" original="Get grocery cart" ></item>
+<item slot="3" original="Walk through store and place items you want into cart" ></item>
+<item slot="4" original="Take cart to cash register" ></item>
+<item slot="5" original="Place items onto conveyor belt" ></item>
+<item slot="6" original="Cashier rings up items" ></item>
+<item slot="7" original="Cashier gives you total" ></item>
+<item slot="8" original="Pay for items with cash or credit" ></item>
+<item slot="9" original="Bagger places items into bags" ></item>
+<item slot="10" original="Place bags of groceries into cart" ></item>
+<item slot="11" original="Take cart to car" ></item>
+<item slot="12" original="Take bags out of cart and place into car" ></item>
+<item slot="13" original="Place cart into cart corral" ></item>
+<item slot="14" original="Get in car" ></item>
+<item slot="15" original="Leave grocery store" ></item>
+</script><script id="30" source="2"><item slot="1" original="Create list of things to buy" ></item>
+<item slot="2" original="Get in car" ></item>
+<item slot="3" original="Drive to nearest grocery store" ></item>
+<item slot="4" original="Park car" ></item>
+<item slot="5" original="enter grocery store" ></item>
+<item slot="6" original="Grab a shopping cart" ></item>
+<item slot="7" original="Find groceries" ></item>
+<item slot="8" original="Go to cash register" ></item>
+<item slot="9" original="Pay for items" ></item>
+</script><script id="31" source="2"><item slot="1" original="Get in car and drive to grocery store." ></item>
+<item slot="2" original="Get out of car and go into grocery store." ></item>
+<item slot="3" original="Get a shopping cart from the front store." ></item>
+<item slot="4" original="Go down each aisle and put the groceries you would like to purchase in your cart." ></item>
+<item slot="5" original="When you are finished picking out what you want to purchase, go to the check out line." ></item>
+<item slot="6" original="Put all of your groceries on the belt for the cashier to ring up and bag." ></item>
+<item slot="7" original="Pay for your groceries." ></item>
+<item slot="8" original="Take your groceries to your car and place them in the car." ></item>
+<item slot="9" original="Drive home." ></item>
+</script><script id="32" source="2"><item slot="1" original="review what you have at home and make a list of what you need" ></item>
+<item slot="2" original="go to the store" ></item>
+<item slot="3" original="take a shopping cart" ></item>
+<item slot="4" original="walk through the aisles of the store, add items to your cart" ></item>
+<item slot="5" original="check your list at each aisle to ensure you haven't missed anything" ></item>
+<item slot="6" original="take the full cart to the checkout lane" ></item>
+<item slot="7" original="wait your turn" ></item>
+<item slot="8" original="load items from the cart onto the checkout lane's belt" ></item>
+<item slot="9" original="as the cashier bags items, place them back into your cart" ></item>
+<item slot="10" original="once all items are bagged, pay the cashier" ></item>
+<item slot="11" original="take items home in bags" ></item>
+<item slot="12" original="put items away" ></item>
+</script><script id="33" source="2"><item slot="1" original="Plan menu for week." ></item>
+<item slot="2" original="Make grocery list based off of menu." ></item>
+<item slot="3" original="Drive to store." ></item>
+<item slot="4" original="Bring reusable grocery bags." ></item>
+<item slot="5" original="Push cart around store, getting items from list." ></item>
+<item slot="6" original="Pick up refridgerated and frozen items last." ></item>
+<item slot="7" original="Try not to purchase things not on list." ></item>
+<item slot="8" original="Bring items to cashier at front of store." ></item>
+<item slot="9" original="Pay for your items." ></item>
+<item slot="10" original="Put items into car and drive home." ></item>
+<item slot="11" original="Put items away at home." ></item>
+</script><script id="34" source="2"><item slot="1" original="Get in my car" ></item>
+<item slot="2" original="Turn the car on" ></item>
+<item slot="3" original="Go to the store" ></item>
+<item slot="4" original="Park" ></item>
+<item slot="5" original="Go inside" ></item>
+<item slot="6" original="Grab cart" ></item>
+<item slot="7" original="Find groceries" ></item>
+<item slot="8" original="Put them in the cart" ></item>
+<item slot="9" original="Check out" ></item>
+<item slot="10" original="Put bags in car" ></item>
+<item slot="11" original="Go home" ></item>
+</script><script id="35" source="2"><item slot="1" original="Make a list." ></item>
+<item slot="2" original="Go to the store." ></item>
+<item slot="3" original="Gather items from shelves." ></item>
+<item slot="4" original="Pay for them at the register." ></item>
+<item slot="5" original="Take groceries home." ></item>
+</script><script id="36" source="2"><item slot="1" original="Get in car." ></item>
+<item slot="2" original="Drive to nearest grocery store." ></item>
+<item slot="3" original="Browse the store." ></item>
+<item slot="4" original="Put items I need in cart." ></item>
+<item slot="5" original="Line up to pay." ></item>
+<item slot="6" original="Pay for my groceries." ></item>
+<item slot="7" original="Drive home." ></item>
+</script><script id="37" source="2"><item slot="1" original="Enter store." ></item>
+<item slot="2" original="Get grocery cart." ></item>
+<item slot="3" original="Go down aisles and retrieve items." ></item>
+<item slot="4" original="Go to checkout line." ></item>
+<item slot="5" original="Pay for groceries." ></item>
+</script><script id="38" source="2"><item slot="1" original="Get in the car" ></item>
+<item slot="2" original="Drive to the grocery store." ></item>
+<item slot="3" original="Walk in to the store." ></item>
+<item slot="4" original="Get a cart." ></item>
+<item slot="5" original="Go aisle by aisle putting the items I want in the cart." ></item>
+<item slot="6" original="Go up to the cashier." ></item>
+<item slot="7" original="Put items on belt." ></item>
+<item slot="8" original="Wait for the cashier to ring the order up." ></item>
+<item slot="9" original="Pay for the groceries." ></item>
+<item slot="10" original="Put the bagged items in the cart." ></item>
+<item slot="11" original="Walk out to the car." ></item>
+<item slot="12" original="Put the items in the car." ></item>
+<item slot="13" original="Drive home." ></item>
+<item slot="14" original="Put the groceries away." ></item>
+</script><script id="39" source="2"><item slot="1" original="Make a grocery list of items to buy" ></item>
+<item slot="2" original="Get in car" ></item>
+<item slot="3" original="Drive to store" ></item>
+<item slot="4" original="Go into store and locate items to buy" ></item>
+<item slot="5" original="Go to check out stand and pay for items" ></item>
+<item slot="6" original="put bought items in car" ></item>
+<item slot="7" original="Drive home" ></item>
+<item slot="8" original="take grocery items into house" ></item>
+<item slot="9" original="put groceries away" ></item>
+</script><script id="40" source="2"><item slot="1" original="Get into car" ></item>
+<item slot="2" original="Drive to grocery store" ></item>
+<item slot="3" original="Find parking spot" ></item>
+<item slot="4" original="Park car" ></item>
+<item slot="5" original="Get list" ></item>
+<item slot="6" original="Enter store" ></item>
+<item slot="7" original="Find items on list" ></item>
+<item slot="8" original="Proceed to checkout" ></item>
+<item slot="9" original="Go back to car" ></item>
+<item slot="10" original="Load groceries in trunk" ></item>
+<item slot="11" original="Drive back home" ></item>
+</script><script id="41" source="2"><item slot="1" original="Inventory your cupboards" ></item>
+<item slot="2" original="Write a list of meals for the week" ></item>
+<item slot="3" original="Make a list of what you need." ></item>
+<item slot="4" original="Go to the store" ></item>
+<item slot="5" original="Get what you need from the aisles" ></item>
+<item slot="6" original="Take your purchase to the front" ></item>
+<item slot="7" original="Pay the cashier" ></item>
+<item slot="8" original="bag the groceries" ></item>
+<item slot="9" original="Go home" ></item>
+<item slot="10" original="Put groceries away" ></item>
+</script><script id="42" source="2"><item slot="1" original="Make a grocery list" ></item>
+<item slot="2" original="Go to the grocery store" ></item>
+<item slot="3" original="Get a cart" ></item>
+<item slot="4" original="Find items from list" ></item>
+<item slot="5" original="Put items from list into cart" ></item>
+<item slot="6" original="Take cart to checkout line" ></item>
+<item slot="7" original="Wait in line" ></item>
+<item slot="8" original="Place items on conveyer belt" ></item>
+<item slot="9" original="Wait for total" ></item>
+<item slot="10" original="Pay for groceries" ></item>
+<item slot="11" original="Get receipt" ></item>
+<item slot="12" original="Leave grocery store" ></item>
+</script><script id="43" source="2"><item slot="1" original="Make a list." ></item>
+<item slot="2" original="Clip any relevant coupons." ></item>
+<item slot="3" original="Get dressed." ></item>
+<item slot="4" original="Get in the car." ></item>
+<item slot="5" original="Drive to store and park." ></item>
+<item slot="6" original="Get a shopping cart." ></item>
+<item slot="7" original="Go inside and pick up items." ></item>
+<item slot="8" original="Put them in the cart." ></item>
+<item slot="9" original="Go to the checkout and pay." ></item>
+<item slot="10" original="Go back to the car." ></item>
+<item slot="11" original="Put the bags in the car." ></item>
+<item slot="12" original="Drive home." ></item>
+<item slot="13" original="Take the purchases in the house." ></item>
+<item slot="14" original="Put the purchases away." ></item>
+</script><script id="44" source="2"><item slot="1" original="Get shopping cart" ></item>
+<item slot="2" original="Go into grocery store" ></item>
+<item slot="3" original="Find what aisles you need to go to" ></item>
+<item slot="4" original="Find the food you need and put in cart" ></item>
+<item slot="5" original="After finding everything you need, go to cashier" ></item>
+<item slot="6" original="Pay for grocery" ></item>
+<item slot="7" original="Unload grocery into your car" ></item>
+</script><script id="45" source="2"><item slot="1" original="Make grocery list" ></item>
+<item slot="2" original="Get in car" ></item>
+<item slot="3" original="Drive to grocery store" ></item>
+<item slot="4" original="Park the car" ></item>
+<item slot="5" original="Walk into store" ></item>
+<item slot="6" original="Get a shopping cart" ></item>
+<item slot="7" original="Add groceries from list to cart" ></item>
+<item slot="8" original="Get in checkout line" ></item>
+<item slot="9" original="Put groceries on conveyor belt" ></item>
+<item slot="10" original="Pay for groceries" ></item>
+<item slot="11" original="Push cart back to car" ></item>
+<item slot="12" original="Put groceries in trunk" ></item>
+<item slot="13" original="Return cart to store" ></item>
+<item slot="14" original="Drive home" ></item>
+<item slot="15" original="Bring groceries in the house" ></item>
+<item slot="16" original="Put groceries away" ></item>
+</script><script id="46" source="2"><item slot="1" original="Make a list of groceries needed" ></item>
+<item slot="2" original="Get in your car" ></item>
+<item slot="3" original="Drive to store" ></item>
+<item slot="4" original="Enter store" ></item>
+<item slot="5" original="Get a cart" ></item>
+<item slot="6" original="Proceed through the store picking up needed items" ></item>
+<item slot="7" original="Go through a check out line" ></item>
+<item slot="8" original="Pay for groceries" ></item>
+<item slot="9" original="Push cart to your car" ></item>
+<item slot="10" original="Put groceries in your trunk" ></item>
+<item slot="11" original="Drive home" ></item>
+<item slot="12" original="Put groceries away" ></item>
+</script><script id="47" source="2"><item slot="1" original="Get in car" ></item>
+<item slot="2" original="Drive to grocery store of choice" ></item>
+<item slot="3" original="Park car" ></item>
+<item slot="4" original="Walk in store" ></item>
+<item slot="5" original="Grab a grocery cart" ></item>
+<item slot="6" original="Put food in cart" ></item>
+<item slot="7" original="Go to check out line in front of store" ></item>
+</script><script id="48" source="2"><item slot="1" original="make grocery list" ></item>
+<item slot="2" original="get in car" ></item>
+<item slot="3" original="drive to grocery store" ></item>
+<item slot="4" original="get a cart" ></item>
+<item slot="5" original="enter the store" ></item>
+<item slot="6" original="walk through aisles" ></item>
+<item slot="7" original="pick up everything from list and put into your cart" ></item>
+<item slot="8" original="go to cashier" ></item>
+<item slot="9" original="pay the cashier" ></item>
+<item slot="10" original="put groceries in a bag" ></item>
+<item slot="11" original="take bags to your car" ></item>
+</script><script id="49" source="2"><item slot="1" original="look through recipes" ></item>
+<item slot="2" original="make grocery list" ></item>
+<item slot="3" original="drive to the grocery store" ></item>
+<item slot="4" original="go into grocery store" ></item>
+<item slot="5" original="grab a cart" ></item>
+<item slot="6" original="get fruits and veggies on list" ></item>
+<item slot="7" original="get meat that is on list" ></item>
+<item slot="8" original="go through the rest of the store getting everything on list" ></item>
+<item slot="9" original="see a nice cake put it in cart" ></item>
+<item slot="10" original="go to check out" ></item>
+<item slot="11" original="wait in line at checkout" ></item>
+<item slot="12" original="put groceries on belt" ></item>
+<item slot="13" original="watch prices as the checker scans." ></item>
+<item slot="14" original="pay for groceries" ></item>
+<item slot="15" original="walk out of store" ></item>
+<item slot="16" original="put groceries in car." ></item>
+</script><script id="50" source="2"><item slot="1" original="make a list of needed items" ></item>
+<item slot="2" original="check for coupons" ></item>
+<item slot="3" original="get in car" ></item>
+<item slot="4" original="drive to store" ></item>
+<item slot="5" original="go in store" ></item>
+<item slot="6" original="grab shopping cart" ></item>
+<item slot="7" original="stroll through store and get needed items" ></item>
+<item slot="8" original="pay for items at check out" ></item>
+<item slot="9" original="take groceries to car" ></item>
+<item slot="10" original="drive items home" ></item>
+<item slot="11" original="put items away" ></item>
+<item slot="12" original="enjoy items" ></item>
+</script><script id="51" source="2"><item slot="1" original="Drive to the grocery store" ></item>
+<item slot="2" original="Park in the lot" ></item>
+<item slot="3" original="Walk into the store" ></item>
+<item slot="4" original="Get shopping cart" ></item>
+<item slot="5" original="Gather grocery items" ></item>
+<item slot="6" original="Get into check-out line" ></item>
+<item slot="7" original="Pay for items" ></item>
+<item slot="8" original="Carry bags to vehicle" ></item>
+</script><script id="52" source="2"><item slot="1" original="figure out what you need" ></item>
+<item slot="2" original="drive to store" ></item>
+<item slot="3" original="get shopping cart" ></item>
+<item slot="4" original="enter store" ></item>
+<item slot="5" original="put items in cart" ></item>
+<item slot="6" original="bring items to cashier" ></item>
+<item slot="7" original="pay for items" ></item>
+<item slot="8" original="load items in car" ></item>
+<item slot="9" original="drive home" ></item>
+<item slot="10" original="put items away" ></item>
+<item slot="11" original="eat" ></item>
+</script><script id="53" source="2"><item slot="1" original="Go to grocery store" ></item>
+<item slot="2" original="Get shopping cart" ></item>
+<item slot="3" original="Walk around aisles" ></item>
+<item slot="4" original="Select items" ></item>
+<item slot="5" original="Put items in cart" ></item>
+<item slot="6" original="Wheel cart to checkout" ></item>
+<item slot="7" original="Put items on belt" ></item>
+<item slot="8" original="Bag items" ></item>
+<item slot="9" original="Pay for items" ></item>
+<item slot="10" original="Take bags" ></item>
+<item slot="11" original="Leave store" ></item>
+</script><script id="54" source="2"><item slot="1" original="Leave my house" ></item>
+<item slot="2" original="Get in my car" ></item>
+<item slot="3" original="Drive to the store" ></item>
+<item slot="4" original="Get out of the car" ></item>
+<item slot="5" original="Going to the grocery store" ></item>
+<item slot="6" original="Grab a cart" ></item>
+<item slot="7" original="Collect groceries" ></item>
+<item slot="8" original="Check out" ></item>
+</script><script id="55" source="2"><item slot="1" original="Make list of grocery items you need." ></item>
+<item slot="2" original="Drive to store." ></item>
+<item slot="3" original="Park car." ></item>
+<item slot="4" original="Enter store." ></item>
+<item slot="5" original="Get cart." ></item>
+<item slot="6" original="Go through store and collect items on list." ></item>
+<item slot="7" original="Go to check." ></item>
+<item slot="8" original="Pay bill." ></item>
+<item slot="9" original="Put groceries in car." ></item>
+<item slot="10" original="Return home." ></item>
+</script><script id="56" source="2"><item slot="1" original="Get a cart" ></item>
+<item slot="2" original="Go in the door" ></item>
+<item slot="3" original="Choose which items you want/need" ></item>
+<item slot="4" original="Go to the checkout counter" ></item>
+<item slot="5" original="Wait while the cashier rings up your items" ></item>
+<item slot="6" original="Pay with credit card or cash" ></item>
+<item slot="7" original="Leave the store with your items in bags" ></item>
+</script><script id="57" source="2"><item slot="1" original="GET IN THE CAR" ></item>
+<item slot="2" original="DRIVE TO THE STORE" ></item>
+<item slot="3" original="Once at the store, select the groceries you want" ></item>
+<item slot="4" original="Go to checkout" ></item>
+<item slot="5" original="Pay for groceries" ></item>
+<item slot="6" original="Go home" ></item>
+</script><script id="58" source="2"><item slot="1" original="Make a shopping list" ></item>
+<item slot="2" original="Drive to the grocery store" ></item>
+<item slot="3" original="Enter the store" ></item>
+<item slot="4" original="Find all of the items on the list" ></item>
+<item slot="5" original="Check out with the cashier" ></item>
+<item slot="6" original="Put groceries in bags" ></item>
+<item slot="7" original="Go home" ></item>
+<item slot="8" original="Put groceries away" ></item>
+</script><script id="59" source="2"><item slot="1" original="Get to the grocery store" ></item>
+<item slot="2" original="Buy fruits and vegetables" ></item>
+<item slot="3" original="Buy breads and meats etc" ></item>
+<item slot="4" original="Pay the grocer" ></item>
+<item slot="5" original="Carry your grocery back home" ></item>
+</script><script id="60" source="2"><item slot="1" original="Make a grocery list" ></item>
+<item slot="2" original="Go to the grocery store" ></item>
+<item slot="3" original="Go down the aisle and put your items in the cart" ></item>
+<item slot="4" original="Go through the checkout" ></item>
+<item slot="5" original="Take the bags to your car" ></item>
+<item slot="6" original="Go home" ></item>
+</script><script id="61" source="2"><item slot="1" original="create grocery list" ></item>
+<item slot="2" original="collect re-usable grocery bags" ></item>
+<item slot="3" original="drive to grocery store" ></item>
+<item slot="4" original="go down each aisle collecting items on grocery list" ></item>
+<item slot="5" original="go to check out lane" ></item>
+<item slot="6" original="pay for groceries" ></item>
+<item slot="7" original="put groceries in car" ></item>
+<item slot="8" original="drive home" ></item>
+<item slot="9" original="put groceries in pantry/fridge" ></item>
+</script><script id="62" source="2"><item slot="1" original="Prepare a list of items to purchase." ></item>
+<item slot="2" original="Go to the grocery store." ></item>
+<item slot="3" original="Get a shopping cart." ></item>
+<item slot="4" original="Go up and down the aisles." ></item>
+<item slot="5" original="Take food from shelves and put it in the cart." ></item>
+<item slot="6" original="Cross the items off your list." ></item>
+<item slot="7" original="Go to the register." ></item>
+<item slot="8" original="Pay for your items." ></item>
+<item slot="9" original="Carry the groceries home." ></item>
+</script><script id="63" source="2"><item slot="1" original="Get in car." ></item>
+<item slot="2" original="Go to grocery store." ></item>
+<item slot="3" original="Enter store." ></item>
+<item slot="4" original="Get grocery cart." ></item>
+<item slot="5" original="Select items wanted and put into cart." ></item>
+<item slot="6" original="Get into check out line." ></item>
+<item slot="7" original="Put items on check out belt." ></item>
+<item slot="8" original="Pay for items." ></item>
+<item slot="9" original="Get receipt from cashier." ></item>
+<item slot="10" original="Put items back in cart." ></item>
+<item slot="11" original="Leave store." ></item>
+<item slot="12" original="Put items from cart into car." ></item>
+<item slot="13" original="Put cart away into cart area." ></item>
+<item slot="14" original="Get in car." ></item>
+<item slot="15" original="Leave store parking lot." ></item>
+</script><script id="64" source="2"><item slot="1" original="Make shopping list" ></item>
+<item slot="2" original="Walk into store" ></item>
+<item slot="3" original="Get shopping cart" ></item>
+<item slot="4" original="Walk through aisles finding items on shopping list" ></item>
+<item slot="5" original="Place selected items in shopping cart" ></item>
+<item slot="6" original="Walk to checkout aisle" ></item>
+<item slot="7" original="Pay for items" ></item>
+<item slot="8" original="Take items out of store" ></item>
+</script><script id="65" source="2"><item slot="1" original="Make a list of food you need or want" ></item>
+<item slot="2" original="Get in the car" ></item>
+<item slot="3" original="Drive to the store" ></item>
+<item slot="4" original="Park" ></item>
+<item slot="5" original="Get a basket" ></item>
+<item slot="6" original="Go into the store" ></item>
+<item slot="7" original="Start at the front and work your way back" ></item>
+<item slot="8" original="Make sure to cross items off your list as you go" ></item>
+<item slot="9" original="Make sure to get frozen foods last" ></item>
+<item slot="10" original="Get in check out line" ></item>
+<item slot="11" original="Pay for food" ></item>
+</script><script id="66" source="2"><item slot="1" original="Make a list of items you wish to purchase" ></item>
+<item slot="2" original="Gather any coupons you have for groceries" ></item>
+<item slot="3" original="Go to the store" ></item>
+<item slot="4" original="Get a shopping cart" ></item>
+<item slot="5" original="Fill the shopping cart with items on your list" ></item>
+<item slot="6" original="Go to check out counter" ></item>
+<item slot="7" original="Place items on conveyor belt" ></item>
+<item slot="8" original="Pay for your items" ></item>
+<item slot="9" original="Bagger places items in bags" ></item>
+<item slot="10" original="Carry your groceries to your car" ></item>
+<item slot="11" original="Go home and unpack groceries" ></item>
+</script><script id="67" source="2"><item slot="1" original="Create a shopping list" ></item>
+<item slot="2" original="Go to the store" ></item>
+<item slot="3" original="Enter the store" ></item>
+<item slot="4" original="Grab a buggy from the entrance" ></item>
+<item slot="5" original="Walk around the store with buggy" ></item>
+<item slot="6" original="Grab items off your list and put into buggy" ></item>
+<item slot="7" original="Go to checkout counter once you have all items on list" ></item>
+<item slot="8" original="Transfer items from buggy to counter" ></item>
+<item slot="9" original="Wait while cashier scans and bags items" ></item>
+<item slot="10" original="Pay for the groceries" ></item>
+<item slot="11" original="Place bags in buggy" ></item>
+<item slot="12" original="Transfer bags from buggy to car" ></item>
+<item slot="13" original="Go home" ></item>
+<item slot="14" original="Unload bags from car" ></item>
+<item slot="15" original="Put groceries in according cabinet spots" ></item>
+</script><script id="68" source="2"><item slot="1" original="Write a grocery list" ></item>
+<item slot="2" original="Get in car" ></item>
+<item slot="3" original="Go to grocery store" ></item>
+<item slot="4" original="Get a carriage" ></item>
+<item slot="5" original="Walk around grocery store" ></item>
+<item slot="6" original="Pick up items on your list" ></item>
+<item slot="7" original="Pick up items not on your list if necessary" ></item>
+<item slot="8" original="Go to register" ></item>
+<item slot="9" original="Put items on register belt" ></item>
+<item slot="10" original="Let cashier ring up and bag items" ></item>
+<item slot="11" original="Pay amount shown" ></item>
+<item slot="12" original="Bring groceries to car" ></item>
+<item slot="13" original="Get in car" ></item>
+<item slot="14" original="Go home" ></item>
+<item slot="15" original="Unpack groceries" ></item>
+</script><script id="69" source="2"><item slot="1" original="Go to the grocery store" ></item>
+<item slot="2" original="Get a shopping cart" ></item>
+<item slot="3" original="Pick out food" ></item>
+<item slot="4" original="Go to the register" ></item>
+<item slot="5" original="Put food on counter" ></item>
+<item slot="6" original="Pay for food" ></item>
+<item slot="7" original="Take bags" ></item>
+<item slot="8" original="Leave the store" ></item>
+<item slot="9" original="Put shopping cart back" ></item>
+<item slot="10" original="Put bags into car" ></item>
+<item slot="11" original="Leave the lot" ></item>
+</script><script id="70" source="2"><item slot="1" original="Write a grocery list." ></item>
+<item slot="2" original="Get in the car." ></item>
+<item slot="3" original="Go to the store." ></item>
+<item slot="4" original="Shop for goods." ></item>
+<item slot="5" original="Checkout at the cashier." ></item>
+</script><script id="71" source="2"><item slot="1" original="Make list of everything you need" ></item>
+<item slot="2" original="Drive to grocery store" ></item>
+<item slot="3" original="Walk into store" ></item>
+<item slot="4" original="Grab a cart" ></item>
+<item slot="5" original="Walk up and down aisles grabbing items on list" ></item>
+<item slot="6" original="wait in line to check out" ></item>
+<item slot="7" original="have cashier scan items" ></item>
+<item slot="8" original="pay for groceries" ></item>
+<item slot="9" original="Put bags into cart" ></item>
+<item slot="10" original="Walk cart out to car" ></item>
+<item slot="11" original="Put items in car" ></item>
+<item slot="12" original="Return cart" ></item>
+<item slot="13" original="go home" ></item>
+</script><script id="72" source="2"><item slot="1" original="Make a grocery list." ></item>
+<item slot="2" original="Get in car." ></item>
+<item slot="3" original="Drive to grocery store." ></item>
+<item slot="4" original="Walk in store." ></item>
+<item slot="5" original="Get shopping cart." ></item>
+<item slot="6" original="Walk around store." ></item>
+<item slot="7" original="Put items in basket." ></item>
+<item slot="8" original="Walk to cashier." ></item>
+<item slot="9" original="Cashier scan items." ></item>
+<item slot="10" original="Bagger bags your groceries." ></item>
+<item slot="11" original="Put bags in cart." ></item>
+<item slot="12" original="Pay cashier." ></item>
+<item slot="13" original="Leave store." ></item>
+</script><script id="73" source="2"><item slot="1" original="Make a list of things to buy at the grocery store." ></item>
+<item slot="2" original="Drive to the grocery store." ></item>
+<item slot="3" original="Get a shopping cart." ></item>
+<item slot="4" original="Select items and put them in your shopping cart." ></item>
+<item slot="5" original="Pay for items at a checkout register." ></item>
+<item slot="6" original="Place items in bags." ></item>
+<item slot="7" original="Carry items from grocery store to your car." ></item>
+<item slot="8" original="Return to home with your groceries." ></item>
+</script><script id="74" source="2"><item slot="1" original="make a list of what you need." ></item>
+<item slot="2" original="find a way to the grocery store" ></item>
+<item slot="3" original="look for the items on the list" ></item>
+<item slot="4" original="pay for the items" ></item>
+<item slot="5" original="get back home and store them in the fridge" ></item>
+</script><script id="75" source="2"><item slot="1" original="Get the reusable shopping bag" ></item>
+<item slot="2" original="Drive to grocery shop" ></item>
+<item slot="3" original="Collect a trolley" ></item>
+<item slot="4" original="Enter the shop" ></item>
+<item slot="5" original="Select the items and put in the trolley" ></item>
+<item slot="6" original="Come to the bill counter" ></item>
+<item slot="7" original="Pay the bill" ></item>
+<item slot="8" original="Take the trolley to the car parking" ></item>
+<item slot="9" original="Keep the items in trolley to your car" ></item>
+<item slot="10" original="Return the trolley to its place" ></item>
+<item slot="11" original="Leave for home" ></item>
+</script><script id="76" source="2"><item slot="1" original="Make a list of needed items" ></item>
+<item slot="2" original="Go to grocery store" ></item>
+<item slot="3" original="Enter grocery store" ></item>
+<item slot="4" original="Get a cart" ></item>
+<item slot="5" original="Find item on the list" ></item>
+<item slot="6" original="Place item in cart" ></item>
+<item slot="7" original="Repeat for each item on list" ></item>
+<item slot="8" original="Get in check out line" ></item>
+<item slot="9" original="Place items on conveyor belt" ></item>
+<item slot="10" original="Wait as cashier scans items" ></item>
+<item slot="11" original="Pay for items" ></item>
+<item slot="12" original="Collect bags of groceries" ></item>
+<item slot="13" original="Leave grocery store" ></item>
+</script><script id="77" source="2"><item slot="1" original="make a grocery list" ></item>
+<item slot="2" original="go to the supermarket" ></item>
+<item slot="3" original="pick up items from aisles" ></item>
+<item slot="4" original="pile them into shopping trolley/bag" ></item>
+<item slot="5" original="go to the billing counter" ></item>
+<item slot="6" original="pay for the shopping" ></item>
+<item slot="7" original="take the grocery home" ></item>
+</script><script id="80" source="2"><item slot="1" original="Make shopping list" ></item>
+<item slot="2" original="Get money or form of payment" ></item>
+<item slot="3" original="Get coupons (if applicable)" ></item>
+<item slot="4" original="Go to store" ></item>
+<item slot="5" original="Get cart" ></item>
+<item slot="6" original="Go to each department/aisle and get items on list" ></item>
+<item slot="7" original="(Optional: get other items as desired)" ></item>
+<item slot="8" original="Go to checkout lane" ></item>
+<item slot="9" original="Put items on conveyor belt" ></item>
+<item slot="10" original="(Give cashier coupons if applicable)" ></item>
+<item slot="11" original="Pay cashier" ></item>
+<item slot="12" original="Take receipt" ></item>
+<item slot="13" original="Bag groceries if the store does not do it for you and put in cart" ></item>
+<item slot="14" original="Take groceries to vehicle, if applicable" ></item>
+<item slot="15" original="Return cart" ></item>
+<item slot="16" original="Depart" ></item>
+</script><script id="81" source="2"><item slot="1" original="Get grocery list" ></item>
+<item slot="2" original="Travel to store" ></item>
+<item slot="3" original="Find items on list" ></item>
+<item slot="4" original="Take items to check out" ></item>
+<item slot="5" original="Pay for items" ></item>
+<item slot="6" original="Load items in car" ></item>
+<item slot="7" original="Return home" ></item>
+<item slot="8" original="Unload and put items away" ></item>
+</script><script id="82" source="2"><item slot="1" original="Make a list of groceries you need" ></item>
+<item slot="2" original="Go to grocery store" ></item>
+<item slot="3" original="Get a shopping cart" ></item>
+<item slot="4" original="Push cart through store, looking for items on your list" ></item>
+<item slot="5" original="When you find an item on your list, put it in your cart" ></item>
+<item slot="6" original="When all items are found, push cart to checkout" ></item>
+<item slot="7" original="Take items out of your cart" ></item>
+<item slot="8" original="Put items on conveyor belt" ></item>
+<item slot="9" original="Cashier rings up and bags all your items" ></item>
+<item slot="10" original="Pay your total" ></item>
+<item slot="11" original="Put bags of groceries into your cart" ></item>
+<item slot="12" original="Push cart out to your car" ></item>
+<item slot="13" original="Load bags of groceries into your car" ></item>
+<item slot="14" original="Return cart to cart corral" ></item>
+</script><script id="83" source="2"><item slot="1" original="Go to grocery store" ></item>
+<item slot="2" original="Pull out a shopping cart" ></item>
+<item slot="3" original="Look at the grocery store specials" ></item>
+<item slot="4" original="Visit aisles and select groceries" ></item>
+<item slot="5" original="When finished, go to checkout registers" ></item>
+<item slot="6" original="Get in a check out line" ></item>
+<item slot="7" original="When there is space, put a divider on the conveyer belt" ></item>
+<item slot="8" original="Take your groceries out of cart and on to conveyer belt" ></item>
+<item slot="9" original="Wait for cashier to ring up items and bag them" ></item>
+<item slot="10" original="Put bagged groceries back into cart" ></item>
+<item slot="11" original="Pay for groceries" ></item>
+<item slot="12" original="Take bagged groceries with you out of shopping cart" ></item>
+<item slot="13" original="Leave grocery store" ></item>
+</script><script id="84" source="2"><item slot="1" original="Make list" ></item>
+<item slot="2" original="Put shoes on" ></item>
+<item slot="3" original="Get into car" ></item>
+<item slot="4" original="Go to store" ></item>
+<item slot="5" original="Park" ></item>
+<item slot="6" original="Get cart or basket" ></item>
+<item slot="7" original="Find items" ></item>
+<item slot="8" original="Get in line" ></item>
+<item slot="9" original="Buy items" ></item>
+<item slot="10" original="Leave store" ></item>
+</script><script id="85" source="2"><item slot="1" original="Make a grocery list" ></item>
+<item slot="2" original="Take recyclable bags" ></item>
+<item slot="3" original="Drive to grocery story" ></item>
+<item slot="4" original="Enter grocery store" ></item>
+<item slot="5" original="Browse aisles" ></item>
+<item slot="6" original="Select food items" ></item>
+<item slot="7" original="Select drink items" ></item>
+<item slot="8" original="Check sale prices" ></item>
+<item slot="9" original="Enter checkout lane" ></item>
+<item slot="10" original="Put groceries on conveyor" ></item>
+<item slot="11" original="Wait for cashier to scan" ></item>
+<item slot="12" original="Pay for groceries" ></item>
+<item slot="13" original="Bag groceries" ></item>
+<item slot="14" original="Leave grocery store" ></item>
+</script><script id="86" source="2"><item slot="1" original="Make a grocery list" ></item>
+<item slot="2" original="Drive to a grocery store" ></item>
+<item slot="3" original="Park car" ></item>
+<item slot="4" original="Walk into grocery store" ></item>
+<item slot="5" original="Get a shopping cart" ></item>
+<item slot="6" original="Gather the items on the grocery list" ></item>
+<item slot="7" original="Get into a checkout line" ></item>
+<item slot="8" original="Pay for groceries" ></item>
+<item slot="9" original="Put groceries in car" ></item>
+<item slot="10" original="Return the shopping cart" ></item>
+<item slot="11" original="Drive home" ></item>
+</script><script id="87" source="2"><item slot="1" original="Identify grocery items needed" ></item>
+<item slot="2" original="Make a list of the items" ></item>
+<item slot="3" original="Look at the internet for coupons for the items" ></item>
+<item slot="4" original="Drive to the grocery store" ></item>
+<item slot="5" original="Select a shopping cart" ></item>
+<item slot="6" original="Tour the store selecting the items on the list" ></item>
+<item slot="7" original="Proceed to check-out" ></item>
+<item slot="8" original="Present coupons and payment to the checker" ></item>
+<item slot="9" original="Wait for checking process" ></item>
+<item slot="10" original="Wait for bagging process" ></item>
+<item slot="11" original="Leave with cart of groceries" ></item>
+<item slot="12" original="Return cart to proper location once groceries are in car" ></item>
+</script><script id="88" source="2"><item slot="1" original="Arrive in parking lot" ></item>
+<item slot="2" original="Get out of car" ></item>
+<item slot="3" original="Enter store" ></item>
+<item slot="4" original="Take out shopping list" ></item>
+<item slot="5" original="Find items on list" ></item>
+<item slot="6" original="Place item in basket" ></item>
+<item slot="7" original="Go to checkout" ></item>
+<item slot="8" original="Wait in line" ></item>
+<item slot="9" original="Give cashier coupons" ></item>
+<item slot="10" original="Cashier scans the items and coupons" ></item>
+<item slot="11" original="Give cashier money" ></item>
+<item slot="12" original="Cashier bags the groceries" ></item>
+<item slot="13" original="Take the groceries" ></item>
+<item slot="14" original="Leave the store" ></item>
+</script><script id="89" source="2"><item slot="1" original="Check refrigerator and pantry for food deficiencies" ></item>
+<item slot="2" original="Assemble grocery list" ></item>
+<item slot="3" original="Drive to grocery store" ></item>
+<item slot="4" original="Take a cart (not a squeaky one)" ></item>
+<item slot="5" original="Begin choosing groceries" ></item>
+<item slot="6" original="Continue to choose groceries" ></item>
+<item slot="7" original="Finish choosing groceries" ></item>
+<item slot="8" original="Enter check out line or self-checkout" ></item>
+<item slot="9" original="Pay for purchases" ></item>
+<item slot="10" original="Bag groceries" ></item>
+<item slot="11" original="Carry bags to car" ></item>
+<item slot="12" original="Drive home" ></item>
+<item slot="13" original="Put groceries away" ></item>
+</script><script id="91" source="2"><item slot="1" original="make a list of things that you need to buy" ></item>
+<item slot="2" original="figure out which store you need to go to" ></item>
+<item slot="3" original="walk to the store" ></item>
+<item slot="4" original="find the items that you need in the store" ></item>
+<item slot="5" original="bring them to the checkout and pay" ></item>
+</script><script id="93" source="2"><item slot="1" original="Make a grocery list" ></item>
+<item slot="2" original="Drive to grocery store" ></item>
+<item slot="3" original="Buy items needed on list" ></item>
+<item slot="4" original="Take items to checkout" ></item>
+<item slot="5" original="Pay for groceries" ></item>
+<item slot="6" original="Put groceries in bags" ></item>
+<item slot="7" original="Leave store" ></item>
+</script><script id="94" source="2"><item slot="1" original="Check for deals" ></item>
+<item slot="2" original="Make a meal plan" ></item>
+<item slot="3" original="Make a grocery list" ></item>
+<item slot="4" original="Go to grocery store" ></item>
+<item slot="5" original="Get a cart or basket" ></item>
+<item slot="6" original="Put items on the list into the cart/basket" ></item>
+<item slot="7" original="Bring to the counter" ></item>
+<item slot="8" original="Pay for the groceries" ></item>
+<item slot="9" original="Bag the groceries." ></item>
+</script><script id="95" source="2"><item slot="1" original="Make a shopping list" ></item>
+<item slot="2" original="Go to the grocery store" ></item>
+<item slot="3" original="Get a basket" ></item>
+<item slot="4" original="Browse the store" ></item>
+<item slot="5" original="Purchase what you need" ></item>
+</script><script id="96" source="2"><item slot="1" original="Have a list ready" ></item>
+<item slot="2" original="Travel to the grocery store" ></item>
+<item slot="3" original="Grab a cart" ></item>
+<item slot="4" original="Go through the store, picking up items on the list" ></item>
+<item slot="5" original="Try to resist temptation" ></item>
+<item slot="6" original="After you have everything, wait in line to check out" ></item>
+<item slot="7" original="Check out and pay" ></item>
+<item slot="8" original="Take your groceries to your car" ></item>
+<item slot="9" original="Leave with your groceries" ></item>
+</script><script id="97" source="2"><item slot="1" original="Make a shopping list" ></item>
+<item slot="2" original="Drive to supermarket" ></item>
+<item slot="3" original="Go inside" ></item>
+<item slot="4" original="Find everything on your list" ></item>
+<item slot="5" original="Put items in the shopping cart" ></item>
+<item slot="6" original="Go to the checkout line" ></item>
+<item slot="7" original="Get the items rang up" ></item>
+<item slot="8" original="Pay for the items" ></item>
+<item slot="9" original="Take the items home" ></item>
+<item slot="10" original="Put everything away" ></item>
+</script><script id="98" source="2"><item slot="1" original="Drive to store" ></item>
+<item slot="2" original="Park" ></item>
+<item slot="3" original="Get a cart" ></item>
+<item slot="4" original="Go inside" ></item>
+<item slot="5" original="Get groceries" ></item>
+<item slot="6" original="Wait in line" ></item>
+<item slot="7" original="Pay" ></item>
+<item slot="8" original="Load cart" ></item>
+<item slot="9" original="Go to car" ></item>
+<item slot="10" original="Load car" ></item>
+<item slot="11" original="Drive home" ></item>
+</script></scripts>

@@ -1,0 +1,892 @@
+<scripts><script id="1" source="2"><item slot="1" original="Go to counter" ></item>
+<item slot="2" original="Get a lane" ></item>
+<item slot="3" original="Get shoes" ></item>
+<item slot="4" original="Get ball" ></item>
+<item slot="5" original="Go to lane" ></item>
+<item slot="6" original="Put shoes on" ></item>
+<item slot="7" original="Put names in score computer" ></item>
+<item slot="8" original="Play x amount of games" ></item>
+<item slot="9" original="Take off shoes" ></item>
+<item slot="10" original="Return ball" ></item>
+<item slot="11" original="Return shoes" ></item>
+<item slot="12" original="Leave" ></item>
+</script><script id="2" source="2"><item slot="1" original="Call someone to bowl with." ></item>
+<item slot="2" original="Meet bowling partner at bowling alley." ></item>
+<item slot="3" original="Pay for bowling." ></item>
+<item slot="4" original="Get shoes." ></item>
+<item slot="5" original="Pick out a bowling ball." ></item>
+<item slot="6" original="Go to designated lane." ></item>
+<item slot="7" original="Put on shoes." ></item>
+<item slot="8" original="Fill in names on the score sheet." ></item>
+<item slot="9" original="Start bowling." ></item>
+<item slot="10" original="Keep score." ></item>
+<item slot="11" original="When finished turn in shoes." ></item>
+<item slot="12" original="Return ball to where you got it." ></item>
+<item slot="13" original="Leave bowling alley." ></item>
+</script><script id="3" source="2"><item slot="1" original="Go to the bowling alley" ></item>
+<item slot="2" original="Pick out shoes" ></item>
+<item slot="3" original="Pay for shoes and game" ></item>
+<item slot="4" original="Put bowling shoes on" ></item>
+<item slot="5" original="Pick out ball" ></item>
+<item slot="6" original="Go to lane" ></item>
+<item slot="7" original="Throw ball" ></item>
+</script><script id="4" source="2"><item slot="1" original="Entering the bowling alley" ></item>
+<item slot="2" original="paying for a string" ></item>
+<item slot="3" original="getting shoes" ></item>
+<item slot="4" original="put shoes on" ></item>
+<item slot="5" original="find alley" ></item>
+<item slot="6" original="set up score card" ></item>
+<item slot="7" original="begin bowling" ></item>
+</script><script id="5" source="2"><item slot="1" original="Call friends" ></item>
+<item slot="2" original="Arrange meeting at bowling alley" ></item>
+<item slot="3" original="Meet friends at bowling alley" ></item>
+<item slot="4" original="Buy a game" ></item>
+<item slot="5" original="Rent shoes" ></item>
+<item slot="6" original="Put on shoes" ></item>
+<item slot="7" original="Roll ball down aisle multiple times" ></item>
+<item slot="8" original="Return shoes" ></item>
+<item slot="9" original="Leave" ></item>
+</script><script id="6" source="2"><item slot="1" original="pay for lanes" ></item>
+<item slot="2" original="rent shoes" ></item>
+<item slot="3" original="put on shoes" ></item>
+<item slot="4" original="find suitable ball" ></item>
+<item slot="5" original="enter names into score keeper" ></item>
+<item slot="6" original="roll the ball toward the pins, attempting to knock down all 10" ></item>
+<item slot="7" original="repeat 10 times per game" ></item>
+<item slot="8" original="return ball" ></item>
+<item slot="9" original="return shoes" ></item>
+</script><script id="7" source="2"><item slot="1" original="Go to bowling alley." ></item>
+<item slot="2" original="Go to front desk pay for a lane and rent a pair of shoes." ></item>
+<item slot="3" original="Find a bowling ball of the appropriate weight," ></item>
+<item slot="4" original="Go to your lane." ></item>
+<item slot="5" original="Enter names into system." ></item>
+<item slot="6" original="Throw ball down lane." ></item>
+</script><script id="8" source="2"><item slot="1" original="Drive to bowling alley" ></item>
+<item slot="2" original="Park car and get out" ></item>
+<item slot="3" original="Step inside the establishment" ></item>
+<item slot="4" original="Go to front desk" ></item>
+<item slot="5" original="Pay for bowling shoes and bowling ball" ></item>
+<item slot="6" original="Go to your lane" ></item>
+<item slot="7" original="Start bowling" ></item>
+</script><script id="9" source="2"><item slot="1" original="Call your friends" ></item>
+<item slot="2" original="Decide bowling place with them" ></item>
+<item slot="3" original="Pick friends and go there" ></item>
+<item slot="4" original="Pay the game fees" ></item>
+<item slot="5" original="Get the balls" ></item>
+<item slot="6" original="Roll the balls down the track" ></item>
+<item slot="7" original="Enjoy the game" ></item>
+</script><script id="10" source="2"><item slot="1" original="We need to know the basics learning" ></item>
+<item slot="2" original="Need to understand the bowling lane" ></item>
+<item slot="3" original="Understand the bowling pins" ></item>
+<item slot="4" original="Need to learn the scoring" ></item>
+<item slot="5" original="Make sure to get some bowling shoes" ></item>
+<item slot="6" original="Choose the right ball" ></item>
+</script><script id="11" source="2"><item slot="1" original="Get dressed" ></item>
+<item slot="2" original="Call friends" ></item>
+<item slot="3" original="Have a drink" ></item>
+<item slot="4" original="Leave house" ></item>
+<item slot="5" original="Drive to bowling alley" ></item>
+<item slot="6" original="Go in" ></item>
+<item slot="7" original="Pay money and pick shoes" ></item>
+<item slot="8" original="Pick bowling ball" ></item>
+<item slot="9" original="Pick an alley" ></item>
+<item slot="10" original="Play with friends" ></item>
+</script><script id="12" source="2"><item slot="1" original="Enter bowling ally" ></item>
+<item slot="2" original="Pay for a game" ></item>
+<item slot="3" original="select bowling shoes and put them on" ></item>
+<item slot="4" original="select ball" ></item>
+<item slot="5" original="Go to lane and wait turn" ></item>
+<item slot="6" original="Throw ball down the lane and knock down pins" ></item>
+<item slot="7" original="repeat last step if strike is not achieved" ></item>
+<item slot="8" original="mark score" ></item>
+<item slot="9" original="repeat steps 5 - 8 until game is over" ></item>
+<item slot="10" original="return ball and shoes" ></item>
+<item slot="11" original="leave bowling ally" ></item>
+</script><script id="13" source="2"><item slot="1" original="get your bowling gear" ></item>
+<item slot="2" original="go to the bowling alley" ></item>
+<item slot="3" original="enter the bowling alley" ></item>
+<item slot="4" original="go to front desk ask for a lane" ></item>
+<item slot="5" original="change your shoes" ></item>
+</script><script id="14" source="2"><item slot="1" original="Find bowling shoes in closet." ></item>
+<item slot="2" original="Drive to bowling alley." ></item>
+<item slot="3" original="Check in at service counter." ></item>
+<item slot="4" original="Pay for lane time." ></item>
+<item slot="5" original="Get assigned lane number." ></item>
+<item slot="6" original="Walk to lane." ></item>
+<item slot="7" original="Find correctly weighted ball to use." ></item>
+<item slot="8" original="Turn on computer screen." ></item>
+<item slot="9" original="Enter name." ></item>
+<item slot="10" original="Walk to lane edge with ball." ></item>
+<item slot="11" original="Bowl ball, down lane, and attempt to hit pins." ></item>
+<item slot="12" original="Wait for ball to return to try again." ></item>
+<item slot="13" original="Take turns with bowling teammates until end of game." ></item>
+</script><script id="15" source="2"><item slot="1" original="Find location of bowling alley" ></item>
+<item slot="2" original="Go to bowling alley and rent a bowling lane and shoes" ></item>
+<item slot="3" original="Go to your lane and put on shoes" ></item>
+<item slot="4" original="Pick out a bowling ball that is comfortable to you" ></item>
+<item slot="5" original="Set up the bowling game score sheet" ></item>
+<item slot="6" original="Bowl til end of game" ></item>
+<item slot="7" original="Return ball to shelf" ></item>
+<item slot="8" original="Return rented shoes" ></item>
+<item slot="9" original="Leave bowling alley" ></item>
+</script><script id="16" source="2"><item slot="1" original="Put on proper bowling shoes." ></item>
+<item slot="2" original="Get an adequate ball." ></item>
+<item slot="3" original="Hold ball and look down the lane." ></item>
+<item slot="4" original="Walk steadily toward the line." ></item>
+<item slot="5" original="Swing the ball back." ></item>
+<item slot="6" original="Bring the ball forward and release ball." ></item>
+<item slot="7" original="Watch ball roll toward pins." ></item>
+</script><script id="17" source="2"><item slot="1" original="Call friends" ></item>
+<item slot="2" original="Talk to friends" ></item>
+<item slot="3" original="Decide where to go" ></item>
+<item slot="4" original="Leave house" ></item>
+<item slot="5" original="Enter car" ></item>
+<item slot="6" original="Drive car" ></item>
+<item slot="7" original="Go to friends house" ></item>
+<item slot="8" original="Wait for him" ></item>
+<item slot="9" original="Leave with friend" ></item>
+<item slot="10" original="Drive to bowling center" ></item>
+<item slot="11" original="Bowl with friends" ></item>
+</script><script id="18" source="2"><item slot="1" original="Drive to the bowling alley." ></item>
+<item slot="2" original="Purchase your game and bowling shoes." ></item>
+<item slot="3" original="Go pick a ball." ></item>
+<item slot="4" original="Find your lane and place ball." ></item>
+<item slot="5" original="Put your shoes on." ></item>
+<item slot="6" original="Set computer with names playing." ></item>
+<item slot="7" original="Start bowling!" ></item>
+</script><script id="19" source="2"><item slot="1" original="Drive to the bowling alley." ></item>
+<item slot="2" original="Go to the counter and rent shoes." ></item>
+<item slot="3" original="Choose how many games you will bowl and pay for those in advance." ></item>
+<item slot="4" original="Choose a bowling ball that fits your hand and strength." ></item>
+<item slot="5" original="Go to the lane assigned to you." ></item>
+<item slot="6" original="Try to roll the ball down the lane and knock down as many pins as possible." ></item>
+<item slot="7" original="Don't cross over the line when you roll the ball." ></item>
+<item slot="8" original="Play for 10 frames." ></item>
+<item slot="9" original="Play again if you like." ></item>
+</script><script id="20" source="2"><item slot="1" original="Enter bowling alley" ></item>
+<item slot="2" original="Go to counter" ></item>
+<item slot="3" original="Get a lane" ></item>
+<item slot="4" original="Rent shoes" ></item>
+<item slot="5" original="Find a ball" ></item>
+<item slot="6" original="Take ball and shoes to your lane" ></item>
+<item slot="7" original="Put on bowling shoes" ></item>
+<item slot="8" original="Pick up ball" ></item>
+<item slot="9" original="Walk to lane" ></item>
+<item slot="10" original="Throw ball down the lane" ></item>
+<item slot="11" original="Repeat until you are finished bowling" ></item>
+<item slot="12" original="Take off bowling shoes" ></item>
+<item slot="13" original="Put ball away" ></item>
+<item slot="14" original="Leave shoes at counter" ></item>
+<item slot="15" original="Pay for bowling" ></item>
+<item slot="16" original="Leave bowling alley" ></item>
+</script><script id="21" source="2"><item slot="1" original="find a bowling alley" ></item>
+<item slot="2" original="go to cashier when you arrive and reserve a lane" ></item>
+<item slot="3" original="go to the shoe rental and get bowling shoes" ></item>
+<item slot="4" original="but on shoes" ></item>
+<item slot="5" original="find your lane" ></item>
+<item slot="6" original="pick a ball" ></item>
+<item slot="7" original="put your name in so you can keep score" ></item>
+<item slot="8" original="throw ball down lane" ></item>
+<item slot="9" original="end game" ></item>
+<item slot="10" original="repeat" ></item>
+</script><script id="22" source="2"><item slot="1" original="Drive to bowling alley" ></item>
+<item slot="2" original="Purchase desired amount of games to play" ></item>
+<item slot="3" original="Obtain bowling shoes" ></item>
+<item slot="4" original="Put on bowling shoes" ></item>
+<item slot="5" original="Go to correct lane" ></item>
+<item slot="6" original="Enter name onto screen" ></item>
+<item slot="7" original="Bowl" ></item>
+</script><script id="23" source="2"><item slot="1" original="Drive to bowling alley." ></item>
+<item slot="2" original="Pay for use of lanes." ></item>
+<item slot="3" original="Rent bowling shoes." ></item>
+<item slot="4" original="Put on bowling shoes." ></item>
+<item slot="5" original="Pick out bowling ball that is not too heavy." ></item>
+<item slot="6" original="Put names into computer to keep score." ></item>
+<item slot="7" original="Take turns throwing ball down the lane at the pins." ></item>
+<item slot="8" original="Laugh when ball goes into gutter." ></item>
+<item slot="9" original="When finished bowling return ball to racks." ></item>
+<item slot="10" original="Return bowling shoes to cashier." ></item>
+<item slot="11" original="Go home." ></item>
+</script><script id="24" source="2"><item slot="1" original="call friends" ></item>
+<item slot="2" original="get in car" ></item>
+<item slot="3" original="drive to bowling alley" ></item>
+<item slot="4" original="pay for shoes and beer" ></item>
+<item slot="5" original="find the best ball" ></item>
+<item slot="6" original="play!" ></item>
+</script><script id="25" source="2"><item slot="1" original="Go to bowling alley." ></item>
+<item slot="2" original="Pay fees." ></item>
+<item slot="3" original="Put shoes on." ></item>
+<item slot="4" original="Pick out a ball." ></item>
+<item slot="5" original="Pick out a team." ></item>
+<item slot="6" original="Roll ball down lane." ></item>
+</script><script id="26" source="2"><item slot="1" original="Drive to bowling alley." ></item>
+<item slot="2" original="Walk into bowling alley." ></item>
+<item slot="3" original="Walk up to front desk." ></item>
+<item slot="4" original="Pay." ></item>
+<item slot="5" original="Get your bowling shoes." ></item>
+<item slot="6" original="Walk to your lane." ></item>
+<item slot="7" original="Play bowling." ></item>
+</script><script id="27" source="2"><item slot="1" original="arrive bowling alley" ></item>
+<item slot="2" original="wear bowling shoes" ></item>
+<item slot="3" original="roll bowling ball" ></item>
+<item slot="4" original="watch tally" ></item>
+<item slot="5" original="declare myself champion" ></item>
+</script><script id="28" source="2"><item slot="1" original="Driving to bowling alley" ></item>
+<item slot="2" original="Renting bowling shoes" ></item>
+<item slot="3" original="Going to lane" ></item>
+<item slot="4" original="Setting up computer for bowling match" ></item>
+<item slot="5" original="THrowing ball at pins" ></item>
+</script><script id="29" source="2"><item slot="1" original="Get dressed" ></item>
+<item slot="2" original="Go to the car" ></item>
+<item slot="3" original="Drive to bowling alley" ></item>
+<item slot="4" original="Park" ></item>
+<item slot="5" original="Go inside" ></item>
+<item slot="6" original="Get bowling shoes" ></item>
+<item slot="7" original="Go to alley" ></item>
+<item slot="8" original="Put shoes on" ></item>
+<item slot="9" original="Pick out ball" ></item>
+<item slot="10" original="Bowl." ></item>
+</script><script id="30" source="2"><item slot="1" original="Driving to the bowling alley" ></item>
+<item slot="2" original="Paying for a lane and a number of games'" ></item>
+<item slot="3" original="Get fitted for bowling shoes" ></item>
+<item slot="4" original="Program your name into the lane's computer" ></item>
+<item slot="5" original="Roll the bowling ball at some pins" ></item>
+</script><script id="31" source="2"><item slot="1" original="Drive to the bowling alley." ></item>
+<item slot="2" original="Rent ball and shoes at the front desk." ></item>
+<item slot="3" original="Change shoes by the bowling lane." ></item>
+<item slot="4" original="Put the bowling ball in the holder." ></item>
+<item slot="5" original="Fill out the score card." ></item>
+</script><script id="32" source="2"><item slot="1" original="Get dressed to go bowling" ></item>
+<item slot="2" original="Get in car to drive to bowling ally" ></item>
+<item slot="3" original="Go into bowling ally" ></item>
+<item slot="4" original="Go to desk to get bowling shoes" ></item>
+<item slot="5" original="go pick out a bowling ball" ></item>
+<item slot="6" original="Pick out a bowling lane" ></item>
+<item slot="7" original="Start bowling" ></item>
+<item slot="8" original="Finish bowling" ></item>
+<item slot="9" original="Pay for bowling" ></item>
+<item slot="10" original="10. Drive home from bowling lane" ></item>
+</script><script id="33" source="2"><item slot="1" original="Go to bowling alley" ></item>
+<item slot="2" original="Pay for bowling and shoe rental" ></item>
+<item slot="3" original="Choose a bowling ball" ></item>
+<item slot="4" original="Go to assigned lane" ></item>
+<item slot="5" original="Play game of bowling" ></item>
+<item slot="6" original="Replace bowling ball on rack" ></item>
+<item slot="7" original="Return shoes" ></item>
+<item slot="8" original="Leave bowling alley" ></item>
+</script><script id="34" source="2"><item slot="1" original="Get in car" ></item>
+<item slot="2" original="Drive to bowling ally" ></item>
+<item slot="3" original="Find parking spot" ></item>
+<item slot="4" original="Go into bowling ally" ></item>
+<item slot="5" original="Find an empty lane" ></item>
+<item slot="6" original="Start Bowling" ></item>
+<item slot="7" original="Finish game" ></item>
+<item slot="8" original="Leave bowling ally" ></item>
+<item slot="9" original="Drive home" ></item>
+</script><script id="35" source="2"><item slot="1" original="Go to Bowling Alley" ></item>
+<item slot="2" original="Rent Shoes" ></item>
+<item slot="3" original="Rent A Lane" ></item>
+<item slot="4" original="Find a suitable bowling ball" ></item>
+<item slot="5" original="Start bowling" ></item>
+</script><script id="36" source="2"><item slot="1" original="Go to the bowling alley." ></item>
+<item slot="2" original="Go to the sales counter." ></item>
+<item slot="3" original="Tell attendant how many games you want to play." ></item>
+<item slot="4" original="Pick your bowling shoes." ></item>
+<item slot="5" original="Go to your lane and enter your names in the computer." ></item>
+<item slot="6" original="Go bowl." ></item>
+</script><script id="37" source="2"><item slot="1" original="Get in car" ></item>
+<item slot="2" original="Drive to bowling alley" ></item>
+<item slot="3" original="Park at bowling alley" ></item>
+<item slot="4" original="Walk into bowling alley" ></item>
+<item slot="5" original="Purchase bowling games" ></item>
+<item slot="6" original="Walk to shoe rental counter" ></item>
+<item slot="7" original="Request correct size shoes" ></item>
+<item slot="8" original="Choose a bowling ball" ></item>
+<item slot="9" original="Walk to assigned lane" ></item>
+<item slot="10" original="Put bowling ball on rack" ></item>
+<item slot="11" original="Take off shoes" ></item>
+<item slot="12" original="Put on bowling shoes" ></item>
+<item slot="13" original="Walk to lane" ></item>
+<item slot="14" original="Pick up bowling ball" ></item>
+<item slot="15" original="Roll a strike" ></item>
+</script><script id="38" source="2"><item slot="1" original="arrive at bowling alley" ></item>
+<item slot="2" original="get lane assignment at front desk" ></item>
+<item slot="3" original="get rental shoes" ></item>
+<item slot="4" original="select ball" ></item>
+<item slot="5" original="prepare to roll" ></item>
+<item slot="6" original="roll a strike" ></item>
+<item slot="8" original="repeat steps 5 - 7" ></item>
+<item slot="9" original="return rental shoes" ></item>
+<item slot="10" original="exit alley" ></item>
+</script><script id="39" source="2"><item slot="1" original="Obtain your bowling ball and bowling shoes" ></item>
+<item slot="2" original="Drive to the bowling ally" ></item>
+<item slot="3" original="Pay for how many games you are playing" ></item>
+<item slot="4" original="Go to designated bowling lane" ></item>
+<item slot="5" original="Insert name into the score list" ></item>
+<item slot="6" original="Put on your bowling shoes" ></item>
+<item slot="7" original="Get out your bowling ball and bowl" ></item>
+</script><script id="40" source="2"><item slot="1" original="go to the front desk" ></item>
+<item slot="2" original="rent shoes" ></item>
+<item slot="3" original="pay for lanes" ></item>
+<item slot="4" original="change shoes" ></item>
+<item slot="5" original="enter names into computer" ></item>
+<item slot="6" original="choose bowling ball" ></item>
+<item slot="7" original="throw the ball down the lane" ></item>
+<item slot="8" original="have fun" ></item>
+<item slot="9" original="get food and drinks" ></item>
+<item slot="10" original="change shoes" ></item>
+<item slot="11" original="return ball" ></item>
+<item slot="12" original="go home" ></item>
+</script><script id="41" source="2"><item slot="1" original="get bowling ball from closet" ></item>
+<item slot="2" original="pack car" ></item>
+<item slot="3" original="drive car to bowling alley" ></item>
+<item slot="4" original="pay for game" ></item>
+<item slot="5" original="go to lane" ></item>
+<item slot="6" original="start up lane scoring computer" ></item>
+<item slot="7" original="throw ball down lane" ></item>
+<item slot="8" original="play 10 frames" ></item>
+<item slot="9" original="look at score" ></item>
+</script><script id="42" source="2"><item slot="1" original="Go to bowling alley" ></item>
+<item slot="2" original="Pay for lane" ></item>
+<item slot="3" original="Rent shoes" ></item>
+<item slot="4" original="Go to lane" ></item>
+<item slot="5" original="When it's your turn, bowl ball down lane towards pins" ></item>
+<item slot="6" original="If pins still standing, bowl another ball towards pins" ></item>
+<item slot="7" original="Add up your score" ></item>
+<item slot="8" original="Repeat 5-7 until end of game" ></item>
+</script><script id="43" source="2"><item slot="1" original="pay for foot gear" ></item>
+<item slot="2" original="change foot gear" ></item>
+<item slot="3" original="find ball you like" ></item>
+<item slot="4" original="roll ball when it is your turn" ></item>
+<item slot="5" original="knock down pins with ball" ></item>
+<item slot="6" original="return foot gear" ></item>
+<item slot="7" original="go home" ></item>
+</script><script id="44" source="2"><item slot="1" original="Drive to bowling alley." ></item>
+<item slot="2" original="PA'y for lane" ></item>
+<item slot="3" original="Get rental shoes." ></item>
+<item slot="4" original="Put on rental shoes." ></item>
+<item slot="5" original="Pick a ball." ></item>
+<item slot="6" original="Throw ball down lane" ></item>
+<item slot="7" original="Knock over all pin and be a winner." ></item>
+</script><script id="45" source="2"><item slot="1" original="Drive to bowling alley" ></item>
+<item slot="2" original="Walk in" ></item>
+<item slot="3" original="Pay for games and shoes" ></item>
+<item slot="4" original="Put bowling shoes on" ></item>
+<item slot="5" original="Pick a bowling ball" ></item>
+<item slot="6" original="Roll ball down lane and knock pins down" ></item>
+</script><script id="46" source="2"><item slot="1" original="Drive to the bowling alley" ></item>
+<item slot="2" original="Park your car" ></item>
+<item slot="3" original="Walk into the bowling alley" ></item>
+<item slot="4" original="Pay the clerk" ></item>
+<item slot="5" original="Get your shoes from the clerk" ></item>
+<item slot="6" original="Go to your lane" ></item>
+<item slot="7" original="Put on your bowling shoes" ></item>
+<item slot="8" original="Choose your ball" ></item>
+<item slot="9" original="Bowl" ></item>
+</script><script id="47" source="2"><item slot="1" original="Put some clothes on you can go out in." ></item>
+<item slot="2" original="Drive to bowling alley." ></item>
+<item slot="3" original="Go inside." ></item>
+<item slot="4" original="Rent some bowling shoes." ></item>
+<item slot="5" original="Find a bowling ball." ></item>
+<item slot="6" original="Play a game of bowling." ></item>
+<item slot="7" original="Return shoes and pay for the game." ></item>
+<item slot="8" original="Drive home." ></item>
+</script><script id="48" source="2"><item slot="1" original="GO TO THE BOWLING ALLEY" ></item>
+<item slot="2" original="HAND IN SHOES AT THE DESK" ></item>
+<item slot="3" original="RECEIVE BOWLING SHOES" ></item>
+<item slot="4" original="GO TO ASSIGNED LANE" ></item>
+<item slot="5" original="ENTER NAME INTO SCOREBOARD" ></item>
+<item slot="6" original="CHOOSE BOWLING BALL" ></item>
+<item slot="7" original="THROW THE BALL" ></item>
+<item slot="8" original="KNOCK DOWN AS MANY PINS AS POSSIBLE" ></item>
+<item slot="9" original="REPEAT UNTIL GAME IS OVER" ></item>
+</script><script id="49" source="2"><item slot="1" original="Walk into bowling alley." ></item>
+<item slot="2" original="Go to counter." ></item>
+<item slot="3" original="Pay for game of bowling and shoe rental." ></item>
+<item slot="4" original="Take rental shoes from attendant." ></item>
+<item slot="5" original="Go to assigned lane." ></item>
+<item slot="6" original="Change into rented shoes." ></item>
+<item slot="7" original="Select ball from rack." ></item>
+<item slot="8" original="Enter player names into computer." ></item>
+<item slot="9" original="Take turns rolling ball down alley toward pins." ></item>
+<item slot="10" original="Return ball to rack." ></item>
+<item slot="11" original="Change out of rented shoes." ></item>
+<item slot="12" original="Return rental shoes to attendant." ></item>
+<item slot="13" original="Leave the bowling alley." ></item>
+</script><script id="50" source="2"><item slot="1" original="Enter the bowling alley" ></item>
+<item slot="2" original="Purchase a ticket to play" ></item>
+<item slot="3" original="Grab a bowling ball" ></item>
+<item slot="4" original="Aim at the target" ></item>
+<item slot="5" original="Release the ball towards the target" ></item>
+</script><script id="51" source="2"><item slot="1" original="choose bowling alley" ></item>
+<item slot="2" original="get in car and drive to bowling alley" ></item>
+<item slot="3" original="pay for a lane and bowling shoes" ></item>
+<item slot="4" original="chose bowling ball that fits fingers" ></item>
+<item slot="5" original="go to lane and remove regular shoes" ></item>
+<item slot="6" original="put on bowling shoes" ></item>
+<item slot="7" original="throw ball down lane" ></item>
+<item slot="8" original="try to hit as many pins as possible" ></item>
+</script><script id="52" source="2"><item slot="1" original="they walk into the bowling alley" ></item>
+<item slot="2" original="they go to the desk" ></item>
+<item slot="3" original="they rent shoes" ></item>
+<item slot="4" original="they choose bowling balls" ></item>
+<item slot="5" original="they go to the alley section" ></item>
+<item slot="6" original="they sit down" ></item>
+<item slot="7" original="they put on shoes" ></item>
+<item slot="8" original="they get up" ></item>
+<item slot="9" original="they take the ball" ></item>
+<item slot="10" original="they walk to the lane" ></item>
+<item slot="11" original="they hold the ball" ></item>
+<item slot="12" original="they swing the ball back" ></item>
+<item slot="13" original="they walk forward in the lane" ></item>
+<item slot="14" original="they release the ball on the alley" ></item>
+<item slot="15" original="they hit bowling pins" ></item>
+<item slot="16" original="they repeat the process for any remaining pins" ></item>
+</script><script id="53" source="2"><item slot="1" original="Go to the bowling alley." ></item>
+<item slot="2" original="Pay for bowling game." ></item>
+<item slot="3" original="Rent bowling shoes." ></item>
+<item slot="4" original="Go to reserved lane." ></item>
+<item slot="5" original="Put on bowling shoes." ></item>
+<item slot="6" original="Bowl your game(s)" ></item>
+<item slot="7" original="Remove bowling shoes." ></item>
+<item slot="8" original="Return bowling shoes to rental counter." ></item>
+<item slot="9" original="Go home." ></item>
+</script><script id="54" source="2"><item slot="1" original="Drive to bowling alley" ></item>
+<item slot="2" original="Pay for shoes and game" ></item>
+<item slot="3" original="Pick out bowling ball and put on shoes" ></item>
+<item slot="4" original="Take ball to empty lane" ></item>
+<item slot="5" original="Fill out electronic score keeping" ></item>
+<item slot="6" original="Take turns rolling ball down lane to knock over pins" ></item>
+<item slot="7" original="Repeat until all frames are completed" ></item>
+<item slot="8" original="Decide who won" ></item>
+<item slot="9" original="Return ball and shoes" ></item>
+<item slot="10" original="Drive home" ></item>
+</script><script id="55" source="2"><item slot="1" original="Enter bowling alley" ></item>
+<item slot="2" original="Pay for bowling at counter" ></item>
+<item slot="3" original="Get lane assignment" ></item>
+<item slot="4" original="Get shoes" ></item>
+<item slot="5" original="Walk to assigned lane" ></item>
+<item slot="6" original="Put on bowling shoes" ></item>
+<item slot="7" original="Find suitable bowling ball" ></item>
+<item slot="8" original="Bowl with friends" ></item>
+<item slot="9" original="Try to get higher score than friends" ></item>
+<item slot="10" original="Finish bowling" ></item>
+<item slot="11" original="Return shoes to counter." ></item>
+<item slot="12" original="Leave bowling alley." ></item>
+</script><script id="56" source="2"><item slot="1" original="Walk into bowling alley." ></item>
+<item slot="2" original="Walk up to the front desk." ></item>
+<item slot="3" original="Ask the employee for a lane." ></item>
+<item slot="4" original="Tell them how many games you would like to play." ></item>
+<item slot="5" original="Ask them for a pair of shoes in your size." ></item>
+<item slot="6" original="Pay for your game(s)." ></item>
+<item slot="7" original="They will direct you to the lane you are assigned." ></item>
+<item slot="8" original="Pick out a ball that fits you." ></item>
+<item slot="9" original="Start the game by rolling the ball down your lane aiming for the middle of the pins." ></item>
+<item slot="10" original="Each round allows you to roll the ball twice." ></item>
+<item slot="11" original="Try to knock down all the pins." ></item>
+<item slot="12" original="Continue this until your game(s) is over." ></item>
+<item slot="13" original="When finished return the ball and the shoes." ></item>
+<item slot="14" original="Walk out of the bowling alley." ></item>
+</script><script id="57" source="2"><item slot="1" original="You walk into bowling alley." ></item>
+<item slot="2" original="You rent shoes and get a lane." ></item>
+<item slot="3" original="You sit down and put shoes on." ></item>
+<item slot="4" original="You get up and look for a ball." ></item>
+<item slot="5" original="You hold your ball and step up to alley." ></item>
+<item slot="6" original="You walk and swing your arm back and throw the ball." ></item>
+<item slot="7" original="The ball rolls down lane." ></item>
+<item slot="8" original="You wait for ball to come back." ></item>
+<item slot="9" original="You throw it again." ></item>
+<item slot="10" original="You take off shoes." ></item>
+<item slot="11" original="Pay your bill and leave." ></item>
+</script><script id="58" source="2"><item slot="1" original="Go to bowling alley" ></item>
+<item slot="2" original="Rent shoes to wear" ></item>
+<item slot="3" original="Get set up on assigned lane" ></item>
+<item slot="4" original="Pick out ball from racks" ></item>
+<item slot="5" original="Start bowling" ></item>
+<item slot="6" original="When finished, return ball to rack" ></item>
+<item slot="7" original="Change shoes" ></item>
+<item slot="8" original="Return shoes to counter" ></item>
+<item slot="9" original="Pay for how many games you played" ></item>
+<item slot="10" original="Go home" ></item>
+</script><script id="59" source="2"><item slot="1" original="Find a bowling alley." ></item>
+<item slot="2" original="Drive to the bowling alley." ></item>
+<item slot="3" original="Pay for shoe rentals and a lane." ></item>
+<item slot="4" original="Obtain your bowling shoes." ></item>
+<item slot="5" original="Put on your bowling shoes." ></item>
+<item slot="6" original="Go to your lane." ></item>
+<item slot="7" original="Find a bowling ball(s) that you wish to use for bowling." ></item>
+<item slot="8" original="Throw the ball at the pins when it is your turn." ></item>
+<item slot="9" original="Repeat until the game is over." ></item>
+<item slot="10" original="Return your bowling shoes." ></item>
+<item slot="11" original="Leave the bowling alley." ></item>
+</script><script id="60" source="2"><item slot="1" original="Look up a nearby bowling alley." ></item>
+<item slot="2" original="Drive to the alley." ></item>
+<item slot="3" original="Pay for a lane." ></item>
+<item slot="4" original="Put on bowling shoes." ></item>
+<item slot="5" original="Go bowling." ></item>
+</script><script id="61" source="2"><item slot="1" original="Find a pair of clean socks to wear at the bowling alley." ></item>
+<item slot="2" original="Go to bowling alley." ></item>
+<item slot="3" original="Rent bowling shoes that are your size." ></item>
+<item slot="4" original="Pay for a few games of bowling." ></item>
+<item slot="5" original="Purchase some nachos and a drink from the snack bar." ></item>
+<item slot="6" original="Find bowling lane that you have been assigned to play at." ></item>
+<item slot="7" original="Place snacks and personal belongings in area near your bowling lane." ></item>
+<item slot="8" original="Put bowling shoes on." ></item>
+<item slot="9" original="Choose a bowling ball to play with." ></item>
+<item slot="10" original="Set up computer at your bowling lane with information about who will be bowling with you." ></item>
+<item slot="11" original="Bowl until game is finished." ></item>
+<item slot="12" original="Begin another game if you have paid and would like to continue bowling." ></item>
+</script><script id="62" source="2"><item slot="1" original="Get in car" ></item>
+<item slot="2" original="Drive to bowling alley" ></item>
+<item slot="3" original="Get out of car" ></item>
+<item slot="4" original="Enter bowling alley" ></item>
+<item slot="5" original="Get shoes from counter" ></item>
+<item slot="6" original="Select bowling ball" ></item>
+<item slot="7" original="Find assigned alley" ></item>
+<item slot="8" original="Set balls on return" ></item>
+<item slot="9" original="Enter bowler information on screen" ></item>
+<item slot="10" original="Put on bowling shoes" ></item>
+<item slot="11" original="Pick up bowling ball" ></item>
+<item slot="12" original="Roll ball down alley" ></item>
+<item slot="13" original="Repeat until games are finished" ></item>
+<item slot="14" original="Take off shoes" ></item>
+<item slot="15" original="Return to counter" ></item>
+<item slot="16" original="Pay for bowling and leave" ></item>
+</script><script id="63" source="2"><item slot="1" original="Go into bowling alley" ></item>
+<item slot="2" original="Walk up to rental counter" ></item>
+<item slot="3" original="Pay for bowling shoes and game" ></item>
+<item slot="4" original="Go to assigned lane" ></item>
+<item slot="5" original="Put on bowling shoes" ></item>
+<item slot="6" original="Find a bowling ball" ></item>
+<item slot="7" original="Pick up bowling ball" ></item>
+<item slot="8" original="Walk up to lane line" ></item>
+<item slot="9" original="Swing ball back" ></item>
+<item slot="10" original="Release ball in front of you down the lane towards pins" ></item>
+<item slot="11" original="Continue bowling all 10 frames" ></item>
+<item slot="12" original="Return shoes" ></item>
+<item slot="13" original="Leave bowling alley" ></item>
+</script><script id="64" source="2"><item slot="1" original="go to bowling ally" ></item>
+<item slot="2" original="go into bowling ally" ></item>
+<item slot="3" original="go to counter" ></item>
+<item slot="4" original="get shoes" ></item>
+<item slot="5" original="put shoes on" ></item>
+<item slot="6" original="find ball" ></item>
+<item slot="7" original="take ball to lane" ></item>
+<item slot="8" original="put ball on ball return" ></item>
+<item slot="9" original="get score screen ready" ></item>
+<item slot="10" original="wait turn" ></item>
+<item slot="11" original="pick up ball" ></item>
+<item slot="12" original="roll ball down lane" ></item>
+<item slot="13" original="get strike" ></item>
+<item slot="14" original="jump up and down" ></item>
+<item slot="15" original="finish game" ></item>
+</script><script id="65" source="2"><item slot="1" original="Go to the bowling alley" ></item>
+<item slot="2" original="Pay for shoes and how many games you want to play" ></item>
+<item slot="3" original="Tell clerk what size shoes you need" ></item>
+<item slot="4" original="Try shoes on to ensure they fit" ></item>
+<item slot="5" original="Go to assigned bowling lane" ></item>
+<item slot="6" original="Set up computer with names of all players" ></item>
+<item slot="7" original="Bowl" ></item>
+</script><script id="66" source="2"><item slot="1" original="go to local bowling alley with friends or whomever" ></item>
+<item slot="2" original="pay for an alley and bowling shoes if needed" ></item>
+<item slot="3" original="buy food if desired" ></item>
+<item slot="4" original="choose the bowling balls needed" ></item>
+<item slot="5" original="start a game of bowling" ></item>
+</script><script id="67" source="2"><item slot="1" original="call your friends" ></item>
+<item slot="2" original="plan to go bowling" ></item>
+<item slot="3" original="wear bowling shoes" ></item>
+<item slot="4" original="get in the car" ></item>
+<item slot="5" original="go to the bowling arena" ></item>
+<item slot="6" original="enjoy bowling with friends" ></item>
+</script><script id="68" source="2"><item slot="1" original="Arrive at bowling center" ></item>
+<item slot="2" original="Go to cashier" ></item>
+<item slot="3" original="Pay for game and get bowling shoes" ></item>
+<item slot="4" original="Go to your lane" ></item>
+<item slot="5" original="Put on your shoes" ></item>
+<item slot="6" original="Choose a ball" ></item>
+<item slot="7" original="Roll your ball really hard down the lane trying to knock over pins" ></item>
+<item slot="8" original="Roll again trying to knock them over" ></item>
+<item slot="9" original="Take turns with the other players" ></item>
+<item slot="10" original="End game" ></item>
+<item slot="11" original="Return ball and shoes" ></item>
+<item slot="12" original="Go home" ></item>
+</script><script id="69" source="2"><item slot="1" original="Go to the alley" ></item>
+<item slot="2" original="Pay at the desk" ></item>
+<item slot="3" original="Rent shoes" ></item>
+<item slot="4" original="Change shoes" ></item>
+<item slot="5" original="Go to the alley" ></item>
+<item slot="6" original="Bowl" ></item>
+<item slot="7" original="Record the score" ></item>
+<item slot="8" original="Repeat for all rounds" ></item>
+<item slot="9" original="Change shoes" ></item>
+<item slot="10" original="Return shoes" ></item>
+<item slot="11" original="Leave the alley" ></item>
+</script><script id="70" source="2"><item slot="1" original="Dress in comfortable clothing" ></item>
+<item slot="2" original="Get or put on socks" ></item>
+<item slot="3" original="Go to bowling alley" ></item>
+<item slot="4" original="Pay for shoe and lane rental" ></item>
+<item slot="5" original="Go to assigned lane" ></item>
+<item slot="6" original="Take off street shoes and put on bowling shoes" ></item>
+<item slot="7" original="Enter bowlers information into computer scoreboard" ></item>
+<item slot="8" original="Find ball of right size" ></item>
+<item slot="9" original="Start bowling when turn comes up" ></item>
+<item slot="10" original="Bowl all lanes in turn until all frames ended" ></item>
+<item slot="11" original="Return ball to storage area" ></item>
+<item slot="12" original="Take off rental shoes and exchange for own shoes" ></item>
+<item slot="13" original="Leave bowling alley" ></item>
+</script><script id="71" source="2"><item slot="1" original="Open garage" ></item>
+<item slot="2" original="get into the car" ></item>
+<item slot="3" original="Drive to the bowling club" ></item>
+<item slot="4" original="Park the car" ></item>
+<item slot="5" original="Enter the bowling club" ></item>
+<item slot="6" original="Register name" ></item>
+<item slot="7" original="Go to the bowling area" ></item>
+<item slot="8" original="Join the team" ></item>
+</script><script id="72" source="2"><item slot="1" original="Stand for long shot" ></item>
+<item slot="2" original="Running fast" ></item>
+<item slot="3" original="Reach the line" ></item>
+<item slot="4" original="Throw the ball" ></item>
+<item slot="5" original="Get a wicket" ></item>
+<item slot="6" original="Enjoy to team members" ></item>
+</script><script id="73" source="2"><item slot="1" original="Get dressed" ></item>
+<item slot="2" original="Get your bowling shoes" ></item>
+<item slot="3" original="Get your bowling ball" ></item>
+<item slot="4" original="Put your bowling ball in bowling bag" ></item>
+<item slot="5" original="Drive to the bowling rink" ></item>
+<item slot="6" original="Pay for the number of rounds you wish to play" ></item>
+<item slot="7" original="Find your lane" ></item>
+<item slot="8" original="Put on your bowling shoes" ></item>
+<item slot="9" original="Remove your bowling ball from bag" ></item>
+<item slot="10" original="Start game" ></item>
+</script><script id="74" source="2"><item slot="1" original="Go to bowling alley" ></item>
+<item slot="2" original="Pay for alley, bowling balls, shoes" ></item>
+<item slot="3" original="Put bowling shoes on" ></item>
+<item slot="4" original="Go to assigned alley" ></item>
+<item slot="5" original="Choose your bowling balls" ></item>
+<item slot="6" original="Start bowling" ></item>
+</script><script id="75" source="2"><item slot="1" original="Get some friends together" ></item>
+<item slot="2" original="Drive to bowling alley" ></item>
+<item slot="3" original="Go to office and rent bowling shoes - assuming you did not bring your own." ></item>
+<item slot="4" original="Get appropriate balls - also assuming rental from bowling alley." ></item>
+<item slot="5" original="Pick a free alley" ></item>
+<item slot="6" original="Order some beer and pizza" ></item>
+<item slot="7" original="Bowl" ></item>
+</script><script id="76" source="2"><item slot="1" original="Go to bowling alley." ></item>
+<item slot="2" original="Pay for game and shoes." ></item>
+<item slot="3" original="Tell attendant shoe size." ></item>
+<item slot="4" original="Take shoes." ></item>
+<item slot="5" original="Go to lane." ></item>
+<item slot="6" original="Put on shoes." ></item>
+<item slot="7" original="Enter players into scorekeeping machine." ></item>
+<item slot="8" original="Find ball that's the correct size." ></item>
+<item slot="9" original="Bowl game." ></item>
+<item slot="10" original="Take off bowling shoes and put back on regular shoes." ></item>
+<item slot="11" original="Return bowling shoes to counter." ></item>
+</script><script id="77" source="2"><item slot="1" original="Gather your friends" ></item>
+<item slot="2" original="Drive to bowling alley" ></item>
+<item slot="3" original="Enter bowling alley" ></item>
+<item slot="4" original="Reserve a lane" ></item>
+<item slot="5" original="Rent shoes from cashier" ></item>
+<item slot="6" original="Order snacks and drinks" ></item>
+<item slot="7" original="Go to bowling lane" ></item>
+<item slot="8" original="Select bowling balls" ></item>
+<item slot="9" original="Enter names into score sheet" ></item>
+<item slot="10" original="Wait for pins to set" ></item>
+<item slot="11" original="Roll first bowl" ></item>
+</script><script id="78" source="2"><item slot="1" original="Get in a car" ></item>
+<item slot="2" original="Drive to bowling lane" ></item>
+<item slot="3" original="Get out of car" ></item>
+<item slot="4" original="Go into bowling lane" ></item>
+<item slot="5" original="Rent shoes and a lane" ></item>
+<item slot="6" original="Pick a bowling ball" ></item>
+<item slot="7" original="Bowl one or more games" ></item>
+</script><script id="79" source="2"><item slot="1" original="Drive to bowling alley" ></item>
+<item slot="2" original="Enter and select bowling ball" ></item>
+<item slot="3" original="Go to center desk" ></item>
+<item slot="4" original="Pay to rent a lane and shoes" ></item>
+<item slot="5" original="Put on bowling shoes" ></item>
+<item slot="6" original="Go to appropriate lane" ></item>
+<item slot="7" original="Begin bowling" ></item>
+<item slot="8" original="Begin keeping score on device provided" ></item>
+<item slot="9" original="Return shoes and bowling ball" ></item>
+<item slot="10" original="Leave" ></item>
+</script><script id="80" source="2"><item slot="1" original="Reserve a lane" ></item>
+<item slot="2" original="Collect bowling balls" ></item>
+<item slot="3" original="Drive to bowling alley" ></item>
+<item slot="4" original="Pay for lane privileges" ></item>
+<item slot="5" original="Pay for food or drinks" ></item>
+<item slot="6" original="Select funny names" ></item>
+<item slot="7" original="Set up score thingie with funny names" ></item>
+<item slot="8" original="Warm up hands and arms properly" ></item>
+<item slot="9" original="Commence bowling" ></item>
+<item slot="10" original="Try not to lose" ></item>
+</script><script id="81" source="2"><item slot="1" original="Arrive at bowling place" ></item>
+<item slot="2" original="Pay admission" ></item>
+<item slot="3" original="Choose shoe size" ></item>
+<item slot="4" original="Attendant gives shoes" ></item>
+<item slot="5" original="Put on shoes" ></item>
+<item slot="6" original="Select a ball" ></item>
+<item slot="7" original="Try it out" ></item>
+<item slot="8" original="Pick a different ball" ></item>
+<item slot="9" original="Go to lane" ></item>
+<item slot="10" original="Bowl" ></item>
+</script><script id="82" source="2"><item slot="1" original="Drive to bowling alley" ></item>
+<item slot="2" original="Walk in door" ></item>
+<item slot="3" original="Walk to counter" ></item>
+<item slot="4" original="Pay for lane/shoe rental" ></item>
+<item slot="5" original="Go to lane and put on shoes" ></item>
+<item slot="6" original="Pick out bowling ball" ></item>
+<item slot="7" original="Take bowling ball to lane" ></item>
+<item slot="8" original="Set up score board" ></item>
+<item slot="9" original="Play Game" ></item>
+<item slot="10" original="Return bowling ball to rack" ></item>
+<item slot="11" original="Return shoes to counter" ></item>
+<item slot="12" original="Walk out door" ></item>
+<item slot="13" original="Drive home" ></item>
+</script><script id="83" source="2"><item slot="1" original="Pick a bowling alley." ></item>
+<item slot="2" original="Find friends to go with you." ></item>
+<item slot="3" original="Go to bowling alley." ></item>
+<item slot="4" original="Go in." ></item>
+<item slot="5" original="Go up to clerk." ></item>
+<item slot="6" original="Pay clerk to bowl." ></item>
+<item slot="7" original="Pay clerk to rent bowling shoes." ></item>
+<item slot="8" original="Wait for all friends to join you in a game." ></item>
+<item slot="9" original="Start bowling." ></item>
+<item slot="10" original="Enjoy." ></item>
+</script><script id="84" source="2"><item slot="1" original="Drive to the bowling alley" ></item>
+<item slot="2" original="Rent a lane and bowling shoes" ></item>
+<item slot="3" original="Set up scoring computer with everyone's names" ></item>
+<item slot="4" original="Find a ball that is your desired weight" ></item>
+<item slot="5" original="Take turns throwing the bowling ball down the lane to hit the pins" ></item>
+<item slot="6" original="Put your ball back when you are done" ></item>
+<item slot="7" original="Return your shoes and pay for the time you bowled" ></item>
+<item slot="8" original="Go home" ></item>
+</script><script id="85" source="2"><item slot="1" original="pick a place" ></item>
+<item slot="2" original="pick a lane" ></item>
+<item slot="3" original="pick a ball" ></item>
+<item slot="4" original="rent shoes" ></item>
+<item slot="5" original="have fun" ></item>
+</script><script id="86" source="2"><item slot="1" original="Ask friends if they want to go" ></item>
+<item slot="2" original="Go to the bowling alley" ></item>
+<item slot="3" original="Pay for bowling" ></item>
+<item slot="4" original="Get rental shoes" ></item>
+<item slot="5" original="Find a ball to use" ></item>
+<item slot="6" original="Put names into the score board" ></item>
+<item slot="7" original="Begin bowling." ></item>
+</script><script id="87" source="2"><item slot="1" original="Make plans with friends to meet at a bowling alley" ></item>
+<item slot="2" original="Go to the Bowling alley" ></item>
+<item slot="3" original="Pay" ></item>
+<item slot="4" original="Get some shoes" ></item>
+<item slot="5" original="Find a ball" ></item>
+<item slot="6" original="Go to your lane" ></item>
+<item slot="7" original="Take turns rolling your balls down the lane and keep score" ></item>
+</script><script id="88" source="2"><item slot="1" original="Drive to bowling alley" ></item>
+<item slot="2" original="Pay for lane" ></item>
+<item slot="3" original="Put on shoes" ></item>
+<item slot="4" original="Find the right ball" ></item>
+<item slot="5" original="Go to lane" ></item>
+<item slot="6" original="Throw ball" ></item>
+<item slot="7" original="Hit some pins" ></item>
+<item slot="8" original="Take off shoes" ></item>
+<item slot="9" original="Go home" ></item>
+</script><script id="89" source="2"><item slot="1" original="Enter the bowling alley" ></item>
+<item slot="2" original="Register name along with friends" ></item>
+<item slot="3" original="Wear bowling shoes provided" ></item>
+<item slot="4" original="Wait in the hall viewing magazines" ></item>
+<item slot="5" original="Upon calling go to the bowling table" ></item>
+<item slot="6" original="Take the ball insert fingers in the slots properly" ></item>
+<item slot="7" original="Bowl" ></item>
+<item slot="8" original="Give the ball to friends" ></item>
+<item slot="9" original="Wait for my turn" ></item>
+<item slot="10" original="Finish the game finally" ></item>
+<item slot="11" original="Come out of the bowling alley" ></item>
+</script><script id="90" source="2"><item slot="1" original="Go to bowling alley" ></item>
+<item slot="2" original="Rent shoes" ></item>
+<item slot="3" original="Pay for games" ></item>
+<item slot="4" original="Change into bowling shoes" ></item>
+<item slot="5" original="Pick a ball" ></item>
+<item slot="6" original="Set up lane" ></item>
+<item slot="7" original="Pick up ball" ></item>
+<item slot="8" original="Bowl ball down lane" ></item>
+<item slot="9" original="Hit pens" ></item>
+<item slot="10" original="Pick up ball again" ></item>
+<item slot="11" original="Bowl down lane" ></item>
+<item slot="12" original="Repeat till end of game" ></item>
+<item slot="13" original="Take off shoes" ></item>
+<item slot="14" original="Return shoes" ></item>
+<item slot="15" original="Leave bowling alley" ></item>
+</script><script id="91" source="2"><item slot="1" original="Get some friends together" ></item>
+<item slot="2" original="Find and go to a local bowling ally" ></item>
+<item slot="3" original="Pay for game and get shoes" ></item>
+<item slot="4" original="Start game" ></item>
+<item slot="5" original="Take turns throwing a ball at pins" ></item>
+</script><script id="92" source="2"><item slot="1" original="Gather friends and family for bowling night" ></item>
+<item slot="2" original="Get into car" ></item>
+<item slot="3" original="Drive to bowling alley" ></item>
+<item slot="4" original="Pay for bowling lane and shoe rental" ></item>
+<item slot="5" original="Order food and drinks" ></item>
+<item slot="6" original="Pick out bowling ball" ></item>
+<item slot="7" original="List names on bowling scorecard" ></item>
+<item slot="8" original="Bowl" ></item>
+</script><script id="93" source="2"><item slot="1" original="Go to bowling alley" ></item>
+<item slot="2" original="Go to counter" ></item>
+<item slot="3" original="Pay for number of desired games" ></item>
+<item slot="4" original="Rent shoes if necessary" ></item>
+<item slot="5" original="Change shoes to bowling shoes" ></item>
+<item slot="6" original="Go to lane" ></item>
+<item slot="7" original="Play purchased number of games" ></item>
+<item slot="8" original="Optional: enjoy snacks and drinks from snack bar" ></item>
+<item slot="9" original="Optional: play video games, billiards, etc." ></item>
+<item slot="10" original="Return rented shoes" ></item>
+<item slot="11" original="Put on regular shoes" ></item>
+<item slot="12" original="Leave" ></item>
+</script><script id="94" source="2"><item slot="1" original="Drive to bowling alley" ></item>
+<item slot="2" original="Purchase rental of shoes" ></item>
+<item slot="3" original="Purchase number of games" ></item>
+<item slot="4" original="Select bowling ball" ></item>
+<item slot="5" original="Begin game" ></item>
+<item slot="6" original="Roll ball down the alley towards the pins" ></item>
+<item slot="7" original="Attempt to knock the pins down with the ball" ></item>
+</script><script id="95" source="2"><item slot="1" original="decide which bowling alley to go to" ></item>
+<item slot="2" original="drive to bowling alley" ></item>
+<item slot="3" original="enter bowling alley" ></item>
+<item slot="4" original="go to counter" ></item>
+<item slot="5" original="rent shoes" ></item>
+<item slot="6" original="pay for the lane" ></item>
+<item slot="7" original="go to lane" ></item>
+<item slot="8" original="pick out bowling ball" ></item>
+<item slot="9" original="put on bowling shoes" ></item>
+<item slot="10" original="put names in computer" ></item>
+<item slot="11" original="begin bowling" ></item>
+</script><script id="96" source="2"><item slot="1" original="Choose your bowling alley." ></item>
+<item slot="2" original="Travel to the bowling alley." ></item>
+<item slot="3" original="Get your bowling shoes at the counter, and ask the person working to assign you to a lane." ></item>
+<item slot="4" original="Walk to your designated lane and select the bowling ball you would like to use." ></item>
+<item slot="5" original="Enter your group's information into the scoring computer." ></item>
+<item slot="6" original="Decide the order in which your group will bowl." ></item>
+<item slot="7" original="When it is your turn, travel to the line and roll your bowling ball." ></item>
+<item slot="8" original="Bowl until 10 rounds have passed." ></item>
+<item slot="9" original="Return your shoes to the counter and pay for your game." ></item>
+<item slot="10" original="Leave the bowling alley." ></item>
+</script><script id="97" source="2"><item slot="1" original="go to the bowling alley" ></item>
+<item slot="2" original="get shoes" ></item>
+<item slot="3" original="Pick a ball" ></item>
+<item slot="4" original="choose a lane" ></item>
+<item slot="5" original="Roll the ball" ></item>
+</script><script id="98" source="2"><item slot="1" original="Enter the bowling alley." ></item>
+<item slot="2" original="Go to the front desk." ></item>
+<item slot="3" original="Rent shoes." ></item>
+<item slot="4" original="Put on shoes and pick a lane." ></item>
+<item slot="5" original="Start the game." ></item>
+<item slot="6" original="Play your best against your friends." ></item>
+<item slot="7" original="Return your shoes." ></item>
+<item slot="8" original="Leave the bowling alley." ></item>
+</script><script id="99" source="2"><item slot="1" original="If you have your own bowling gear, pack it." ></item>
+<item slot="3" original="Go to the bowling alley." ></item>
+<item slot="4" original="Go to the front desk and pay for your lane." ></item>
+<item slot="5" original="If you need shoes, ask for them and also go pick out your ball." ></item>
+<item slot="7" original="Find your lane." ></item>
+<item slot="8" original="You can play alone or with friends." ></item>
+<item slot="9" original="Work hard to get a strike." ></item>
+<item slot="10" original="Enjoy your game!" ></item>
+</script></scripts>

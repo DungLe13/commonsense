@@ -1,0 +1,32 @@
+The partial alignment information was crowdsourced via M-Turk using a representative set of 10 scenarios, with approximately 100 ESDs each, to be used in the alignment study.
+
+The workers were presented with a source and a target ESD and asked to link highlighted descriptions from the source ESD with those event descriptions from the target ESD that were semantically similar to those in the source ESD. 
+* In the simplest case, workers linked one event description in the source ESD to one event description in the target ESD (ED-to-ED link).
+* If the target ESD did not contain any matching event description, the workers could either 
+	* select a position between two event descriptions on the target side where the source event would usually take place (ED-to-inbetween links),
+	* or they could indicate that no linking at all is possible (no-links).
+
+The data was collected in 3 stages:
+
+(1) linkingResult_pilot -> collected in a pilot study using the ESDs in the pilot ESD collection (source="1") using 10 scenarios with approximately 10 ESds each.
+
+--------------------------------------
+Attributes:
+Scenario-> one of the 10 scenarios
+WorkerId-> the ID of the worker from Amazon Mechanical Turk
+lhs_script-> script_ID of the Source ESD
+rhs_script-> script_ID of the Target ESD
+lhs_item -> slot value of the event description highlighted in the Source ESD
+rhs_item -> slot value of the event description chosen by the worker to be most similar to the highlighted event description in the Source ESD (ED-to-ED link)
+before_item and after_item -> the position between two event descriptions on the target side where the source event would typically take place (ED-to-inbetween links)
+noLinkingPossible -> no linking at all is possible (no-links)
+goldenStandard -> slot value of the event description chosen by expert annotators to be most similar to the highlighted event description in the source ESD
+--------------------------------------
+
+(2) and (3) linkingResult_phase1 and linkingResult_phase2 -> collected using the ESDs in the second ESD collection (source="2") using 10 scenarios with approximately 100 ESDs each.
+
+--------------------------------------
+Attributes:
+result -> ED-to-ED link, or ED-to-inbetween links (between_x_y or before_x) and no-links (noLinkingPossible)
+outlier/stable -> o for outlier event descriptions and s for stable event descriptions
+--------------------------------------

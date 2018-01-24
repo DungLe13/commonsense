@@ -1,0 +1,1050 @@
+<scripts><script id="1" source="2"><item slot="1" original="Get detergent" ></item>
+<item slot="2" original="Add to washing machine" ></item>
+<item slot="3" original="Adjust washing machine settings" ></item>
+<item slot="4" original="Put laundry in" ></item>
+<item slot="5" original="Turn washer on" ></item>
+<item slot="6" original="Put dryer sheet in dryer" ></item>
+<item slot="7" original="Pull wet clothes from washer" ></item>
+<item slot="8" original="Put wet clothes in dryer" ></item>
+<item slot="9" original="Turn dryer on" ></item>
+<item slot="10" original="Remove clean, dry clothes" ></item>
+</script><script id="2" source="2"><item slot="1" original="Get dirty clothes" ></item>
+<item slot="2" original="Put dirty clothes in the washing machine" ></item>
+<item slot="3" original="Add detergent and turn on the washing machine" ></item>
+<item slot="4" original="Remove clothes from the washing machine" ></item>
+<item slot="5" original="Place the clothes in the dryer" ></item>
+<item slot="6" original="Turn on the dryer" ></item>
+<item slot="7" original="Remove clean laundry from the dryer" ></item>
+</script><script id="3" source="2"><item slot="1" original="Separate whites from darks." ></item>
+<item slot="2" original="Put laundry into  machine." ></item>
+<item slot="3" original="Add laundry detergent." ></item>
+<item slot="4" original="Enter setting on washing machine." ></item>
+<item slot="5" original="Wait until the machine is finished." ></item>
+<item slot="6" original="Remove laundry and put in dryer." ></item>
+<item slot="7" original="Enter setting on dryer." ></item>
+<item slot="8" original="Wait until clothes are dry." ></item>
+<item slot="9" original="Remove clothes." ></item>
+<item slot="10" original="Fold and hang up clothes." ></item>
+<item slot="11" original="Put clothes away." ></item>
+</script><script id="4" source="2"><item slot="1" original="Turn on the washer" ></item>
+<item slot="2" original="Put laundry detergent in" ></item>
+<item slot="3" original="Sort clothes by color" ></item>
+<item slot="4" original="Put a load in the washer of one color" ></item>
+<item slot="5" original="Shut lid" ></item>
+</script><script id="5" source="2"><item slot="1" original="put dirty clothes in bag" ></item>
+<item slot="2" original="get soap" ></item>
+<item slot="3" original="carry clothes and soap to basement" ></item>
+<item slot="4" original="open washer" ></item>
+<item slot="5" original="add clothes" ></item>
+<item slot="6" original="add soap" ></item>
+<item slot="7" original="set wash cycle" ></item>
+<item slot="8" original="run washer" ></item>
+<item slot="9" original="leave" ></item>
+<item slot="10" original="return at end of cycle" ></item>
+<item slot="11" original="remove clean clothes" ></item>
+<item slot="12" original="place in clean clothes bag" ></item>
+<item slot="13" original="bring up to bathroom" ></item>
+<item slot="14" original="hang clothes on rack in bathtub to dry" ></item>
+</script><script id="6" source="2"><item slot="1" original="Locate washer and dryer" ></item>
+<item slot="2" original="Locate dirty clothes" ></item>
+<item slot="3" original="Place dirty clothes into washer" ></item>
+<item slot="4" original="Select desired setting on washer" ></item>
+<item slot="5" original="Add laundry detergent to washer" ></item>
+<item slot="6" original="Start the washing machine." ></item>
+<item slot="7" original="When washer ends, move clothes to dryer." ></item>
+<item slot="8" original="Add dryer sheet to dryer" ></item>
+<item slot="9" original="Make selection on dryer" ></item>
+<item slot="10" original="Start dryer" ></item>
+<item slot="11" original="Remove clothes when dryer is finished" ></item>
+</script><script id="7" source="2"><item slot="1" original="Gather all dirty clothes and linens throughout the house" ></item>
+<item slot="2" original="Sort laundry according to  lights, darks and whites" ></item>
+<item slot="3" original="Open lid on washing machine" ></item>
+<item slot="4" original="Fill washer loosely with clothes" ></item>
+<item slot="5" original="Add detergent amount according to directions on bottle" ></item>
+<item slot="6" original="Clothes lid on washing machine" ></item>
+<item slot="7" original="Set dial for desired wash cycle" ></item>
+<item slot="8" original="When clothes are done washing and washing machine has stopped open lid" ></item>
+<item slot="9" original="Take clothes out of washing machine" ></item>
+<item slot="10" original="Either hang clothes outside to dry or place in to dryer" ></item>
+<item slot="11" original="Set dryer to desired length and temperature" ></item>
+<item slot="12" original="When dryer stops take clothes out" ></item>
+<item slot="13" original="Fold clothes" ></item>
+<item slot="14" original="Put clothes away" ></item>
+</script><script id="8" source="2"><item slot="1" original="Getting dirty clothes" ></item>
+<item slot="2" original="Separating whites and colors" ></item>
+<item slot="3" original="Putting into machine" ></item>
+<item slot="4" original="Add soap" ></item>
+<item slot="5" original="Add softener" ></item>
+<item slot="6" original="Turn dial to preferred setting" ></item>
+<item slot="7" original="Turn on machine" ></item>
+</script><script id="9" source="2"><item slot="1" original="Get dirty clothes" ></item>
+<item slot="2" original="Put in washing machine" ></item>
+<item slot="3" original="Put in detergent" ></item>
+<item slot="4" original="Turn on washing machine" ></item>
+<item slot="5" original="Wait for cycle to end" ></item>
+<item slot="6" original="Take out clothes" ></item>
+<item slot="7" original="Put them in dryer" ></item>
+<item slot="8" original="Turn on dryer" ></item>
+<item slot="9" original="Wait for cycle to end" ></item>
+<item slot="10" original="Take out clothes" ></item>
+<item slot="11" original="Fold them" ></item>
+</script><script id="10" source="2"><item slot="1" original="gather dirty laundry in basket" ></item>
+<item slot="2" original="start washer" ></item>
+<item slot="3" original="pour in detergent" ></item>
+<item slot="4" original="put in clothes" ></item>
+<item slot="5" original="add softener (optional)" ></item>
+<item slot="6" original="once finished, move clothes to dryer" ></item>
+<item slot="7" original="add dryer sheet" ></item>
+<item slot="8" original="start dryer" ></item>
+<item slot="9" original="take clean and dry clothes out" ></item>
+</script><script id="11" source="2"><item slot="1" original="Gather dirty laundry in basket" ></item>
+<item slot="2" original="Get detergent and softener" ></item>
+<item slot="3" original="Select cycle on washing machine" ></item>
+<item slot="4" original="Pour in detergent and softener" ></item>
+<item slot="5" original="Put in clothes" ></item>
+<item slot="6" original="Close lid and press start" ></item>
+<item slot="7" original="Wait for wash to be done" ></item>
+<item slot="8" original="Remove and place in dryer" ></item>
+<item slot="9" original="Select heat and duration" ></item>
+<item slot="10" original="Close lid and press start" ></item>
+<item slot="11" original="Wait for laundry to dry" ></item>
+<item slot="12" original="Remove laundry" ></item>
+<item slot="13" original="Fold laundry" ></item>
+</script><script id="12" source="2"><item slot="1" original="Put clothes in basket" ></item>
+<item slot="2" original="Walk to washing machine" ></item>
+<item slot="3" original="Put clothes in machine" ></item>
+<item slot="4" original="Put soap in machine" ></item>
+<item slot="5" original="Turn on machine" ></item>
+<item slot="6" original="When done put clothes in dryer" ></item>
+</script><script id="13" source="2"><item slot="1" original="Please switch on the water motor and the washing machine" ></item>
+<item slot="2" original="Make it clean" ></item>
+<item slot="3" original="Don't over load the washing machine" ></item>
+<item slot="4" original="Please Hand-wash delicate items" ></item>
+<item slot="5" original="Please give me the detergent powder" ></item>
+<item slot="6" original="Dry careful" ></item>
+<item slot="7" original="check the water temperature" ></item>
+</script><script id="14" source="2"><item slot="1" original="Separate whites and colors" ></item>
+<item slot="2" original="Put whites in washing machine" ></item>
+<item slot="3" original="Set machine to whites and add bleach and detergent" ></item>
+<item slot="4" original="Start machine" ></item>
+<item slot="5" original="Wait for machine to finish" ></item>
+<item slot="6" original="Take clothes out of washing machine" ></item>
+<item slot="7" original="Put whites in dryer" ></item>
+<item slot="8" original="Put colors in washing machine" ></item>
+<item slot="9" original="Set machine to colors add detergent" ></item>
+<item slot="10" original="Turn washing machine on" ></item>
+<item slot="11" original="Turn dryer on" ></item>
+<item slot="12" original="Wait for dryer to finish" ></item>
+<item slot="13" original="Take whites out of dryer" ></item>
+<item slot="14" original="Put colors in dryer" ></item>
+<item slot="15" original="Wait for dryer to finish" ></item>
+<item slot="16" original="Fold all clothes" ></item>
+</script><script id="15" source="2"><item slot="1" original="Collect dirty clothes" ></item>
+<item slot="2" original="Throw them in washer" ></item>
+<item slot="3" original="Put laundry soap in" ></item>
+<item slot="4" original="Close door" ></item>
+<item slot="5" original="Choose settings" ></item>
+<item slot="6" original="Begin washing" ></item>
+<item slot="7" original="Remove clothes" ></item>
+<item slot="8" original="Place in dryer" ></item>
+<item slot="9" original="Choose setting" ></item>
+<item slot="10" original="Dry clothes" ></item>
+<item slot="11" original="Remove clothes" ></item>
+</script><script id="16" source="2"><item slot="1" original="Get the dirty clothes from the hamper." ></item>
+<item slot="2" original="Sort the loads into colors, whites and delicates" ></item>
+<item slot="3" original="Take the colors load to the dryer" ></item>
+<item slot="4" original="Put in the washer" ></item>
+<item slot="5" original="Add laundry soap and fabric softener." ></item>
+<item slot="6" original="Run the washer for 40 minutes" ></item>
+<item slot="7" original="Make sure the dryer lint trap is clean" ></item>
+<item slot="8" original="Move clothes from washer into dryer." ></item>
+<item slot="9" original="put fabric softener sheet in dryer" ></item>
+<item slot="10" original="Run dryer for an hour" ></item>
+<item slot="11" original="take clothes out and fold them" ></item>
+<item slot="12" original="Put the clothes away" ></item>
+<item slot="13" original="repeat the process for whites" ></item>
+<item slot="14" original="Delicates go in the washer" ></item>
+<item slot="15" original="hang them to dry after washing" ></item>
+</script><script id="17" source="2"><item slot="1" original="sort dirty clothes" ></item>
+<item slot="2" original="take to washer put in" ></item>
+<item slot="3" original="turn on washer add detergent" ></item>
+<item slot="4" original="wait till done" ></item>
+<item slot="5" original="take out" ></item>
+<item slot="6" original="put in dryer" ></item>
+</script><script id="18" source="2"><item slot="1" original="Gather dirty laundry in a basket" ></item>
+<item slot="2" original="Take basket of laundry into laundry room" ></item>
+<item slot="3" original="Open washer door" ></item>
+<item slot="4" original="Put laundry into washer" ></item>
+<item slot="5" original="Close washer door" ></item>
+<item slot="6" original="Open small compartment for detergent" ></item>
+<item slot="7" original="Put detergent into compartment and close" ></item>
+<item slot="8" original="Start the washer on desired wash setting and wait" ></item>
+<item slot="9" original="Remove laundry from washer when completed" ></item>
+<item slot="10" original="Put into dryer" ></item>
+<item slot="11" original="Set dryer to desired time and start drying" ></item>
+<item slot="12" original="Remove laundry from dryer when completed" ></item>
+<item slot="13" original="Fold or hang up clothing and put away basket" ></item>
+</script><script id="19" source="2"><item slot="1" original="Gather dirty laundry" ></item>
+<item slot="2" original="Sort white laundry from color laundry" ></item>
+<item slot="3" original="Put one load of laundry in washing machine" ></item>
+<item slot="4" original="Fill machine with water" ></item>
+<item slot="5" original="Add detergent to machine" ></item>
+<item slot="6" original="Close lid" ></item>
+<item slot="7" original="Wait until machine stops" ></item>
+<item slot="8" original="Move laundry to drier" ></item>
+<item slot="9" original="Start drier" ></item>
+<item slot="10" original="Repeat as necessary" ></item>
+</script><script id="20" source="2"><item slot="1" original="Gather dirty clothes." ></item>
+<item slot="2" original="Go to washing machine." ></item>
+<item slot="3" original="Open." ></item>
+<item slot="4" original="Load detergent," ></item>
+<item slot="5" original="Load laundry into machine." ></item>
+<item slot="6" original="Close door and select settings." ></item>
+<item slot="7" original="Hit start." ></item>
+<item slot="8" original="When complete, move to dryer." ></item>
+<item slot="9" original="Choose settings." ></item>
+<item slot="10" original="Hit start." ></item>
+<item slot="11" original="When done, remove to basket." ></item>
+<item slot="12" original="Fold clothes in basket." ></item>
+<item slot="13" original="Put away." ></item>
+</script><script id="21" source="2"><item slot="1" original="Sort the types of clothes" ></item>
+<item slot="2" original="Empty the pockets of shirts and pants" ></item>
+<item slot="3" original="Switch on the washing machine and open the water tap" ></item>
+<item slot="4" original="Pour enough washing liquid detergent and let it soak" ></item>
+<item slot="5" original="Put the clothes inside and press the start button" ></item>
+<item slot="6" original="The machine will wash the clothes" ></item>
+<item slot="7" original="Open the W/M door before final rinse" ></item>
+<item slot="8" original="Add fabric softener" ></item>
+<item slot="9" original="Stop the machine upon beep sound" ></item>
+<item slot="10" original="Take the clothes and hang to dry" ></item>
+</script><script id="22" source="2"><item slot="1" original="First Familiarize Yourself with Your Machines." ></item>
+<item slot="2" original="To avoid cluster sort Your Clothes according to variety ex : wool, cotton, silk etc.," ></item>
+<item slot="3" original="Be careful with the clothes which colors that may fade so be careful in separating them." ></item>
+<item slot="4" original="Before soaking in water first check all pockets for sure no things or currency etc., left." ></item>
+<item slot="5" original="Choose correct detergent to avoid spoiling the clothes." ></item>
+<item slot="6" original="Once you mixed the detergent to water put clothes and select appropriate button." ></item>
+<item slot="7" original="After wash take the cloth and hang separately on the hanger for avoiding soapy smell." ></item>
+<item slot="8" original="Take all the clothes fold it as you wish and keep in the cupboard." ></item>
+<item slot="9" original="Don't forget to change the anti pest pouch once a month or as directed." ></item>
+</script><script id="23" source="2"><item slot="1" original="Get dirty clothes basket" ></item>
+<item slot="2" original="Carry dirty clothes to laundry room" ></item>
+<item slot="3" original="Open washing machine" ></item>
+<item slot="4" original="Put dirty clothes in washer" ></item>
+<item slot="5" original="Put detergent in washer" ></item>
+<item slot="6" original="Close the washer" ></item>
+<item slot="7" original="Set the washer" ></item>
+<item slot="8" original="Turn on the washer" ></item>
+</script><script id="24" source="2"><item slot="1" original="Take dirty clothes out the hamper" ></item>
+<item slot="2" original="Separate them into colors and whites" ></item>
+<item slot="3" original="Get detergent" ></item>
+<item slot="4" original="Put detergent into the washing machine" ></item>
+<item slot="5" original="Put the whites into the wash and wait for it to finish" ></item>
+<item slot="6" original="Put the whites into the dryer" ></item>
+<item slot="7" original="Put detergent into the wash" ></item>
+<item slot="8" original="Put colors into the washing machine" ></item>
+<item slot="9" original="Take whites out of the dryer" ></item>
+<item slot="10" original="Put colors into the dryer" ></item>
+<item slot="11" original="Take colors out of the dryer" ></item>
+<item slot="12" original="Fold the clothes and put them away" ></item>
+</script><script id="25" source="2"><item slot="1" original="Open the laundry bin" ></item>
+<item slot="2" original="Take clothes out that need to be washed" ></item>
+<item slot="3" original="Separate clothes into piles according to color" ></item>
+<item slot="4" original="Pick up clothes from floor" ></item>
+<item slot="5" original="Carry clothes and put them into washing machine" ></item>
+<item slot="6" original="Close the washing machine" ></item>
+<item slot="7" original="Turn the washing machine on" ></item>
+</script><script id="26" source="2"><item slot="1" original="Gather the dirty clothes to be washed" ></item>
+<item slot="2" original="Take the laundry to the washing machine" ></item>
+<item slot="3" original="Place the dirty clothes inside the washer" ></item>
+<item slot="4" original="Add the laundry detergent to the washing machine" ></item>
+<item slot="5" original="Turn on the washing machine" ></item>
+<item slot="6" original="Let the washing machine clean the cloths." ></item>
+</script><script id="27" source="2"><item slot="1" original="Put dirty clothes in basket" ></item>
+<item slot="2" original="Grab each article of clothing separately and put into washer" ></item>
+<item slot="3" original="Take laundry detergent and fill cap with it" ></item>
+<item slot="4" original="Empty cap into washing machine" ></item>
+<item slot="5" original="Select settings" ></item>
+<item slot="6" original="Turn machine on" ></item>
+</script><script id="28" source="2"><item slot="1" original="Sort clothes into whites, darks and reds" ></item>
+<item slot="2" original="gather up clothes" ></item>
+<item slot="3" original="put in washer" ></item>
+<item slot="4" original="turn on washer to cold" ></item>
+<item slot="5" original="put in soap" ></item>
+<item slot="6" original="wait" ></item>
+<item slot="7" original="once done remove and set in dryer" ></item>
+<item slot="8" original="turn on dryer" ></item>
+<item slot="9" original="remove" ></item>
+</script><script id="29" source="2"><item slot="1" original="Get all dirty laundry together." ></item>
+<item slot="2" original="Take to laundry room." ></item>
+<item slot="3" original="Add laundry soap to washer." ></item>
+<item slot="4" original="Add clothes." ></item>
+<item slot="5" original="Turn washer on." ></item>
+<item slot="6" original="Wait for clothes to finish." ></item>
+<item slot="7" original="Switch the washer load into the dryer." ></item>
+<item slot="8" original="Add a dryer sheet." ></item>
+<item slot="9" original="Turn dryer on." ></item>
+<item slot="10" original="When dryer is done, take clothes out." ></item>
+<item slot="11" original="Fold and put away." ></item>
+</script><script id="30" source="2"><item slot="1" original="place dirty clothes in basket" ></item>
+<item slot="2" original="Sorting and preparing dirty clothes" ></item>
+<item slot="3" original="Sort out dirty clothes into different piles by colors" ></item>
+<item slot="4" original="Treat any heavy stains on clothes" ></item>
+<item slot="5" original="Check all pant pockets for of any money, pens etc.." ></item>
+<item slot="6" original="Washing your clothes" ></item>
+<item slot="7" original="Select the appropriate water temperature" ></item>
+<item slot="8" original="Add clothes to washer" ></item>
+<item slot="9" original="Add detergent" ></item>
+<item slot="10" original="After wash shake clothes out" ></item>
+<item slot="11" original="Put dryer sheet in dryer" ></item>
+<item slot="12" original="Check lint tray before drying" ></item>
+<item slot="13" original="Choose which drying level you want" ></item>
+<item slot="14" original="Take out of dryer" ></item>
+<item slot="15" original="Place clothes in basket" ></item>
+<item slot="16" original="Fold clothes and put away" ></item>
+</script><script id="31" source="2"><item slot="1" original="Put dirty laundry in basket" ></item>
+<item slot="2" original="Take basket to the laundry room" ></item>
+<item slot="3" original="Turn washing machine on" ></item>
+<item slot="4" original="Pour laundry soap into washing machine" ></item>
+<item slot="5" original="Put dirty clothes into washing machine" ></item>
+<item slot="6" original="Close the lid" ></item>
+<item slot="7" original="Wait for washing machine to stop" ></item>
+<item slot="8" original="Take clothes out fo washing machine and place into dryer" ></item>
+<item slot="9" original="Put dryer sheet into dryer" ></item>
+<item slot="10" original="Start dryer" ></item>
+<item slot="11" original="Wait for clothes to dry" ></item>
+<item slot="12" original="Take clothes out of dryer" ></item>
+<item slot="13" original="Put clothes in laundry basket" ></item>
+<item slot="14" original="Take clothes to room" ></item>
+<item slot="15" original="Put clothes away" ></item>
+</script><script id="32" source="2"><item slot="1" original="Gather dirty clothes" ></item>
+<item slot="2" original="Throw clothes into washer" ></item>
+<item slot="3" original="Add detergent" ></item>
+<item slot="4" original="Start washing machine" ></item>
+<item slot="5" original="Wait until it's done washing" ></item>
+<item slot="6" original="Remove wet clothes from washing machine" ></item>
+<item slot="7" original="Throw wet clothes into dryer" ></item>
+<item slot="8" original="Wait until dryer is done drying clothes" ></item>
+</script><script id="33" source="2"><item slot="1" original="Bring dirty laundry to laundry room." ></item>
+<item slot="2" original="Separate delicate clothes from other clothes." ></item>
+<item slot="3" original="Put similar clothes into washing machine." ></item>
+<item slot="4" original="Close door to laundry machine tightly." ></item>
+<item slot="5" original="Add laundry soap to machine." ></item>
+<item slot="6" original="Select appropriate wash cycle for type of clothing." ></item>
+<item slot="7" original="Wait 50 minutes." ></item>
+<item slot="8" original="Remove wet clothes and put them into dryer." ></item>
+<item slot="9" original="Put in dryer sheet with clothes." ></item>
+<item slot="10" original="Set timer for approximately 30 minutes." ></item>
+<item slot="11" original="Remove clothes from dryer and fold immediately." ></item>
+</script><script id="34" source="2"><item slot="1" original="Gather up all dirty clothes" ></item>
+<item slot="2" original="Take dirty clothes to the washing machine" ></item>
+<item slot="3" original="Sort clothes by whether they are dark, light or towels" ></item>
+<item slot="4" original="Put one of the piles of laundry in the washing machine" ></item>
+<item slot="5" original="Add detergent to the machine" ></item>
+<item slot="6" original="push button to start machine" ></item>
+<item slot="7" original="After washer is done, take clothes out and put them in the dryer" ></item>
+<item slot="8" original="Turn on dryer" ></item>
+<item slot="9" original="When clothes are dry take them out and fold them" ></item>
+</script><script id="35" source="2"><item slot="1" original="Getting dirty clothes." ></item>
+<item slot="2" original="Separating the dark colors from the white colors." ></item>
+<item slot="3" original="Put the clothes in the washing machine." ></item>
+<item slot="4" original="Pour in the detergent." ></item>
+<item slot="5" original="Close the lid" ></item>
+<item slot="6" original="Turn on the washing machine." ></item>
+<item slot="7" original="Turn it to the correct settings." ></item>
+<item slot="8" original="Wait until it's done." ></item>
+<item slot="9" original="Put the clothes in the drying machine." ></item>
+<item slot="10" original="Wait until it's done." ></item>
+<item slot="11" original="Fold clothes." ></item>
+</script><script id="36" source="2"><item slot="1" original="Gather clothes from hamper" ></item>
+<item slot="2" original="Open washing machine" ></item>
+<item slot="3" original="Add clothes to machine" ></item>
+<item slot="4" original="Open soap" ></item>
+<item slot="5" original="Add soap to machine" ></item>
+<item slot="6" original="Turn dial to wash and hit start" ></item>
+</script><script id="37" source="2"><item slot="1" original="Find dirty clothes" ></item>
+<item slot="2" original="Open washing machine door" ></item>
+<item slot="3" original="Put clothes inside and close door" ></item>
+<item slot="4" original="Get detergent" ></item>
+<item slot="5" original="Open detergent compartment" ></item>
+<item slot="6" original="Add designated amount of detergent" ></item>
+<item slot="7" original="Turn knob to correct wash cycle" ></item>
+<item slot="8" original="Turn machine on and let machine perform cycle" ></item>
+<item slot="9" original="When machine stops, take out clothes" ></item>
+<item slot="10" original="Open dryer door" ></item>
+<item slot="11" original="Add wet laundry to inside of dryer and close door" ></item>
+<item slot="12" original="Choose correct dryer cycle setting" ></item>
+<item slot="13" original="Turn on machine" ></item>
+<item slot="14" original="Wait for clothes to dry to desired temperature" ></item>
+<item slot="15" original="Open door and take clothes out" ></item>
+<item slot="16" original="Fold clothes and put away" ></item>
+</script><script id="38" source="2"><item slot="1" original="Grab hamper" ></item>
+<item slot="2" original="Carry to washing machine" ></item>
+<item slot="3" original="Pour in liquid detergent" ></item>
+<item slot="4" original="Put clothes in washer" ></item>
+<item slot="5" original="Cose lid" ></item>
+<item slot="6" original="Turn on washer" ></item>
+<item slot="7" original="Wait until done" ></item>
+<item slot="8" original="Empty washer" ></item>
+<item slot="9" original="Put clothes in dryer" ></item>
+<item slot="10" original="Turn on dryer" ></item>
+<item slot="11" original="Wait until done" ></item>
+<item slot="12" original="Empty dryer" ></item>
+<item slot="13" original="Put clothes away" ></item>
+</script><script id="39" source="2"><item slot="1" original="Separate your laundry into a color pile and a white pile" ></item>
+<item slot="2" original="Add an appropriate amount of detergent into the washing machine" ></item>
+<item slot="3" original="Take the color pile and put it into the washer" ></item>
+<item slot="4" original="Turn the washer on" ></item>
+<item slot="5" original="After the washer is done move the color clothes into the dryer" ></item>
+<item slot="6" original="Add a dryer sheet and turn on the dryer" ></item>
+<item slot="7" original="Put detergent and a small amount of bleach into the washer" ></item>
+<item slot="8" original="Add the white clothes into the washer" ></item>
+<item slot="9" original="When the color clothes are finished drying remove the color clothes" ></item>
+<item slot="10" original="Move the white clothes into the dryer" ></item>
+<item slot="11" original="Add a dryer sheet to the white clothes" ></item>
+<item slot="12" original="Turn on the dryer" ></item>
+<item slot="13" original="Fold the color clothes" ></item>
+<item slot="14" original="When the white clothes are finished drying remove them and fold them" ></item>
+</script><script id="40" source="2"><item slot="1" original="Put laundry in baskets" ></item>
+<item slot="2" original="Take baskets to basement" ></item>
+<item slot="3" original="Put laundry in the washer" ></item>
+<item slot="4" original="Turn the washer on" ></item>
+<item slot="5" original="Wait for an hour" ></item>
+<item slot="6" original="Take laundry out" ></item>
+<item slot="7" original="Put laundry in dryer." ></item>
+</script><script id="41" source="2"><item slot="1" original="Taking laundry to basement" ></item>
+<item slot="2" original="Turning on washer to fill with water" ></item>
+<item slot="3" original="Putting detergent in washer" ></item>
+<item slot="4" original="Adding clothes to washer" ></item>
+<item slot="5" original="Removing clothes from washer after done" ></item>
+<item slot="6" original="Hanging up clothes to dry" ></item>
+</script><script id="42" source="2"><item slot="1" original="Collect laundry" ></item>
+<item slot="2" original="Sort laundry" ></item>
+<item slot="3" original="Put laundry of one type in washing machine" ></item>
+<item slot="4" original="Add laundry detergent" ></item>
+<item slot="5" original="Add fabric conditioner" ></item>
+<item slot="6" original="Turn on washing machine" ></item>
+<item slot="7" original="When washing machine is done take laundry out of machine" ></item>
+<item slot="8" original="Put wet laundry in dryer" ></item>
+<item slot="9" original="Turn on dryer" ></item>
+<item slot="10" original="When dry, remove clothes from dryer" ></item>
+<item slot="11" original="Fold laundry" ></item>
+</script><script id="43" source="2"><item slot="1" original="Gather dirty clothes" ></item>
+<item slot="2" original="Take them to the washer" ></item>
+<item slot="3" original="Turn on washer" ></item>
+<item slot="4" original="Add soap to washer" ></item>
+<item slot="5" original="Place close in washer" ></item>
+<item slot="6" original="Once washer is down remove clothes" ></item>
+<item slot="7" original="Place in dryer" ></item>
+<item slot="8" original="Turn on dryer" ></item>
+</script><script id="44" source="2"><item slot="1" original="Get dirty clothes" ></item>
+<item slot="2" original="Take to laundry room" ></item>
+<item slot="3" original="Get washing powder" ></item>
+<item slot="4" original="Put 1 cup of powder in machine" ></item>
+<item slot="5" original="Put clothes in machine" ></item>
+<item slot="6" original="Choose cycle" ></item>
+<item slot="7" original="Push start button" ></item>
+<item slot="8" original="Wait until done" ></item>
+<item slot="9" original="Pull clothes out of washer" ></item>
+<item slot="10" original="Put in dryer" ></item>
+<item slot="11" original="Select temperature" ></item>
+<item slot="12" original="Push start" ></item>
+<item slot="13" original="Wait" ></item>
+<item slot="14" original="Take clothes out when done" ></item>
+<item slot="15" original="Fold clothes" ></item>
+</script><script id="45" source="2"><item slot="1" original="Gather dirty laundry" ></item>
+<item slot="2" original="Take it to the washing machine" ></item>
+<item slot="3" original="Turn on the washing machine" ></item>
+<item slot="4" original="Set to desired cycle" ></item>
+<item slot="5" original="Pour desired amount of laundry soap in" ></item>
+<item slot="6" original="Let the soap lather" ></item>
+<item slot="7" original="Add dirty clothes" ></item>
+<item slot="8" original="Close lid" ></item>
+<item slot="9" original="Let the machine run a full cycle" ></item>
+<item slot="10" original="Switch the clothes into the dryer" ></item>
+<item slot="11" original="Set dryer to desired cycle" ></item>
+<item slot="12" original="Shut the door and turn it on" ></item>
+<item slot="13" original="Allow to run full cycle" ></item>
+<item slot="14" original="Add clothes to basket" ></item>
+<item slot="15" original="Fold" ></item>
+<item slot="16" original="Put away" ></item>
+</script><script id="46" source="2"><item slot="1" original="sort whites from colored clothes" ></item>
+<item slot="2" original="put clothers in washer" ></item>
+<item slot="3" original="decide water temp and water level" ></item>
+<item slot="4" original="add soap" ></item>
+<item slot="5" original="start washer" ></item>
+</script><script id="47" source="2"><item slot="1" original="bag up laundry" ></item>
+<item slot="2" original="go to laundry mat" ></item>
+<item slot="3" original="put laundry in washer" ></item>
+<item slot="4" original="pull laundry out of washer" ></item>
+<item slot="5" original="put laundry in dryer" ></item>
+<item slot="6" original="pull laundry out of dryer" ></item>
+<item slot="7" original="fold laundry" ></item>
+</script><script id="48" source="2"><item slot="1" original="put dirty laundry into washing machine" ></item>
+<item slot="2" original="put detergent into washing machine" ></item>
+<item slot="3" original="select was cycle" ></item>
+<item slot="4" original="turn on washing machine" ></item>
+<item slot="5" original="wait for cycle to end" ></item>
+<item slot="6" original="put wet laundry into dryer" ></item>
+<item slot="7" original="put fabric softener into dryer" ></item>
+<item slot="8" original="turn dryer on" ></item>
+<item slot="9" original="wait for cycle to end" ></item>
+<item slot="10" original="remove clean clothes from dryer" ></item>
+</script><script id="49" source="2"><item slot="1" original="Sort clothes by color and how they should be washed" ></item>
+<item slot="2" original="Pretreat any stains on clothing" ></item>
+<item slot="3" original="Choose a pile of clothes" ></item>
+<item slot="4" original="Add soap to the washer" ></item>
+<item slot="5" original="Add fabric softener to the washer" ></item>
+<item slot="6" original="Add clothes" ></item>
+<item slot="7" original="Turn on washer" ></item>
+<item slot="8" original="When cycle is finished, remove clothes" ></item>
+<item slot="9" original="Put clothing in dryer." ></item>
+<item slot="10" original="Add dryer sheet" ></item>
+<item slot="11" original="Turn on." ></item>
+<item slot="12" original="When cycle is finished, remove clothes" ></item>
+<item slot="13" original="Fold clothes" ></item>
+<item slot="14" original="Put clothes away." ></item>
+</script><script id="50" source="2"><item slot="1" original="putting dirty clothes into the washer" ></item>
+<item slot="2" original="cleaning the dirty clothes" ></item>
+<item slot="3" original="washing clothes at the laundry" ></item>
+<item slot="4" original="putting clothes into the dryer" ></item>
+<item slot="5" original="freshening up the dirty clothes" ></item>
+</script><script id="51" source="2"><item slot="1" original="grab dirty laundry" ></item>
+<item slot="2" original="load into washing machine" ></item>
+<item slot="3" original="add detergent" ></item>
+<item slot="4" original="put on machine" ></item>
+<item slot="5" original="remove washed laundry" ></item>
+<item slot="6" original="dry laundry" ></item>
+</script><script id="52" source="2"><item slot="1" original="Gather dirty clothes" ></item>
+<item slot="2" original="Take to laundry room" ></item>
+<item slot="3" original="Choose correct settings on washing machine" ></item>
+<item slot="4" original="Turn on washing machine" ></item>
+<item slot="5" original="Add laundry detergent to washing machine" ></item>
+<item slot="6" original="Add dirty clothes to washing machine" ></item>
+<item slot="7" original="Close lid of washing machine" ></item>
+<item slot="8" original="When complete, put wet clothes in dryer" ></item>
+<item slot="9" original="Choose correct settings on dryer" ></item>
+<item slot="10" original="Turn on dryer" ></item>
+<item slot="11" original="When complete, remove clothes from dryer" ></item>
+<item slot="12" original="Fold clothes" ></item>
+<item slot="13" original="Put away clothes" ></item>
+</script><script id="53" source="2"><item slot="1" original="get laundry to car" ></item>
+<item slot="2" original="drive to laundry mat" ></item>
+<item slot="3" original="put laundry in washer with soap" ></item>
+<item slot="4" original="take laundry out of washer when done" ></item>
+<item slot="5" original="place laundry in dryer" ></item>
+<item slot="6" original="take laundry out of dryer" ></item>
+<item slot="7" original="fold laundry" ></item>
+<item slot="8" original="go home" ></item>
+</script><script id="54" source="2"><item slot="1" original="Obtain dirty clothes" ></item>
+<item slot="2" original="Place clothes in the washer" ></item>
+<item slot="3" original="Place liquids in the washer" ></item>
+<item slot="4" original="Close the lid" ></item>
+<item slot="5" original="Input the washing instructions" ></item>
+<item slot="6" original="Wait till clothes are washed" ></item>
+<item slot="7" original="Place clothes in the dry" ></item>
+<item slot="8" original="Input dryer settings" ></item>
+<item slot="9" original="Wait for the clothes to dry" ></item>
+<item slot="10" original="Remove the clothes" ></item>
+<item slot="11" original="Fold the clothes and place in closet" ></item>
+</script><script id="55" source="2"><item slot="1" original="Placed al dirty clothes in washing machine." ></item>
+<item slot="2" original="Following directions add detergent." ></item>
+<item slot="3" original="Wait for complete run of washing machine." ></item>
+<item slot="4" original="Take clothes out of washing machine." ></item>
+<item slot="5" original="Place clothes in dryer." ></item>
+<item slot="6" original="Remove clothes from dryer when dry." ></item>
+<item slot="7" original="Fold and put away clothes." ></item>
+</script><script id="56" source="2"><item slot="1" original="put dirty items in washing machine" ></item>
+<item slot="2" original="add detergent" ></item>
+<item slot="3" original="set dials to appropriate settings" ></item>
+<item slot="4" original="push start button" ></item>
+<item slot="5" original="wait for cycle to finish" ></item>
+<item slot="6" original="remove wet clothes from washer" ></item>
+<item slot="7" original="put wet clothes in dryer" ></item>
+<item slot="8" original="add softener sheet to dryer" ></item>
+<item slot="9" original="check dryer vent" ></item>
+<item slot="10" original="remove lint from vent if needed" ></item>
+<item slot="11" original="set dials" ></item>
+<item slot="12" original="push start on dryer" ></item>
+<item slot="13" original="remove clothes when completed" ></item>
+<item slot="14" original="fold and put away" ></item>
+</script><script id="57" source="2"><item slot="1" original="put dirty items in washing machine" ></item>
+<item slot="2" original="add detergent" ></item>
+<item slot="3" original="set dials to appropriate settings" ></item>
+<item slot="4" original="push start button" ></item>
+<item slot="5" original="wait for cycle to finish" ></item>
+<item slot="6" original="remove wet clothes from washer" ></item>
+<item slot="7" original="put wet clothes in dryer" ></item>
+<item slot="8" original="add softener sheet to dryer" ></item>
+<item slot="9" original="check dryer vent" ></item>
+<item slot="10" original="remove lint from vent if needed" ></item>
+<item slot="11" original="set dials" ></item>
+<item slot="12" original="push start on dryer" ></item>
+<item slot="13" original="remove clothes when completed" ></item>
+<item slot="14" original="fold and put away" ></item>
+</script><script id="58" source="2"><item slot="1" original="Get dirty hamper." ></item>
+<item slot="2" original="Put dirty clothes in washer." ></item>
+<item slot="3" original="Pour detergent." ></item>
+<item slot="4" original="Start washer." ></item>
+<item slot="5" original="Wait for clothes to finish" ></item>
+<item slot="6" original="Move wet clothes to dryer." ></item>
+<item slot="7" original="Start dryer." ></item>
+<item slot="8" original="Remove clean clothes." ></item>
+<item slot="9" original="Fold clothes." ></item>
+<item slot="10" original="Put clothes in their proper place." ></item>
+</script><script id="59" source="2"><item slot="1" original="Get a load of clothing together" ></item>
+<item slot="2" original="Turn on water in washing machine" ></item>
+<item slot="3" original="Add detergent" ></item>
+<item slot="4" original="Add clothing" ></item>
+<item slot="5" original="Close washer lid and wait" ></item>
+<item slot="6" original="Add clothing to dryer when finished washing" ></item>
+<item slot="7" original="Turn on dryer" ></item>
+<item slot="8" original="Fold clothes when dry" ></item>
+<item slot="9" original="Put clothes away" ></item>
+</script><script id="60" source="2"><item slot="1" original="Gather dirty laundry into a basket" ></item>
+<item slot="2" original="Take to the washing machine" ></item>
+<item slot="3" original="Open the washer" ></item>
+<item slot="4" original="Add detergent" ></item>
+<item slot="5" original="Add clothes" ></item>
+<item slot="6" original="Close the lid" ></item>
+<item slot="7" original="Turn on the machine" ></item>
+<item slot="8" original="When machine is done washing open lid" ></item>
+<item slot="9" original="Remove clothes" ></item>
+<item slot="10" original="Open the dryer" ></item>
+<item slot="11" original="Add clothes" ></item>
+<item slot="12" original="Turn on dryer" ></item>
+<item slot="13" original="When dryer is done open dryer" ></item>
+<item slot="14" original="Remove clothes into a basket" ></item>
+<item slot="15" original="Fold clothes" ></item>
+<item slot="16" original="Put clothes away" ></item>
+</script><script id="61" source="2"><item slot="1" original="Find clothes basket" ></item>
+<item slot="2" original="Take basket to laundry room" ></item>
+<item slot="3" original="Put clothes in wash" ></item>
+<item slot="4" original="Get detergent" ></item>
+<item slot="5" original="Put detergent in wash" ></item>
+<item slot="6" original="Turn on settings" ></item>
+<item slot="7" original="Wait for clothes" ></item>
+<item slot="8" original="Put clothes in dryer" ></item>
+<item slot="9" original="Wait" ></item>
+<item slot="10" original="Take out clothes" ></item>
+<item slot="11" original="Fold clothes" ></item>
+<item slot="12" original="Put away clothes" ></item>
+</script><script id="62" source="2"><item slot="1" original="Go to the laundry hamper" ></item>
+<item slot="2" original="Get a laundry basket" ></item>
+<item slot="3" original="Fill it with close" ></item>
+<item slot="4" original="Take the basket full of clothes to the laundry room" ></item>
+<item slot="5" original="Put the laundry in the machine" ></item>
+</script><script id="63" source="2"><item slot="1" original="Put dirty laundry in washing machine" ></item>
+<item slot="2" original="Pour correct amount of soap and/or bleach and/or fabric softener" ></item>
+<item slot="3" original="Close lid" ></item>
+<item slot="4" original="Turn washer on" ></item>
+<item slot="5" original="Remove clothes when washer finishes" ></item>
+<item slot="6" original="Put wet clothes in dry" ></item>
+<item slot="7" original="When clothes are dry, fold or put away in closet" ></item>
+</script><script id="64" source="2"><item slot="1" original="gather up dirty clothes" ></item>
+<item slot="2" original="sort laundry by colors and type of materials" ></item>
+<item slot="3" original="place first load in the washing machine" ></item>
+<item slot="4" original="close the door" ></item>
+<item slot="5" original="add detergent to the machine" ></item>
+<item slot="6" original="select washing settings" ></item>
+<item slot="7" original="press start and wait for laundry to finish" ></item>
+</script><script id="65" source="2"><item slot="1" original="Get laundry from hamper and put into laundry basket." ></item>
+<item slot="2" original="Go to washer." ></item>
+<item slot="3" original="Put clothes into washer." ></item>
+<item slot="4" original="Add cap-full of liquid detergent." ></item>
+<item slot="5" original="Set temperature on washer." ></item>
+<item slot="6" original="Set the wash length." ></item>
+<item slot="7" original="Close the lid." ></item>
+<item slot="8" original="Start the washer by pushing in the control knob." ></item>
+</script><script id="66" source="2"><item slot="1" original="Gather the laundry into a laundry basket." ></item>
+<item slot="2" original="Sort the laundry into lights, darks and whites." ></item>
+<item slot="3" original="Put a load of laundry into the washing machine." ></item>
+<item slot="4" original="Add laundry detergent." ></item>
+<item slot="5" original="Start the washing machine." ></item>
+<item slot="6" original="Wait until the washing machine cycle is done." ></item>
+<item slot="7" original="Move the laundry from the washing machine into the dryer." ></item>
+<item slot="8" original="Start the dryer." ></item>
+<item slot="9" original="Wait until the drying cycle is done." ></item>
+<item slot="10" original="Remove the clothes from the dryer." ></item>
+<item slot="11" original="Fold the clothes." ></item>
+<item slot="12" original="Iron the clothes if necessary." ></item>
+</script><script id="67" source="2"><item slot="1" original="Collect dirty clothes" ></item>
+<item slot="2" original="Wash the clothes with water and detergent" ></item>
+<item slot="3" original="Rinse the clothes" ></item>
+<item slot="4" original="Dry the clothes" ></item>
+<item slot="5" original="Iron the clothes" ></item>
+</script><script id="68" source="2"><item slot="1" original="Gather clothing and other items that need to be laundered." ></item>
+<item slot="2" original="Start washing machine so that the tub begins to fill with water." ></item>
+<item slot="3" original="Add desired amount of detergent to the filling tub." ></item>
+<item slot="4" original="Add clothing and other items to be laundered into the washing tub." ></item>
+<item slot="5" original="Close the lid of the washer." ></item>
+<item slot="6" original="Wait until the washer has stopped washing." ></item>
+<item slot="7" original="Open the lid of the washer." ></item>
+<item slot="8" original="Take out the items that were washed." ></item>
+<item slot="9" original="Place the wet items into the dryer." ></item>
+<item slot="10" original="Turn dryer on." ></item>
+<item slot="11" original="Run dryer until items are dry." ></item>
+<item slot="12" original="Put away clean dry items." ></item>
+</script><script id="69" source="2"><item slot="1" original="collect clothing" ></item>
+<item slot="2" original="turn on washer to selected setting" ></item>
+<item slot="3" original="place dirty clothing in washing machine" ></item>
+<item slot="4" original="add detergent and fabric softener" ></item>
+<item slot="5" original="close lid to washing machine" ></item>
+<item slot="6" original="wait for washing machine to finish washing clothing" ></item>
+<item slot="7" original="when done place clothing in dryer" ></item>
+<item slot="8" original="turn knob to desired setting" ></item>
+<item slot="9" original="wait for dryer to dry clothing" ></item>
+<item slot="10" original="when finished hung up/fold clothing" ></item>
+</script><script id="70" source="2"><item slot="1" original="Take dirty clothes to laundry room" ></item>
+<item slot="2" original="Separate whites and colors into separate loads" ></item>
+<item slot="3" original="Turn on washing machine" ></item>
+<item slot="4" original="Add laundry detergent" ></item>
+<item slot="5" original="Add 1 load of clothes" ></item>
+<item slot="6" original="Let washer run" ></item>
+<item slot="7" original="When finished, remove clothes from washer" ></item>
+<item slot="8" original="Add washed clothes to dryer" ></item>
+<item slot="9" original="Add fabric softener sheet to dryer" ></item>
+<item slot="10" original="Turn dryer on and let run until clothes are dry" ></item>
+<item slot="11" original="Remove clothes from dryer" ></item>
+<item slot="12" original="Fold clothes" ></item>
+<item slot="13" original="Put clothes away" ></item>
+<item slot="14" original="Repeat for every load of clothes" ></item>
+<item slot="15" original="Add 2nd load of clothes to washer once 1st load has been added to dryer" ></item>
+<item slot="16" original="Remove 1st load from dryer before adding 2nd load to dryer" ></item>
+</script><script id="71" source="2"><item slot="1" original="Get detergent" ></item>
+<item slot="2" original="Remove dirty clothes from hamper" ></item>
+<item slot="3" original="Sort clothes into different loads" ></item>
+<item slot="4" original="Place clothes into laundry basket" ></item>
+<item slot="5" original="Carry basket to washing machine" ></item>
+<item slot="6" original="Turn washing machine on to the proper setting" ></item>
+<item slot="7" original="Add detergent to washing machine" ></item>
+<item slot="8" original="Place clothes in washing machine" ></item>
+<item slot="9" original="Wait for washing machine to finish cycle" ></item>
+<item slot="10" original="Remove washed clothes from washing machine" ></item>
+<item slot="11" original="Place clothes in dryer" ></item>
+<item slot="12" original="Add fabric softener to dryer" ></item>
+<item slot="13" original="Turn on dryer to the proper setting" ></item>
+<item slot="14" original="Wait for clothes to finish drying" ></item>
+<item slot="15" original="Remove clothes from dryer" ></item>
+<item slot="16" original="Put clothes away" ></item>
+</script><script id="72" source="2"><item slot="1" original="Open washing machine." ></item>
+<item slot="2" original="Put dirty laundry inside." ></item>
+<item slot="3" original="Measure out soap." ></item>
+<item slot="4" original="Put soap into washing machine." ></item>
+<item slot="5" original="Close washing machine." ></item>
+<item slot="6" original="Turn on washing machine and wait for it to end." ></item>
+<item slot="7" original="Open washing machine." ></item>
+<item slot="8" original="Open dryer." ></item>
+<item slot="9" original="Take out washed clothes and put into dryer." ></item>
+<item slot="10" original="Close dryer." ></item>
+<item slot="11" original="Turn on dryer." ></item>
+<item slot="12" original="Wait for dryer to end." ></item>
+<item slot="13" original="Take out clean clothes." ></item>
+<item slot="14" original="Fold them." ></item>
+<item slot="15" original="Put them away." ></item>
+</script><script id="73" source="2"><item slot="1" original="Gather clothes from the floor" ></item>
+<item slot="2" original="Place in basket" ></item>
+<item slot="3" original="Take basket to washing machine" ></item>
+<item slot="4" original="Set washing machine settings" ></item>
+<item slot="5" original="Pour in Tide" ></item>
+<item slot="6" original="Check pockets for valuables" ></item>
+<item slot="7" original="Dump clothes in washing machine" ></item>
+<item slot="8" original="Do other things while waiting" ></item>
+<item slot="9" original="Take clothes out of washing machine" ></item>
+<item slot="10" original="Throw clothes in dryer" ></item>
+<item slot="11" original="Throw dryer sheet in dryer" ></item>
+<item slot="12" original="Set dryer settings" ></item>
+<item slot="13" original="Turn on" ></item>
+<item slot="14" original="Do other things while waiting" ></item>
+<item slot="15" original="Take clothes out into basket" ></item>
+<item slot="16" original="Return clothes to room" ></item>
+</script><script id="74" source="2"><item slot="1" original="Put laundry soap in washer." ></item>
+<item slot="2" original="Add dirty clothes." ></item>
+<item slot="3" original="Close lid and turn on." ></item>
+<item slot="4" original="Wait for clothes to get done." ></item>
+<item slot="5" original="Open washer." ></item>
+<item slot="6" original="Take clothes out." ></item>
+<item slot="7" original="Put clothes in dryer." ></item>
+<item slot="8" original="Turn on dryer." ></item>
+<item slot="9" original="Take clothes out of dryer." ></item>
+<item slot="10" original="Put clothes in a hamper." ></item>
+<item slot="11" original="Fold clothes." ></item>
+<item slot="12" original="Put clothes away." ></item>
+</script><script id="75" source="2"><item slot="1" original="Gather dirty clothes." ></item>
+<item slot="2" original="Sepedrate into darks, whites." ></item>
+<item slot="3" original="Set washer load size, water temp., etc." ></item>
+<item slot="4" original="Open washer." ></item>
+<item slot="5" original="Pour detergent." ></item>
+<item slot="6" original="Place clothes in washer." ></item>
+<item slot="7" original="Close lid." ></item>
+<item slot="8" original="Turn on washer." ></item>
+</script><script id="76" source="2"><item slot="1" original="Get dirty laundry." ></item>
+<item slot="2" original="Take laundry to laundry room." ></item>
+<item slot="3" original="Separate colored clothes from white clothes." ></item>
+<item slot="4" original="Decided which load you will wash first." ></item>
+<item slot="5" original="Load clothes into washing machine." ></item>
+<item slot="6" original="Open laundry detergent." ></item>
+<item slot="7" original="Pour detergent into proper reciprocal." ></item>
+<item slot="8" original="Close the washing machine." ></item>
+<item slot="9" original="Pick settings to wash clothes on." ></item>
+<item slot="10" original="Start the washing machine." ></item>
+<item slot="11" original="Wait until washing cycle is done." ></item>
+<item slot="12" original="Remove clothes from washer." ></item>
+<item slot="13" original="Place clothes in dryer." ></item>
+<item slot="14" original="Wait for clothes to finish drying." ></item>
+<item slot="15" original="Remove clothes from dryer." ></item>
+<item slot="16" original="Fold clothes." ></item>
+</script><script id="77" source="2"><item slot="1" original="take laundry from clothes hamper" ></item>
+<item slot="2" original="Throw laundry into washing machine" ></item>
+<item slot="3" original="Put detergent into washing machine" ></item>
+<item slot="4" original="Set the setting to use for clothes" ></item>
+<item slot="5" original="Turn on washing machine" ></item>
+<item slot="6" original="Wait for washing machine to finish" ></item>
+<item slot="7" original="Take clothes out of washer and into dryer" ></item>
+<item slot="8" original="Put dryer sheet into dryer." ></item>
+<item slot="9" original="Turn on dryer." ></item>
+<item slot="10" original="Wait for dyer to finish." ></item>
+<item slot="11" original="Take clothes out of dryer." ></item>
+<item slot="12" original="Put clothes away" ></item>
+</script><script id="78" source="2"><item slot="1" original="Separate whites from colors" ></item>
+<item slot="2" original="Check all of the pockets for items" ></item>
+<item slot="3" original="Remove any items" ></item>
+<item slot="4" original="Put clothes into the machine" ></item>
+<item slot="5" original="Add detergent" ></item>
+<item slot="6" original="Add fabric softener" ></item>
+<item slot="7" original="Set the water temperate" ></item>
+<item slot="8" original="Start the washer" ></item>
+<item slot="9" original="Wait for the washer to finish" ></item>
+<item slot="10" original="Move clothes to the dryer" ></item>
+<item slot="11" original="Add a fabric sheet" ></item>
+<item slot="12" original="Turn on the dryer" ></item>
+<item slot="13" original="Wait for the dryer to finish" ></item>
+<item slot="14" original="Remove clothes" ></item>
+</script><script id="79" source="2"><item slot="1" original="Gather dirty laundry in a basket" ></item>
+<item slot="2" original="Bring basket of dirty laundry to the laundry room" ></item>
+<item slot="3" original="Sort darks and lights for loads of laundry" ></item>
+<item slot="4" original="Star washing machine" ></item>
+<item slot="5" original="Get laundry detergent" ></item>
+<item slot="6" original="Measure out laundry detergent" ></item>
+<item slot="7" original="Add dirty laundry to washing machine" ></item>
+<item slot="8" original="Add detergent to washing machine" ></item>
+<item slot="9" original="Rinse out detergent cup with washing machine's water" ></item>
+<item slot="10" original="Close the lid on washing machine" ></item>
+<item slot="11" original="Wait until it is complete" ></item>
+<item slot="12" original="When complete, open washing machine lid" ></item>
+<item slot="13" original="Open dryer" ></item>
+<item slot="14" original="Remove clothes from washing machine" ></item>
+<item slot="15" original="Put clothes in dryer" ></item>
+<item slot="16" original="Star dryer" ></item>
+</script><script id="80" source="2"><item slot="1" original="Place my dirty clothes in a basket." ></item>
+<item slot="2" original="Seperate whites and colors." ></item>
+<item slot="3" original="Place in the washer machine." ></item>
+<item slot="4" original="Add soap." ></item>
+<item slot="5" original="Start machine." ></item>
+</script><script id="81" source="2"><item slot="1" original="gather laundry" ></item>
+<item slot="2" original="separate laundry into same color piles" ></item>
+<item slot="3" original="put one pile into washing machine" ></item>
+<item slot="4" original="place laundry soap into washing machine" ></item>
+<item slot="5" original="close door" ></item>
+<item slot="6" original="start machine" ></item>
+<item slot="7" original="wait for machine to finish" ></item>
+<item slot="8" original="move wet clothes to dryer" ></item>
+<item slot="9" original="put in dryer sheet" ></item>
+<item slot="10" original="close door" ></item>
+<item slot="11" original="start dryer" ></item>
+<item slot="12" original="wait to finish" ></item>
+<item slot="13" original="take out clothes" ></item>
+<item slot="14" original="fold clothes" ></item>
+<item slot="15" original="put clothes up" ></item>
+</script><script id="82" source="2"><item slot="1" original="collect all dirty laundry" ></item>
+<item slot="2" original="sort dirty laundry" ></item>
+<item slot="3" original="put dirty clothes into washing machine" ></item>
+<item slot="4" original="add laundry soap" ></item>
+<item slot="5" original="choose spin cycle" ></item>
+<item slot="6" original="wait for machine to finish" ></item>
+<item slot="7" original="move clothes to dryer, except clothes that can't go in the dryer" ></item>
+<item slot="8" original="hang up clothes that need to line dry" ></item>
+<item slot="9" original="add dryer sheets to the dryer" ></item>
+<item slot="10" original="turn on dryer" ></item>
+<item slot="11" original="wait for machine to finish" ></item>
+<item slot="12" original="remove clothing" ></item>
+<item slot="13" original="fold clothing" ></item>
+<item slot="14" original="properly store clothing" ></item>
+</script><script id="83" source="2"><item slot="1" original="Gather the dirty apparels in the basket." ></item>
+<item slot="2" original="Bring the basket to the laundry room." ></item>
+<item slot="3" original="Put the apparels into the washer." ></item>
+<item slot="4" original="Add detergent to the washer." ></item>
+<item slot="5" original="Start the washer." ></item>
+<item slot="6" original="Take the apparels out and put them into dryer." ></item>
+<item slot="7" original="Start the dryer." ></item>
+<item slot="8" original="Take the dry apparels and out of dryer and put them away." ></item>
+</script><script id="84" source="2"><item slot="1" original="pile up the clothes you want to wash" ></item>
+<item slot="2" original="start the water" ></item>
+<item slot="3" original=" put the clothes inside the washer" ></item>
+<item slot="4" original="pour the detergent and let it do its cycle" ></item>
+<item slot="5" original="put the softener after first cycle" ></item>
+<item slot="6" original="after the cycle is done put into dryer" ></item>
+</script><script id="85" source="2"><item slot="1" original="Separate laundry by type." ></item>
+<item slot="2" original="Take batch of one type and bring to washer." ></item>
+<item slot="3" original="Load washer with laundry and detergent." ></item>
+<item slot="4" original="Decide between load size." ></item>
+<item slot="5" original="Start the wash cycle." ></item>
+<item slot="6" original="Once dry, load the laundry into the dryer." ></item>
+<item slot="7" original="Start the dryer." ></item>
+<item slot="8" original="Once laundry is done, remove." ></item>
+<item slot="9" original="Begin folding and hanging laundry as preferred." ></item>
+</script><script id="86" source="2"><item slot="1" original="Collect all dirty clothes" ></item>
+<item slot="2" original="Put them in the washing machine" ></item>
+<item slot="3" original="Switch on the washing machine" ></item>
+<item slot="4" original="Add Detergent" ></item>
+<item slot="5" original="Select the mode of washing" ></item>
+<item slot="6" original="Start washing" ></item>
+<item slot="7" original="Wait for completion beep" ></item>
+<item slot="8" original="Take out washed clothes" ></item>
+<item slot="9" original="Hang the clothes for air drying" ></item>
+<item slot="10" original="Iron the clothes when dried" ></item>
+<item slot="11" original="Keep them in the wardrobe" ></item>
+</script><script id="87" source="2"><item slot="1" original="TAKE CLOTHES" ></item>
+<item slot="2" original="PUT THE CLOTH IN WASHING MACHINE" ></item>
+<item slot="3" original="ADD SOME WASHING POWDER" ></item>
+<item slot="4" original="START THE MACHINE" ></item>
+<item slot="5" original="AFTER WASHING TAKE AND DRY THE CLOTHES" ></item>
+<item slot="6" original="IRON THE CLOTHES" ></item>
+</script><script id="88" source="2"><item slot="1" original="Put dirty clothes into the waster" ></item>
+<item slot="2" original="turn dial so it fills with water" ></item>
+<item slot="3" original="Add laundry detergent and fabric softener" ></item>
+<item slot="4" original="Clothes washer" ></item>
+<item slot="5" original="Once clothes are done in washer:" ></item>
+<item slot="6" original="Open dryer" ></item>
+<item slot="7" original="Put all wet clothes in" ></item>
+<item slot="8" original="Add dryer sheet" ></item>
+<item slot="9" original="Turn on dryer" ></item>
+<item slot="10" original="Once done in dryer fold clothes and put away" ></item>
+</script><script id="89" source="2"><item slot="1" original="Go to laundry room" ></item>
+<item slot="2" original="Open door to washing machine" ></item>
+<item slot="3" original="Put dirty clothes into washing machine" ></item>
+<item slot="4" original="Put detergent into washing machine" ></item>
+<item slot="5" original="Close door of washing machine" ></item>
+<item slot="6" original="Select washing style and length of time to wash" ></item>
+<item slot="7" original="Start machine" ></item>
+</script><script id="90" source="2"><item slot="1" original="Sort clothes to be washed" ></item>
+<item slot="2" original="Load clothes into washing machine" ></item>
+<item slot="3" original="Open detergent drawer" ></item>
+<item slot="4" original="Pour correct amount of detergent into drawer" ></item>
+<item slot="5" original="Add fabric softener to drawer" ></item>
+<item slot="6" original="Close drawer" ></item>
+<item slot="7" original="Use dials to select proper wash cycle" ></item>
+<item slot="8" original="Turn on machine" ></item>
+<item slot="9" original="Wait for machine to run cycle" ></item>
+<item slot="10" original="Unload clothes into dryer" ></item>
+<item slot="11" original="Run dryer until clothes dry" ></item>
+<item slot="12" original="Remove clothes and fold" ></item>
+</script><script id="91" source="2"><item slot="1" original="gather dirty clothes" ></item>
+<item slot="2" original="select cycle and turn on washing machine" ></item>
+<item slot="3" original="put in laundry detergent and fabric softner" ></item>
+<item slot="4" original="load dirty clothes in machine" ></item>
+<item slot="5" original="close lid" ></item>
+<item slot="6" original="when wash cycle is done take clothes out of the washer and place into the dryer" ></item>
+<item slot="7" original="put in dryer sheet" ></item>
+<item slot="8" original="select dryer setting" ></item>
+<item slot="9" original="close dryer door" ></item>
+<item slot="10" original="press start" ></item>
+<item slot="11" original="take out dry clothes" ></item>
+<item slot="12" original="fold and put away" ></item>
+</script><script id="92" source="2"><item slot="1" original="Open washer" ></item>
+<item slot="2" original="Get laundry detergent" ></item>
+<item slot="3" original="Measure detergent based on packaging guidelines" ></item>
+<item slot="4" original="Pour detergent into washer" ></item>
+<item slot="5" original="Set washer cycle knob to desired cycle" ></item>
+<item slot="6" original="Put washer start button" ></item>
+<item slot="7" original="Put clothes into washer" ></item>
+<item slot="8" original="Close washer" ></item>
+<item slot="9" original="When washer finishes, open washer" ></item>
+<item slot="10" original="Open dryer" ></item>
+<item slot="11" original="Take clothes out of washer" ></item>
+<item slot="12" original="Put clothes into dryer" ></item>
+<item slot="13" original="Close dryer" ></item>
+<item slot="14" original="Set dryer to desired cycle" ></item>
+<item slot="15" original="Push dryer start button" ></item>
+</script><script id="93" source="2"><item slot="1" original="Sort clothes" ></item>
+<item slot="2" original="Get detergent" ></item>
+<item slot="3" original="Get fabric softener" ></item>
+<item slot="4" original="Get dryer sheets" ></item>
+<item slot="5" original="Put clothes in washer" ></item>
+<item slot="6" original="Pour detergent in washer" ></item>
+<item slot="7" original="Start washer" ></item>
+<item slot="8" original="On rinse cycle, pour fabric softener in" ></item>
+<item slot="9" original="When finished, put clothes in dryer" ></item>
+<item slot="10" original="Put dryer sheet in dryer" ></item>
+<item slot="11" original="Turn dryer on" ></item>
+<item slot="12" original="When finished, fold clothes" ></item>
+</script><script id="94" source="2"><item slot="1" original="Put detergent into washer." ></item>
+<item slot="2" original="Load washer." ></item>
+<item slot="3" original="Select cycle and water temperature." ></item>
+<item slot="4" original="Close lid." ></item>
+<item slot="5" original="Turn on washer." ></item>
+<item slot="6" original="When clothes are clean, put clothes in dryer." ></item>
+<item slot="7" original="Select dryer cycle." ></item>
+<item slot="8" original="Remove clothes from dryer when dry." ></item>
+<item slot="9" original="Fold clothes." ></item>
+<item slot="10" original="Put clothes away." ></item>
+</script><script id="95" source="2"><item slot="1" original="Gather dirty clothes" ></item>
+<item slot="2" original="Organize clothes into lights and darks" ></item>
+<item slot="3" original="Put one group of clothes into the washer" ></item>
+<item slot="4" original="Put in the laundry detergent" ></item>
+<item slot="5" original="Pick the cycle type" ></item>
+<item slot="6" original="Take clothes out of washer when done" ></item>
+<item slot="7" original="Shake clothes" ></item>
+<item slot="8" original="Put clothes in dryer" ></item>
+<item slot="9" original="Select drying cycle" ></item>
+<item slot="10" original="Take clothes out of dryer" ></item>
+<item slot="11" original="Fold clothes" ></item>
+<item slot="12" original="Put clothes in a dresser" ></item>
+</script><script id="96" source="2"><item slot="1" original="Separate clothing by colors and whites" ></item>
+<item slot="2" original="Place one load of laundry into washer" ></item>
+<item slot="3" original="Add fabric softener to the dispenser" ></item>
+<item slot="4" original="Add soap to the load of wash" ></item>
+<item slot="5" original="Select water temperature for the wash and rinse" ></item>
+<item slot="6" original="Select the wash cycle" ></item>
+<item slot="7" original="Close the lid" ></item>
+<item slot="8" original="Start the washing machine" ></item>
+</script><script id="97" source="2"><item slot="1" original="Take your clothes to a laundromat" ></item>
+<item slot="2" original="Separate the whites from the colors" ></item>
+<item slot="3" original="Put one load into a washer" ></item>
+<item slot="4" original="Deposit your detergent with the clothes" ></item>
+<item slot="5" original="Put quarters in the washer to start it" ></item>
+<item slot="6" original="Wait for your clothes to finish" ></item>
+<item slot="7" original="Transfer to a dryer and deposit more money." ></item>
+<item slot="8" original="When clothes are dry, you're done." ></item>
+</script><script id="98" source="2"><item slot="1" original="Gather dirty laundry" ></item>
+<item slot="2" original="Separate laundry into different types" ></item>
+<item slot="3" original="Place dirty laundry into washer" ></item>
+<item slot="4" original="Add detergent" ></item>
+<item slot="5" original="Add softener" ></item>
+<item slot="6" original="Select wash temperature" ></item>
+<item slot="7" original="Press start" ></item>
+<item slot="8" original="Wait for laundry to wash" ></item>
+<item slot="9" original="Remove laundry from washer" ></item>
+<item slot="10" original="Place wet laundry in dryer" ></item>
+<item slot="11" original="Add dryer sheet" ></item>
+<item slot="12" original="Select drying temperature" ></item>
+<item slot="13" original="Press start" ></item>
+<item slot="14" original="Wait for laundry to dry" ></item>
+<item slot="15" original="Remove laundry from dryer" ></item>
+<item slot="16" original="Fold laundry and put away" ></item>
+</script><script id="99" source="2"><item slot="1" original="Sort your laundry by the type you want to wash it with." ></item>
+<item slot="2" original="Usually, laundry is sorted by color." ></item>
+<item slot="4" original="Add your laundry to your washing machine." ></item>
+<item slot="5" original="Add laundry detergent." ></item>
+<item slot="6" original="Set the cycle you want and press start." ></item>
+<item slot="7" original="When the laundry finishes washing, transfer it to the dryer." ></item>
+<item slot="9" original="Look for delicate items that can't go into the dryer and hang them." ></item>
+<item slot="10" original="Dry your clothes." ></item>
+<item slot="11" original="When they are finished, fold them and put them away." ></item>
+</script><script id="100" source="2"><item slot="1" original="seperate clothes into piles" ></item>
+<item slot="2" original="open door" ></item>
+<item slot="3" original="put clothes in washer" ></item>
+<item slot="4" original="close door" ></item>
+<item slot="5" original="add detergent " ></item>
+<item slot="6" original="choose settings" ></item>
+<item slot="7" original="press start" ></item>
+</script></scripts>

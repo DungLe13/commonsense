@@ -1,0 +1,620 @@
+<scripts><script id="0" source="2"><item slot="1" original="Get credit card out of wallet" ></item>
+<item slot="2" original="Hand credit card to cashier" ></item>
+<item slot="3" original="Wait for cashier to give credit card back" ></item>
+<item slot="4" original="Sign credit card slip given to me by cashier" ></item>
+<item slot="5" original="Put credit card back in wallet" ></item>
+</script><script id="1" source="2"><item slot="1" original="walk to cashier or automated teller" ></item>
+<item slot="2" original="take out credit card" ></item>
+<item slot="3" original="swipe card" ></item>
+<item slot="4" original="enter password" ></item>
+<item slot="5" original="approve fee" ></item>
+<item slot="6" original="get receipt" ></item>
+<item slot="7" original="depart with purchases" ></item>
+</script><script id="2" source="2"><item slot="1" original="Run card through machine" ></item>
+<item slot="2" original="Select debit or credit" ></item>
+<item slot="3" original="If debit, enter pin" ></item>
+<item slot="4" original="Sign the machine" ></item>
+<item slot="5" original="Press enter" ></item>
+<item slot="6" original="Wait for receipt" ></item>
+</script><script id="3" source="2"><item slot="1" original="going to the store" ></item>
+<item slot="2" original="picking out product to buy" ></item>
+<item slot="3" original="going to check out" ></item>
+<item slot="4" original="handing card to cashier" ></item>
+<item slot="5" original="signing for purchase" ></item>
+<item slot="6" original="taking product" ></item>
+<item slot="7" original="leaving the store" ></item>
+</script><script id="4" source="2"><item slot="1" original="Select credit card you want to use" ></item>
+<item slot="2" original="Tell cashier you are paying with credit" ></item>
+<item slot="3" original="Slide card through machine" ></item>
+<item slot="4" original="Select option for credit" ></item>
+<item slot="5" original="Accept amount charged" ></item>
+<item slot="6" original="Decide if you want cash back" ></item>
+<item slot="7" original="Sign appropriate place on screen" ></item>
+<item slot="8" original="Accept receipt from cashier" ></item>
+<item slot="9" original="Take bags and leave store" ></item>
+</script><script id="5" source="2"><item slot="1" original="Apply for credit card" ></item>
+<item slot="2" original="Wait for approval" ></item>
+<item slot="3" original="Go to store" ></item>
+<item slot="4" original="Choose item" ></item>
+<item slot="5" original="Bring item to clerk" ></item>
+<item slot="6" original="Hand them credit card" ></item>
+<item slot="7" original="Sign your name" ></item>
+<item slot="8" original="Take item and receipt" ></item>
+<item slot="9" original="Leave store" ></item>
+</script><script id="6" source="2"><item slot="1" original="Select desired credit card." ></item>
+<item slot="2" original="Withdraw from wallet." ></item>
+<item slot="3" original="Hand to cashier." ></item>
+<item slot="4" original="Hand over ID upon request." ></item>
+<item slot="5" original="Wait for receipts to print." ></item>
+<item slot="6" original="Sign receipt." ></item>
+<item slot="7" original="Keep copy for records." ></item>
+</script><script id="7" source="2"><item slot="1" original="Make sure your price is right" ></item>
+<item slot="2" original="Pull out your credit" ></item>
+<item slot="3" original="Either hand you card to the merchant to be swiped, or swipe the card yourself" ></item>
+<item slot="4" original="Type in your pin number or zipcode if prompted" ></item>
+<item slot="5" original="Take your receipt" ></item>
+<item slot="6" original="Put your card back" ></item>
+</script><script id="8" source="2"><item slot="1" original="Bring selected merchandise to the till counter" ></item>
+<item slot="2" original="Let the cashier scan all the items" ></item>
+<item slot="3" original="Take out credit card" ></item>
+<item slot="4" original="Ask the cashier for payment with credit card" ></item>
+<item slot="5" original="Give the cashier your credit card" ></item>
+<item slot="6" original="Watch her as she swipes the card" ></item>
+<item slot="7" original="Sign one copy of the receipt" ></item>
+<item slot="8" original="Collect other copy" ></item>
+<item slot="9" original="Take the credit card back from cashier" ></item>
+</script><script id="9" source="2"><item slot="1" original="Get into a shop" ></item>
+<item slot="2" original="choose the product" ></item>
+<item slot="3" original="Take the credit card" ></item>
+<item slot="4" original="Swipe your credit card for paying" ></item>
+<item slot="5" original="Enter the amount" ></item>
+<item slot="6" original="Get the statements" ></item>
+<item slot="7" original="Sign the bill" ></item>
+<item slot="8" original="Take the product purchased" ></item>
+<item slot="9" original="Leave the shop" ></item>
+</script><script id="10" source="2"><item slot="1" original="Wait for clerk to tell you your total," ></item>
+<item slot="2" original="Tell cashier you are paying with credit." ></item>
+<item slot="3" original="Swipe card." ></item>
+<item slot="4" original="Press the button for credit card." ></item>
+<item slot="5" original="Sign receipt." ></item>
+</script><script id="11" source="2"><item slot="1" original="Find the item you want to buy" ></item>
+<item slot="2" original="Bring item to checkout" ></item>
+<item slot="3" original="Take out credit card" ></item>
+<item slot="4" original="Slide card through the reader" ></item>
+<item slot="5" original="Input pin number" ></item>
+<item slot="6" original="Press OK" ></item>
+</script><script id="13" source="2"><item slot="1" original="Provide the credit card to the seller" ></item>
+<item slot="2" original="Check the amount, how much we need to pay for our shopping" ></item>
+<item slot="3" original="Check the transfer amount and enter the PIN Number" ></item>
+<item slot="4" original="Collect the bill for money transfer" ></item>
+<item slot="5" original="Make sure the amount was transferred correctly" ></item>
+<item slot="6" original="Keep the credit card at safely while moving from that place" ></item>
+</script><script id="14" source="2"><item slot="1" original="Decide what items you would like to buy." ></item>
+<item slot="2" original="Proceed to checkout." ></item>
+<item slot="3" original="Scan items." ></item>
+<item slot="4" original="Swipe card through reader." ></item>
+<item slot="5" original="Confirm amount on screen." ></item>
+<item slot="6" original="Authorize purchase by signing." ></item>
+<item slot="7" original="Leave store." ></item>
+<item slot="8" original="Pay bill later." ></item>
+</script><script id="15" source="2"><item slot="1" original="Find items you want to purchase." ></item>
+<item slot="2" original="Take items to cashier." ></item>
+<item slot="3" original="Watch total, and remove credit card from wallet." ></item>
+<item slot="4" original="Slide credit card through payment machine." ></item>
+<item slot="5" original="Follow prompts on machine, hitting yes and no where appropriate." ></item>
+<item slot="6" original="When receipt comes, sign on line at bottom." ></item>
+<item slot="7" original="Leave store with items purchased." ></item>
+</script><script id="16" source="2"><item slot="1" original="Get your card out" ></item>
+<item slot="2" original="slide it in the machine" ></item>
+<item slot="3" original="wait than sign your name in box" ></item>
+<item slot="4" original="put your card away" ></item>
+<item slot="5" original="take your receipt" ></item>
+</script><script id="17" source="2"><item slot="1" original="Go to store" ></item>
+<item slot="2" original="Pick out item you wish to purchase" ></item>
+<item slot="3" original="Take item to checkout counter" ></item>
+<item slot="4" original="Give cashier your credit card" ></item>
+<item slot="5" original="Sign receipt and get card back" ></item>
+<item slot="6" original="Take item and your copy of receipt" ></item>
+<item slot="7" original="Leave store" ></item>
+</script><script id="19" source="2"><item slot="1" original="Put items on cash wrap" ></item>
+<item slot="2" original="Retrieve card" ></item>
+<item slot="3" original="Give to cashier" ></item>
+<item slot="4" original="Cashier swipes" ></item>
+<item slot="5" original="Wait for approval" ></item>
+<item slot="6" original="Sign name" ></item>
+<item slot="7" original="Get card back" ></item>
+<item slot="8" original="Get receipt" ></item>
+<item slot="9" original="Leave store" ></item>
+</script><script id="20" source="2"><item slot="1" original="Receive a bill that you will be paying for." ></item>
+<item slot="2" original="Announce you will be paying by credit card." ></item>
+<item slot="3" original="Swipe the card or allow the cashier to swipe." ></item>
+<item slot="4" original="Wait for the transaction to be authorized." ></item>
+<item slot="5" original="Sign the receipt if needed." ></item>
+<item slot="6" original="Take your receipt." ></item>
+<item slot="7" original="Make sure transaction posts correctly on your credit card bill." ></item>
+</script><script id="21" source="2"><item slot="1" original="The cashier tells you the cash amount required for purchase" ></item>
+<item slot="2" original="Take out credit card from wallet" ></item>
+<item slot="3" original="Slide credit card on electronic card reader" ></item>
+<item slot="4" original="Sign the receipt" ></item>
+<item slot="5" original="Take your purchase" ></item>
+</script><script id="22" source="2"><item slot="1" original="Wait in line." ></item>
+<item slot="2" original="Hand purchases to clerk." ></item>
+<item slot="3" original="Wait for clerk to scan purchases." ></item>
+<item slot="4" original="Get total charge amount from clerk." ></item>
+<item slot="5" original="Slide credit card through card reader." ></item>
+<item slot="6" original="Follow prompts on machine." ></item>
+<item slot="7" original="Sign name on card reader." ></item>
+<item slot="8" original="Get receipt from clerk." ></item>
+<item slot="9" original="Take purchases and leave store." ></item>
+</script><script id="23" source="2"><item slot="1" original="Enter store" ></item>
+<item slot="2" original="Choose a product" ></item>
+<item slot="3" original="Go to cashier" ></item>
+<item slot="4" original="Give credit card" ></item>
+<item slot="5" original="Enter your pin" ></item>
+<item slot="6" original="Take credit card" ></item>
+<item slot="7" original="Get bill" ></item>
+<item slot="8" original="Leave with product" ></item>
+</script><script id="24" source="2"><item slot="1" original="decide what you are going to purchase" ></item>
+<item slot="2" original="Tell the cashier you are paying by credit" ></item>
+<item slot="3" original="give the card to the cashier" ></item>
+<item slot="4" original="the cashier will run it" ></item>
+<item slot="5" original="wait for approval" ></item>
+<item slot="6" original="sign for your purchase" ></item>
+<item slot="7" original="wait for receipt" ></item>
+<item slot="8" original="take receipt" ></item>
+</script><script id="25" source="2"><item slot="1" original="Bring purchases to cashier" ></item>
+<item slot="2" original="Cashier scans purchases" ></item>
+<item slot="3" original="Get total from cashier" ></item>
+<item slot="4" original="Take credit card out of wallet" ></item>
+<item slot="5" original="Swipe credit card in payment console" ></item>
+<item slot="6" original="Sign your name" ></item>
+<item slot="7" original="Put credit card back in wallet" ></item>
+<item slot="8" original="Take receipt and purchases" ></item>
+</script><script id="26" source="2"><item slot="1" original="Pull out credit card" ></item>
+<item slot="2" original="Swipe card in machine" ></item>
+<item slot="3" original="Or enter numbers online (if online purchase)" ></item>
+<item slot="4" original="Enter expiration date (if online)" ></item>
+<item slot="5" original="Enter csc (if online)" ></item>
+<item slot="6" original="Sign for purchase" ></item>
+<item slot="7" original="Return card to wallet" ></item>
+</script><script id="27" source="2"><item slot="1" original="Look for cash register" ></item>
+<item slot="2" original="Place items in front of cashier" ></item>
+<item slot="3" original="Wait until cashier is finished ringing up items" ></item>
+<item slot="4" original="Swipe credit card" ></item>
+<item slot="5" original="Show cashier identification and credit card" ></item>
+<item slot="6" original="Sign name on machine when prompted" ></item>
+</script><script id="28" source="2"><item slot="1" original="Take the items you would like to purchase to the register." ></item>
+<item slot="2" original="After they ring up the items they will give you a total." ></item>
+<item slot="3" original="Let them know you would like to pay with a credit card." ></item>
+<item slot="4" original="Swipe your card in the machine." ></item>
+<item slot="5" original="Select the credit option." ></item>
+<item slot="6" original="Wait for the card to be approved." ></item>
+<item slot="7" original="After it is approved sign your name in the box on the machine." ></item>
+<item slot="8" original="Wait for the receipt to print out." ></item>
+<item slot="9" original="Take your items." ></item>
+<item slot="10" original="Thank the cashier." ></item>
+</script><script id="29" source="2"><item slot="1" original="wait for cashier to ring up purchases" ></item>
+<item slot="2" original="give credit card to cashier" ></item>
+<item slot="3" original="if asked show ID to cashier" ></item>
+<item slot="4" original="sign credit slip" ></item>
+<item slot="5" original="take back credit card" ></item>
+<item slot="6" original="take purchases and receipt and leave the store" ></item>
+</script><script id="30" source="2"><item slot="1" original="After the cashier rings up your items, pull your card out" ></item>
+<item slot="2" original="tell the cashier it is credit" ></item>
+<item slot="3" original="swipe the card" ></item>
+<item slot="4" original="sign the signature pad to accept the transaction" ></item>
+<item slot="5" original="wait until the transaction is authorized" ></item>
+<item slot="6" original="take receipt from cashier" ></item>
+</script><script id="31" source="2"><item slot="1" original="Find items to purchase" ></item>
+<item slot="2" original="Take item to sales clerk" ></item>
+<item slot="3" original="Clerk tallies up the amount" ></item>
+<item slot="4" original="Slide the credit card through the reader" ></item>
+<item slot="5" original="Sign your name on the reader" ></item>
+<item slot="6" original="Take receipt and items" ></item>
+<item slot="7" original="Leave store" ></item>
+</script><script id="32" source="2"><item slot="1" original="Get my credit card." ></item>
+<item slot="2" original="Hand it to the cashier." ></item>
+<item slot="3" original="Cashier checks my ID." ></item>
+<item slot="4" original="Swipe the card." ></item>
+<item slot="5" original="Type in some information." ></item>
+<item slot="6" original="Sign my name." ></item>
+<item slot="7" original="Put my card back in wallet." ></item>
+</script><script id="33" source="2"><item slot="1" original="Open wallet and select a credit card" ></item>
+<item slot="2" original="Pull out credit card and swipe in POS machine" ></item>
+<item slot="3" original="enter credit or debit" ></item>
+<item slot="4" original="Enter PIN if asked" ></item>
+<item slot="5" original="wait for approval" ></item>
+<item slot="6" original="Take reciept" ></item>
+</script><script id="34" source="2"><item slot="1" original="Swipe credit card" ></item>
+<item slot="2" original="Accept the charges" ></item>
+<item slot="3" original="Wait for your receipt" ></item>
+<item slot="4" original="Sign receipt" ></item>
+<item slot="5" original="Take customer copy of receipt" ></item>
+<item slot="6" original="Take purchases" ></item>
+<item slot="7" original="Leave store" ></item>
+</script><script id="35" source="2"><item slot="1" original="pull out wallet" ></item>
+<item slot="2" original="grab credit card" ></item>
+<item slot="3" original="swipe through machine" ></item>
+<item slot="4" original="sign for payment" ></item>
+<item slot="5" original="insert card in wallet" ></item>
+</script><script id="36" source="2"><item slot="1" original="Open wallet" ></item>
+<item slot="2" original="Pull credit card out" ></item>
+<item slot="3" original="Swipe my card" ></item>
+<item slot="4" original="Put in my pin number" ></item>
+<item slot="5" original="Put card back in my wallet" ></item>
+<item slot="6" original="Put wallet in pocket" ></item>
+</script><script id="37" source="2"><item slot="1" original="Decide what to purchase" ></item>
+<item slot="2" original="Get my wallet out" ></item>
+<item slot="3" original="Take out my credit card" ></item>
+<item slot="4" original="Swipe my credit card" ></item>
+<item slot="5" original="Put my credit card back in my wallet" ></item>
+<item slot="6" original="Put my wallet back in my pants" ></item>
+</script><script id="38" source="2"><item slot="1" original="enter card number" ></item>
+<item slot="2" original="enter name on card" ></item>
+<item slot="3" original="enter exp date" ></item>
+<item slot="4" original="enter verification code on back of card" ></item>
+<item slot="5" original="confirm purchase" ></item>
+</script><script id="40" source="2"><item slot="1" original="Open wallet." ></item>
+<item slot="2" original="Take out credit card." ></item>
+<item slot="3" original="Swipe credit card." ></item>
+<item slot="4" original="Hit accept button." ></item>
+<item slot="5" original="Wait for receipt to print." ></item>
+<item slot="6" original="Sign receipt." ></item>
+</script><script id="41" source="2"><item slot="1" original="Take card from wallet." ></item>
+<item slot="2" original="Swipe card in the machine." ></item>
+<item slot="3" original="Answer any question the machine asks." ></item>
+<item slot="4" original="Press enter to confirm purchase." ></item>
+<item slot="5" original="Wait for recipt." ></item>
+</script><script id="42" source="2"><item slot="1" original="Go to where you are buying an item" ></item>
+<item slot="2" original="get your credit card out of wallet" ></item>
+<item slot="3" original="swipe through the credit card machine" ></item>
+<item slot="4" original="wait for cashier to give you a receipt to sign" ></item>
+<item slot="5" original="sign the credit card reciept" ></item>
+<item slot="6" original="give back signed receipt to clerk and leave" ></item>
+</script><script id="43" source="2"><item slot="1" original="take out your wallet" ></item>
+<item slot="2" original="find your card" ></item>
+<item slot="3" original="present or swipe your card" ></item>
+<item slot="4" original="verify the total" ></item>
+<item slot="5" original="sign the receipt" ></item>
+<item slot="6" original="take your copy of the receipt" ></item>
+</script><script id="44" source="2"><item slot="1" original="select items to buy" ></item>
+<item slot="2" original="get in check out line" ></item>
+<item slot="3" original="give items to cashier" ></item>
+<item slot="4" original="slide credit card into machine" ></item>
+<item slot="5" original="sign for purchase" ></item>
+<item slot="6" original="get bags from cashier" ></item>
+<item slot="7" original="exit store" ></item>
+</script><script id="45" source="2"><item slot="1" original="Order an item" ></item>
+<item slot="2" original="Pull out wallet" ></item>
+<item slot="3" original="Pull out credit card from wallet" ></item>
+<item slot="4" original="Swipe on the credit card machine" ></item>
+<item slot="5" original="Insert the pin number" ></item>
+<item slot="6" original="Answer if you want cash back or not" ></item>
+<item slot="7" original="Place credit card back in wallet" ></item>
+<item slot="8" original="Place wallet back in pocket" ></item>
+</script><script id="46" source="2"><item slot="1" original="Purchase items" ></item>
+<item slot="2" original="Walk to check out" ></item>
+<item slot="3" original="Get credit card out of wallet" ></item>
+<item slot="4" original="Swipe credit card at register" ></item>
+<item slot="5" original="Press appropriate buttons upon swipe" ></item>
+<item slot="6" original="Receive receipt" ></item>
+</script><script id="47" source="2"><item slot="1" original="place order" ></item>
+<item slot="2" original="give card info by slideing or entering it online" ></item>
+<item slot="3" original="wait for payment to happen" ></item>
+<item slot="4" original="get items you paid for" ></item>
+<item slot="5" original="take note of money spent" ></item>
+</script><script id="48" source="2"><item slot="1" original="stand in line at counter" ></item>
+<item slot="2" original="hand over items to cashier" ></item>
+<item slot="3" original="watch prices as she scans items" ></item>
+<item slot="4" original="get total of purchase" ></item>
+<item slot="5" original="get out credit card." ></item>
+<item slot="6" original="swipe credit card on machine" ></item>
+<item slot="7" original="punch credit" ></item>
+<item slot="8" original="sign name" ></item>
+<item slot="9" original="put card back into wallet" ></item>
+<item slot="10" original="take receipt from cashier" ></item>
+</script><script id="49" source="2"><item slot="1" original="Go to checkout." ></item>
+<item slot="2" original="Person will tell you the amount you owe." ></item>
+<item slot="3" original="Hand them your credit card." ></item>
+<item slot="4" original="Person will slide it through their machine." ></item>
+<item slot="5" original="Receipt will print." ></item>
+<item slot="6" original="Person will hand you the receipt and a pen." ></item>
+<item slot="7" original="Sign your name in the area marked on the receipt." ></item>
+<item slot="8" original="Give receipt and pen back to person." ></item>
+<item slot="9" original="Person will hand you a copy of the receipt for you to keep." ></item>
+<item slot="10" original="Get card back from person and put it away." ></item>
+<item slot="11" original="Take purchase and leave." ></item>
+</script><script id="50" source="2"><item slot="1" original="Take out credit card." ></item>
+<item slot="2" original="Swipe card in machine." ></item>
+<item slot="3" original="Sign authorization." ></item>
+<item slot="4" original="Take receipt." ></item>
+<item slot="5" original="Put card and receipt back in wallet." ></item>
+</script><script id="51" source="2"><item slot="1" original="find item you want in store" ></item>
+<item slot="2" original="bring item to counter" ></item>
+<item slot="3" original="slide card in reader" ></item>
+<item slot="5" original="take items home" ></item>
+</script><script id="52" source="2"><item slot="1" original="Get out your card" ></item>
+<item slot="2" original="Hand bill to clerk" ></item>
+<item slot="3" original="Hand card to clerk" ></item>
+<item slot="4" original="sign receipt" ></item>
+<item slot="5" original="Put away card" ></item>
+</script><script id="53" source="2"><item slot="1" original="Get bill" ></item>
+<item slot="2" original="Hand over credit card" ></item>
+<item slot="3" original="Let cashier swipe credit card" ></item>
+<item slot="4" original="When receipt printed sign it" ></item>
+<item slot="5" original="Hand receipt to cashier" ></item>
+<item slot="6" original="Get credit card back from cashier" ></item>
+<item slot="7" original="Get customer copy of receipt back from cashier" ></item>
+</script><script id="54" source="2"><item slot="1" original="make purchase" ></item>
+<item slot="2" original="swipe card" ></item>
+<item slot="3" original="sign screen" ></item>
+<item slot="4" original="get receipt" ></item>
+<item slot="5" original="leave store" ></item>
+</script><script id="55" source="2"><item slot="1" original="Pull out wallet" ></item>
+<item slot="2" original="Select credit card from wallet" ></item>
+<item slot="3" original="Swipe credit card in reader" ></item>
+<item slot="4" original="Accept the total amount" ></item>
+<item slot="5" original="Sign your name" ></item>
+<item slot="6" original="Get receipt from cashier" ></item>
+</script><script id="56" source="2"><item slot="1" original="Take wallet out of pocket" ></item>
+<item slot="2" original="Take credit card out of wallet" ></item>
+<item slot="3" original="Slide card into machine" ></item>
+<item slot="4" original="Pick correct options on machine" ></item>
+<item slot="5" original="Sign your name" ></item>
+</script><script id="57" source="2"><item slot="1" original="GET CREDIT CARD" ></item>
+<item slot="2" original="SWIPE THROUGH THE MACHINE" ></item>
+<item slot="3" original="FOLLOW ON-SCREEN INSTRUCTIONS" ></item>
+<item slot="4" original="WHEN PROMPTED, SIGN YOUR NAME" ></item>
+<item slot="5" original="WAIT FOR THE PAYMENT TO BE PROCESSED" ></item>
+<item slot="6" original="RECEIVE RECEIPT FOR PAYMENT." ></item>
+</script><script id="58" source="2"><item slot="1" original="Ring up purchases with cashier" ></item>
+<item slot="2" original="Bag items" ></item>
+<item slot="3" original="Swipe credit card" ></item>
+<item slot="4" original="Wait for cashier to approve transaction" ></item>
+<item slot="5" original="Sign receipt" ></item>
+<item slot="6" original="Leave the store" ></item>
+</script><script id="59" source="2"><item slot="1" original="Check total" ></item>
+<item slot="2" original="Grab wallet" ></item>
+<item slot="3" original="Find card" ></item>
+<item slot="4" original="Swipe card" ></item>
+<item slot="5" original="Sign on screen" ></item>
+<item slot="6" original="Get receipt" ></item>
+</script><script id="60" source="2"><item slot="1" original="drive to store" ></item>
+<item slot="2" original="choose items you want to purchase" ></item>
+<item slot="3" original="take items to checkout isle" ></item>
+<item slot="4" original="after total is told to you slide card on credit card machine" ></item>
+<item slot="5" original="answer questions as prompted by machine" ></item>
+<item slot="6" original="receive receipt" ></item>
+<item slot="7" original="take items" ></item>
+<item slot="8" original="drive home" ></item>
+</script><script id="61" source="2"><item slot="1" original="See what brands the merchant accepts" ></item>
+<item slot="2" original="Reach into pocket" ></item>
+<item slot="3" original="Pull wallet out of pocket" ></item>
+<item slot="4" original="Find card that corresponds to brand accepted by merchant" ></item>
+<item slot="5" original="Pull card out of wallet" ></item>
+<item slot="6" original="Hand card to cashier to swipe" ></item>
+<item slot="7" original="Write signature on receipt" ></item>
+<item slot="8" original="Get copy of receipt from cashier" ></item>
+</script><script id="63" source="2"><item slot="1" original="Review your bill for accuracy." ></item>
+<item slot="2" original="Remove your credit card from your wallet." ></item>
+<item slot="3" original="Present your credit card as form of payment." ></item>
+<item slot="4" original="Review receipt for accuracy." ></item>
+<item slot="5" original="Sign your name on receipt." ></item>
+<item slot="6" original="Take your copy of the receipt." ></item>
+<item slot="7" original="Place your credit card back into your wallet." ></item>
+</script><script id="64" source="2"><item slot="1" original="You get something to buy and walk to cashier." ></item>
+<item slot="2" original="Cashier rings it up." ></item>
+<item slot="3" original="You give her your credit card." ></item>
+<item slot="4" original="She slides it and hands it back to you." ></item>
+<item slot="5" original="You put it in your purse." ></item>
+<item slot="6" original="You sign the receipt." ></item>
+<item slot="7" original="You get a copy." ></item>
+<item slot="8" original="You take your bags and leave." ></item>
+</script><script id="66" source="2"><item slot="1" original="Remove card from wallet" ></item>
+<item slot="2" original="Slide it with the number facing upwards" ></item>
+<item slot="3" original="Input your pin number but don't let anyone see you doing it" ></item>
+<item slot="4" original="Sign your name using the stylus" ></item>
+<item slot="5" original="Receive your receipt" ></item>
+<item slot="6" original="Sign your name on the recite if required" ></item>
+</script><script id="67" source="2"><item slot="1" original="Choose what you wish to purchase" ></item>
+<item slot="2" original="take it to the register" ></item>
+<item slot="3" original="tell the worker that you wish to pay with credit" ></item>
+<item slot="4" original="hand over your card or swipe it yourself" ></item>
+<item slot="5" original="enter your pin number" ></item>
+<item slot="6" original="write your initials on the slip that they give you" ></item>
+<item slot="7" original="leave" ></item>
+</script><script id="68" source="2"><item slot="1" original="Pick out item" ></item>
+<item slot="2" original="Take card out of wallet" ></item>
+<item slot="3" original="Slide card through scanner" ></item>
+<item slot="4" original="Confirm the total" ></item>
+<item slot="5" original="Sign on the screen" ></item>
+<item slot="6" original="Take item and receipt" ></item>
+</script><script id="70" source="2"><item slot="1" original="Go shopping." ></item>
+<item slot="2" original="Pick out goods." ></item>
+<item slot="3" original="Go to the checkout." ></item>
+<item slot="4" original="Pull out credit card." ></item>
+<item slot="5" original="Checkout with credit." ></item>
+</script><script id="71" source="2"><item slot="1" original="Bring items you want to buy to register" ></item>
+<item slot="2" original="Wait for clerk to tell you total" ></item>
+<item slot="3" original="Pull out credit card" ></item>
+<item slot="4" original="Swipe in credit card machine" ></item>
+<item slot="5" original="Sign your name on credit card machine or receipt" ></item>
+<item slot="6" original="Get receipt" ></item>
+<item slot="7" original="Get items" ></item>
+<item slot="8" original="Leave store" ></item>
+</script><script id="72" source="2"><item slot="1" original="Remove card from wallet/purse." ></item>
+<item slot="2" original="Swipe card in available scanner." ></item>
+<item slot="3" original="Approve the total." ></item>
+<item slot="4" original="Hit okay." ></item>
+<item slot="5" original="Sign receipt." ></item>
+<item slot="6" original="Grab copy for your records." ></item>
+<item slot="7" original="Place card back in wallet/purse." ></item>
+</script><script id="73" source="2"><item slot="1" original="Select items to purchase." ></item>
+<item slot="2" original="When asked if you are paying with credit or debit, choose credit." ></item>
+<item slot="3" original="Input credit card type (Visa, Mastercard, etc) if asked." ></item>
+<item slot="4" original="Enter PIN number if required." ></item>
+<item slot="5" original="Keep receipt from purchase for record-keeping." ></item>
+</script><script id="74" source="2"><item slot="1" original="go to cashier with what you are buying" ></item>
+<item slot="2" original="get credit card out of wallet/purse" ></item>
+<item slot="3" original="hand credit card to cashier" ></item>
+<item slot="4" original="make sure it goes through" ></item>
+<item slot="5" original="ask for receipt" ></item>
+</script><script id="75" source="2"><item slot="1" original="Get the bill" ></item>
+<item slot="2" original="Check the bill amount" ></item>
+<item slot="3" original="Take out credit card from the wallet" ></item>
+<item slot="4" original="Give the credit card to the cashier" ></item>
+<item slot="5" original="Cashier swipes the card" ></item>
+<item slot="6" original="Ensure the bill amount correctness" ></item>
+<item slot="7" original="Enter the PIN" ></item>
+<item slot="8" original="Press enter button" ></item>
+<item slot="9" original="Take back the card" ></item>
+<item slot="10" original="Sign the receipt" ></item>
+<item slot="11" original="Get a copy of receipt" ></item>
+<item slot="12" original="Keep the credit card in the wallet" ></item>
+</script><script id="76" source="2"><item slot="1" original="Cashier rings up all your items" ></item>
+<item slot="2" original="Give you a subtotal" ></item>
+<item slot="3" original="Slide your card through credit card console" ></item>
+<item slot="4" original="Click yes that you accept the charges" ></item>
+<item slot="5" original="Sign your name" ></item>
+<item slot="6" original="Claim your receipt and goods" ></item>
+</script><script id="77" source="2"><item slot="1" original="Have item (s) or meal charged at establishment" ></item>
+<item slot="2" original="Determine cost" ></item>
+<item slot="3" original="Get credit card from wallet" ></item>
+<item slot="4" original="Hand credit card to clerk/ server" ></item>
+<item slot="5" original="Produce ID if requested" ></item>
+<item slot="6" original="Sign receipt to acknowledge charge" ></item>
+</script><script id="78" source="2"><item slot="1" original="Take wallet out of pocket" ></item>
+<item slot="2" original="Open wallet" ></item>
+<item slot="3" original="Remove credit card" ></item>
+<item slot="4" original="Swipe credit card" ></item>
+<item slot="5" original="Verify amount is correct" ></item>
+<item slot="6" original="Follow prompts to approve payment" ></item>
+<item slot="7" original="Return credit card to wallet" ></item>
+<item slot="8" original="Put wallet back in pocket" ></item>
+</script><script id="79" source="2"><item slot="1" original="Take items to the counter" ></item>
+<item slot="2" original="Swipe the card" ></item>
+<item slot="3" original="Sign the receipt" ></item>
+<item slot="4" original="Take bagged items" ></item>
+<item slot="5" original="Take copy of the receipt" ></item>
+<item slot="6" original="Leave the store" ></item>
+</script><script id="80" source="2"><item slot="1" original="Present your card to make payment" ></item>
+<item slot="2" original="Swipe your card through the card machine" ></item>
+<item slot="3" original="Enter your PIN" ></item>
+<item slot="4" original="Confirm the payment" ></item>
+<item slot="5" original="Sign your receipt" ></item>
+</script><script id="81" source="2"><item slot="1" original="Walk to checkout" ></item>
+<item slot="2" original="Put items on counter" ></item>
+<item slot="3" original="Cashier rings up and bags items" ></item>
+<item slot="4" original="Look at your total on the card machine" ></item>
+<item slot="5" original="Confirm it is the correct total" ></item>
+<item slot="7" original="Slide your credit card in the indicated direction" ></item>
+<item slot="8" original="Sign your name when prompted" ></item>
+<item slot="9" original="Take items and receipt from cashier" ></item>
+<item slot="10" original="Leave store" ></item>
+</script><script id="82" source="2"><item slot="1" original="Ring up items" ></item>
+<item slot="2" original="Wait for total amount" ></item>
+<item slot="3" original="Pull credit card from wallet" ></item>
+<item slot="4" original="Run credit card through scanner" ></item>
+<item slot="5" original="Wait for approval" ></item>
+<item slot="6" original="Show identification" ></item>
+<item slot="7" original="Sign scanner with digital pen" ></item>
+<item slot="8" original="Put credit card back in wallet" ></item>
+<item slot="9" original="Wait for receipt" ></item>
+<item slot="10" original="Take items" ></item>
+</script><script id="83" source="2"><item slot="1" original="Take credit card from wallet" ></item>
+<item slot="2" original="Swipe the card in the card reader" ></item>
+<item slot="3" original="When prompted, sign on card reader screen using finger as pen" ></item>
+<item slot="4" original="Remove paper receipt from printer" ></item>
+<item slot="5" original="Examine receipt for accuracy" ></item>
+<item slot="6" original="Walk away." ></item>
+</script><script id="84" source="2"><item slot="1" original="Select 'pay with credit' option" ></item>
+<item slot="2" original="Take credit card out of wallet" ></item>
+<item slot="3" original="Swipe credit card" ></item>
+<item slot="4" original="Sign your signature" ></item>
+<item slot="5" original="Put credit card back in wallet" ></item>
+</script><script id="85" source="2"><item slot="1" original="Get card out wallet" ></item>
+<item slot="2" original="Swipe card on machine" ></item>
+<item slot="3" original="Put password in" ></item>
+<item slot="4" original="Answer questions" ></item>
+<item slot="5" original="Get receipt" ></item>
+</script><script id="86" source="2"><item slot="1" original="Take items to register" ></item>
+<item slot="2" original="Cashier rings up items" ></item>
+<item slot="3" original="Give credit card to cashier" ></item>
+<item slot="4" original="Cashier swipes card" ></item>
+<item slot="5" original="Cashier gives back card and receipt" ></item>
+<item slot="6" original="Put card away" ></item>
+<item slot="7" original="Sign the receipt" ></item>
+<item slot="8" original="Give the receipt to cashier" ></item>
+<item slot="9" original="Leave" ></item>
+</script><script id="87" source="2"><item slot="1" original="Take out the credit card" ></item>
+<item slot="2" original="Swipe the card" ></item>
+<item slot="3" original="wait for the clerk to do things" ></item>
+<item slot="4" original="hit the ok button or sign" ></item>
+<item slot="5" original="take receipt" ></item>
+</script><script id="88" source="2"><item slot="1" original="find item you would like to purchase" ></item>
+<item slot="2" original="take item to the cash register" ></item>
+<item slot="3" original="wait for cashier to ring up item" ></item>
+<item slot="4" original="swipe credit card through machine" ></item>
+<item slot="5" original="approve the total" ></item>
+<item slot="6" original="sign to authorize the purchase" ></item>
+<item slot="7" original="take your receipt" ></item>
+</script><script id="89" source="2"><item slot="1" original="Find a service or product needed." ></item>
+<item slot="2" original="Swipe card at register." ></item>
+<item slot="3" original="Type in your pin number." ></item>
+<item slot="4" original="Press enter." ></item>
+<item slot="5" original="Sign when prompted." ></item>
+<item slot="6" original="Get receipt." ></item>
+<item slot="7" original="Enjoy product or service." ></item>
+</script><script id="90" source="2"><item slot="1" original="check credit card balance" ></item>
+<item slot="2" original="find something to buy" ></item>
+<item slot="3" original="take item to register" ></item>
+<item slot="4" original="hand cashier card" ></item>
+<item slot="5" original="sign for purchase" ></item>
+<item slot="6" original="pay balance when bill arrives" ></item>
+</script><script id="91" source="2"><item slot="1" original="Drive to store" ></item>
+<item slot="2" original="Select goods and merchandise" ></item>
+<item slot="3" original="Take your purchases to check-out" ></item>
+<item slot="4" original="Have your purchases bagged" ></item>
+<item slot="5" original="Pay with credit card" ></item>
+<item slot="6" original="Select debit or credit" ></item>
+<item slot="7" original="Sign on machine" ></item>
+<item slot="8" original="Receive receipt" ></item>
+<item slot="9" original="Exit with purchases" ></item>
+</script><script id="92" source="2"><item slot="1" original="Enter point of sale area" ></item>
+<item slot="2" original="Receive total for items" ></item>
+<item slot="3" original="Select the card to pay with" ></item>
+<item slot="4" original="Swipe or hand card over as required" ></item>
+<item slot="5" original="Sign for charges when prompted" ></item>
+<item slot="6" original="Obtain receipt from business for payment" ></item>
+</script><script id="93" source="2"><item slot="1" original="Pull out your credit card" ></item>
+<item slot="2" original="Hand it to the cashier" ></item>
+<item slot="3" original="Wait for the clerk to swipe it" ></item>
+<item slot="4" original="Sign the slip of paper" ></item>
+<item slot="5" original="Get the card back from the cashier" ></item>
+<item slot="6" original="Take your item that you bought and leave" ></item>
+</script><script id="94" source="2"><item slot="1" original="Take items to checkout counter" ></item>
+<item slot="2" original="Have the worker ring them up" ></item>
+<item slot="3" original="Get the total price" ></item>
+<item slot="4" original="Get your credit card out of your wallet" ></item>
+<item slot="5" original="Swipe the credit card through the card reader" ></item>
+<item slot="6" original="Put the credit card back in your wallet" ></item>
+<item slot="7" original="Get the receipt" ></item>
+<item slot="8" original="Take items and leave the store" ></item>
+</script><script id="95" source="2"><item slot="1" original="Pick the product you wish to buy" ></item>
+<item slot="2" original="Approach the cashier" ></item>
+<item slot="3" original="Take out your wallet" ></item>
+<item slot="4" original="Slide your credit card" ></item>
+<item slot="5" original="Collect Receipt" ></item>
+<item slot="6" original="Leave the store" ></item>
+</script><script id="96" source="2"><item slot="1" original="Go to check out" ></item>
+<item slot="2" original="Wait in line" ></item>
+<item slot="3" original="Watch cashier ring up stuff" ></item>
+<item slot="4" original="Scan card on credit thingy" ></item>
+<item slot="5" original="Get receipt" ></item>
+</script><script id="97" source="2"><item slot="1" original="Bring item up to buy" ></item>
+<item slot="2" original="Give item to cashier" ></item>
+<item slot="3" original="Wait for the cashier to say the total" ></item>
+<item slot="4" original="Get credit card out of purse/wallet" ></item>
+<item slot="5" original="give it to the cashier" ></item>
+<item slot="6" original="receive back items and card" ></item>
+</script></scripts>

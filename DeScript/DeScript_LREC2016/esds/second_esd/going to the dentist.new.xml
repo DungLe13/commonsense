@@ -1,0 +1,861 @@
+<scripts><script id="0" source="2"><item slot="1" original="schedule an appointment" ></item>
+<item slot="2" original="go into the office" ></item>
+<item slot="3" original="sit in the waiting room" ></item>
+<item slot="4" original="get called back to the cleaning room" ></item>
+<item slot="5" original="have X-rays taken" ></item>
+<item slot="6" original="chat with the technician" ></item>
+<item slot="7" original="have teeth cleaned" ></item>
+<item slot="8" original="have dentist check teeth" ></item>
+<item slot="9" original="leave" ></item>
+</script><script id="1" source="2"><item slot="1" original="Call and make an appointment at the dentist." ></item>
+<item slot="2" original="Drive to the dentist at the appointed time." ></item>
+<item slot="3" original="Give your name to the receptionist." ></item>
+<item slot="4" original="Read a magazine while you are waiting." ></item>
+<item slot="5" original="Get up when your name is called and go and sit in the chair." ></item>
+<item slot="6" original="Tell the dentist why you are there." ></item>
+<item slot="7" original="Let the dental assistant clean your teeth." ></item>
+<item slot="8" original="Let the dentist work on your teeth." ></item>
+<item slot="9" original="Visit the receptionist before you leave and arrange for payment." ></item>
+<item slot="10" original="Leave the dentist office." ></item>
+<item slot="11" original="Drive home." ></item>
+</script><script id="2" source="2"><item slot="1" original="Enter the dentist office" ></item>
+<item slot="2" original="Sit down in the operating chair" ></item>
+<item slot="3" original="Open your mouth and allow the dentist to work on your teeth" ></item>
+<item slot="4" original="After the dentist is finished, clear your mouth with water" ></item>
+<item slot="5" original="Thank dentist for his time" ></item>
+<item slot="6" original="Schedule next appointment" ></item>
+<item slot="7" original="Leave the dentist office" ></item>
+</script><script id="5" source="2"><item slot="1" original="Go the receptionist" ></item>
+<item slot="2" original="Announce your name" ></item>
+<item slot="3" original="Confirm insurance" ></item>
+<item slot="4" original="Sit in a seat" ></item>
+<item slot="5" original="Wait to be called" ></item>
+<item slot="6" original="Go to a room" ></item>
+<item slot="7" original="Open your mouth" ></item>
+<item slot="8" original="Get your teeth cleaned" ></item>
+<item slot="9" original="Close your mouth" ></item>
+<item slot="10" original="Get a new toothbrush" ></item>
+<item slot="11" original="Schedule the next appointment" ></item>
+<item slot="12" original="Leave the dentist" ></item>
+</script><script id="6" source="2"><item slot="1" original="Getting up" ></item>
+<item slot="2" original="Getting into the car" ></item>
+<item slot="3" original="Driving to the office" ></item>
+<item slot="4" original="Checking in at the window" ></item>
+<item slot="5" original="Waiting in waiting room" ></item>
+<item slot="6" original="being called for my turn" ></item>
+<item slot="7" original="sitting in the dentist chair" ></item>
+<item slot="8" original="being seen" ></item>
+</script><script id="8" source="2"><item slot="1" original="Get dentist's phone number" ></item>
+<item slot="2" original="Get phone" ></item>
+<item slot="3" original="Dial the dentist's office" ></item>
+<item slot="4" original="Make an appointment" ></item>
+<item slot="5" original="Wait for your appointment" ></item>
+<item slot="6" original="Go to the dentist's office" ></item>
+<item slot="7" original="Sit in the chair" ></item>
+<item slot="8" original="Let dentist do their work" ></item>
+<item slot="9" original="Pay" ></item>
+<item slot="10" original="Leave" ></item>
+</script><script id="9" source="2"><item slot="1" original="Call the dentist's office" ></item>
+<item slot="2" original="Confirm the appointment" ></item>
+<item slot="3" original="Get directions" ></item>
+<item slot="4" original="Dress to go out" ></item>
+<item slot="5" original="Enter address on GPS" ></item>
+<item slot="6" original="Drive to the dentist's office" ></item>
+</script><script id="10" source="2"><item slot="1" original="Make an appointment with dentist" ></item>
+<item slot="2" original="Go to dentist office" ></item>
+<item slot="3" original="Sit in waiting room" ></item>
+<item slot="4" original="Meet with dentist" ></item>
+<item slot="5" original="Leave the dentist" ></item>
+</script><script id="11" source="2"><item slot="1" original="Select a good dentist" ></item>
+<item slot="2" original="Brush teeth" ></item>
+<item slot="3" original="Take an appointment with the dentist by calling" ></item>
+<item slot="4" original="Enter the clinic" ></item>
+<item slot="5" original="Go to the receptionist" ></item>
+<item slot="6" original="Pay the card fee" ></item>
+<item slot="7" original="Wait for your turn" ></item>
+<item slot="8" original="When called go inside" ></item>
+<item slot="9" original="When job is finished, come out of the clinic" ></item>
+</script><script id="12" source="2"><item slot="1" original="schedule appointment" ></item>
+<item slot="2" original="arrive for appointment" ></item>
+<item slot="3" original="check in" ></item>
+<item slot="4" original="go to hygienist for cleaning" ></item>
+<item slot="5" original="dentist checks status of teeth" ></item>
+<item slot="6" original="pay/provide insurance" ></item>
+<item slot="7" original="leave" ></item>
+</script><script id="13" source="2"><item slot="1" original="Make a dentist appointment." ></item>
+<item slot="2" original="Get in car to go to dentist office." ></item>
+<item slot="3" original="Drive to dentist office." ></item>
+<item slot="4" original="Sign in at dentist office." ></item>
+<item slot="5" original="Wait for dentist to call your name." ></item>
+<item slot="6" original="Be seen by the dentist." ></item>
+<item slot="7" original="Carefully drive home or get someone to drive you home." ></item>
+</script><script id="14" source="2"><item slot="1" original="Going to the dentist is a must in every human being life span." ></item>
+<item slot="2" original="A survey says at least once in a month everyone must consult a dentist." ></item>
+<item slot="3" original="Also one must compulsorily consult after 45 years." ></item>
+<item slot="4" original="First fix a dentist of your convenience with an appointment to avoid delay / inconvenience" ></item>
+<item slot="5" original="Tell your problem if any to dentist and take the prescription." ></item>
+<item slot="6" original="Go to the medical store buy it use regularly." ></item>
+<item slot="7" original="Mark the next date to visit your dentist on the calender." ></item>
+<item slot="8" original="Also put a reminder note in your phone." ></item>
+<item slot="9" original="To avoid germs and bad breath brush twice daily." ></item>
+</script><script id="16" source="2"><item slot="1" original="Get in car" ></item>
+<item slot="2" original="Drive to dentist" ></item>
+<item slot="3" original="Park car" ></item>
+<item slot="4" original="Walk inside office" ></item>
+<item slot="5" original="Sign in" ></item>
+<item slot="6" original="Wait until your turn" ></item>
+<item slot="7" original="When finished, go home" ></item>
+</script><script id="17" source="2"><item slot="1" original="drive to dentist" ></item>
+<item slot="2" original="check in at reception" ></item>
+<item slot="3" original="wait in waiting room" ></item>
+<item slot="4" original="when called, follow attendant back into office" ></item>
+<item slot="5" original="sit down in dentist chair" ></item>
+<item slot="6" original="put on bib" ></item>
+<item slot="7" original="open mouth for exam" ></item>
+<item slot="8" original="talk to dentist" ></item>
+<item slot="9" original="gargle with fluoride" ></item>
+<item slot="10" original="optional, get x-rays" ></item>
+<item slot="11" original="optional, have teeth cleaned by hygienist," ></item>
+<item slot="12" original="take off bib" ></item>
+<item slot="13" original="go to reception to pay bill" ></item>
+<item slot="14" original="Leave office." ></item>
+</script><script id="18" source="2"><item slot="1" original="Dial the dentist, fix an appointment" ></item>
+<item slot="2" original="Brush the tooth properly to avoid bad odour" ></item>
+<item slot="3" original="Go to the clinic" ></item>
+<item slot="4" original="Wait in the lobby for my turn" ></item>
+<item slot="5" original="Enter dentist's room upon calling" ></item>
+<item slot="6" original="Take the patients seat explain the problem" ></item>
+<item slot="7" original="He will examine and give the necessary treatment" ></item>
+<item slot="8" original="Pay the dentist fee at the reception and take the prescription" ></item>
+<item slot="9" original="Come out of the clinic" ></item>
+</script><script id="19" source="2"><item slot="1" original="Get in your car" ></item>
+<item slot="2" original="drive to dentist" ></item>
+<item slot="3" original="go inside" ></item>
+<item slot="4" original="go to the lady at desk" ></item>
+<item slot="5" original="tell her you're there for your appoint" ></item>
+<item slot="6" original="wait for the dentist" ></item>
+</script><script id="20" source="2"><item slot="1" original="Call dentist to make appointment" ></item>
+<item slot="2" original="Go to dentist office for appointment" ></item>
+<item slot="3" original="Check in at the front desk" ></item>
+<item slot="4" original="Wait in waiting room to be called back to the dentist's office" ></item>
+<item slot="5" original="See dentist when called back to the office" ></item>
+</script><script id="21" source="2"><item slot="1" original="Brush teeth." ></item>
+<item slot="2" original="Drive to dentist." ></item>
+<item slot="3" original="Check in with receptionist." ></item>
+<item slot="4" original="Have a seat in the waiting room." ></item>
+<item slot="5" original="When called, go back." ></item>
+<item slot="6" original="Sit in dentist chair." ></item>
+<item slot="7" original="Open mouth for exam." ></item>
+<item slot="8" original="Express any concerns." ></item>
+<item slot="9" original="Agree to necessary work." ></item>
+<item slot="10" original="Go back to front." ></item>
+<item slot="11" original="Pay bill and make next appointment." ></item>
+<item slot="12" original="Go home." ></item>
+</script><script id="22" source="2"><item slot="1" original="SEARCH FOR THE DENTIST" ></item>
+<item slot="2" original="GET THEIR CONTACT NUMBER" ></item>
+<item slot="3" original="CALL THAT NUMBER" ></item>
+<item slot="4" original="GET APPOINTMENT" ></item>
+<item slot="5" original="ENTER THE HOSPITAL 10 MINUTES BEFORE THE APPOINTMENT TIME" ></item>
+<item slot="6" original="WAIT FOR YOUR CHANCE" ></item>
+<item slot="7" original="MEET THE DENTIST AT YOUR CHANCE" ></item>
+</script><script id="23" source="2"><item slot="1" original="Call the dentist and make an appointment" ></item>
+<item slot="2" original="On the day of the appointment brush and floss really well" ></item>
+<item slot="3" original="Get in your car or call a cab or friend to drive you to the dentist" ></item>
+<item slot="4" original="Once you arrive at the dentist office, walk up to the reception desk" ></item>
+<item slot="5" original="Tell the receptionist your name" ></item>
+<item slot="6" original="Sit in the waiting room and wait for your name to be called" ></item>
+<item slot="7" original="When your name is called you may go to the dentist chair" ></item>
+</script><script id="24" source="2"><item slot="1" original="Drive to dentist office" ></item>
+<item slot="2" original="Enter office" ></item>
+<item slot="3" original="Show documents to receptionist" ></item>
+<item slot="4" original="Be seated" ></item>
+<item slot="5" original="Wait for dentist" ></item>
+<item slot="6" original="Go to dentist chair" ></item>
+<item slot="7" original="Sit down" ></item>
+<item slot="8" original="Get teeth cleaned" ></item>
+<item slot="9" original="Leave office" ></item>
+</script><script id="25" source="2"><item slot="1" original="Make an appointment with your dentist." ></item>
+<item slot="2" original="Travel to the dentist's office." ></item>
+<item slot="3" original="Once at the office, sign in with the receptionist." ></item>
+<item slot="4" original="Fill out any necessary paperwork." ></item>
+<item slot="5" original="Wait in the reception area until a technician calls you back." ></item>
+<item slot="6" original="Sit in the assigned chair and let the dentist and technicians do their work." ></item>
+<item slot="7" original="Pay the receptionist any money that is due and leave the office." ></item>
+</script><script id="26" source="2"><item slot="1" original="Make an appointment." ></item>
+<item slot="2" original="Check in with the receptionist." ></item>
+<item slot="3" original="Follow the hygienist back into the room." ></item>
+<item slot="4" original="Have dentist work on your mouth." ></item>
+<item slot="5" original="Check out with receptionist." ></item>
+<item slot="6" original="Leave." ></item>
+</script><script id="27" source="2"><item slot="1" original="Walk into dentist" ></item>
+<item slot="2" original="Check in with reception" ></item>
+<item slot="3" original="Fill out papers" ></item>
+<item slot="4" original="Wait" ></item>
+<item slot="5" original="Get called back" ></item>
+<item slot="6" original="Sit in chair" ></item>
+<item slot="7" original="Have dentist out chair back" ></item>
+<item slot="8" original="Checks teeth" ></item>
+<item slot="9" original="Does what needs to be done" ></item>
+<item slot="10" original="Go back out to reception" ></item>
+<item slot="11" original="Pay or sign out" ></item>
+<item slot="12" original="Leave dentist office" ></item>
+</script><script id="28" source="2"><item slot="1" original="call the dentist and make appt." ></item>
+<item slot="2" original="call doctor to get a script for xanax" ></item>
+<item slot="3" original="take xanax" ></item>
+<item slot="4" original="have friend drive you to dentist" ></item>
+<item slot="5" original="check in with reception" ></item>
+<item slot="6" original="go back with nurse" ></item>
+<item slot="7" original="sit down in chair" ></item>
+<item slot="8" original="open mouth" ></item>
+<item slot="9" original="and let dentist do his job" ></item>
+<item slot="10" original="try not to bite him" ></item>
+<item slot="11" original="leave with numb face" ></item>
+<item slot="12" original="enjoy the rest of your xanax high" ></item>
+</script><script id="29" source="2"><item slot="1" original="Enter dentist office" ></item>
+<item slot="2" original="Tell receptionist you are there" ></item>
+<item slot="3" original="Sit in waiting room" ></item>
+<item slot="4" original="Receptionist calls your name" ></item>
+<item slot="5" original="Go into dentist room" ></item>
+<item slot="6" original="Sit in dentist chair" ></item>
+<item slot="7" original="Dentist enters" ></item>
+<item slot="8" original="Tell dentist anything that is wrong with your teeth" ></item>
+<item slot="9" original="Dental assistant takes xrays" ></item>
+<item slot="10" original="Dentist examines teeth" ></item>
+<item slot="11" original="Dentist cleans teeth" ></item>
+<item slot="12" original="Dentist fills any cavities" ></item>
+<item slot="13" original="Leave room" ></item>
+<item slot="14" original="Pay receptionist" ></item>
+<item slot="15" original="Leave dentist" ></item>
+</script><script id="30" source="2"><item slot="1" original="make an appointment" ></item>
+<item slot="2" original="day of appointment brush teeth" ></item>
+<item slot="3" original="go to the dentist office" ></item>
+<item slot="4" original="check in with receptionist" ></item>
+<item slot="5" original="wait for your turn" ></item>
+<item slot="6" original="go to the back with the dentist" ></item>
+<item slot="7" original="listen to what the dentist has to say" ></item>
+<item slot="8" original="when finished, check in with receptionist" ></item>
+<item slot="9" original="make a followup appointment if needed" ></item>
+<item slot="10" original="pay copay" ></item>
+</script><script id="31" source="2"><item slot="1" original="Drive to dentistry" ></item>
+<item slot="2" original="Park car" ></item>
+<item slot="3" original="Enter building" ></item>
+<item slot="4" original="Write name on check in list" ></item>
+<item slot="5" original="Wait to be called" ></item>
+<item slot="6" original="Name is called" ></item>
+<item slot="7" original="Sit in dentist chair" ></item>
+<item slot="8" original="Get teeth worked on" ></item>
+</script><script id="32" source="2"><item slot="1" original="Call dentist office." ></item>
+<item slot="2" original="Make appointment." ></item>
+<item slot="3" original="Brush well before visit." ></item>
+<item slot="4" original="Arrive at office." ></item>
+<item slot="5" original="Check in with receptionist." ></item>
+<item slot="6" original="Wait to be called in." ></item>
+<item slot="7" original="Sit and wait in chair." ></item>
+<item slot="8" original="Have procedure performed." ></item>
+<item slot="9" original="Rinse and spit." ></item>
+<item slot="10" original="Make follow-up appointment." ></item>
+<item slot="11" original="Pay bill." ></item>
+<item slot="12" original="Leave office." ></item>
+</script><script id="33" source="2"><item slot="1" original="Make appointment at dentist office." ></item>
+<item slot="2" original="Drive to dentist office." ></item>
+<item slot="3" original="Check in with receptionist." ></item>
+<item slot="4" original="Go to treatment room." ></item>
+<item slot="5" original="Sit down in dental chair." ></item>
+<item slot="6" original="Keep mouth open for dentist to do work." ></item>
+<item slot="7" original="Wait patiently with mouth open." ></item>
+<item slot="8" original="At end of appointment, check out with receptionist." ></item>
+</script><script id="34" source="2"><item slot="1" original="Get phone" ></item>
+<item slot="2" original="Call the dentist" ></item>
+<item slot="3" original="Schedule appointment" ></item>
+<item slot="4" original="Go to the dentist's office" ></item>
+<item slot="5" original="Wait in the waiting room" ></item>
+<item slot="6" original="Go back to the dental exam room" ></item>
+<item slot="7" original="Meet the dentist" ></item>
+<item slot="8" original="Have teeth examined" ></item>
+<item slot="9" original="Speak with dentist" ></item>
+<item slot="10" original="Go out to the reception area" ></item>
+<item slot="11" original="Pay your bill" ></item>
+<item slot="12" original="Leave the dentist's office" ></item>
+</script><script id="36" source="2"><item slot="1" original="book appointment" ></item>
+<item slot="2" original="arrive at clinic" ></item>
+<item slot="3" original="confirm appointment" ></item>
+<item slot="4" original="meet doctor" ></item>
+<item slot="5" original="have mouth checked" ></item>
+<item slot="6" original="make payment" ></item>
+<item slot="7" original="leave" ></item>
+</script><script id="37" source="2"><item slot="1" original="Enter the dentist office" ></item>
+<item slot="2" original="Talk to receptionist" ></item>
+<item slot="3" original="Wait for appointment" ></item>
+<item slot="4" original="Follow assistant to operation room" ></item>
+<item slot="5" original="Sit on operating chair" ></item>
+<item slot="6" original="Greet dentist" ></item>
+<item slot="7" original="Discuss procedure" ></item>
+<item slot="8" original="Open mouth" ></item>
+<item slot="9" original="Wait for operation to finish" ></item>
+<item slot="10" original="Rinse mouth" ></item>
+<item slot="11" original="Exit operating room" ></item>
+<item slot="12" original="Talk to receptionist" ></item>
+<item slot="13" original="Make next appointment" ></item>
+<item slot="14" original="Exit building" ></item>
+</script><script id="38" source="2"><item slot="1" original="Make the appointment" ></item>
+<item slot="2" original="confirm the appointment" ></item>
+<item slot="3" original="get in the car" ></item>
+<item slot="4" original="arrive" ></item>
+<item slot="5" original="check in with reception" ></item>
+<item slot="6" original="wait" ></item>
+<item slot="7" original="sit in the dentist's chair" ></item>
+<item slot="8" original="complete the exam" ></item>
+<item slot="9" original="pay the copay" ></item>
+<item slot="10" original="leave" ></item>
+</script><script id="39" source="2"><item slot="1" original="Brush your teeth" ></item>
+<item slot="2" original="Floss" ></item>
+<item slot="3" original="Use mouthwash" ></item>
+<item slot="4" original="Drive to the dentist office" ></item>
+<item slot="5" original="Check in with the receptionist" ></item>
+<item slot="6" original="Wait to be called back" ></item>
+<item slot="7" original="See the dentist" ></item>
+</script><script id="40" source="2"><item slot="1" original="get in the car" ></item>
+<item slot="2" original="drive to the dentist's office" ></item>
+<item slot="3" original="sign in at the front desk" ></item>
+<item slot="4" original="wait for my turn" ></item>
+<item slot="5" original="when called, go in and see the dentist" ></item>
+<item slot="6" original="get whatever work needs to be done, done" ></item>
+<item slot="7" original="leave dentist's office" ></item>
+<item slot="8" original="drive home" ></item>
+</script><script id="42" source="2"><item slot="1" original="Make an appointment" ></item>
+<item slot="2" original="Go to dentist building" ></item>
+<item slot="3" original="Enter waiting room" ></item>
+<item slot="4" original="Wait for appointment" ></item>
+<item slot="5" original="Enter dentist office" ></item>
+<item slot="6" original="Sit in chair" ></item>
+<item slot="7" original="Wait while dentist looks at your teeth" ></item>
+<item slot="8" original="Wait while dentist cleans your teeth" ></item>
+<item slot="9" original="Look at x-ray of your mouth" ></item>
+<item slot="10" original="Leave office" ></item>
+<item slot="11" original="Enter waiting room" ></item>
+<item slot="12" original="Pay for your appointment" ></item>
+<item slot="13" original="Leave dentist building" ></item>
+</script><script id="43" source="2"><item slot="1" original="make appointment" ></item>
+<item slot="2" original="brush teeth before leaving house" ></item>
+<item slot="3" original="drive to dentist" ></item>
+<item slot="4" original="arrive at dentist" ></item>
+<item slot="5" original="check in with receptionist" ></item>
+<item slot="6" original="wait in lobby" ></item>
+<item slot="7" original="go into room" ></item>
+<item slot="8" original="get teeth cleaned" ></item>
+<item slot="9" original="leave dentist" ></item>
+</script><script id="44" source="2"><item slot="1" original="Enter dentist office" ></item>
+<item slot="2" original="Tell receptionist I have arrived" ></item>
+<item slot="3" original="Sit in lobby" ></item>
+<item slot="4" original="Wait for dentist to be ready" ></item>
+<item slot="5" original="Get teeth checked" ></item>
+<item slot="6" original="Leave dentist office" ></item>
+</script><script id="45" source="2"><item slot="1" original="Make dentist appointment" ></item>
+<item slot="2" original="Drive to dentist office" ></item>
+<item slot="3" original="Check in with the receptionist" ></item>
+<item slot="4" original="Go get X-Rays done" ></item>
+<item slot="5" original="Talk to dentist about issues" ></item>
+<item slot="6" original="Let the dentist do his work on you" ></item>
+<item slot="7" original="Check out with receptionist" ></item>
+</script><script id="46" source="2"><item slot="1" original="Look for the dentist's phone number on the internet" ></item>
+<item slot="2" original="Call the dentist" ></item>
+<item slot="3" original="Set up an appointment" ></item>
+<item slot="4" original="Leave the house" ></item>
+<item slot="5" original="Go to the dentist office" ></item>
+<item slot="6" original="Sign in" ></item>
+<item slot="7" original="Wait for your appointment to begin" ></item>
+</script><script id="47" source="2"><item slot="1" original="Go to dentist's office on the day and 10 minutes before scheduled appointment." ></item>
+<item slot="2" original="Sign your name at the reception desk." ></item>
+<item slot="3" original="Sit in waiting room or area until your name is called." ></item>
+<item slot="4" original="Follow person to room or chair they show you." ></item>
+<item slot="5" original="Follow the directions they give you." ></item>
+<item slot="6" original="Someone will check and clean your teeth." ></item>
+<item slot="7" original="The dentist will also check your teeth." ></item>
+<item slot="8" original="When finished with teeth, go to where they tell you to check out." ></item>
+<item slot="9" original="Pay, if needed." ></item>
+<item slot="10" original="Leave dentist office." ></item>
+</script><script id="48" source="2"><item slot="1" original="Call office to make an appointment" ></item>
+<item slot="2" original="Show up on time for appointment" ></item>
+<item slot="3" original="Wait for dentist to be ready for you" ></item>
+<item slot="4" original="Follow dentist or secretary to the private room" ></item>
+<item slot="5" original="Sit in chair" ></item>
+<item slot="6" original="Open mouth wide and let dentist poke and clean teeth" ></item>
+<item slot="7" original="Spit out any residue in cup" ></item>
+<item slot="8" original="Get out of chair" ></item>
+<item slot="9" original="Get x-ray done if needed" ></item>
+<item slot="10" original="Provide insurance and/or pay bill" ></item>
+<item slot="11" original="Leave office" ></item>
+</script><script id="49" source="2"><item slot="1" original="make appointment" ></item>
+<item slot="2" original="drive to dentist" ></item>
+<item slot="3" original="check in at desk" ></item>
+<item slot="4" original="wait in waiting room" ></item>
+<item slot="5" original="sit in dentist chair" ></item>
+<item slot="6" original="follow instructions from hygienist and dentist" ></item>
+<item slot="7" original="arrange payment" ></item>
+<item slot="8" original="make follow up appointment" ></item>
+<item slot="9" original="drive home" ></item>
+</script><script id="50" source="2"><item slot="1" original="Drive to dentist office" ></item>
+<item slot="2" original="Walk into the waiting room" ></item>
+<item slot="3" original="Check in with the receptionist" ></item>
+<item slot="4" original="Wait until your name is called" ></item>
+<item slot="5" original="Go into patient room" ></item>
+<item slot="6" original="Lie down on patient chair" ></item>
+<item slot="7" original="Talk to dentist" ></item>
+<item slot="8" original="Open your mouth wide" ></item>
+<item slot="9" original="Let dentist work on your teeth" ></item>
+<item slot="10" original="Go back to receptionist to pay and leave" ></item>
+</script><script id="51" source="2"><item slot="1" original="Enter dentist office" ></item>
+<item slot="2" original="Sign in at reception" ></item>
+<item slot="3" original="Sit in waiting room" ></item>
+<item slot="4" original="When called, go in to see dentist" ></item>
+<item slot="5" original="Sit in dentist's chair" ></item>
+<item slot="6" original="Let dental hygienist clean teeth" ></item>
+<item slot="7" original="Rinse mouth" ></item>
+<item slot="8" original="Let dentist examine teeth" ></item>
+<item slot="9" original="Get off dentist's chair" ></item>
+<item slot="10" original="Leave dentist's office" ></item>
+</script><script id="52" source="2"><item slot="1" original="make an appointment" ></item>
+<item slot="2" original="show up on time" ></item>
+<item slot="3" original="wait to be called" ></item>
+<item slot="4" original="follow instructions from dentist as long as you are there" ></item>
+<item slot="5" original="pay for treatment" ></item>
+<item slot="6" original="go home" ></item>
+<item slot="7" original="stop following instructions from dentist" ></item>
+</script><script id="53" source="2"><item slot="1" original="Make appointment to see dentist." ></item>
+<item slot="2" original="Arrive at dentist office." ></item>
+<item slot="3" original="Tell receptionist that you are here." ></item>
+<item slot="4" original="Follow receptionist when they call your name." ></item>
+<item slot="5" original="Sit in chair." ></item>
+<item slot="6" original="Open mouth and sit still when dentist is working on mouth." ></item>
+<item slot="7" original="Make appointment for 6 month check up." ></item>
+<item slot="8" original="Leave dentist office." ></item>
+</script><script id="54" source="2"><item slot="1" original="Leave my house" ></item>
+<item slot="2" original="Get in my car" ></item>
+<item slot="3" original="Drive to my dentist office" ></item>
+<item slot="4" original="Check in at the reception" ></item>
+<item slot="5" original="Wait to be called" ></item>
+</script><script id="55" source="2"><item slot="1" original="Get in car" ></item>
+<item slot="2" original="Drive to the dentist" ></item>
+<item slot="3" original="Check in with front reception" ></item>
+<item slot="4" original="Visit with the dentist" ></item>
+<item slot="5" original="Leave the dentist" ></item>
+<item slot="6" original="Get in car" ></item>
+<item slot="7" original="Drive home" ></item>
+</script><script id="56" source="2"><item slot="1" original="Make an appointment with the receptionist" ></item>
+<item slot="2" original="Show up at the office at your designated time" ></item>
+<item slot="3" original="Check in with the receptionist" ></item>
+<item slot="4" original="Meet with the dentist and discuss plans for that session." ></item>
+<item slot="5" original="Pay directly or via insurance with the receptionist after work is completed." ></item>
+</script><script id="57" source="2"><item slot="1" original="GO TO THE DENTIST OFFICE" ></item>
+<item slot="2" original="LET THEM KNOW YOU'RE THERE" ></item>
+<item slot="3" original="WAIT TO BE CALLED IN" ></item>
+<item slot="4" original="GO THROUGH TO DENTIST" ></item>
+<item slot="5" original="HAVE DENTAL EXAMINATION" ></item>
+<item slot="6" original="LEAVE WHEN FINISHED" ></item>
+</script><script id="58" source="2"><item slot="1" original="Call dentist to schedule appointment" ></item>
+<item slot="2" original="Arrive at dentist's office at scheduled time" ></item>
+<item slot="3" original="Provide insurance information at front desk" ></item>
+<item slot="4" original="Sit in waiting room and wait for name to be called" ></item>
+<item slot="5" original="Follow dental assistant to room when name called" ></item>
+<item slot="6" original="Sit in dental chair" ></item>
+<item slot="7" original="Wait for dentist" ></item>
+<item slot="8" original="Explain problem when dentist arrives" ></item>
+<item slot="9" original="Open mouth for dentist to look" ></item>
+<item slot="10" original="Keep mouth open for xrays" ></item>
+<item slot="11" original="Wait for dentist to look at xrays and explain problem" ></item>
+<item slot="12" original="Schedule next appointment to take care of problem." ></item>
+<item slot="13" original="Go home" ></item>
+</script><script id="59" source="2"><item slot="1" original="set appointment time for dentist" ></item>
+<item slot="2" original="get in car and drive to dentist office" ></item>
+<item slot="3" original="check in with receptionist" ></item>
+<item slot="4" original="go to room as instructed" ></item>
+<item slot="5" original="wait for dentist to examine you" ></item>
+<item slot="6" original="after examination check out with receptionist" ></item>
+<item slot="7" original="drive home" ></item>
+</script><script id="60" source="2"><item slot="1" original="Go to the dentist office." ></item>
+<item slot="2" original="Sign in at the registration desk." ></item>
+<item slot="3" original="Wait to be called into the back." ></item>
+<item slot="4" original="Sit in the dental chair." ></item>
+<item slot="5" original="Open your mouth." ></item>
+<item slot="6" original="Allow the hygienist to clean your teeth." ></item>
+<item slot="7" original="Allow the dentist to examine your teeth" ></item>
+<item slot="8" original="Pay for your dental treatment." ></item>
+<item slot="9" original="Leave dentist office." ></item>
+<item slot="10" original="Follow advice of dentist." ></item>
+</script><script id="61" source="2"><item slot="1" original="Call dentist to make appointment" ></item>
+<item slot="2" original="Wait until day/time of appointment" ></item>
+<item slot="3" original="Drive to appointment" ></item>
+<item slot="4" original="Check in at reception desk" ></item>
+<item slot="5" original="Wait to be called" ></item>
+<item slot="6" original="Go to designated room" ></item>
+<item slot="7" original="Open mouth and be still" ></item>
+<item slot="8" original="Wait for work to be completed" ></item>
+<item slot="9" original="Answer questions as asked" ></item>
+<item slot="10" original="Get out of dental chair and leave room" ></item>
+<item slot="11" original="Check out at reception desk" ></item>
+<item slot="12" original="Drive home" ></item>
+</script><script id="62" source="2"><item slot="1" original="Check appointment time" ></item>
+<item slot="2" original="Arrive at the dentist's office on time" ></item>
+<item slot="3" original="Check in with registration clerk" ></item>
+<item slot="4" original="Sit and wait to be called in" ></item>
+<item slot="5" original="Go into the office when your name is called" ></item>
+<item slot="6" original="Sit in the dentist's chair" ></item>
+<item slot="7" original="Follow dentist's instructions" ></item>
+<item slot="8" original="Sit patiently while dentist works" ></item>
+<item slot="9" original="Listen to dentist's instructions after procedure" ></item>
+<item slot="10" original="Leave dentist's office" ></item>
+</script><script id="63" source="2"><item slot="1" original="Call and make appointment" ></item>
+<item slot="2" original="Reluctantly drive there" ></item>
+<item slot="3" original="Register with reception" ></item>
+<item slot="4" original="Read in waiting room" ></item>
+<item slot="5" original="Get called into the dentist's workplace" ></item>
+<item slot="6" original="Make idle, meaningless, boring conversation with assistant" ></item>
+<item slot="7" original="Make idle, meaningless, boring conversation with dentist" ></item>
+<item slot="8" original="Stare at ceiling tiles" ></item>
+<item slot="9" original="Drool" ></item>
+<item slot="10" original="Twitch in pain" ></item>
+<item slot="11" original="Lie about twitching in pain to dentist" ></item>
+<item slot="12" original="Thank dentist" ></item>
+<item slot="13" original="Rinse" ></item>
+<item slot="14" original="Make new appointment with receptionist" ></item>
+<item slot="15" original="Get home" ></item>
+</script><script id="64" source="2"><item slot="1" original="Enter the dentist office." ></item>
+<item slot="2" original="Talk to receptionist." ></item>
+<item slot="3" original="Sit down and wait to be called." ></item>
+<item slot="4" original="Follow lady when name is called." ></item>
+<item slot="5" original="Sit down in dentist chair." ></item>
+<item slot="6" original="Open mouth for doctor." ></item>
+<item slot="7" original="Close mouth when done." ></item>
+<item slot="8" original="Get up and pay bill." ></item>
+<item slot="9" original="Leave dentist office." ></item>
+</script><script id="65" source="2"><item slot="1" original="Make an appointment" ></item>
+<item slot="2" original="Get in car" ></item>
+<item slot="3" original="Drive to dentist" ></item>
+<item slot="4" original="Check in with the receptionist" ></item>
+<item slot="5" original="Fill out applicable forms" ></item>
+<item slot="6" original="Wait your turn" ></item>
+<item slot="7" original="Go into the dentist exam room" ></item>
+<item slot="8" original="Tell the dentist your concerns/issues" ></item>
+<item slot="9" original="Relax" ></item>
+<item slot="10" original="Allow dentist to examine you" ></item>
+</script><script id="66" source="2"><item slot="1" original="Brush and floss in the morning" ></item>
+<item slot="2" original="Head to dentist office" ></item>
+<item slot="3" original="Talk to the receptionist" ></item>
+<item slot="4" original="Wait for your turn" ></item>
+<item slot="5" original="Enter dentist office" ></item>
+<item slot="6" original="Sit in chair" ></item>
+<item slot="7" original="Have work done" ></item>
+<item slot="8" original="Enjoy!" ></item>
+</script><script id="67" source="2"><item slot="1" original="Schedule an appointment" ></item>
+<item slot="2" original="Stop eating an hour before you go" ></item>
+<item slot="3" original="Go to dentist" ></item>
+<item slot="4" original="Check in with receptionist" ></item>
+<item slot="5" original="Wait in waiting area" ></item>
+<item slot="6" original="When called, follow nurse back to chair" ></item>
+<item slot="7" original="Lay down in chair" ></item>
+<item slot="8" original="Put on sunglasses" ></item>
+<item slot="9" original="Patiently wait as nurse cleans teeth" ></item>
+<item slot="10" original="Pick out toothpaste flavor" ></item>
+<item slot="11" original="Have nurse brush your teeth" ></item>
+<item slot="12" original="wait for dentist to come" ></item>
+<item slot="13" original="go over any problems you have with dentist" ></item>
+<item slot="14" original="get up from chair" ></item>
+<item slot="15" original="check out/pay with receptionist" ></item>
+</script><script id="68" source="2"><item slot="1" original="Enter the office" ></item>
+<item slot="2" original="Let the front desk know you're there" ></item>
+<item slot="3" original="Pay the bill" ></item>
+<item slot="4" original="Take a seat" ></item>
+<item slot="5" original="Wait for your name to be called" ></item>
+<item slot="6" original="Go to a room" ></item>
+<item slot="7" original="Sit in the chair" ></item>
+<item slot="8" original="See the dentist" ></item>
+<item slot="9" original="Leave the office" ></item>
+</script><script id="69" source="2"><item slot="1" original="Look up a good dentist online." ></item>
+<item slot="2" original="Call for an appointment." ></item>
+<item slot="3" original="Go to the dentist's." ></item>
+<item slot="4" original="Wait for my name to be called." ></item>
+<item slot="5" original="Sit in the dentist's chair." ></item>
+</script><script id="70" source="2"><item slot="1" original="take calming pill before leaving house" ></item>
+<item slot="2" original="go to dentist office" ></item>
+<item slot="3" original="walk into the dentist office" ></item>
+<item slot="4" original="check in with the receptionist" ></item>
+<item slot="5" original="find a seat to wait" ></item>
+<item slot="6" original="be called in by assist." ></item>
+<item slot="7" original="go back and sit in chair" ></item>
+<item slot="8" original="lean back in chair and open mouth" ></item>
+<item slot="9" original="have the hygienist check teeth" ></item>
+<item slot="10" original="dentist comes in and checks teeth" ></item>
+<item slot="11" original="dentist tells you what is wrong and what needs to be done" ></item>
+<item slot="12" original="get up" ></item>
+<item slot="13" original="check out and fork out a lot of money" ></item>
+<item slot="14" original="leave" ></item>
+</script><script id="71" source="2"><item slot="1" original="schedule an appointment" ></item>
+<item slot="2" original="go to the dentist office" ></item>
+<item slot="3" original="Get your routine checkup" ></item>
+<item slot="4" original="let him clean your teeth" ></item>
+<item slot="5" original="relax and calm down" ></item>
+</script><script id="72" source="2"><item slot="1" original="Call to dentist's office" ></item>
+<item slot="2" original="Take an appointment" ></item>
+<item slot="3" original="Brush your teeth" ></item>
+<item slot="4" original="Wash your mouth thoroughly" ></item>
+<item slot="5" original="Arrive at dentist office" ></item>
+<item slot="6" original="Meet the receptionists" ></item>
+<item slot="7" original="Get the registration" ></item>
+<item slot="8" original="Pay the fees" ></item>
+<item slot="9" original="Go to dentist's room" ></item>
+<item slot="10" original="Lie on dental chair" ></item>
+<item slot="11" original="Follow the instructions of dentists" ></item>
+<item slot="12" original="Collect the medicines if any from pharmacy" ></item>
+<item slot="13" original="Leave the dentist's office when finished" ></item>
+</script><script id="73" source="2"><item slot="1" original="Drive to dentist" ></item>
+<item slot="2" original="Walk in" ></item>
+<item slot="3" original="Check in at reception" ></item>
+<item slot="4" original="Wait your turn" ></item>
+<item slot="5" original="Go into back with nurse" ></item>
+<item slot="6" original="Sit in chair" ></item>
+<item slot="7" original="Have teeth examined" ></item>
+<item slot="8" original="Have teeth xrayed" ></item>
+<item slot="9" original="Have teeth cleaned" ></item>
+<item slot="10" original="Pay" ></item>
+<item slot="11" original=" Go home" ></item>
+</script><script id="74" source="2"><item slot="1" original="Schedule appointment" ></item>
+<item slot="2" original="Arrive at dental office at scheduled time" ></item>
+<item slot="3" original="Sign check in list" ></item>
+<item slot="4" original="Furnish requisite signatures for insurance and treatment" ></item>
+<item slot="5" original="Wait to be called" ></item>
+<item slot="6" original="Accompany dental assistant to appropriate room" ></item>
+<item slot="7" original="Sit in chair" ></item>
+<item slot="8" original="Allow assistant to cover body with x ray protection" ></item>
+<item slot="9" original="Have xrays taken of teeth" ></item>
+<item slot="10" original="Go to another room for exam and cleaning" ></item>
+<item slot="11" original="Sit in chair and allow bib to be put on" ></item>
+<item slot="12" original="Wait for dentist" ></item>
+<item slot="13" original="Allow dentist to examine teeth and determine necessary services" ></item>
+<item slot="14" original="have cleaning by hygienist" ></item>
+<item slot="15" original="Schedule follow up appointment" ></item>
+<item slot="16" original="Leave office" ></item>
+</script><script id="75" source="2"><item slot="1" original="Book an appointment" ></item>
+<item slot="2" original="Get into your car" ></item>
+<item slot="3" original="Drive to the dentist's place" ></item>
+<item slot="4" original="Wait for your turn" ></item>
+<item slot="5" original="After your session return back home" ></item>
+</script><script id="76" source="2"><item slot="1" original="Wait until it is a few minutes before the time of your appointment." ></item>
+<item slot="2" original="Travel to the dentist's office." ></item>
+<item slot="3" original="Sign in at the front desk" ></item>
+<item slot="4" original="Walk to the dental chair when invited by the nurse." ></item>
+<item slot="5" original="Take a seat and receive the bib from the assistant." ></item>
+<item slot="6" original="Open mouth when advised by the dentist." ></item>
+<item slot="7" original="When finished, walk to the payment desk." ></item>
+<item slot="8" original="Pay for the services." ></item>
+<item slot="9" original="Receive the bag with a new toothbrush and toothpaste." ></item>
+<item slot="10" original="Leave the office." ></item>
+</script><script id="77" source="2"><item slot="1" original="Make an appointment" ></item>
+<item slot="2" original="Drive to dentist's office" ></item>
+<item slot="3" original="Sign in at front desk" ></item>
+<item slot="4" original="Get called into back of office" ></item>
+<item slot="5" original="Sit in dentist's chair" ></item>
+<item slot="6" original="Talk to hygienist" ></item>
+<item slot="7" original="Get x-rays" ></item>
+<item slot="8" original="Get teeth cleaned" ></item>
+<item slot="9" original="Rinse with water" ></item>
+<item slot="10" original="Rinse with fluoride solution" ></item>
+<item slot="11" original="Wait for dentist to examine" ></item>
+<item slot="12" original="Talk to dentist" ></item>
+<item slot="13" original="Pay for visit" ></item>
+<item slot="14" original="Schedule next appointment" ></item>
+</script><script id="78" source="2"><item slot="1" original="Make dentist appointment." ></item>
+<item slot="2" original="Go to dentist office." ></item>
+<item slot="3" original="Check in with receptionist." ></item>
+<item slot="4" original="Wait in waiting room." ></item>
+<item slot="5" original="Go with hygienist to chair." ></item>
+<item slot="6" original="Get x-rays if necessary." ></item>
+<item slot="7" original="Get teeth cleaned." ></item>
+<item slot="8" original="Dentist inspects teeth." ></item>
+<item slot="9" original="Get any instructions from dentist." ></item>
+<item slot="10" original="Talk about whether a follow-up appointment will be necessary." ></item>
+<item slot="11" original="Get complementary toothbrush, floss, and paste from hygienist." ></item>
+<item slot="12" original="Make a follow-up appointment, if necessary." ></item>
+<item slot="13" original="Check out with receptionist." ></item>
+</script><script id="79" source="2"><item slot="1" original="Brush teeth" ></item>
+<item slot="2" original="Floss teeth" ></item>
+<item slot="3" original="Use mouthwash" ></item>
+<item slot="4" original="Get in car" ></item>
+<item slot="5" original="Go to dentist office" ></item>
+<item slot="6" original="Check in" ></item>
+<item slot="7" original="Wait" ></item>
+<item slot="8" original="Name called" ></item>
+<item slot="9" original="Go in room" ></item>
+<item slot="10" original="Get in dentist chair" ></item>
+</script><script id="80" source="2"><item slot="1" original="Get in car" ></item>
+<item slot="2" original="Drive to dentist" ></item>
+<item slot="3" original="Check in" ></item>
+<item slot="4" original="Wait in waiting room" ></item>
+<item slot="5" original="Sit down in dentist chair" ></item>
+<item slot="6" original="Get teeth cleaned" ></item>
+<item slot="7" original="Go home" ></item>
+</script><script id="81" source="2"><item slot="1" original="Enter the office" ></item>
+<item slot="2" original="Sign in" ></item>
+<item slot="3" original="Sit in the waiting room" ></item>
+<item slot="4" original="Read a magazine" ></item>
+<item slot="5" original="Wait to be called" ></item>
+<item slot="6" original="Enter cleaning room" ></item>
+<item slot="7" original="Sit in chair" ></item>
+<item slot="8" original="Open mouth" ></item>
+</script><script id="82" source="2"><item slot="1" original="Schedule an appointment." ></item>
+<item slot="2" original="Prepare required documents." ></item>
+<item slot="3" original="Get in a car and drive to the dentist." ></item>
+<item slot="4" original="Fill out consent forms." ></item>
+<item slot="5" original="Get dental work done." ></item>
+</script><script id="83" source="2"><item slot="1" original="call dentist" ></item>
+<item slot="2" original="set appointment" ></item>
+<item slot="3" original="Grab belongings" ></item>
+<item slot="4" original="drive to dentist" ></item>
+<item slot="5" original="talk with receptionist" ></item>
+<item slot="6" original="wait" ></item>
+<item slot="7" original="go see the dentist" ></item>
+</script><script id="84" source="2"><item slot="1" original="get in the car" ></item>
+<item slot="2" original="drive to the dentist office" ></item>
+<item slot="3" original="wait in the office to be seen" ></item>
+<item slot="4" original="go in the chair to have work done" ></item>
+<item slot="5" original="leave after completion" ></item>
+</script><script id="85" source="2"><item slot="1" original="Find a good dentist." ></item>
+<item slot="2" original="Call dentist's office." ></item>
+<item slot="3" original="Make an appointment." ></item>
+<item slot="4" original="Go on appointed time." ></item>
+<item slot="5" original="Wait in lobby to be seen." ></item>
+<item slot="6" original="Go back when called." ></item>
+<item slot="7" original="Sit in chair." ></item>
+<item slot="8" original="Tell dentist why you are there." ></item>
+<item slot="9" original="Let dentist work on teeth." ></item>
+<item slot="10" original="Pay bill." ></item>
+</script><script id="86" source="2"><item slot="1" original="Call and make an appointment." ></item>
+<item slot="2" original="Drive/walk or take public transportation when you have the appointment" ></item>
+<item slot="3" original="Announce who you are at the reception desk." ></item>
+<item slot="4" original="Wait until you are called back into the office." ></item>
+<item slot="5" original="Have your dental procedure(s) completed." ></item>
+<item slot="6" original="Pay" ></item>
+<item slot="7" original="Leave" ></item>
+</script><script id="87" source="2"><item slot="1" original="Get in car." ></item>
+<item slot="2" original="Drive to dentist." ></item>
+<item slot="3" original="Go into the office." ></item>
+<item slot="4" original="Sign in." ></item>
+<item slot="5" original="Wait for a long time." ></item>
+<item slot="6" original="When called, go into the back." ></item>
+<item slot="7" original="Sit in dentist chair." ></item>
+<item slot="8" original="Wait for dentist." ></item>
+<item slot="9" original="Talk to dentist." ></item>
+<item slot="10" original="Get out of chair." ></item>
+<item slot="11" original="Walk to the front" ></item>
+<item slot="12" original="Schedule a other appointment." ></item>
+<item slot="13" original="Leave office." ></item>
+<item slot="14" original="Get in car." ></item>
+<item slot="15" original="Drive home." ></item>
+</script><script id="88" source="2"><item slot="1" original="Arrange for an appointment" ></item>
+<item slot="2" original="Go to dentist's office" ></item>
+<item slot="3" original="Check in" ></item>
+<item slot="4" original="Wait for a very long time" ></item>
+<item slot="5" original="Enter dentist's office" ></item>
+<item slot="6" original="Have teeth cleaned" ></item>
+<item slot="7" original="Spit" ></item>
+<item slot="8" original="Make next appointment" ></item>
+<item slot="9" original="Go home" ></item>
+</script><script id="89" source="2"><item slot="1" original="Go to the dentist office" ></item>
+<item slot="2" original="Park your car" ></item>
+<item slot="3" original="Go into the office" ></item>
+<item slot="4" original="Check in with the receptionist" ></item>
+<item slot="5" original="Wait in the lobby until your name is called" ></item>
+<item slot="6" original="Go into the back and sit in the chair" ></item>
+<item slot="7" original="Get your teeth cleaned by the assistant" ></item>
+<item slot="8" original="Wait for the dentist to come in" ></item>
+<item slot="9" original="Dentist will check your teeth for cavities" ></item>
+<item slot="10" original="Get a follow up appointment" ></item>
+<item slot="11" original="Pay for the visit" ></item>
+<item slot="12" original="Go home" ></item>
+</script><script id="90" source="2"><item slot="1" original="Drive to the dentist" ></item>
+<item slot="2" original="Check in with receptionist" ></item>
+<item slot="3" original="Sit down and wait to be called" ></item>
+<item slot="4" original="Go with dentist" ></item>
+<item slot="5" original="Get teeth cleaned" ></item>
+<item slot="6" original="Go home" ></item>
+</script><script id="91" source="2"><item slot="1" original="Pick up the phone" ></item>
+<item slot="2" original="Call the dentist" ></item>
+<item slot="3" original="Make an appointment" ></item>
+<item slot="4" original="Visit the dentist's office at the right time" ></item>
+<item slot="5" original="Greet the dentist" ></item>
+</script><script id="92" source="2"><item slot="1" original="Enter into the hospital" ></item>
+<item slot="2" original="Appointment for me" ></item>
+<item slot="3" original="Waiting in my seat" ></item>
+<item slot="4" original="Show the teeth to the dentist" ></item>
+<item slot="5" original="Take some check-ups" ></item>
+<item slot="6" original="Give the medicine" ></item>
+<item slot="7" original="Pay the bill" ></item>
+<item slot="8" original="Leave the hospital" ></item>
+</script><script id="93" source="2"><item slot="1" original="Drive to dentist's office" ></item>
+<item slot="2" original="Step inside dentist's office" ></item>
+<item slot="3" original="Sign name on clipboard" ></item>
+<item slot="4" original="Sit down in waiting area" ></item>
+<item slot="5" original="Wait for name to be called" ></item>
+<item slot="6" original="Follow assistant to room" ></item>
+<item slot="7" original="Have dentist look into mouth" ></item>
+<item slot="8" original="Let dentist do what needs done" ></item>
+<item slot="9" original="Walk back to receptionist" ></item>
+<item slot="10" original="Get appointment card" ></item>
+<item slot="11" original="Leave the dentist's office" ></item>
+</script><script id="95" source="2"><item slot="1" original="Call and make an appointment" ></item>
+<item slot="2" original="Go to appointment" ></item>
+<item slot="3" original="Fill out paperwork and insurance information with front desk" ></item>
+<item slot="4" original="Wait in waiting room until they call you" ></item>
+<item slot="5" original="Go to back room and sit in reclining chair" ></item>
+<item slot="6" original="Let dentist clean your teeth and look in your mouth" ></item>
+<item slot="7" original="Return to front desk to pay and make another appointment if needed" ></item>
+</script><script id="96" source="2"><item slot="1" original="Make an appointment with dentist" ></item>
+<item slot="2" original="Get into car" ></item>
+<item slot="3" original="Drive to the dentist" ></item>
+<item slot="4" original="Sign in at the reception desk" ></item>
+<item slot="5" original="Fill out paperwork if needed" ></item>
+<item slot="6" original="Get called by dental assistant" ></item>
+<item slot="7" original="Go to x-ray dept" ></item>
+<item slot="8" original="Take x-rays" ></item>
+<item slot="9" original="Go to exam room" ></item>
+<item slot="10" original="Wait for dentist" ></item>
+<item slot="11" original="Dentist arrives and examines teeth" ></item>
+</script><script id="97" source="2"><item slot="1" original="Call and set up dentist appointment" ></item>
+<item slot="2" original="Get ready to go to the dentist" ></item>
+<item slot="3" original="Brush and floss your teeth" ></item>
+<item slot="4" original="Go to the dentist office" ></item>
+<item slot="5" original="Check in with the receptionists" ></item>
+<item slot="6" original="Wait for your name to be called" ></item>
+<item slot="7" original="Follow assistant to appropriate room" ></item>
+<item slot="8" original="Sit in chair" ></item>
+<item slot="9" original="Wait for dentist to come in and look at your teeth" ></item>
+<item slot="10" original="Get required work done" ></item>
+<item slot="11" original="Check in with receptionists again to schedule follow-up appointment" ></item>
+<item slot="12" original="Leave dentist office" ></item>
+</script><script id="98" source="2"><item slot="1" original="drive to the dentist office" ></item>
+<item slot="2" original="go into the office and get checked in" ></item>
+<item slot="3" original="have a seat in the waiting room" ></item>
+<item slot="4" original="wait until you are called and doctor is ready for you." ></item>
+<item slot="5" original="once called, go to the back and have a seat" ></item>
+<item slot="6" original="allow the hygienist to prepare you for doctor" ></item>
+<item slot="7" original="Receive your check up from the doctor" ></item>
+<item slot="8" original=" once done go back to the front" ></item>
+<item slot="9" original="show your insurance card or pay for your visit" ></item>
+<item slot="10" original="leave the office" ></item>
+<item slot="11" original="drive home" ></item>
+</script><script id="99" source="2"><item slot="1" original="Go to dentist's office." ></item>
+<item slot="2" original="Enter office." ></item>
+<item slot="3" original="Approach reception counter." ></item>
+<item slot="4" original="Identify yourself to receptionist." ></item>
+<item slot="5" original="Take a seat and wait until called." ></item>
+<item slot="6" original="When called, go to examination room." ></item>
+<item slot="7" original="Follow dentist or professional's directions during examination, cleaning or procedure." ></item>
+<item slot="8" original="Leave examination room." ></item>
+<item slot="9" original="Pay receptionist, if necessary." ></item>
+<item slot="10" original="Leave dentist's office." ></item>
+</script><script id="100" source="2"><item slot="1" original="Drive to the dentist" ></item>
+<item slot="2" original="Register with the receptionist" ></item>
+<item slot="3" original="Go back to the procedure room" ></item>
+<item slot="4" original="Sit in the examining chair" ></item>
+<item slot="5" original="Open mouth wide and allow for cleaning and inspection" ></item>
+<item slot="6" original="Check out with receptionist when finished" ></item>
+</script></scripts>

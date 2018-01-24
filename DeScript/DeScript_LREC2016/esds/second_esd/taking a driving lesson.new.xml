@@ -1,0 +1,678 @@
+<scripts><script id="0" source="2"><item slot="1" original="Entering car" ></item>
+<item slot="2" original="Turning car on" ></item>
+<item slot="3" original="Putting on seatbelt" ></item>
+<item slot="4" original="Listening to instructor's instructions" ></item>
+<item slot="5" original="Follow instructions" ></item>
+<item slot="6" original="Drive car" ></item>
+</script><script id="1" source="2"><item slot="1" original="Enter the car" ></item>
+<item slot="2" original="Put left foot on accelerator" ></item>
+<item slot="3" original="Put right foot on brake" ></item>
+<item slot="4" original="Start the car" ></item>
+<item slot="5" original="listen and act as per instructions of instructor" ></item>
+<item slot="6" original="Press clutch" ></item>
+<item slot="7" original="Start the car" ></item>
+<item slot="8" original="Release clutch slowly" ></item>
+<item slot="9" original="Drive car controlling by steering" ></item>
+<item slot="10" original="Drive slowly" ></item>
+<item slot="11" original="Stop" ></item>
+<item slot="12" original="Get out of the car" ></item>
+</script><script id="2" source="2"><item slot="1" original="Go to the driving course" ></item>
+<item slot="2" original="Enroll in the class, sign up if necessary" ></item>
+<item slot="3" original="Take an classes" ></item>
+<item slot="4" original="Begin driving course" ></item>
+<item slot="5" original="Enter your car" ></item>
+<item slot="6" original="Take a driving course with the instructor" ></item>
+<item slot="7" original="Exit the vehicle" ></item>
+<item slot="8" original="Pay for the services" ></item>
+</script><script id="4" source="2"><item slot="1" original="Hire a driving instructor." ></item>
+<item slot="2" original="Wait for time of driving lesson." ></item>
+<item slot="3" original="Get in drivers seat of car." ></item>
+<item slot="4" original="Listen to instructors instructions." ></item>
+<item slot="5" original="Make sure it is safe to pull out." ></item>
+<item slot="6" original="Start driving." ></item>
+</script><script id="5" source="2"><item slot="1" original="Call a driver training place" ></item>
+<item slot="2" original="Sign up for lessons" ></item>
+<item slot="3" original="Make appointment" ></item>
+<item slot="4" original="Wait for the teacher to arrive" ></item>
+<item slot="5" original="Follow instructions" ></item>
+</script><script id="8" source="2"><item slot="1" original="Visit a good driving school, register and pay the fee." ></item>
+<item slot="2" original="Attend the primary theory class with all attention" ></item>
+<item slot="3" original="Reach the driving school in time for all the allotted days" ></item>
+<item slot="4" original="Start the vehicle and drive under the guidance of the instructor" ></item>
+<item slot="5" original="Drive along the less congested roads and by-lanes" ></item>
+<item slot="6" original="Always be alert on the road and follow the instructions from the instructor" ></item>
+</script><script id="9" source="2"><item slot="1" original="Have your mom or someone drive to the instructor" ></item>
+<item slot="2" original="get out meet your instructor" ></item>
+<item slot="3" original="get in car" ></item>
+<item slot="4" original="put your seat belt on" ></item>
+<item slot="5" original="put key in ingition" ></item>
+<item slot="6" original="turn over key" ></item>
+<item slot="7" original="follow instructions" ></item>
+</script><script id="10" source="2"><item slot="1" original="Go to driving school." ></item>
+<item slot="2" original="Pay instructor fee." ></item>
+<item slot="3" original="Wait for your turn." ></item>
+<item slot="4" original="When called go to lesson car." ></item>
+<item slot="5" original="Listen to instructor." ></item>
+<item slot="6" original="Follow his directions." ></item>
+<item slot="7" original="Speak up when unsure." ></item>
+<item slot="8" original="Return to school." ></item>
+<item slot="9" original="Park car." ></item>
+<item slot="10" original="Go home." ></item>
+</script><script id="11" source="2"><item slot="1" original="Go to the driving school" ></item>
+<item slot="2" original="Get in the car with the instructor" ></item>
+<item slot="3" original="Sit in the driver's seat" ></item>
+<item slot="4" original="Put on the seat belt" ></item>
+<item slot="5" original="Follow the instructor's directions" ></item>
+<item slot="6" original="Drive until the lesson ends" ></item>
+<item slot="7" original="Drive back to the driving school" ></item>
+<item slot="8" original="Get out of the car" ></item>
+</script><script id="12" source="2"><item slot="1" original="Arrive at the driving school" ></item>
+<item slot="2" original="Greet the instructor" ></item>
+<item slot="3" original="Get behind the wheel" ></item>
+<item slot="4" original="Put the car in drive" ></item>
+<item slot="5" original="Get on to the road" ></item>
+<item slot="6" original="Follow the instructor's directions and instructions" ></item>
+<item slot="7" original="Park the car after the lesson is over" ></item>
+<item slot="8" original="Go home" ></item>
+</script><script id="13" source="2"><item slot="1" original="Get into passenger seat" ></item>
+<item slot="2" original="Allow instructor to demonstrate what you will do." ></item>
+<item slot="3" original="Get out of car and switch seats with instructor" ></item>
+<item slot="4" original="put on seatbelt" ></item>
+<item slot="5" original="Carefully put car into gear" ></item>
+<item slot="6" original="Put hands on steering wheel" ></item>
+<item slot="7" original="listen and follow all instructions given" ></item>
+<item slot="8" original="Stop car" ></item>
+<item slot="9" original="put car in park" ></item>
+<item slot="10" original="take off seat belt" ></item>
+<item slot="11" original="get out of car" ></item>
+</script><script id="14" source="2"><item slot="1" original="Get in the car" ></item>
+<item slot="2" original="Buckle up" ></item>
+<item slot="3" original="Check your surroundings" ></item>
+<item slot="4" original="check your mirrors" ></item>
+<item slot="5" original="wait for instructor to tell you to start driving" ></item>
+<item slot="6" original="start driving and follow all instructions from instructor" ></item>
+</script><script id="15" source="2"><item slot="1" original="Find a Driving lesson company on google" ></item>
+<item slot="2" original="Set up an appointment" ></item>
+<item slot="3" original="Go to the appointment" ></item>
+<item slot="4" original="Listen to the instructor" ></item>
+<item slot="5" original="follow the rules" ></item>
+</script><script id="16" source="2"><item slot="1" original="Find a driving school" ></item>
+<item slot="2" original="Get in car" ></item>
+<item slot="3" original="Ask instructor for directions" ></item>
+<item slot="4" original="Wear the seat belt" ></item>
+<item slot="5" original="Check mirrors" ></item>
+<item slot="6" original="Adjust the seat" ></item>
+<item slot="7" original="Start driving" ></item>
+<item slot="8" original="Drive for an hour" ></item>
+<item slot="9" original="Stop driving" ></item>
+<item slot="10" original="Leave the car" ></item>
+<item slot="11" original="Go home" ></item>
+</script><script id="17" source="2"><item slot="1" original="Call driving instructor" ></item>
+<item slot="2" original="Make appointment" ></item>
+<item slot="3" original="Wait for instructor" ></item>
+<item slot="4" original="Get in car" ></item>
+<item slot="5" original="Do what instructor says" ></item>
+</script><script id="18" source="2"><item slot="1" original="Find a friend or relative to teach you." ></item>
+<item slot="2" original="Get into the car with your friend or relative." ></item>
+<item slot="3" original="Fasten your seatbelts." ></item>
+<item slot="4" original="Check all of the signals, lights, and other safety features on the car." ></item>
+<item slot="5" original="If the car is a manual transmission, press in the clutch and start the ignition." ></item>
+<item slot="6" original="Release the parking brake if necessary." ></item>
+<item slot="7" original="Put the car into reverse or first gear, as appropriate." ></item>
+<item slot="8" original="If the car is an automatic, press the accelerator gently." ></item>
+<item slot="9" original="If the car is a manual, press the accelerator gently while releasing the clutch." ></item>
+<item slot="10" original="Watch where you are going and practice." ></item>
+</script><script id="19" source="2"><item slot="1" original="Get into car" ></item>
+<item slot="2" original="Test what the instructor says" ></item>
+<item slot="3" original="Turn on car" ></item>
+<item slot="4" original="Drive around doing testers instructions" ></item>
+<item slot="5" original="Go back to station" ></item>
+<item slot="6" original="Turn off car" ></item>
+<item slot="7" original="See if passed test" ></item>
+</script><script id="20" source="2"><item slot="1" original="Get a ride to driving school" ></item>
+<item slot="2" original="Talk to instructor" ></item>
+<item slot="3" original="Get in car with instructor" ></item>
+<item slot="4" original="Check your mirrors" ></item>
+<item slot="5" original="Put on your seatbelt" ></item>
+<item slot="6" original="Start the car" ></item>
+<item slot="7" original="Instructor gives instructions" ></item>
+<item slot="8" original="Follow instructor's instructions" ></item>
+<item slot="9" original="Drive back to driving school" ></item>
+<item slot="10" original="Turn off car" ></item>
+<item slot="11" original="Undo seat belt" ></item>
+<item slot="12" original="Get out of car" ></item>
+<item slot="13" original="Get your test score from instructor" ></item>
+<item slot="14" original="Leave driving school" ></item>
+</script><script id="21" source="2"><item slot="1" original="Get in car with driving instructor." ></item>
+<item slot="2" original="Put on seatbelt." ></item>
+<item slot="3" original="Put key in ignition." ></item>
+<item slot="4" original="Carefully pull out of parking spot." ></item>
+<item slot="5" original="Carefully check mirrors for other cars." ></item>
+<item slot="6" original="Listen to instructors rules." ></item>
+<item slot="7" original="Follow rules of the road." ></item>
+<item slot="8" original="Pull into parking spot when finished." ></item>
+<item slot="9" original="Turn off car." ></item>
+</script><script id="22" source="2"><item slot="1" original="make an appointment" ></item>
+<item slot="2" original="make sure you have all the proper documents for your lesson" ></item>
+<item slot="3" original="wait for your instructor" ></item>
+<item slot="4" original="when your instructor arrives introduce yourself" ></item>
+<item slot="5" original="make sure you are comfortable in the car" ></item>
+<item slot="6" original="listen to what your instructor has to say" ></item>
+<item slot="7" original="have fun" ></item>
+<item slot="8" original="enjoy" ></item>
+</script><script id="23" source="2"><item slot="1" original="Get a car" ></item>
+<item slot="2" original="Have your trainer get in the car with you" ></item>
+<item slot="3" original="Drive to the DMV" ></item>
+<item slot="4" original="Meet with driving instructor" ></item>
+<item slot="5" original="Follow the instructor's instructions" ></item>
+<item slot="6" original="Drive safely and perform the tasks as requested" ></item>
+<item slot="7" original="Park" ></item>
+<item slot="8" original="Find out results of the test" ></item>
+</script><script id="24" source="2"><item slot="1" original="Ask appropriate driver for guidance" ></item>
+<item slot="2" original="Get into vehicle" ></item>
+<item slot="3" original="everyone buckle up" ></item>
+<item slot="4" original="check mirrors and adjust seat" ></item>
+<item slot="5" original="turn on vehicle" ></item>
+<item slot="6" original="put into correct gear" ></item>
+<item slot="7" original="drive according to laws and guidance from driver" ></item>
+<item slot="8" original="park at the end of the drive" ></item>
+<item slot="9" original="place vehicle in park" ></item>
+<item slot="10" original="turn off ignition" ></item>
+<item slot="11" original="undo seat belt" ></item>
+<item slot="12" original="remove keys from ignition" ></item>
+<item slot="13" original="exit vehicle" ></item>
+</script><script id="25" source="2"><item slot="1" original="Get dressed." ></item>
+<item slot="2" original="Find keys." ></item>
+<item slot="3" original="Wait for driving instructor" ></item>
+<item slot="4" original="Go outside to car" ></item>
+<item slot="5" original="Get in" ></item>
+<item slot="6" original="Start car" ></item>
+<item slot="7" original="Learn from instructor" ></item>
+</script><script id="26" source="2"><item slot="1" original="arrive driving location" ></item>
+<item slot="2" original="go over routine safety checks" ></item>
+<item slot="3" original="start car" ></item>
+<item slot="4" original="drive off" ></item>
+<item slot="5" original="arrive destination" ></item>
+<item slot="6" original="return to base" ></item>
+</script><script id="27" source="2"><item slot="1" original="Go to driving school" ></item>
+<item slot="2" original="Sign up for lesson" ></item>
+<item slot="3" original="Wait for lesson" ></item>
+<item slot="4" original="Pay for lesson" ></item>
+<item slot="5" original="Meet instructor" ></item>
+<item slot="6" original="Get into car with instructor" ></item>
+<item slot="7" original="Take lesson" ></item>
+<item slot="8" original="Return to driving school" ></item>
+<item slot="9" original="Get out of car" ></item>
+<item slot="10" original="Go home" ></item>
+</script><script id="28" source="2"><item slot="1" original="Enter car." ></item>
+<item slot="2" original="Put on seatbelt." ></item>
+<item slot="3" original="Check and adjust mirrors." ></item>
+<item slot="4" original="Start car." ></item>
+<item slot="5" original="Shift into drive or first gear." ></item>
+<item slot="6" original="Press gas pedal." ></item>
+<item slot="7" original="Watch road and mirrors." ></item>
+<item slot="8" original="Apply brake." ></item>
+</script><script id="29" source="2"><item slot="1" original="Get in car" ></item>
+<item slot="2" original="Buckle seat belt" ></item>
+<item slot="3" original="Adjust mirrors" ></item>
+<item slot="4" original="Wait for instructions" ></item>
+<item slot="5" original="Follow instructions" ></item>
+<item slot="6" original="Park car" ></item>
+<item slot="7" original="Unbuckle seat belt" ></item>
+<item slot="8" original="Get out of car" ></item>
+</script><script id="30" source="2"><item slot="1" original="get in car" ></item>
+<item slot="2" original="listen to instructor" ></item>
+<item slot="3" original="turn on car" ></item>
+<item slot="4" original="check mirrors, gauges" ></item>
+<item slot="5" original="begin driving" ></item>
+<item slot="6" original="learn to accelerate" ></item>
+<item slot="7" original="learn to brake" ></item>
+<item slot="8" original="learn to park" ></item>
+<item slot="9" original="turn off car" ></item>
+</script><script id="31" source="2"><item slot="1" original="Going to the driving school" ></item>
+<item slot="2" original="Getting in the car" ></item>
+<item slot="3" original="Listening to the driving instructor" ></item>
+<item slot="4" original="Starting the car" ></item>
+<item slot="5" original="Driving around town" ></item>
+<item slot="6" original="Getting feedback from the instructor" ></item>
+</script><script id="32" source="2"><item slot="1" original="meet driving teacher" ></item>
+<item slot="2" original="follow what they say" ></item>
+<item slot="3" original="enter car" ></item>
+<item slot="4" original="drive around" ></item>
+<item slot="5" original="make sure you're safe" ></item>
+</script><script id="33" source="2"><item slot="1" original="Get in the car" ></item>
+<item slot="2" original="Listen to instructions" ></item>
+<item slot="3" original="Drive around" ></item>
+<item slot="4" original="Follow road rules" ></item>
+<item slot="5" original="Return the car" ></item>
+<item slot="6" original="Get out" ></item>
+</script><script id="34" source="2"><item slot="1" original="Sit in drivers seat" ></item>
+<item slot="2" original="Say hello to instructor" ></item>
+<item slot="3" original="Start car" ></item>
+<item slot="4" original="Listen to instructor directions" ></item>
+<item slot="5" original="Drive as instructed" ></item>
+</script><script id="35" source="2"><item slot="1" original="Get in driver seat next to instructor" ></item>
+<item slot="2" original="Turn car on when instructed" ></item>
+<item slot="3" original="Drive where instructor tells you to drive" ></item>
+<item slot="4" original="Listen to instructor feedback" ></item>
+<item slot="5" original="Drive back home" ></item>
+</script><script id="36" source="2"><item slot="1" original="get to lesson on time" ></item>
+<item slot="2" original="get in car with teacher" ></item>
+<item slot="3" original="follow teacher's word" ></item>
+<item slot="4" original="dont crash car" ></item>
+<item slot="5" original="get out of car when done" ></item>
+<item slot="6" original="go home" ></item>
+</script><script id="37" source="2"><item slot="1" original="Ask someone to drive with you" ></item>
+<item slot="2" original="Get in car" ></item>
+<item slot="3" original="Drive around in low populated areas" ></item>
+<item slot="4" original="Drive on public roads" ></item>
+<item slot="5" original="Drive on the high way" ></item>
+<item slot="6" original="Head back home" ></item>
+</script><script id="38" source="2"><item slot="1" original="Get in car." ></item>
+<item slot="2" original="Put on seat belt." ></item>
+<item slot="3" original="Check mirrors." ></item>
+<item slot="4" original="Turn on car." ></item>
+<item slot="5" original="wait for instructions for driving instructor." ></item>
+</script><script id="40" source="2"><item slot="1" original="Get into car with instructor." ></item>
+<item slot="2" original="Put key in ignition." ></item>
+<item slot="3" original="Listen to instructor." ></item>
+<item slot="4" original="Follow the instructions." ></item>
+<item slot="5" original="Drive the car." ></item>
+</script><script id="41" source="2"><item slot="1" original="listen to the instructor for directions" ></item>
+<item slot="2" original="put on seatbelt" ></item>
+<item slot="3" original="insert key" ></item>
+<item slot="4" original="start engine" ></item>
+<item slot="5" original="adjust mirrors if necessary" ></item>
+<item slot="6" original="put foot on the brake" ></item>
+<item slot="7" original="place car in drive (or reverse)" ></item>
+<item slot="8" original="look both ways to ensure path is clear" ></item>
+<item slot="9" original="pull out and drive" ></item>
+<item slot="10" original="listen for instructions throughout the lesson" ></item>
+</script><script id="42" source="2"><item slot="1" original="GET IN CAR" ></item>
+<item slot="2" original="TURN CAR ON" ></item>
+<item slot="3" original="LISTEN TO INSTRUCTIONS FROM INSTRUCTOR" ></item>
+<item slot="4" original="START DRIVING" ></item>
+<item slot="5" original="FOLLOW INSTRUCTIONS" ></item>
+<item slot="6" original="PARK UP" ></item>
+<item slot="7" original="FINISH LESSON" ></item>
+</script><script id="44" source="2"><item slot="1" original="Get to the driving school" ></item>
+<item slot="2" original="Enter the car with the instructor" ></item>
+<item slot="3" original="Wear your seat-belt" ></item>
+<item slot="4" original="Listen to the instructor carefully" ></item>
+<item slot="5" original="Follow his instructions and drive" ></item>
+</script><script id="45" source="2"><item slot="1" original="meet the instructor" ></item>
+<item slot="2" original="get in the drivers seat of the car" ></item>
+<item slot="3" original="take direction from the instructor" ></item>
+<item slot="4" original="drive carefully" ></item>
+<item slot="5" original="pay attention to what other traffic does" ></item>
+<item slot="6" original="return to starting point" ></item>
+<item slot="7" original="thank instructor" ></item>
+</script><script id="46" source="2"><item slot="1" original="Get into driver's side of the car you will be using." ></item>
+<item slot="2" original="Have the instructor sit in the passenger side of the car." ></item>
+<item slot="3" original="Follow the instructor's directions on where to drive and how to do certain techniques." ></item>
+<item slot="4" original="Listen and learn from the instructor's evaluations of your driving." ></item>
+<item slot="5" original="Schedule more lessons with instructor until you are ready to take your driving test." ></item>
+</script><script id="48" source="2"><item slot="1" original="Get into your car" ></item>
+<item slot="2" original="Put on your seat belt" ></item>
+<item slot="3" original="Put the key in the ignition and start the car" ></item>
+<item slot="4" original="Check your wipers and turn signals to make sure they work" ></item>
+<item slot="5" original="Step on the brake and put the car in drive" ></item>
+<item slot="6" original="Pull out of your spot and onto the ride while watching all directions" ></item>
+<item slot="7" original="Drive where the instructor tells you to" ></item>
+</script><script id="49" source="2"><item slot="1" original="Study driving manual" ></item>
+<item slot="2" original="Inspect vehicle to be driven" ></item>
+<item slot="3" original="Get someone to instruct you" ></item>
+<item slot="4" original="Find route to drive" ></item>
+<item slot="5" original="Get into car" ></item>
+<item slot="6" original="Operate car according to manual" ></item>
+<item slot="7" original="Follow laws and regulations of driving" ></item>
+<item slot="8" original="Ask questions of instructor" ></item>
+<item slot="9" original="Follow requests of instructor" ></item>
+</script><script id="50" source="2"><item slot="1" original="Walk in DMV." ></item>
+<item slot="2" original="Walk to car with instructor." ></item>
+<item slot="3" original="Get in car." ></item>
+<item slot="4" original="Put seat belts on." ></item>
+<item slot="5" original="Adjust mirrors and seat." ></item>
+<item slot="6" original="Start car." ></item>
+<item slot="7" original="Drive out of parking lot." ></item>
+<item slot="8" original="Drive back to DMV." ></item>
+<item slot="9" original="Park car." ></item>
+<item slot="10" original="Get out of car." ></item>
+<item slot="11" original="Say goodbye to lady." ></item>
+</script><script id="51" source="2"><item slot="1" original="Sign up for driving lessons" ></item>
+<item slot="2" original="Show up to appropriate place at designated time" ></item>
+<item slot="3" original="Sit down in car" ></item>
+<item slot="4" original="Listen to directions of instructor" ></item>
+<item slot="5" original="Stay calm and listening for duration of lesson" ></item>
+<item slot="6" original="Exit car" ></item>
+<item slot="7" original="Thank instructor" ></item>
+<item slot="8" original="Drive back home" ></item>
+</script><script id="52" source="2"><item slot="1" original="Grab my license." ></item>
+<item slot="2" original="Get in the car." ></item>
+<item slot="3" original="Listen to the instructor." ></item>
+<item slot="4" original="Start the car." ></item>
+<item slot="5" original="Drive where he tells me to go." ></item>
+</script><script id="53" source="2"><item slot="1" original="get into car" ></item>
+<item slot="2" original="wait for instructor to get into car" ></item>
+<item slot="3" original="buckle seat belt" ></item>
+<item slot="4" original="wait for instructor to buckle seat belt" ></item>
+<item slot="5" original="check to make sure everything is adjusted correctly" ></item>
+<item slot="6" original="turn on car" ></item>
+<item slot="7" original="pray" ></item>
+<item slot="8" original="put car into gear" ></item>
+<item slot="9" original="do what instructor says." ></item>
+<item slot="10" original="when done put car in park" ></item>
+<item slot="11" original="turn off car" ></item>
+<item slot="12" original="take off seat belt" ></item>
+<item slot="13" original="get out of car" ></item>
+</script><script id="54" source="2"><item slot="1" original="Register for a course" ></item>
+<item slot="2" original="Wait for instructor to come pick you up" ></item>
+<item slot="3" original="Get into car" ></item>
+<item slot="4" original="follow instructions laid forth by instructor" ></item>
+<item slot="5" original="Use the gas to move forward" ></item>
+<item slot="6" original="use the brake to stop" ></item>
+<item slot="7" original="drive slowly and cautiously" ></item>
+<item slot="8" original="When done, put the car in park." ></item>
+<item slot="9" original="Thank the instructor" ></item>
+<item slot="10" original="Pay the instructor" ></item>
+<item slot="11" original="Step out of the car" ></item>
+</script><script id="55" source="2"><item slot="1" original="Arrive at the location of the driving lesson." ></item>
+<item slot="2" original="Pay for the lesson." ></item>
+<item slot="3" original="Take a seat in the vehicle." ></item>
+<item slot="4" original="Buckle your safety belt." ></item>
+<item slot="5" original="Drive carefully, while listening to the input of the lesson instructor." ></item>
+<item slot="6" original="Return in the vehicle to the starting point." ></item>
+<item slot="7" original="Thank the lesson instructor." ></item>
+<item slot="8" original="Leave the location of the driving lesson." ></item>
+</script><script id="56" source="2"><item slot="1" original="go to local DMV" ></item>
+<item slot="2" original="wait in line" ></item>
+<item slot="3" original="wait for driving lesson" ></item>
+<item slot="4" original="hop on vehicle with assigned personal" ></item>
+<item slot="5" original="drive around where they tell you to go" ></item>
+<item slot="6" original="arrive back to where you started to drive" ></item>
+</script><script id="57" source="2"><item slot="1" original="Take your learner's license" ></item>
+<item slot="2" original="Go to the driving school" ></item>
+<item slot="3" original="Meet your Instructor" ></item>
+<item slot="4" original="Go to the car allotted to you" ></item>
+<item slot="5" original="Sit in the driver's seat of the car" ></item>
+<item slot="6" original="Wait for instructions" ></item>
+<item slot="7" original="Follow the instructions of the instructor" ></item>
+</script><script id="58" source="2"><item slot="1" original="go to the driving school" ></item>
+<item slot="2" original="enroll in driving lessons" ></item>
+<item slot="3" original="talk to the driving instructor" ></item>
+<item slot="4" original="get in the car" ></item>
+<item slot="5" original="follow instructions given by instructor" ></item>
+<item slot="6" original="learn to drive" ></item>
+</script><script id="59" source="2"><item slot="1" original="Arrive at the lesson" ></item>
+<item slot="2" original="Get in car with instructor" ></item>
+<item slot="3" original="Buckle seatbelt" ></item>
+<item slot="4" original="Start car" ></item>
+<item slot="5" original="Follow instructions" ></item>
+<item slot="6" original="Park car" ></item>
+<item slot="7" original="Undo seatbelt" ></item>
+<item slot="8" original="Leave" ></item>
+</script><script id="60" source="2"><item slot="1" original="Make sure permit is in the car" ></item>
+<item slot="2" original="Get in car with driving instructor" ></item>
+<item slot="3" original="Familiarize oneself with all dials, levers , knobs, etc in car" ></item>
+<item slot="4" original="Adjust seat and mirrors" ></item>
+<item slot="5" original="Insert key into ignition" ></item>
+<item slot="6" original="Start car" ></item>
+<item slot="7" original="Drive as per instructor's directions" ></item>
+<item slot="8" original="Return to starting point" ></item>
+<item slot="9" original="Park car" ></item>
+<item slot="10" original="Turn off car" ></item>
+<item slot="11" original="Exit car" ></item>
+</script><script id="61" source="2"><item slot="1" original="Meet driving instructor" ></item>
+<item slot="2" original="Get into driver seat" ></item>
+<item slot="3" original="Wait for instructor to get into passenger seat" ></item>
+<item slot="4" original="Start car" ></item>
+<item slot="5" original="Follow directions of instructor" ></item>
+<item slot="6" original="At the end of lesson, stop car" ></item>
+<item slot="7" original="Get out of car" ></item>
+<item slot="8" original="Thank driving instructor" ></item>
+</script><script id="62" source="2"><item slot="1" original="Arrive on time" ></item>
+<item slot="2" original="Greet your instructor" ></item>
+<item slot="3" original="Get into the car" ></item>
+<item slot="4" original="Put your seat-belt on" ></item>
+<item slot="5" original="Observe all safety rules" ></item>
+<item slot="6" original="Follow your instructors instructions" ></item>
+</script><script id="63" source="2"><item slot="1" original="Get driving permit" ></item>
+<item slot="2" original="Wait for driving teacher" ></item>
+<item slot="3" original="Get into car" ></item>
+<item slot="4" original="Wait for instructions" ></item>
+<item slot="5" original="Start driving" ></item>
+<item slot="6" original="Listen to instructor" ></item>
+<item slot="7" original="Finish lesson" ></item>
+<item slot="8" original="Listen to evaluation" ></item>
+<item slot="9" original="Go home" ></item>
+</script><script id="64" source="2"><item slot="1" original="Find a licensed driver" ></item>
+<item slot="2" original="Borrow a car" ></item>
+<item slot="3" original="Sign necessary paperwork" ></item>
+<item slot="4" original="Get into driver's seat" ></item>
+<item slot="5" original="Put on seatbelt" ></item>
+<item slot="6" original="Wait for instructions" ></item>
+<item slot="7" original="Start the car" ></item>
+<item slot="8" original="Begin the lesson" ></item>
+</script><script id="65" source="2"><item slot="1" original="Schedule driving lesson" ></item>
+<item slot="2" original="Prepare for driving lesson" ></item>
+<item slot="3" original="Get in car when driving instructor arrives" ></item>
+<item slot="4" original="Listen to driving instructor and drive" ></item>
+<item slot="5" original="Return home after lesson" ></item>
+</script><script id="66" source="2"><item slot="1" original="Get into driver's seat." ></item>
+<item slot="2" original="Fasten Seat belt." ></item>
+<item slot="3" original="Place key in ignition." ></item>
+<item slot="4" original="Follow instructions of instructor." ></item>
+<item slot="5" original="Drive safely." ></item>
+<item slot="6" original="Receive feedback." ></item>
+<item slot="7" original="Get out of vehicle." ></item>
+</script><script id="67" source="2"><item slot="1" original="Sit in the driver's seat" ></item>
+<item slot="2" original="Adjust the seat and mirrors to suit" ></item>
+<item slot="3" original="Wait for the instructor to occupy the passenger seat" ></item>
+<item slot="4" original="Fasten seat belt and wait for instructor to fasten his or hers." ></item>
+<item slot="5" original="When instructed, start the car" ></item>
+<item slot="6" original="Follow instructions" ></item>
+<item slot="7" original="Ask questions if you don't understand something" ></item>
+<item slot="8" original="Return when so instructed" ></item>
+</script><script id="68" source="2"><item slot="1" original="Get in car" ></item>
+<item slot="2" original="Start the car" ></item>
+<item slot="3" original="Put the car in drive" ></item>
+<item slot="4" original="Instructor gives directions" ></item>
+<item slot="5" original="Put pressure on gas pedal" ></item>
+<item slot="6" original="Instructor gives feedback" ></item>
+<item slot="7" original="Stop at red light" ></item>
+<item slot="8" original="Look both ways" ></item>
+<item slot="9" original="Wait for light to turn green" ></item>
+<item slot="10" original="Go" ></item>
+<item slot="11" original="Practice a K-turn" ></item>
+<item slot="12" original="Practice a U-turn" ></item>
+<item slot="13" original="Receive feedback" ></item>
+<item slot="14" original="Arrive back at house" ></item>
+<item slot="15" original="Put car in park" ></item>
+<item slot="16" original="Get out of car" ></item>
+</script><script id="70" source="2"><item slot="1" original="Enter your car" ></item>
+<item slot="2" original="Visit drivng instructor" ></item>
+<item slot="3" original="Follow his directions" ></item>
+<item slot="4" original="Drive safely" ></item>
+<item slot="5" original="Reach your destination" ></item>
+<item slot="6" original="Drop off instructor" ></item>
+</script><script id="71" source="2"><item slot="1" original="Sign up for lessons." ></item>
+<item slot="2" original="Go to lessons." ></item>
+<item slot="3" original="Get in the car." ></item>
+<item slot="4" original="Start the car." ></item>
+<item slot="5" original="Check the mirrors." ></item>
+<item slot="6" original="Listen to the instructor." ></item>
+<item slot="7" original="Drive like the instructor says." ></item>
+<item slot="8" original="Finish the lesson." ></item>
+<item slot="9" original="Get out of the car." ></item>
+</script><script id="72" source="2"><item slot="1" original="Study driving instructions" ></item>
+<item slot="2" original="Buckle seatbelt" ></item>
+<item slot="3" original="Start up the vehicle" ></item>
+<item slot="4" original="Listen to driving instructor" ></item>
+<item slot="5" original="Turn off the car" ></item>
+<item slot="6" original="Unbuckle seatbelt" ></item>
+</script><script id="73" source="2"><item slot="1" original="find a good instructor" ></item>
+<item slot="2" original="get in the car" ></item>
+<item slot="3" original="fasten the seat belt" ></item>
+<item slot="4" original="start the car" ></item>
+<item slot="5" original="follow the instructor's directions" ></item>
+<item slot="6" original="be careful" ></item>
+<item slot="7" original="be safe" ></item>
+<item slot="8" original="get home" ></item>
+</script><script id="74" source="2"><item slot="1" original="Go to driving school" ></item>
+<item slot="2" original="Wait for your turn to drive" ></item>
+<item slot="3" original="Get in the car" ></item>
+<item slot="4" original="Do everything the instructor says" ></item>
+<item slot="5" original="Pay attention to the road" ></item>
+<item slot="6" original="Drive the speed limit" ></item>
+<item slot="7" original="Return the car to the school" ></item>
+<item slot="8" original="Go home" ></item>
+</script><script id="75" source="2"><item slot="1" original="Go to the place that gives driving instructions" ></item>
+<item slot="2" original="Get into the car" ></item>
+<item slot="3" original="Wait for the instructor to get into the car" ></item>
+<item slot="4" original="Follow the instructors directions for driving" ></item>
+<item slot="5" original="Practice whatever they have you practice" ></item>
+<item slot="6" original="Pay for your lesson" ></item>
+<item slot="7" original="Leave" ></item>
+</script><script id="76" source="2"><item slot="1" original="Arriving at the school" ></item>
+<item slot="2" original="Going inside" ></item>
+<item slot="3" original="Signing up" ></item>
+<item slot="4" original="Meeting my teacher" ></item>
+<item slot="5" original="Getting in the car" ></item>
+<item slot="6" original="Learning to drive" ></item>
+<item slot="7" original="Going back to the school" ></item>
+</script><script id="77" source="2"><item slot="1" original="Get in drivers seat." ></item>
+<item slot="2" original="Put in key." ></item>
+<item slot="3" original="Turn key." ></item>
+<item slot="4" original="Wait for other person to get in passenger seat." ></item>
+<item slot="5" original="Make sure all seat belts are on." ></item>
+<item slot="6" original="Listen to passenger tell you what to do." ></item>
+<item slot="7" original="Perform the task given by passenger." ></item>
+</script><script id="79" source="2"><item slot="1" original="Go to car." ></item>
+<item slot="2" original="Get in driver's seat." ></item>
+<item slot="3" original="Buckle seatbelt." ></item>
+<item slot="4" original="Check to ensure you can see correctly in mirrors." ></item>
+<item slot="5" original="Check to ensure seat is the proper distance from the controls." ></item>
+<item slot="6" original="Start car." ></item>
+<item slot="7" original="Take off parking break." ></item>
+<item slot="8" original="Follow instructor's directions to drive car." ></item>
+</script><script id="80" source="2"><item slot="1" original="Find a driving school" ></item>
+<item slot="2" original="Call them and schedule an appointment" ></item>
+<item slot="3" original="Get in the car with driver" ></item>
+<item slot="4" original="Listen to everything he says" ></item>
+<item slot="5" original="Don't get excited" ></item>
+<item slot="6" original="Drive until you're done learning" ></item>
+</script><script id="81" source="2"><item slot="1" original="Walk into company that I am taking lesson with" ></item>
+<item slot="2" original="Talk to person at desk" ></item>
+<item slot="3" original="Show identification" ></item>
+<item slot="4" original="Start the driving lesson" ></item>
+<item slot="5" original="Show instructor I know the basics of the car" ></item>
+<item slot="6" original="Turn on and off lights" ></item>
+<item slot="7" original="Tapping brakes" ></item>
+<item slot="8" original="Start driving" ></item>
+<item slot="9" original="Make Right and left turns" ></item>
+<item slot="10" original="Stop at stop signs" ></item>
+<item slot="11" original="Pull back into driving lesson start area" ></item>
+<item slot="12" original="Turn off car" ></item>
+</script><script id="82" source="2"><item slot="1" original="Open the car door" ></item>
+<item slot="2" original="Sit in the driver's seat" ></item>
+<item slot="3" original="Allow instructor to sit in the passenger seat" ></item>
+<item slot="4" original="Begin driving the car" ></item>
+<item slot="5" original="Take advice and directions from the instructor." ></item>
+</script><script id="83" source="2"><item slot="1" original="find a location for the driving lesson" ></item>
+<item slot="2" original="sign up for the lesson" ></item>
+<item slot="3" original="get transportation to the lesson" ></item>
+<item slot="4" original="check in with the instructor" ></item>
+<item slot="5" original="get in car" ></item>
+<item slot="6" original="follow instructors instructions" ></item>
+<item slot="7" original="return to parking lot." ></item>
+</script><script id="84" source="2"><item slot="1" original="Do some research online to find a driving school." ></item>
+<item slot="2" original="Contact the driving school and make an appointment." ></item>
+<item slot="3" original="Bring the vehicle you are going to use for the lesson to the appropriate place." ></item>
+<item slot="4" original="Drive according to the teacher's instructions." ></item>
+<item slot="5" original="Return to the origin location and make your payment." ></item>
+</script><script id="86" source="2"><item slot="1" original="Arrive at appointment with instructor" ></item>
+<item slot="2" original="Get into passenger seat" ></item>
+<item slot="3" original="Follow instructor's instructions for driving lesson" ></item>
+<item slot="4" original="Drive carefully" ></item>
+<item slot="5" original="Learn" ></item>
+<item slot="6" original="Leave driving lesson" ></item>
+</script><script id="87" source="2"><item slot="1" original="Go to driving school" ></item>
+<item slot="2" original="Pay money to the school" ></item>
+<item slot="3" original="Get in car with instructor" ></item>
+<item slot="4" original="Take the driving lesson" ></item>
+<item slot="5" original="Get out of the car" ></item>
+</script><script id="88" source="2"><item slot="1" original="Get a ride to the lesson" ></item>
+<item slot="2" original="Enter the driving school" ></item>
+<item slot="3" original="Say hello to the instructor" ></item>
+<item slot="4" original="Enter the car" ></item>
+<item slot="5" original="Drive correctly" ></item>
+<item slot="6" original="Learn from the instructor" ></item>
+</script><script id="89" source="2"><item slot="1" original="make an appointment with a driving lesson teacher" ></item>
+<item slot="2" original="get into vehicle with the teacher" ></item>
+<item slot="3" original="put on seat belt" ></item>
+<item slot="4" original="start driving lesson for certain amount of time" ></item>
+<item slot="5" original="pay the teacher for the lesson" ></item>
+<item slot="6" original="exit the vehicle" ></item>
+</script><script id="90" source="2"><item slot="1" original="Get in the car." ></item>
+<item slot="2" original="Put on your seatbelt." ></item>
+<item slot="3" original="Check your mirrors." ></item>
+<item slot="4" original="Adjust mirrors according to your need." ></item>
+<item slot="5" original="Adjust your seat according to your need." ></item>
+<item slot="6" original="Turn on the engine." ></item>
+<item slot="7" original="Put the car in reverse." ></item>
+<item slot="8" original="Look behind you and check for any oncoming cars or pedestrians." ></item>
+<item slot="9" original="Pull out." ></item>
+<item slot="10" original="Start driving." ></item>
+<item slot="11" original="Do what your instructor tells you too." ></item>
+<item slot="12" original="Drive according to your instructor's directions." ></item>
+<item slot="13" original="Make it back safely without accident." ></item>
+</script><script id="91" source="2"><item slot="1" original="Find out and drive to your nearest DMV/driving school." ></item>
+<item slot="2" original="Go to the counter after waiting in line and ask about driving lessons." ></item>
+<item slot="3" original="When your name is called, go back to the counter and follow-up." ></item>
+<item slot="4" original="When you are told to drive, go with your instructor and get in a car." ></item>
+<item slot="5" original="Listen to your instructor, and obey all traffic laws, driving laws, etc., in your area." ></item>
+<item slot="6" original="After done, see your results, and see where you can go from there." ></item>
+</script><script id="92" source="2"><item slot="1" original="Set a date with your instructor" ></item>
+<item slot="2" original="Wait for the date to arrive" ></item>
+<item slot="3" original="Put on comfortable shoes" ></item>
+<item slot="4" original="Go to the location where you are learning to drive" ></item>
+<item slot="5" original="Practice driving with your instructor" ></item>
+</script><script id="93" source="2"><item slot="1" original="hire a driving instructor" ></item>
+<item slot="2" original="schedule a time for driving lesson" ></item>
+<item slot="3" original="arrive at driving lesson" ></item>
+<item slot="4" original="get in driving vehicle" ></item>
+<item slot="5" original="listen to instructor" ></item>
+</script><script id="94" source="2"><item slot="1" original="Get in car" ></item>
+<item slot="2" original="Be driven to drivers education class" ></item>
+<item slot="3" original="go to driving instructor" ></item>
+<item slot="4" original="walk to car with driving instructor" ></item>
+<item slot="5" original="sit in driver's side seat" ></item>
+<item slot="6" original="drive and learn from your driving instructor" ></item>
+</script><script id="95" source="2"><item slot="1" original="Acquire a car" ></item>
+<item slot="2" original="Sign up with a driving instructor" ></item>
+<item slot="3" original="Go over basic driving laws" ></item>
+<item slot="4" original="Go over car controls" ></item>
+<item slot="5" original="Drive around with instructor in passenger seat" ></item>
+</script><script id="96" source="2"><item slot="1" original="Get in the car" ></item>
+<item slot="2" original="Navigate the road" ></item>
+<item slot="3" original="Keep eyes on road" ></item>
+<item slot="5" original="Put seat belt on" ></item>
+<item slot="6" original="Put foot on the pedal" ></item>
+<item slot="7" original="Accelerate when appropriate" ></item>
+<item slot="8" original="Brake when appropriate" ></item>
+<item slot="9" original="Steer the wheel" ></item>
+</script><script id="98" source="2"><item slot="1" original="Meet your instructor at the car." ></item>
+<item slot="2" original="Enter the car." ></item>
+<item slot="3" original="Adjust your seat if needed." ></item>
+<item slot="4" original="Put your seat belt on." ></item>
+<item slot="5" original="Adjust mirrors if needed." ></item>
+<item slot="6" original="Start the car." ></item>
+<item slot="7" original="Follow your instructors commands on beginning your lesson." ></item>
+<item slot="8" original="Put the car in gear." ></item>
+<item slot="9" original="Check your mirrors and begin Lesson." ></item>
+<item slot="10" original="Complete lesson." ></item>
+<item slot="11" original="Park the car." ></item>
+<item slot="12" original="Turn off the ignition." ></item>
+<item slot="13" original="Undo seat belt." ></item>
+<item slot="14" original="Exit the vehicle." ></item>
+</script></scripts>

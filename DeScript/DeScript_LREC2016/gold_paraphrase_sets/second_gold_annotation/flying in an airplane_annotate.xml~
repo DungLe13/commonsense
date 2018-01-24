@@ -1,0 +1,1033 @@
+<scripts>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item head="choose" original="Choose the flight" script="46" slot="2" text="choose" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="flight" text="the flight" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item head="go" original="Go through customs" script="32" slot="8" text="go through" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="customs" text="customs" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item head="walk" original="Walk in the airport" script="45" slot="2" text="walk in" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airport" text="the airport" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="UnrelEv">
+
+</label>
+<label type="PARAPHRASE" event="get_ticket">
+<item head="obtain" original="Obtain ticket." script="22" slot="1" text="obtain" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="ticket" text="ticket" />
+		</item>
+<item head="buy" original="Buy your ticket." script="25" slot="1" text="buy" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="ticket" text="your ticket" />
+		</item>
+<item head="buy" original="Buy a ticket" script="26" slot="1" text="buy" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="ticket" text="a ticket" />
+		</item>
+<item head="buy" original="Buy ticket." script="27" slot="4" text="buy" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="ticket" text="ticket" />
+		</item>
+<item head="obtain" original="Obtain tickets for flight" script="29" slot="1" text="obtain for" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tickets" text="tickets" />
+			<ptcp head="flight" text="flight" />
+		</item>
+<item head="buy" original="buy ticket" script="31" slot="1" text="buy" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="ticket" text="ticket" />
+		</item>
+<item head="buy" original="Buy a ticket." script="34" slot="1" text="buy" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="ticket" text="a ticket" />
+		</item>
+<item head="order" original="Order ticket online" script="37" slot="1" text="order" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="online" text="ticket online" />
+		</item>
+<item head="walk" original="Walk to ticket counter" script="39" slot="4" text="walk to" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="counter" text="ticket counter" />
+		</item>
+<item head="purchase" original="Purchase ticket" script="39" slot="5" text="purchase" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="ticket" text="ticket" />
+		</item>
+<item head="purchase" original="Purchase ticket." script="44" slot="2" text="purchase" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="ticket" text="ticket" />
+		</item>
+<item head="purchase" original="Purchase plane ticket" script="46" slot="3" text="purchase" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="ticket" text="plane ticket" />
+		</item>
+<item head="purchase" original="purchase ticket" script="47" slot="1" text="purchase" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="ticket" text="ticket" />
+		</item>
+<item head="get" original="Get ticket from the counter." script="49" slot="2" text="get from" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="ticket" text="ticket" />
+			<ptcp head="counter" text="the counter" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="other_check_in_online">
+
+</label>
+<label type="PARAPHRASE" event="pack_luggage">
+<item head="pack" original="Pack your clothes." script="25" slot="2" text="pack" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="clothes" text="your clothes" />
+		</item>
+<item head="pack" original="Pack bags" script="26" slot="2" text="pack" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bags" text="bags" />
+		</item>
+<item head="get" original="Get packed" script="28" slot="1" text="get" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="pack" original="Pack a bag." script="34" slot="2" text="pack" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bag" text="a bag" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="other_prepare_docs">
+
+</label>
+<label type="PARAPHRASE" event="other_check_ticket">
+
+</label>
+<label type="PARAPHRASE" event="other_get_in_car">
+<item head="grab" original="Grab keys" script="28" slot="2" text="grab" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="keys" text="keys" />
+		</item>
+<item head="go" original="Go to car" script="28" slot="3" text="go to" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="car" text="car" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="get_airport">
+<item head="go" original="Go to airport." script="22" slot="2" text="go to" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airport" text="airport" />
+		</item>
+<item head="drive" original="Drive to airport." script="25" slot="3" text="drive to" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airport" text="airport" />
+		</item>
+<item head="go" original="Go to airport" script="26" slot="3" text="go to" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airport" text="airport" />
+		</item>
+<item head="drive" original="Drive to airport." script="27" slot="1" text="drive to" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airport" text="airport" />
+		</item>
+<item head="enter" original="Enter airport." script="27" slot="3" text="enter" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airport" text="airport" />
+		</item>
+<item head="drive" original="Drive to airport" script="28" slot="4" text="drive to" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airport" text="airport" />
+		</item>
+<item head="go" original="Go to airport" script="29" slot="2" text="go to" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airport" text="airport" />
+		</item>
+<item head="arrive" original="arrive at airport" script="31" slot="2" text="arrive at" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airport" text="airport" />
+		</item>
+<item head="go" original="Go to airport" script="32" slot="1" text="go to" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airport" text="airport" />
+		</item>
+<item head="drive" original="Drive to the airport." script="34" slot="3" text="drive to" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airport" text="the airport" />
+		</item>
+<item head="drive" original="Drive to airport" script="35" slot="1" text="drive to" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airport" text="airport" />
+		</item>
+<item head="enter" original="Enter airport" script="35" slot="3" text="enter" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airport" text="airport" />
+		</item>
+<item head="go" original="Go to airport" script="37" slot="2" text="go to" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airport" text="airport" />
+		</item>
+<item head="drive" original="Drive to airport" script="39" slot="1" text="drive to" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airport" text="airport" />
+		</item>
+<item head="enter" original="Enter airport" script="39" slot="3" text="enter" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airport" text="airport" />
+		</item>
+<item head="drive" original="Drive to airport" script="42" slot="1" text="drive to" total-slots="12">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airport" text="airport" />
+		</item>
+<item head="arrive" original="Arrive at airport." script="43" slot="1" text="arrive at" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airport" text="airport" />
+		</item>
+<item head="go" original="Go to airport." script="44" slot="1" text="go to" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airport" text="airport" />
+		</item>
+<item head="drive" original="Drive to airport" script="45" slot="1" text="drive to" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airport" text="airport" />
+		</item>
+<item head="arrive" original="Arrive at airport" script="46" slot="1" text="arrive at" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airport" text="airport" />
+		</item>
+<item head="drive" original="drive to airport" script="47" slot="2" text="drive to" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airport" text="airport" />
+		</item>
+<item head="go" original="Go to the airport" script="48" slot="1" text="go to" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airport" text="the airport" />
+		</item>
+<item head="go" original="Go to the airport." script="49" slot="1" text="go to" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airport" text="the airport" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="other_park_car">
+<item head="find" original="Find parking spot." script="27" slot="2" text="find" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="spot" text="parking spot" />
+		</item>
+<item head="park" original="Park" script="28" slot="5" text="park" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="park" original="Park the car." script="34" slot="4" text="park" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="car" text="the car" />
+
+		</item>
+<item head="park" original="Park at airport" script="39" slot="2" text="park at" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airport" text="airport" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="other_get_luggage">
+<item head="get" original="Get luggage out of car" script="35" slot="2" text="get out of" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="luggage" text="luggage" />
+			<ptcp head="car" text="car" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="go_check_in">
+<item head="walk" original="Walk to luggage check in" script="39" slot="8" text="walk in" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="check" text="check" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="present_id_ticket">
+<item head="meet" original="Meet with airline worker" script="37" slot="3" text="meet with" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="worker" text="airline worker" />
+		</item>
+<item head="give" original="Give ticket" script="37" slot="4" text="give" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="ticket" text="ticket" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="check_luggage">
+<item head="check" original="Check your bag." script="34" slot="5" text="check" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bag" text="your bag" />
+		</item>
+<item head="check" original="Check luggage in" script="35" slot="4" text="check in" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="luggage" text="luggage" />
+		</item>
+<item head="check" original="Check in luggage" script="39" slot="9" text="check in" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="luggage" text="luggage" />
+		</item>
+<item head="check" original="Check luggage" script="42" slot="2" text="check" total-slots="12">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="luggage" text="luggage" />
+		</item>
+<item head="check" original="Check in bags." script="43" slot="2" text="check in" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bags" text="bags" />
+		</item>
+<item head="check" original="Check in bags" script="46" slot="4" text="check in" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bags" text="bags" />
+		</item>
+<item head="check" original="check bag" script="47" slot="3" text="check" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bag" text="bag" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="other_follow_checkin_instructions">
+
+</label>
+<label type="PARAPHRASE" event="check_in">
+<item head="check" original="Check in at airline counter." script="22" slot="3" text="check at" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="counter" text="airline counter" />
+		</item>
+<item head="check" original="Check into your flight." script="25" slot="4" text="check into" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="flight" text="your flight" />
+		</item>
+<item head="check" original="Check in" script="26" slot="4" text="check" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="check" original="Check in" script="28" slot="6" text="check" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="check" original="check in" script="31" slot="3" text="check" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="check-in" original="Check-in and leave luggage" script="32" slot="2" text="check-in" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="luggage" text="luggage" />
+		</item>
+<item head="check" original="Check in" script="42" slot="3" text="check" total-slots="12">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="other_confirm_booking">
+<item head="get" original="Get boarding pass" script="42" slot="4" text="get" total-slots="12">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="pass" text="boarding pass" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="go_security_checks">
+<item head="go" original="Go through security checkpoint." script="22" slot="4" text="go through" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="checkpoint" text="security checkpoint" />
+		</item>
+<item head="go" original="Go through security" script="26" slot="5" text="go through" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="security" text="security" />
+		</item>
+<item head="go" original="Go through security." script="27" slot="5" text="go through" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="security" text="security" />
+		</item>
+<item head="pass" original="pass security" script="31" slot="4" text="pass" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="security" text="security" />
+		</item>
+<item head="go" original="Go through security" script="32" slot="3" text="go through" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="security" text="security" />
+		</item>
+<item head="go" original="Go through security." script="34" slot="6" text="go through" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="security" text="security" />
+		</item>
+<item head="take" original="Take out all items from pockets" script="35" slot="6" text="take from" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="items" text="all items" />
+			<ptcp head="pockets" text="pockets" />
+		</item>
+<item head="take" original="Take shoes off" script="35" slot="7" text="take" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="shoes" text="shoes" />
+		</item>
+<item head="go" original="Go into scanner" script="35" slot="8" text="go into" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="scanner" text="scanner" />
+		</item>
+<item head="put" original="Put shoes back on" script="35" slot="9" text="put on" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="shoes" text="shoes" />
+		</item>
+<item head="put" original="Put items back in pockets" script="35" slot="10" text="put in" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="items" text="items" />
+			<ptcp head="pockets" text="pockets" />
+		</item>
+<item head="get" original="Get in security line" script="35" slot="5" text="get in" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="line" text="security line" />
+		</item>
+<item head="enter" original="Enter inspection area" script="39" slot="6" text="enter" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="area" text="inspection area" />
+		</item>
+<item head="walk" original="Walk through metal detector" script="39" slot="7" text="walk through" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="detector" text="metal detector" />
+		</item>
+<item head="enter" original="Enter security line" script="42" slot="5" text="enter" total-slots="12">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="line" text="security line" />
+		</item>
+<item head="put" original="Put luggage and personal belongings on the conveyor belt." script="49" slot="4" text="put on" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="belongings" text="luggage and personal belongings" />
+			<ptcp head="belt" text="the conveyor belt" />
+		</item>
+<item head="take" original="Take off shoes and jacket and put them on the conveyor belt." script="49" slot="5" text="take on" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="shoes" text="shoes and jacket" />
+			<ptcp head="them" text="them" />
+			<ptcp head="belt" text="the conveyor belt" />
+		</item>
+<item head="walk" original="Walk through x-ray machine." script="49" slot="6" text="walk through" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="machine" text="x-ray machine" />
+		</item>
+<item head="retrieve" original="Retrieve luggage, shoes, and jacket from conveyor belt." script="49" slot="7" text="retrieve from" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="luggage" text="luggage" />
+			<ptcp head="shoes" text="shoes" />
+			<ptcp head="jacket" text="jacket" />
+			<ptcp head="belt" text="conveyor belt" />
+		</item>
+<item head="go" original="go through security" script="42" slot="6" text="go through" total-slots="12">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="security" text="security" />
+		</item>
+<item head="pass" original="Pass security checks." script="44" slot="3" text="pass" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="checks" text="security checks" />
+		</item>
+<item head="walk" original="Walk through security" script="45" slot="3" text="walk through" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="security" text="security" />
+		</item>
+<item head="go" original="Go through security" script="46" slot="5" text="go through" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="security" text="security" />
+		</item>
+<item head="go" original="go through security" script="47" slot="4" text="go through" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="security" text="security" />
+		</item>
+<item head="go" original="Go through security" script="48" slot="4" text="go through" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="security" text="security" />
+		</item>
+<item head="go" original="Go to security." script="49" slot="3" text="go to" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="security" text="security" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="find_terminal">
+<item head="find" original="Find your gate" script="26" slot="6" text="find" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="gate" text="your gate" />
+		</item>
+<item head="proceed" original="Proceed to gate" script="35" slot="11" text="proceed to" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="gate" text="gate" />
+		</item>
+<item head="walk" original="Walk to correct gate" script="39" slot="10" text="walk" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="gate" text="gate" />
+		</item>
+<item head="find" original="find gate" script="42" slot="7" text="find" total-slots="12">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="gate" text="gate" />
+		</item>
+<item head="go" original="Go to terminal." script="43" slot="3" text="go to" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="terminal" text="terminal" />
+		</item>
+<item head="go" original="go to gate" script="47" slot="5" text="go to" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="gate" text="gate" />
+		</item>
+<item head="go" original="Go to my gate" script="48" slot="2" text="go to" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="gate" text="my gate" />
+		</item>
+<item head="walk" original="Walk to gate." script="49" slot="8" text="walk to" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="gate" text="gate" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="wait_boarding">
+<item head="wait" original="Wait for plane" script="28" slot="7" text="wait for" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="plane" />
+		</item>
+<item head="wait" original="Wait in waiting area" script="29" slot="3" text="wait in" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="area" text="waiting area" />
+		</item>
+<item head="wait" original="Wait to board" script="32" slot="4" text="wait to" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="board" text="board" />
+		</item>
+<item head="wait" original="wait for flight to board" script="42" slot="8" text="wait for to" total-slots="12">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="flight" text="flight" />
+			<ptcp head="board" text="board" />
+		</item>
+<item head="sit" original="Sit and wait to board plane" script="45" slot="4" text="sit to" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="board plane" />
+		</item>
+<item head="wait" original="Wait in line" script="48" slot="3" text="wait in" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="line" text="line" />
+		</item>
+<item head="wait" original="Wait for boarding time." script="49" slot="9" text="wait for" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="time" text="boarding time" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="present_boarding_pass">
+<item head="turn" original="Turn ticket in to airport personnel" script="39" slot="12" text="turn to" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="ticket" text="ticket" />
+			<ptcp head="personnel" text="airport personnel" />
+		</item>
+<item head="show" original="Show ticket to clerk." script="43" slot="4" text="show to" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="ticket" text="ticket" />
+			<ptcp head="clerk" text="clerk" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="get_plane">
+
+</label>
+<label type="PARAPHRASE" event="other_wait_board_plane">
+<item head="get" original="Get in line" script="39" slot="11" text="get in" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="line" text="line" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="board_plane">
+<item head="board" original="Board plane." script="22" slot="5" text="board" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="plane" />
+		</item>
+<item head="board" original="Board plane." script="25" slot="5" text="board" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="plane" />
+		</item>
+<item head="board" original="Board plane" script="26" slot="7" text="plane" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="board plane" />
+		</item>
+<item head="board" original="Board plane." script="27" slot="6" text="board" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="plane" />
+		</item>
+<item head="board" original="Board plane" script="28" slot="8" text="plane" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="board plane" />
+		</item>
+<item head="board" original="Board plane" script="29" slot="4" text="plane" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="board plane" />
+		</item>
+<item head="enter" original="Enter airplane" script="30" slot="1" text="enter" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airplane" text="airplane" />
+		</item>
+<item head="board" original="board flight" script="31" slot="5" text="board" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="flight" text="flight" />
+		</item>
+<item head="board" original="Board and take-off" script="32" slot="5" text="and take-off" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="board" text="board and take-off" />
+		</item>
+<item head="get" original="Get inside airplane." script="33" slot="1" text="get" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airplane" text="inside airplane" />
+		</item>
+<item head="board" original="Board the plane." script="34" slot="7" text="board" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="the plane" />
+		</item>
+<item head="go" original="Go onto plane" script="35" slot="12" text="go onto" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="plane" />
+		</item>
+<item head="board" original="Board the airplane before its scheduled departure" script="36" slot="1" text="board before" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airplane" text="the airplane" />
+			<ptcp head="departure" text="its scheduled departure" />
+		</item>
+<item head="enter" original="Enter airplane" script="37" slot="5" text="enter" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airplane" text="airplane" />
+		</item>
+<item head="walk" original="Walk to plane" script="39" slot="13" text="walk to" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="plane" />
+		</item>
+<item head="board" original="board airplane" script="40" slot="1" text="airplane" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airplane" text="board airplane" />
+		</item>
+<item head="board" original="board plane" script="42" slot="9" text="plane" total-slots="12">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="board plane" />
+		</item>
+<item head="go" original="Go onto plane when allowed." script="43" slot="5" text="go onto" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="plane" />
+		</item>
+<item head="board" original="Board plane." script="44" slot="4" text="board" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="plane" />
+		</item>
+<item head="walk" original="Walk in and find seat number" script="45" slot="5" text="walk" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="number" text="seat number" />
+		</item>
+<item head="step" original="Step onto plane" script="46" slot="6" text="step onto" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="plane" />
+		</item>
+<item head="board" original="board plane" script="47" slot="6" text="plane" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="board plane" />
+		</item>
+<item head="board" original="Board the plane" script="48" slot="5" text="board" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="the plane" />
+		</item>
+<item head="board" original="Board the plane." script="49" slot="10" text="board" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="the plane" />
+		</item>
+<item head="board" original="board plane" script="50" slot="1" text="plane" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="board plane" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="take_seat">
+<item head="sit" original="Sit in assigned seat." script="22" slot="6" text="sit in" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="assigned seat" />
+		</item>
+<item head="find" original="Find your seat" script="26" slot="9" text="find" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="your seat" />
+		</item>
+<item head="sit" original="Sit down" script="26" slot="10" text="sit" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="sit" original="Sit" script="28" slot="9" text="sit" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="find" original="Find seat" script="30" slot="2" text="find" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="seat" />
+		</item>
+<item head="sit" original="Sit down" script="30" slot="4" text="sit" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="find" original="find seat" script="31" slot="6" text="find" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="seat" />
+		</item>
+<item head="look" original="Look for your seat." script="33" slot="2" text="look for" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="your seat" />
+		</item>
+<item head="sit" original="Sit down." script="33" slot="5" text="sit" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="find" original="Find seat" script="35" slot="13" text="find" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="seat" />
+		</item>
+<item head="sit" original="Sit down" script="35" slot="14" text="sit" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="sit" original="Sit in your seat and buckle the seatbelt" script="36" slot="3" text="sit in" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="your seat" />
+			<ptcp head="seatbelt" text="the seatbelt" />
+		</item>
+<item head="find" original="Find correct seat" script="39" slot="14" text="find" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="correct seat" />
+		</item>
+<item head="sit" original="Sit in seat" script="39" slot="15" text="sit in" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="seat" />
+		</item>
+<item head="locate" original="locate seat" script="40" slot="2" text="locate" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="seat" />
+		</item>
+<item head="sit" original="sit down" script="40" slot="4" text="sit" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="sit" original="sit in your seat" script="42" slot="10" text="sit in" total-slots="12">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="your seat" />
+		</item>
+<item head="find" original="Find seat and sit down." script="43" slot="6" text="find" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="seat" />
+		</item>
+<item head="sit" original="Sit in seat" script="45" slot="7" text="sit in" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="seat" />
+		</item>
+<item head="find" original="Find a seat" script="46" slot="7" text="find" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="a seat" />
+		</item>
+<item head="find" original="Find assigned seat and sit down." script="49" slot="11" text="find" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="seat" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="stow_away_luggage">
+<item head="put" original="Put bag in overhead bin" script="26" slot="8" text="put in" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bag" text="bag" />
+			<ptcp head="bin" text="overhead bin" />
+		</item>
+<item head="put" original="Put carry on luggage in overhead bin" script="30" slot="3" text="put on in" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="carry" text="carry" />
+			<ptcp head="luggage" text="luggage" />
+			<ptcp head="bin" text="overhead bin" />
+		</item>
+<item head="baggages" original="Place baggages in above compartment." script="33" slot="3" text="baggages in" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="place" text="place" />
+			<ptcp head="compartment" text="above compartment" />
+		</item>
+<item head="place" original="Place backpacks under chair." script="33" slot="4" text="place under" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="backpacks" text="backpacks" />
+			<ptcp head="chair" text="chair" />
+		</item>
+<item head="stow" original="Stow your luggage" script="36" slot="2" text="stow" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="luggage" text="your luggage" />
+		</item>
+<item head="place" original="place carry-on luggage in overhead storage" script="40" slot="3" text="place in" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="luggage" text="carry-on luggage" />
+			<ptcp head="storage" text="overhead storage" />
+		</item>
+<item head="place" original="Place luggage above seats" script="45" slot="6" text="place above" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="luggage" text="luggage" />
+			<ptcp head="seats" text="seats" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="buckle_seat_belt">
+<item head="apply" original="Apply seat belt." script="22" slot="7" text="apply" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="belt" text="seat belt" />
+		</item>
+<item head="put" original="Put seatbelt on" script="30" slot="5" text="put on" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seatbelt" text="seatbelt" />
+		</item>
+<item head="buckle" original="Buckle seatbelt" script="39" slot="16" text="buckle" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seatbelt" text="seatbelt" />
+		</item>
+<item head="put" original="put on seat belt" script="40" slot="5" text="put on" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="belt" text="seat belt" />
+		</item>
+<item head="put" original="Put seat belt on." script="43" slot="7" text="put on" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="belt" text="seat belt" />
+		</item>
+<item head="fasten" original="Fasten seatbelt" script="46" slot="8" text="fasten" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seatbelt" text="seatbelt" />
+		</item>
+<item head="buckle" original="Buckle seat belt." script="49" slot="12" text="buckle" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="belt" text="seat belt" />
+		</item>
+<item head="safety" original="safety belt" script="50" slot="2" text="belt" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="belt" text="safety belt" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="listen_crew">
+<item head="listen" original="Listen to instructions." script="33" slot="6" text="listen to" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="instructions" text="instructions" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="take_off_preparation">
+<item head="wait" original="Wait for plane to start." script="27" slot="7" text="wait for" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="plane" />
+		</item>
+<item head="turn" original="Turn off electronics." script="33" slot="7" text="turn" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="electronics" text="electronics" />
+		</item>
+<item head="wait" original="Wait for airplane to ascend." script="33" slot="8" text="wait for" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airplane" text="airplane" />
+		</item>
+<item head="wait" original="wait for plane to take off and land" script="42" slot="11" text="wait for" total-slots="12">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="plane" />
+		</item>
+<item head="wait" original="Wait for it to take off" script="48" slot="6" text="wait for" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="it" text="it" />
+		</item>
+<item head="try" original="try to relax for take off" script="50" slot="3" text="try" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="take-off">
+<item head="fly" original="fly off" script="31" slot="7" text="fly" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="take" original="Take off." script="34" slot="8" text="take" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="take" original="take off" script="40" slot="6" text="take" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="spend_time_flight">
+<item head="fly" original="Fly in plane." script="22" slot="8" text="fly in" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="plane" />
+		</item>
+<item head="wait" original="Wait to arrive at destination" script="26" slot="11" text="wait at" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="destination" text="destination" />
+		</item>
+<item head="relax" original="Relax while plane is in flight" script="29" slot="5" text="relax in" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="plane" />
+			<ptcp head="flight" text="flight" />
+		</item>
+<item head="enjoy" original="Enjoy flight" script="30" slot="6" text="enjoy" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="flight" text="flight" />
+		</item>
+<item head="fly" original="Fly to destination" script="32" slot="6" text="fly to" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="destination" text="destination" />
+		</item>
+<item head="take" original="Take a nap." script="33" slot="9" text="take" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="nap" text="a nap" />
+		</item>
+<item head="fly" original="Fly to destination" script="35" slot="15" text="fly to" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="destination" text="destination" />
+		</item>
+<item head="wait" original="Patiently wait for the plane to arrive at its destination" script="36" slot="4" text="wait for at" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="the plane" />
+			<ptcp head="destination" text="its destination" />
+		</item>
+<item head="sleep" original="sleep through flight" script="40" slot="7" text="sleep through" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="flight" text="flight" />
+		</item>
+<item head="chew" original="Chew gum." script="43" slot="8" text="chew" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="gum" text="gum" />
+		</item>
+<item head="fly" original="Fly in plane." script="44" slot="5" text="fly in" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="plane" />
+		</item>
+<item head="nap" original="nap." script="44" slot="6" text="." total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="nap" text="nap ." />
+		</item>
+<item head="fly" original="Fly to destination" script="45" slot="8" text="fly to" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="destination" text="destination" />
+		</item>
+<item head="enjoy" original="Enjoy the plane ride" script="46" slot="9" text="enjoy" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="ride" text="the plane ride" />
+		</item>
+<item head="fly" original="fly to destination" script="47" slot="7" text="fly to" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="destination" text="destination" />
+		</item>
+<item head="fly" original="Fly" script="48" slot="7" text="fly" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="enjoy" original="Enjoy the flight." script="49" slot="13" text="enjoy" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="flight" text="the flight" />
+		</item>
+<item head="leveled" original="once leveled off listen to some music or keep mind busy for the duration" script="50" slot="5" text="leveled to for" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="once" text="once" />
+			<ptcp head="music" text="some music" />
+			<ptcp head="mind" text="mind" />
+			<ptcp head="duration" text="the duration" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="landing">
+<item head="arrive" original="arrive destination" script="31" slot="8" text="arrive" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="destination" text="destination" />
+		</item>
+<item head="land" original="land" script="40" slot="8" text="land" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="arrive" original="Arrive at destination" script="46" slot="10" text="arrive at" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="destination" text="destination" />
+		</item>
+<item head="buckle" original="buckle up heading into landing" script="50" slot="6" text="buckle heading into" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="landing" text="landing" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="other_stay_seated">
+
+</label>
+<label type="PARAPHRASE" event="other_unfasten_belt">
+<item head="remove" original="Remove seat belt upon landing." script="22" slot="9" text="remove upon" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="belt" text="seat belt" />
+			<ptcp head="landing" text="landing" />
+		</item>
+<item head="landed" original="When landed, remove seatbelt" script="30" slot="7" text="landed" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seatbelt" text="seatbelt" />
+		</item>
+<item head="unbuckle" original="Unbuckle seatbelt" script="46" slot="11" text="unbuckle" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seatbelt" text="seatbelt" />
+		</item>
+<item head="remove" original="remove belt after take off" script="50" slot="4" text="remove" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="belt" text="belt" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="other_gather_items">
+<item head="retrieve" original="Retrieve bag" script="26" slot="13" text="retrieve" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bag" text="bag" />
+		</item>
+<item head="collect" original="Collect carry on luggage" script="30" slot="8" text="collect on" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="luggage" text="luggage" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="exit_plane">
+<item head="get" original="get off of plane." script="22" slot="10" text="get of" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="plane" />
+		</item>
+<item head="get" original="Get up" script="26" slot="12" text="get" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="leave" original="Leave plane" script="26" slot="14" text="leave" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="plane" />
+		</item>
+<item head="leave" original="Leave airplane" script="30" slot="9" text="leave" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airplane" text="airplane" />
+		</item>
+<item head="leave" original="Leave plane at destination" script="32" slot="7" text="leave at" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="plane" />
+			<ptcp head="destination" text="destination" />
+		</item>
+<item head="disembark" original="Disembark from the plane." script="36" slot="5" text="disembark from" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="the plane" />
+		</item>
+<item head="exit" original="exit plane" script="40" slot="9" text="exit" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="plane" />
+		</item>
+<item head="exit" original="exit plane" script="42" slot="12" text="exit" total-slots="12">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="plane" />
+		</item>
+<item head="leave" original="Leave plane when arrived at destination." script="43" slot="9" text="leave at" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="plane" />
+			<ptcp head="destination" text="destination" />
+		</item>
+<item head="get" original="Get off plane" script="46" slot="12" text="get" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="plane" />
+		</item>
+<item head="de-board" original="de-board plane" script="47" slot="8" text="plane" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="de-board plane" />
+		</item>
+<item head="exit" original="Exit the plane." script="49" slot="14" text="exit" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="the plane" />
+		</item>
+<item head="exit" original="exit plane after successful land" script="50" slot="7" text="exit after" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plane" text="plane" />
+			<ptcp head="land" text="successful land" />
+
+		</item>
+</label>
+<label type="PARAPHRASE" event="retrieve_luggage">
+<item head="collect" original="Collect luggage." script="22" slot="11" text="collect" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="luggage" text="luggage" />
+		</item>
+<item head="get" original="Get luggage" script="32" slot="9" text="get" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="luggage" text="luggage" />
+		</item>
+<item head="find" original="Find baggage claim" script="46" slot="13" text="find" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="claim" text="baggage claim" />
+		</item>
+<item head="get" original="get bag" script="47" slot="9" text="get" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bag" text="bag" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="leave_airport">
+<item head="leave" original="Leave airport" script="26" slot="15" text="leave" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airport" text="airport" />
+		</item>
+<item head="leave" original="Leave airport" script="46" slot="14" text="leave" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airport" text="airport" />
+		</item>
+<item head="leave" original="leave airport" script="47" slot="10" text="leave" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="airport" text="airport" />
+		</item>
+</label>
+</scripts>	

@@ -1,0 +1,862 @@
+<scripts>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item head="read" original="read book" script="17" slot="7" text="read" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="book" />
+		</item>
+<item head="enjoy" original="enjoy" script="30" slot="8" text="enjoy" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="read" original="Read the book for the next 2 weeks" script="36" slot="7" text="read for" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="the book" />
+			<ptcp head="weeks" text="the next 2 weeks" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item head="find" original="Find a local library." script="24" slot="1" text="find" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="a local library" />
+		</item>
+<item head="choose" original="choose library" script="30" slot="1" text="choose" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="library" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item head="find" original="Find library card." script="21" slot="1" text="find" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="card" text="library card" />
+		</item>
+<item head="get" original="Get out library card." script="28" slot="4" text="get" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="card" text="library card" />
+		</item>
+<item head="find" original="find library card" script="30" slot="4" text="find" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="card" text="library card" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item head="get" original="Get the book stamped on the back page for return date" script="18" slot="6" text="get on for" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="the book" />
+			<ptcp head="page" text="the back page" />
+			<ptcp head="date" text="return date" />
+		</item>
+<item head="take" original="Take note of return date." script="21" slot="7" text="take of" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="note" text="note of return date" />
+			<ptcp head="date" text="return date" />
+		</item>
+<item head="remember" original="remember the date book is due back" script="30" slot="6" text="remember" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="the date book" />
+		</item>
+<item head="tell" original="They tell you when it's due back" script="31" slot="6" text="tell" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="they" text="they" />
+			<ptcp head="you" text="you" />
+			<ptcp head="it" text="it" />
+		</item>
+<item head="told" original="Be told when the book is due back" script="36" slot="5" text="told" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="the book" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item head="look" original="Look for librarian" script="34" slot="3" text="look for" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="librarian" text="librarian" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="UnRelEv">
+
+</label>
+<label type="PARAPHRASE" event="get_library">
+<item head="go" original="Go to the library" script="12" slot="1" text="go to" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="the library" />
+		</item>
+<item head="drive" original="Drive to library" script="13" slot="1" text="drive to" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="library" />
+		</item>
+<item head="park" original="Park and walk inside" script="13" slot="2" text="park" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="go" original="Go to library" script="14" slot="1" text="go to" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="library" />
+		</item>
+<item head="go" original="Go to library" script="17" slot="1" text="go to" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="library" />
+		</item>
+<item head="go" original="Go to the library" script="18" slot="1" text="go to" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="the library" />
+		</item>
+<item head="go" original="Go to the library" script="19" slot="1" text="go to" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="the library" />
+		</item>
+<item head="go" original="go in" script="19" slot="2" text="go" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="go" original="Go into library" script="20" slot="1" text="go into" total-slots="7">		
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="library" />
+		</item>
+<item head="drive" original="Drive to library." script="21" slot="2" text="drive to" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="library" />
+		</item>
+<item head="go" original="Go to library" script="22" slot="1" text="go to" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="library" />
+		</item>
+<item head="enter" original="Enter library" script="22" slot="2" text="enter" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="library" />
+		</item>
+<item head="go" original="Go to library" script="23" slot="1" text="go to" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="library" />
+		</item>
+<item head="go" original="Go to the library." script="25" slot="1" text="go to" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="the library" />
+		</item>
+<item head="leave" original="Leave house" script="26" slot="1" text="leave" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="house" text="house" />
+		</item>
+<item head="go" original="Go to library" script="26" slot="2" text="go to" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="library" />
+		</item>
+<item head="drive" original="Drive to the library." script="27" slot="1" text="drive to" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="the library" />
+		</item>
+<item head="go" original="Go to library." script="28" slot="1" text="go to" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="library" />
+		</item>
+<item head="go" original="Go to library." script="29" slot="1" text="go to" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="library" />
+		</item>
+<item head="walk" original="Walk into library" script="31" slot="1" text="walk into" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="library" />
+		</item>
+<item head="enter" original="Enter library" script="32" slot="1" text="enter" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="library" />
+		</item>
+<item head="enter" original="Enter library" script="33" slot="1" text="enter" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="library" />
+		</item>
+<item head="enter" original="Enter library" script="34" slot="1" text="enter" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="library" />
+		</item>
+<item head="walk" original="Walk into library" script="36" slot="1" text="walk into" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="library" />
+		</item>
+<item head="walk" original="Walk to library." script="37" slot="1" text="walk to" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="library" />
+		</item>
+<item head="get" original="Get in the car" script="38" slot="1" text="get in" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="car" text="the car" />
+		</item>
+<item head="turn" original="Turn the car on" script="38" slot="2" text="turn" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="car" text="the car" />
+		</item>
+<item head="park" original="Park car" script="38" slot="4" text="park" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="car" text="car" />
+		</item>
+<item head="go" original="Go inside" script="38" slot="5" text="go" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="drive" original="Drive to library" script="38" slot="3" text="drive to" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="library" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="obtain_card">
+<item head="apply" original="Apply for library card" script="14" slot="2" text="apply for" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="card" text="library card" />
+		</item>
+<item head="get" original="Get a library card" script="15" slot="1" text="get" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="card" text="a library card" />
+		</item>
+<item head="become" original="Become a member" script="18" slot="2" text="become" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="member" text="a member" />
+		</item>
+<item head="go" original="go to desk and sign up for a card" script="19" slot="3" text="go to for" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="desk" text="desk" />
+			<ptcp head="card" text="a card" />
+		</item>
+<item head="ask" original="Ask to get a library card" script="20" slot="2" text="ask" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="card" text="a library card" />
+		</item>
+<item head="go" original="Go to the main desk." script="24" slot="2" text="go to" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="desk" text="the main desk" />
+		</item>
+<item head="sign" original="Sign up for a library card." script="24" slot="3" text="sign for" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="card" text="a library card" />
+		</item>
+<item head="receive" original="Receive card." script="24" slot="4" text="receive" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="card" text="card" />
+		</item>
+<item head="get" original="Get a library card" script="26" slot="4" text="get" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="card" text="a library card" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="other_find_seat">
+
+</label>
+<label type="PARAPHRASE" event="ask_librarian">
+<item head="ask" original="Ask the librarian or use the library's computer to find the availability of a book." script="25" slot="2" text="ask of" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="librarian" text="the librarian" />
+			<ptcp head="computer" text="the library 's computer" />
+			<ptcp head="'s" text="the library 's" />
+			<ptcp head="availabilty" text="the availability" />
+			<ptcp head="book" text="a book" />
+
+		</item>
+<item head="talk" original="Talk to library attendant" script="26" slot="3" text="talk to" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="attendant" text="library attendant" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="use_computer">
+
+</label>
+<label type="PARAPHRASE" event="check_catalog">
+
+</label>
+<label type="PARAPHRASE" event="other_read_synopsis">
+
+</label>
+<label type="PARAPHRASE" event="note_shelf">
+
+</label>
+<label type="PARAPHRASE" event="get_shelf">
+<item head="walk" original="Walk to the correct area of the library." script="27" slot="3" text="walk to of" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="area" text="the correct area" />
+			<ptcp head="library" text="the library" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="look_for_book">
+<item head="look" original="Look for a book" script="13" slot="3" text="look for" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="a book" />
+		</item>
+<item head="refer" original="Refer the index for my required book" script="18" slot="3" text="refer for" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="index" text="the index" />
+			<ptcp head="book" text="my required book" />
+		</item>
+<item head="look" original="Look for preferred book" script="20" slot="3" text="look for" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="preferred book" />
+		</item>
+<item head="peruse" original="Peruse book shelves." script="21" slot="3" text="peruse" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="shelves" text="book shelves" />
+		</item>
+<item head="skim" original="Skim books" script="23" slot="2" text="skim" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="books" text="books" />
+		</item>
+<item head="find" original="Find a subject of interest" script="24" slot="5" text="find of" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="subject" text="a subject" />
+			<ptcp head="interest" text="interest" />
+		</item>
+<item head="find" original="Find the book you want on the shelves." script="25" slot="3" text="find on" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="the book" />
+			<ptcp head="you" text="you" />
+			<ptcp head="shelves" text="the shelves" />
+		</item>
+<item head="look" original="Look up the book." script="27" slot="2" text="look" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="the book" />
+		</item>
+<item head="look" original="Look through books on shelves." script="28" slot="2" text="look through on" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="books" text="books" />
+			<ptcp head="shelves" text="shelves" />
+		</item>
+<item head="'d" original="Search for any books that you'd like to borrow." script="29" slot="2" text="'d for" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="search" text="search" />
+			<ptcp head="books" text="any books" />
+			<ptcp head="you" text="you" />
+		</item>
+<item head="look" original="Look through books" script="32" slot="2" text="look through" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="books" text="books" />
+		</item>
+<item head="browse" original="Browse through books." script="37" slot="2" text="browse through" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="books" text="books" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="take_book">
+<item head="select" original="Select a book you want to borrow" script="12" slot="3" text="select" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="a book" />
+			<ptcp head="you" text="you" />
+		</item>
+<item head="pick" original="Pick out book" script="14" slot="3" text="pick" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="book" />
+		</item>
+<item head="find" original="Find the book you want" script="15" slot="2" text="find" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="the book" />
+			<ptcp head="you" text="you" />
+		</item>
+<item head="select" original="Select a book'" script="17" slot="2" text="select" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="a book" />
+		</item>
+<item head="pick" original="pick out book" script="19" slot="4" text="pick" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="book" />
+		</item>
+<item head="select" original="Select a book." script="21" slot="4" text="select" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="a book" />
+		</item>
+<item head="find" original="Find a book to borrow" script="22" slot="3" text="find" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="a book to borrow" />
+		</item>
+<item head="choose" original="Choose best book" script="23" slot="3" text="choose" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="best book" />
+		</item>
+<item head="pick" original="Pick a book." script="24" slot="6" text="pick" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="a book" />
+		</item>
+<item head="remove" original="Remove the book from the shelf." script="25" slot="4" text="remove from" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="the book" />
+			<ptcp head="shelf" text="the shelf" />
+		</item>
+<item head="find" original="Find a book" script="26" slot="5" text="find" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="a book" />
+		</item>
+<item head="take" original="Take the book from the shelf." script="27" slot="4" text="take from" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="the book" />
+			<ptcp head="shelf" text="the shelf" />
+		</item>
+<item head="find" original="Find book to check out." script="28" slot="3" text="find" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="book to check out" />
+		</item>
+<item head="find" original="find a book you want to read" script="30" slot="2" text="find" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="a book" />
+			<ptcp head="you" text="you" />
+		</item>
+<item head="find" original="Find book" script="31" slot="2" text="find" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="book" />
+		</item>
+<item head="find" original="Find a book you want to read" script="32" slot="3" text="find" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="a book" />
+			<ptcp head="you" text="you" />
+		</item>
+<item head="select" original="Select book" script="33" slot="2" text="select" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="book" />
+		</item>
+<item head="find" original="Find desired book" script="34" slot="2" text="find" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="desired book" />
+		</item>
+<item head="browse" original="Browse the books and pick whatever interests you" script="36" slot="2" text="browse" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="books" text="the books" />
+			<ptcp head="you" text="you" />
+		</item>
+<item head="make" original="Make a selection." script="37" slot="3" text="make" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="selection" text="a selection" />
+		</item>
+<item head="find" original="Find a book I want" script="38" slot="6" text="find" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="a book" />
+			<ptcp head="i" text="i" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="browse_releases">
+
+</label>
+<label type="PARAPHRASE" event="go_checkout">
+<item head="take" original="Take the book to the librarian" script="12" slot="4" text="take to" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="the book" />
+			<ptcp head="librarian" text="the librarian" />
+		</item>
+<item head="bring" original="Bring book to front desk" script="13" slot="4" text="bring to" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="book" />
+			<ptcp head="desk" text="front desk" />
+		</item>
+<item head="bring" original="Bring book to librarian" script="14" slot="4" text="bring to" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="book" />
+			<ptcp head="librarian" text="librarian" />
+		</item>
+<item head="take" original="Take book to the librarian" script="15" slot="3" text="take to" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="book" />
+			<ptcp head="librarian" text="the librarian" />
+		</item>
+<item head="get" original="Get in line at check out desk" script="17" slot="3" text="get in at out" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="line" text="line" />
+			<ptcp head="check" text="check" />
+			<ptcp head="desk" text="desk" />
+		</item>
+<item head="take" original="Take the book to the clerk" script="18" slot="4" text="take to" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="the book" />
+			<ptcp head="clerk" text="the clerk" />
+		</item>
+<item head="take" original="take it to the desk" script="19" slot="5" text="take to" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="it" text="it" />
+			<ptcp head="desk" text="the desk" />
+		</item>
+<item head="take" original="Take to front desk" script="20" slot="4" text="take to" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="desk" text="front desk" />
+		</item>
+<item head="go" original="Go to check out desk." script="21" slot="5" text="go" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="desk" text="desk" />
+		</item>
+<item head="bring" original="Bring book to librarian at desk" script="22" slot="4" text="bring to at" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="book" />
+			<ptcp head="librarian" text="librarian" />
+			<ptcp head="desk" text="desk" />
+		</item>
+<item head="go" original="Go to counter" script="23" slot="4" text="go" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="take" original="Take the book to the desk." script="24" slot="7" text="take to" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="the book" />
+			<ptcp head="desk" text="the desk" />
+		</item>
+<item head="walk" original="Walk up to the circular desk." script="25" slot="5" text="walk to" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="desk" text="the circular desk" />
+		</item>
+<item head="wait" original="Wait in line." script="25" slot="6" text="wait in" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="line" text="line" />
+		</item>
+<item head="go" original="Go to the checkout line." script="27" slot="5" text="go to" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="line" text="the checkout line" />
+		</item>
+<item head="go" original="Go to counter." script="29" slot="3" text="go" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="take" original="take book to counter" script="30" slot="3" text="take" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="book" />
+		</item>
+<item head="go" original="Go to counter" script="31" slot="3" text="go" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="take" original="Take book to counter" script="32" slot="4" text="take" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="book" />
+		</item>
+<item head="bring" original="Bring to librarian at desk" script="33" slot="3" text="bring to at" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="librarian" text="librarian" />
+			<ptcp head="desk" text="desk" />
+		</item>
+<item head="take" original="Take book to the front desk" script="36" slot="3" text="take to" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="book" />
+			<ptcp head="desk" text="the front desk" />
+		</item>
+<item head="walk" original="Walk up to librarian." script="37" slot="4" text="walk to" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="librarian" text="librarian" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="other_receive_book">
+<item head="take" original="Take the book with you" script="12" slot="7" text="take with" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="the book" />
+			<ptcp head="you" text="you" />
+		</item>
+<item head="take" original="Take book and library card" script="14" slot="6" text="take" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="card" text="book and library card" />
+		</item>
+<item head="get" original="Get book back" script="15" slot="6" text="get" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="book" />
+		</item>
+<item head="take" original="take both back back and make note of due date" script="17" slot="5" text="take of" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="both" text="both" />
+			<ptcp head="note" text="note of due date" />
+			<ptcp head="date" text="due date" />
+		</item>
+<item head="take" original="take book from librarian" script="30" slot="7" text="take from" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="book from librarian" />
+			<ptcp head="librarian" text="librarian" />
+		</item>
+<item head="give" original="They give you book, library card and a receipt" script="31" slot="5" text="give" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="they" text="they" />
+			<ptcp head="you" text="you" />
+			<ptcp head="book" text="book" />
+			<ptcp head="card" text="library card" />
+			<ptcp head="receipt" text="a receipt" />
+		</item>
+<item head="take" original="Take book" script="32" slot="7" text="take" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="book" />
+		</item>
+<item head="take" original="Take books from librarian" script="33" slot="6" text="take from" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="books" text="books" />
+			<ptcp head="librarian" text="librarian" />
+		</item>
+<item head="get" original="Get the books." script="37" slot="7" text="get" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="books" text="the books" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="show_card">
+<item head="sign" original="Sign in using your membership card" script="12" slot="2" text="sign in" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="card" text="your membership card" />
+		</item>
+<item head="give" original="Give librarian library card" script="14" slot="5" text="give" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="librarian" text="librarian" />
+			<ptcp head="card" text="library card" />
+		</item>
+<item head="show" original="Show librarian your library card" script="15" slot="4" text="show" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="librarian" text="librarian" />
+			<ptcp head="card" text="your library card" />
+		</item>
+<item head="show" original="Show librarian your library card" script="22" slot="5" text="show" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="librarian" text="librarian" />
+			<ptcp head="card" text="your library card" />
+		</item>
+<item head="show" original="Show library card" script="23" slot="5" text="show" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="card" text="library card" />
+		</item>
+<item head="give" original="Give the librarian your library card." script="25" slot="8" text="give" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="librarian" text="the librarian" />
+			<ptcp head="card" text="your library card" />
+		</item>
+<item head="hand" original="Hand the librarian your library card." script="27" slot="6" text="hand" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="librarian" text="the librarian" />
+			<ptcp head="card" text="your library card" />
+		</item>
+<item head="scan" original="Scan library card at computer." script="28" slot="5" text="scan at" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="card" text="library card" />
+			<ptcp head="computer" text="computer" />
+		</item>
+<item head="show" original="Show library card." script="29" slot="4" text="show" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="card" text="library card" />
+		</item>
+<item head="give" original="give card and book to librarian" script="30" slot="5" text="give to" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="card" text="card and book" />
+			<ptcp head="librarian" text="librarian" />
+		</item>
+<item head="give" original="Give librarian the book and your library card" script="32" slot="5" text="give" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="librarian" text="librarian" />
+			<ptcp head="book" text="the book" />
+			<ptcp head="card" text="your library card" />
+		</item>
+<item head="show" original="Show library card" script="33" slot="4" text="show" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="card" text="library card" />
+		</item>
+<item head="show" original="Show the librarian your library card" script="36" slot="4" text="show" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="librarian" text="the librarian" />
+			<ptcp head="card" text="your library card" />
+		</item>
+<item head="give" original="Give librarian my library card." script="37" slot="5" text="give" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="librarian" text="librarian" />
+			<ptcp head="card" text="my library card" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="register">
+<item head="enter" original="Librarian enter the book details" script="12" slot="5" text="enter" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="details" text="the book details" />
+		</item>
+<item head="check" original="Check out the book" script="13" slot="5" text="check" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="the book" />
+		</item>
+<item head="give" original="Give the librarian your book" script="15" slot="5" text="give" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="librarian" text="the librarian" />
+			<ptcp head="book" text="your book" />
+		</item>
+<item head="hand" original="hand librarian book and library card" script="17" slot="4" text="hand" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="librarian book" />
+			<ptcp head="card" text="library card" />
+		</item>
+<item head="make" original="He will make an entry in his ledger" script="18" slot="5" text="make in" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="he" text="he" />
+			<ptcp head="entry" text="an entry" />
+			<ptcp head="ledger" text="his ledger" />
+		</item>
+<item head="check" original="check out the book" script="19" slot="6" text="check" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="the book" />
+		</item>
+<item head="check" original="Check the book out with your library card" script="20" slot="5" text="check with" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="the book" />
+			<ptcp head="card" text="your library card" />
+		</item>
+<item head="scan" original="Librarian will scan book and card with scanner." script="21" slot="6" text="scan with" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="librarian" text="librarian" />
+			<ptcp head="book" text="book and card" />
+			<ptcp head="scanner" text="scanner" />
+		</item>
+<item head="check" original="Check out book" script="23" slot="6" text="check" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="book" />
+		</item>
+<item head="let" original="Let the librarian scan the book." script="24" slot="8" text="let" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="librarian" text="the librarian" />
+			<ptcp head="book" text="the book" />
+		</item>
+<item head="present" original="Present the librarian with the book you'd like to borrow." script="25" slot="7" text="present with" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="librarian" text="the librarian" />
+			<ptcp head="book" text="the book" />
+			<ptcp head="you" text="you" />
+		</item>
+<item head="check" original="Check out the book." script="25" slot="9" text="check" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="the book" />
+		</item>
+<item head="check" original="Check out book" script="26" slot="6" text="check" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="book" />
+		</item>
+<item head="hand" original="Hand the librarian the book." script="27" slot="7" text="hand" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="librarian" text="the librarian" />
+			<ptcp head="book" text="the book" />
+		</item>
+<item head="scan" original="Scan book to borrow." script="28" slot="6" text="scan" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="book" />
+		</item>
+<item head="check" original="Check out books with librarian." script="29" slot="5" text="check with" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="books" text="books" />
+			<ptcp head="librarian" text="librarian" />
+		</item>
+<item head="give" original="Give the person book and library card" script="31" slot="4" text="give" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="person" text="the person" />
+			<ptcp head="card" text="book and library card" />
+		</item>
+<item head="librarian" original="Librarian stamps book" script="32" slot="6" text="stamps book" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stamps" text="librarian stamps" />
+			<ptcp head="book" text="book" />
+		</item>
+<item head="wait" original="Wait for barcode to be scanned" script="33" slot="5" text="wait for" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="barcode" text="barcode" />
+		</item>
+<item head="ask" original="Ask to borrow book" script="34" slot="4" text="ask" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="book" />
+		</item>
+<item head="wait" original="Wait for librarian to approve." script="37" slot="6" text="wait for" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="librarian" text="librarian" />
+		</item>
+<item head="check" original="Check it out" script="38" slot="7" text="check" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="it" text="it" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="get_receipt">
+
+</label>
+<label type="PARAPHRASE" event="other_get_card_back">
+<item head="sign" original="Sign out the membership card" script="12" slot="6" text="sign" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="card" text="the membership card" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="other_store_card">
+
+</label>
+<label type="PARAPHRASE" event="leave">
+<item head="leave" original="Leave the library" script="12" slot="8" text="leave" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="the library" />
+		</item>
+<item head="leave" original="Leave" script="14" slot="7" text="leave" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="go" original="Go home" script="15" slot="7" text="go" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="home" text="home" />
+		</item>
+<item head="take" original="take book home from library" script="17" slot="6" text="take from" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="home" text="book home" />
+			<ptcp head="library" text="library" />
+		</item>
+<item head="exit" original="Exit the library" script="18" slot="7" text="exit" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="the library" />
+		</item>
+<item head="leave" original="Leave library with borrowed book" script="20" slot="6" text="leave with" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="library" />
+			<ptcp head="book" text="borrowed book" />
+		</item>
+<item head="leave" original="Leave library with book." script="21" slot="8" text="leave with" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="library" />
+			<ptcp head="book" text="book" />
+		</item>
+<item head="leave" original="Leave with your book" script="22" slot="6" text="leave with" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="your book" />
+		</item>
+<item head="leave" original="Leave library" script="23" slot="7" text="leave" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="library" />
+		</item>
+<item head="go" original="Go home and read the book." script="24" slot="9" text="go" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="home" text="home" />
+			<ptcp head="book" text="the book" />
+		</item>
+<item head="leave" original="Leave." script="25" slot="10" text="leave" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="go" original="Go home Read book" script="26" slot="7" text="go" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="book" />
+		</item>
+<item head="take" original="Take book and leave library." script="28" slot="7" text="take" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="book" />
+			<ptcp head="library" text="library" />
+		</item>
+<item head="take" original="Take home and read." script="29" slot="6" text="take" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="home" text="home" />
+		</item>
+<item head="leave" original="Leave library" script="31" slot="7" text="leave" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="library" />
+		</item>
+<item head="leave" original="Leave Library" script="32" slot="8" text="leave" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="library" />
+		</item>
+<item head="leave" original="Leave library" script="33" slot="7" text="leave" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="library" />
+		</item>
+<item head="leave" original="Leave library with book" script="34" slot="5" text="leave with" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="library" text="library" />
+			<ptcp head="book" text="book" />
+		</item>
+<item head="take" original="Take the book home" script="36" slot="6" text="take" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="home" text="the book home" />
+		</item>
+<item head="walk" original="Walk home." script="37" slot="8" text="walk" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="home" text="home" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="return">
+<item head="return" original="Return book to library when finished" script="20" slot="7" text="return to" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="book" />
+			<ptcp head="library" text="library" />
+		</item>
+<item head="return" original="return book to library before due date" script="17" slot="8" text="return to before" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="book" text="book" />
+			<ptcp head="library" text="library" />
+			<ptcp head="date" text="due date" />
+		</item>
+<item head="said" original="Return by said date on receipt." script="29" slot="7" text="said by on" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="return" text="return" />
+			<ptcp head="date" text="date on receipt" />
+			<ptcp head="receipt" text="receipt" />
+		</item>
+</label>
+</scripts>

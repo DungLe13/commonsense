@@ -1,0 +1,710 @@
+<scripts><script id="0" source="2"><item slot="1" original="Tell the child it is time for bed." ></item>
+<item slot="2" original="Tell them you will read a story after they are in bed." ></item>
+<item slot="3" original="Read a story to the child." ></item>
+<item slot="4" original="Tell them goodnight." ></item>
+<item slot="5" original="Turn off the lights." ></item>
+</script><script id="1" source="2"><item slot="1" original="Pick up child" ></item>
+<item slot="2" original="Bring them to bedroom" ></item>
+<item slot="3" original="Turn on light" ></item>
+<item slot="4" original="Put in bed" ></item>
+<item slot="5" original="Tuck child in" ></item>
+<item slot="6" original="Read bedtime story if still awake" ></item>
+<item slot="7" original="Wait for child to fall asleep" ></item>
+<item slot="8" original="Turn off light" ></item>
+<item slot="9" original="Leave room" ></item>
+</script><script id="2" source="2"><item slot="1" original="Have child get her pajamas on" ></item>
+<item slot="2" original="Have child brush her teeth" ></item>
+<item slot="3" original="Tuck her in" ></item>
+<item slot="4" original="Read her a story" ></item>
+<item slot="5" original="Pray with her" ></item>
+<item slot="6" original="Kiss her goodnight" ></item>
+<item slot="7" original="Turn out the light" ></item>
+</script><script id="3" source="2"><item slot="1" original="Get your child" ></item>
+<item slot="2" original="Put your childs jammies on" ></item>
+<item slot="3" original="Pick up you child" ></item>
+<item slot="4" original="Carry your child to the bedroom" ></item>
+<item slot="5" original="Place the child in their bed" ></item>
+<item slot="6" original="Cover up the child" ></item>
+<item slot="7" original="Turn out the light" ></item>
+<item slot="8" original="Leave the room" ></item>
+</script><script id="4" source="2"><item slot="1" original="Tell the child it is bed time." ></item>
+<item slot="2" original="Follow child to room." ></item>
+<item slot="3" original="After they climb into bed, give them a hug and kiss" ></item>
+<item slot="4" original="Decide if a book is to be read this time" ></item>
+<item slot="5" original="Read book if decided to" ></item>
+<item slot="6" original="Say good night to child" ></item>
+<item slot="7" original="turn off light switch" ></item>
+<item slot="8" original="leave the room" ></item>
+</script><script id="5" source="2"><item slot="1" original="Give child a bath" ></item>
+<item slot="2" original="Dress in pajamas" ></item>
+<item slot="3" original="Offer small snack or drink" ></item>
+<item slot="4" original="Read story to child while they lay in bed and listen quietly" ></item>
+<item slot="5" original="Tuck child in and make sure they are warm and comfortable" ></item>
+<item slot="6" original="Kiss and hug them goodnight" ></item>
+<item slot="7" original="Leave on nightlight or hall light for them" ></item>
+</script><script id="6" source="2"><item slot="1" original="tell the child it is bedtime" ></item>
+<item slot="2" original="Bring them to bed" ></item>
+<item slot="3" original="Read a book to them" ></item>
+<item slot="4" original="Shut off the light" ></item>
+<item slot="5" original="Say good night" ></item>
+</script><script id="7" source="2"><item slot="1" original="Tell child it's bedtime" ></item>
+<item slot="2" original="Take child to their room" ></item>
+<item slot="3" original="Put them in pajamas" ></item>
+<item slot="4" original="Put them in bed" ></item>
+<item slot="5" original="Read story" ></item>
+<item slot="6" original="Turn off light" ></item>
+<item slot="7" original="Leave" ></item>
+</script><script id="8" source="2"><item slot="1" original="Getting your child's attention" ></item>
+<item slot="2" original="Tuck them into bed" ></item>
+<item slot="3" original="Giving them a kiss" ></item>
+<item slot="4" original="Wish a good night" ></item>
+<item slot="5" original="Turn off the lights" ></item>
+</script><script id="9" source="2"><item slot="1" original="Go to child." ></item>
+<item slot="3" original="Pick him up." ></item>
+<item slot="4" original="Put him on bed." ></item>
+<item slot="5" original="Cover him with a sheet." ></item>
+</script><script id="10" source="2"><item slot="1" original="Dress child in pajamas" ></item>
+<item slot="2" original="Get a drink of water for them" ></item>
+<item slot="3" original="Lay in bed and tell stories" ></item>
+<item slot="4" original="Tuck them in" ></item>
+<item slot="5" original="Kiss them" ></item>
+<item slot="6" original="Reassure them of no monsters" ></item>
+<item slot="7" original="Leave room" ></item>
+</script><script id="11" source="2"><item slot="1" original="Have child brush his teeth." ></item>
+<item slot="2" original="Walk child to his room." ></item>
+<item slot="3" original="Put child in his bed." ></item>
+<item slot="4" original="Tuck child in for the night." ></item>
+<item slot="5" original="Read child a bedtime story." ></item>
+</script><script id="12" source="2"><item slot="1" original="Talk to child" ></item>
+<item slot="2" original="Tell them to go to bed" ></item>
+<item slot="3" original="Put them in the bed" ></item>
+<item slot="4" original="Pull the covers over them" ></item>
+<item slot="5" original="Turn off the lights" ></item>
+</script><script id="14" source="2"><item slot="1" original="Pick child up" ></item>
+<item slot="2" original="Carry child to bedroom" ></item>
+<item slot="3" original="Lay child down" ></item>
+<item slot="4" original="Put pajamas on them" ></item>
+<item slot="5" original="Lay favorite stuffed animals next to child" ></item>
+<item slot="6" original="Tuck child in sheets" ></item>
+<item slot="7" original="Tell them to close eyes" ></item>
+<item slot="8" original="Read them a storybook" ></item>
+<item slot="9" original="Kiss them goodnight" ></item>
+</script><script id="15" source="2"><item slot="1" original="Clean child if required." ></item>
+<item slot="2" original="Assist child in brushing teeth." ></item>
+<item slot="3" original="Assist child in changing into pajamas." ></item>
+<item slot="4" original="Move child into bedroom." ></item>
+<item slot="5" original="read story to child." ></item>
+<item slot="6" original="Tuck child into blankets." ></item>
+<item slot="7" original="Give child kiss and hug." ></item>
+<item slot="8" original="Say goodnight." ></item>
+<item slot="9" original="Check periodically to assure compliance." ></item>
+</script><script id="17" source="2"><item slot="1" original="Give child bath" ></item>
+<item slot="2" original="change them into night clothes" ></item>
+<item slot="3" original="pull back covers and put them in bed" ></item>
+<item slot="4" original="turn on night light" ></item>
+<item slot="5" original="sing to child or tell them a story until they fall asleep" ></item>
+<item slot="6" original="tuck blankets around child" ></item>
+<item slot="7" original="turn off light" ></item>
+<item slot="8" original="leave room" ></item>
+</script><script id="18" source="2"><item slot="1" original="Change them into night clothes" ></item>
+<item slot="2" original="Take them to bed" ></item>
+<item slot="3" original="put them under blankets" ></item>
+<item slot="4" original="read them a story" ></item>
+<item slot="5" original="pray with them" ></item>
+<item slot="6" original="kiss them good night" ></item>
+</script><script id="19" source="2"><item slot="1" original="Help child brush teeth" ></item>
+<item slot="2" original="Help child with pajamas" ></item>
+<item slot="3" original="Help child into bed" ></item>
+<item slot="4" original="Cover child with blanket" ></item>
+<item slot="5" original="Turn out light" ></item>
+</script><script id="20" source="2"><item slot="1" original="Have child say goodnight to everyone." ></item>
+<item slot="2" original="Go upstairs and help him find pajamas." ></item>
+<item slot="3" original="Reassure him there are no monsters under bed." ></item>
+<item slot="4" original="Tuck blankets around him tightly." ></item>
+<item slot="5" original="Read short story." ></item>
+<item slot="6" original="Kiss on forehead." ></item>
+<item slot="7" original="Turn out light." ></item>
+</script><script id="21" source="2"><item slot="1" original="Go to the bed room" ></item>
+<item slot="2" original="Prepare the bed" ></item>
+<item slot="3" original="Get into the child room" ></item>
+<item slot="4" original="Pick the child in the sofa" ></item>
+<item slot="5" original="Take him to the bed room" ></item>
+<item slot="6" original="Make him lie on the Bed" ></item>
+<item slot="7" original="Cover the child with bed sheets" ></item>
+<item slot="8" original="Switch off the lights" ></item>
+<item slot="9" original="Leave the room" ></item>
+</script><script id="22" source="2"><item slot="1" original="Watch clock" ></item>
+<item slot="2" original="Take child to bed" ></item>
+<item slot="3" original="Change his clothes" ></item>
+<item slot="4" original="Read him a story" ></item>
+<item slot="5" original="Give him a toy" ></item>
+<item slot="6" original="Kiss him goodnight" ></item>
+<item slot="7" original="Close the light" ></item>
+<item slot="8" original="Leave door half open" ></item>
+</script><script id="23" source="2"><item slot="1" original="Tell child it is bedtime" ></item>
+<item slot="2" original="Have child change into pajamas" ></item>
+<item slot="3" original="Get child to brush their teeth" ></item>
+<item slot="4" original="Tuck child into bed" ></item>
+<item slot="5" original="Read a bedtime story to the child" ></item>
+<item slot="6" original="Turn off the bedroom light" ></item>
+<item slot="7" original="Wish the child good night" ></item>
+</script><script id="24" source="2"><item slot="1" original="Put in PJs." ></item>
+<item slot="2" original="Brush teeth." ></item>
+<item slot="3" original="Get a drink of water." ></item>
+<item slot="4" original="Use the bathroom." ></item>
+<item slot="5" original="Get in bed." ></item>
+<item slot="6" original="Read story." ></item>
+<item slot="7" original="Say I love you and goodnight." ></item>
+<item slot="8" original="Leave child in room." ></item>
+</script><script id="25" source="2"><item slot="1" original="let the child know how long until bed" ></item>
+<item slot="2" original="tell child to pick out a book to read" ></item>
+<item slot="3" original="take child to room" ></item>
+<item slot="4" original="go through child's bedtime routine" ></item>
+<item slot="5" original="read book" ></item>
+<item slot="6" original="say prayers" ></item>
+<item slot="7" original="give kisses" ></item>
+<item slot="8" original="say goodnight" ></item>
+<item slot="9" original="turn off the light" ></item>
+</script><script id="26" source="2"><item slot="1" original="Pick up child" ></item>
+<item slot="2" original="Take child to their bedroom" ></item>
+<item slot="3" original="Change the child into pajamas" ></item>
+<item slot="4" original="Put child in bed" ></item>
+<item slot="5" original="Sit next to child" ></item>
+<item slot="6" original="Read a book to child" ></item>
+<item slot="7" original="Child falls asleep" ></item>
+<item slot="8" original="Turn light off" ></item>
+<item slot="9" original="Leave room" ></item>
+</script><script id="27" source="2"><item slot="1" original="Pick up child" ></item>
+<item slot="2" original="Walk to child's room" ></item>
+<item slot="3" original="Lay child in bed" ></item>
+<item slot="4" original="Place covers over child" ></item>
+<item slot="5" original="Tuck child into bed" ></item>
+<item slot="6" original="Turn off lights" ></item>
+<item slot="7" original="Leave room" ></item>
+</script><script id="28" source="2"><item slot="1" original="Take a child to bathtub." ></item>
+<item slot="2" original="Bathe the child." ></item>
+<item slot="3" original="Take her out of bathtub." ></item>
+<item slot="4" original="Dress the child with pajamas." ></item>
+<item slot="5" original="Apply cream on the child's body." ></item>
+<item slot="6" original="Read books to the child." ></item>
+<item slot="7" original="Tuck the child in." ></item>
+<item slot="8" original="Kiss good night." ></item>
+<item slot="9" original="Turn off the light." ></item>
+</script><script id="29" source="2"><item slot="1" original="Give child 5 minute warning that it is almost bedtime." ></item>
+<item slot="2" original="Have child put on pajamas." ></item>
+<item slot="3" original="Have child brush teeth, help them if necessary." ></item>
+<item slot="4" original="Tuck child under covers." ></item>
+<item slot="5" original="Snuggle with child." ></item>
+<item slot="6" original="Read a book to the child." ></item>
+<item slot="7" original="Say prayers and good night." ></item>
+</script><script id="30" source="2"><item slot="1" original="Get child" ></item>
+<item slot="2" original="Take child to brush teeth" ></item>
+<item slot="3" original="Ask child to put on pajamas" ></item>
+<item slot="4" original="Put child on bed" ></item>
+<item slot="5" original="Put child under blankets" ></item>
+<item slot="6" original="Read to child" ></item>
+<item slot="7" original="Turn out the lights" ></item>
+<item slot="8" original="Leave" ></item>
+<item slot="9" original="Hope child falls asleep" ></item>
+</script><script id="32" source="2"><item slot="1" original="carry the child" ></item>
+<item slot="2" original="put child on the bed" ></item>
+<item slot="3" original="pull covers over child" ></item>
+<item slot="4" original="say goodnight" ></item>
+<item slot="5" original="put out lights" ></item>
+<item slot="6" original="walk out" ></item>
+<item slot="7" original="close doors" ></item>
+</script><script id="33" source="2"><item slot="1" original="Ask the child if he/she is ready for bed" ></item>
+<item slot="2" original="Tell the child to use the bathroom and brush his/her teeth" ></item>
+<item slot="3" original="Help the child into bed" ></item>
+<item slot="4" original="Read the child a bedtime story" ></item>
+<item slot="5" original="Tuck the child into bed" ></item>
+<item slot="6" original="Turn the light off" ></item>
+<item slot="7" original="Leave the room" ></item>
+</script><script id="34" source="2"><item slot="1" original="announce it is bed time" ></item>
+<item slot="2" original="tell the child to brush their teeth" ></item>
+<item slot="3" original="walk with or carry the child to bed" ></item>
+<item slot="4" original="tell a quick bed time story" ></item>
+<item slot="5" original="tuck in" ></item>
+<item slot="6" original="say good night" ></item>
+<item slot="7" original="say you love them" ></item>
+<item slot="8" original="say don't let the bed bugs bite" ></item>
+<item slot="9" original="walk out of room" ></item>
+<item slot="10" original="close door" ></item>
+</script><script id="35" source="2"><item slot="1" original="Tell child its time for sleep" ></item>
+<item slot="2" original="Make him wash and brush teeth" ></item>
+<item slot="3" original="Take him to his room" ></item>
+<item slot="4" original="Tuck him in" ></item>
+<item slot="5" original="Turn out lights." ></item>
+</script><script id="36" source="2"><item slot="1" original="Notice child is getting sleepy" ></item>
+<item slot="2" original="Tell child its time for bed" ></item>
+<item slot="3" original="Take child to their room" ></item>
+<item slot="4" original="Tell them to get into bed" ></item>
+<item slot="5" original="Place cover over them" ></item>
+<item slot="6" original="Turn off light" ></item>
+</script><script id="37" source="2"><item slot="1" original="Tell child it's time for bed." ></item>
+<item slot="2" original="Take them by the hand to their bedroom." ></item>
+<item slot="3" original="Help them change into pajamas." ></item>
+<item slot="4" original="Help them brush teeth." ></item>
+<item slot="5" original="Help them get into bed." ></item>
+<item slot="6" original="Tuck them in." ></item>
+<item slot="7" original="Say goodnight." ></item>
+</script><script id="38" source="2"><item slot="1" original="Carry child to bedroom" ></item>
+<item slot="2" original="Place child in the bed" ></item>
+<item slot="3" original="Cover child with blanket" ></item>
+<item slot="4" original="Get story book" ></item>
+<item slot="5" original="Read story book" ></item>
+<item slot="6" original="When the child is asleep quietly leave" ></item>
+</script><script id="39" source="2"><item slot="1" original="Pick up child" ></item>
+<item slot="2" original="Carry child to their bedroom" ></item>
+<item slot="3" original="Lay child in bed" ></item>
+<item slot="4" original="Cover child up with blankets" ></item>
+<item slot="5" original="Turn off the light" ></item>
+</script><script id="40" source="2"><item slot="1" original="Go with child to bedroom" ></item>
+<item slot="2" original="Help child into bed" ></item>
+<item slot="3" original="Pick out bedtime story" ></item>
+<item slot="4" original="Read story" ></item>
+<item slot="5" original="Hug child" ></item>
+<item slot="6" original="Turn out lights" ></item>
+</script><script id="41" source="2"><item slot="1" original="Get the child a small glass of water." ></item>
+<item slot="2" original="Walk child to bed room." ></item>
+<item slot="3" original="Put glass of water next to bed." ></item>
+<item slot="4" original="Make sure the child is covered up under blankets." ></item>
+<item slot="5" original="Ask them if they need the light on." ></item>
+<item slot="6" original="Ask them if they want to have the door open." ></item>
+<item slot="7" original="Tell them good night and leave the room." ></item>
+</script><script id="42" source="2"><item slot="1" original="Take your child" ></item>
+<item slot="2" original="Walk them to their bed" ></item>
+<item slot="3" original="Tell child to get in bed" ></item>
+<item slot="4" original="Place covers over child" ></item>
+<item slot="5" original="Read child story" ></item>
+<item slot="6" original="Turn off lights" ></item>
+</script><script id="43" source="2"><item slot="1" original="Calm the child" ></item>
+<item slot="2" original="Place the child in the bed" ></item>
+<item slot="3" original="Reassure the child" ></item>
+<item slot="4" original="Read the child a story" ></item>
+<item slot="5" original="Turn off lights" ></item>
+</script><script id="44" source="2"><item slot="1" original="Tell child it is time for bed" ></item>
+<item slot="2" original="Walk with child to his/her bedroom" ></item>
+<item slot="3" original="Tuck child in bed" ></item>
+<item slot="4" original="Turn off light" ></item>
+<item slot="5" original="Leave room" ></item>
+</script><script id="45" source="2"><item slot="1" original="Get child prepared for bedtime" ></item>
+<item slot="2" original="Put them in PJs" ></item>
+<item slot="3" original="Place them into bed" ></item>
+<item slot="4" original="Tell them a bedtime story" ></item>
+<item slot="5" original="Tell them to sleep" ></item>
+</script><script id="46" source="2"><item slot="1" original="pick up sleeping child" ></item>
+<item slot="2" original="carry child to bedroom" ></item>
+<item slot="3" original="tuck child in bed" ></item>
+<item slot="4" original="turn on night light" ></item>
+<item slot="5" original="kiss child goodnight" ></item>
+<item slot="6" original="leave room" ></item>
+</script><script id="47" source="2"><item slot="1" original="change child into pajamas" ></item>
+<item slot="2" original="bring child to bedroom" ></item>
+<item slot="3" original="place child in bed" ></item>
+<item slot="4" original="pick a bedtime story" ></item>
+<item slot="5" original="read story to child" ></item>
+<item slot="6" original="tuck child in" ></item>
+<item slot="7" original="kiss child" ></item>
+<item slot="8" original="say good night" ></item>
+<item slot="9" original="turn out light" ></item>
+<item slot="10" original="leave bed room" ></item>
+</script><script id="48" source="2"><item slot="2" original="Make sure the child goes to the potty 1st." ></item>
+<item slot="3" original="Lie the child down." ></item>
+<item slot="4" original="Tell a story or read the child a book." ></item>
+<item slot="5" original="Child will get sleepy." ></item>
+<item slot="6" original="The child will go to sleep." ></item>
+</script><script id="49" source="2"><item slot="1" original="helping them change into pjs" ></item>
+<item slot="2" original="tucking them in" ></item>
+<item slot="3" original="reading them a story" ></item>
+<item slot="4" original="kiss them goodnight" ></item>
+<item slot="5" original="turn off the light" ></item>
+<item slot="6" original="leave the room" ></item>
+</script><script id="50" source="2"><item slot="1" original="tell child bedtime" ></item>
+<item slot="2" original="have child put on pj's" ></item>
+<item slot="3" original="have child brush his/her teeth" ></item>
+<item slot="4" original="walk them to their bedroom" ></item>
+<item slot="5" original="kneel by the bed" ></item>
+<item slot="6" original="listen to them say his/her prayers" ></item>
+<item slot="7" original="have them get in bed" ></item>
+<item slot="8" original="tuck them into bed" ></item>
+<item slot="9" original="sit on the edge of the bed" ></item>
+<item slot="10" original="grab a book" ></item>
+<item slot="11" original="read a bedtime story to them" ></item>
+<item slot="12" original="kiss their forehead goodnight" ></item>
+<item slot="13" original="turn off the light" ></item>
+<item slot="14" original="walk out their door" ></item>
+<item slot="15" original="shut door." ></item>
+</script><script id="51" source="2"><item slot="1" original="Get the child's attention." ></item>
+<item slot="2" original="Tell him/her it is time for bed." ></item>
+<item slot="3" original="Walk with him/her to his/her bedroom." ></item>
+<item slot="4" original="Get in bed with him/her." ></item>
+<item slot="5" original="Read him/her his/her favorite story." ></item>
+<item slot="6" original="Tuck him/her in." ></item>
+<item slot="7" original="Say goodnight." ></item>
+<item slot="8" original="Turn off the light." ></item>
+<item slot="9" original="Close the door." ></item>
+</script><script id="52" source="2"><item slot="1" original="Brush child's teeth" ></item>
+<item slot="2" original="Put on child's pajamas" ></item>
+<item slot="3" original="Read a bedtime story" ></item>
+<item slot="4" original="Tuck child into bed" ></item>
+<item slot="5" original="Turn off light" ></item>
+</script><script id="54" source="2"><item slot="1" original="Take child upstairs" ></item>
+<item slot="2" original="Get child to brush teeth" ></item>
+<item slot="3" original="Get child to go to bedroom" ></item>
+<item slot="4" original="Get child to get in bed" ></item>
+<item slot="5" original="Tuck child in." ></item>
+<item slot="6" original="Select a book" ></item>
+<item slot="7" original="Read to child" ></item>
+<item slot="8" original="When child is asleep, turn off lights" ></item>
+<item slot="9" original="Leave bedroom" ></item>
+</script><script id="56" source="2"><item slot="1" original="Give her bath" ></item>
+<item slot="2" original="Put on her pjs" ></item>
+<item slot="3" original="Brush her teeth" ></item>
+<item slot="4" original="Get into bed" ></item>
+<item slot="5" original="Tuck her in" ></item>
+<item slot="6" original="Read a bedtime story" ></item>
+<item slot="7" original="Kiss her forehead" ></item>
+<item slot="8" original="Turn out light" ></item>
+<item slot="9" original="Leave her room" ></item>
+</script><script id="57" source="2"><item slot="1" original="Tell child it's time for bed." ></item>
+<item slot="2" original="Lead child to their room." ></item>
+<item slot="3" original="Tell them to get into bed." ></item>
+<item slot="4" original="Cover them up." ></item>
+<item slot="5" original="Say goodnight." ></item>
+</script><script id="58" source="2"><item slot="1" original="Have child brush teeth." ></item>
+<item slot="2" original="Have child get into the pajamas." ></item>
+<item slot="3" original="Tuck child into bed." ></item>
+<item slot="4" original="Read story to child." ></item>
+<item slot="5" original="Turn light off and close door." ></item>
+</script><script id="59" source="2"><item slot="1" original="Give them a bath" ></item>
+<item slot="2" original="Dry them off" ></item>
+<item slot="3" original="Put on their pajamas" ></item>
+<item slot="4" original="Tuck them in the bed" ></item>
+<item slot="5" original="Read them a bedtime story" ></item>
+<item slot="6" original="Kiss them good night" ></item>
+<item slot="7" original="Leave the room" ></item>
+</script><script id="60" source="2"><item slot="1" original="pickup child" ></item>
+<item slot="2" original="carry him to his bed" ></item>
+<item slot="3" original="pull back the covers" ></item>
+<item slot="4" original="dress child in his pajamas" ></item>
+<item slot="5" original="place child in the bed" ></item>
+<item slot="6" original="pull up covers" ></item>
+<item slot="7" original="kiss child goodnight" ></item>
+<item slot="8" original="turn on nightlight" ></item>
+</script><script id="61" source="2"><item slot="1" original="WALK WITH THE CHILD UP THE STAIRS" ></item>
+<item slot="2" original="GET THEM TO CLIMB INTO THEIR BED" ></item>
+<item slot="3" original="PULL THE COVER UP TO THEIR CHIN" ></item>
+<item slot="4" original="TUCK THEM INTO BED" ></item>
+<item slot="5" original="READ THEM A STORY" ></item>
+<item slot="6" original="WISH THEM GOOD NIGHT" ></item>
+</script><script id="62" source="2"><item slot="1" original="Tell the child lovingly that it is bed time" ></item>
+<item slot="2" original="Change his/her clothes to a night dress" ></item>
+<item slot="3" original="Take him/her to the toilet" ></item>
+<item slot="4" original="Then wipe his/her foot" ></item>
+<item slot="5" original="Take him/her to the bedroom" ></item>
+<item slot="6" original="Lay him/her on the bed" ></item>
+<item slot="7" original="Lay beside him/her and tell bed time stories" ></item>
+<item slot="8" original="Massage his/her head in a loving manner" ></item>
+<item slot="9" original="Let him/her take his own time to sleep listening to stories." ></item>
+</script><script id="63" source="2"><item slot="1" original="Tell child it's time for bed." ></item>
+<item slot="2" original="Have child change into pajamas." ></item>
+<item slot="3" original="Have child brush their teeth." ></item>
+<item slot="4" original="Have child select a story book." ></item>
+<item slot="5" original="Have child get into bed." ></item>
+<item slot="6" original="Read story to child." ></item>
+<item slot="7" original="Kiss child goodnight." ></item>
+<item slot="8" original="Ensure child is properly covered." ></item>
+<item slot="9" original="Child will soon be asleep." ></item>
+</script><script id="64" source="2"><item slot="1" original="Tell child it's bedtime" ></item>
+<item slot="2" original="Go in room with child" ></item>
+<item slot="3" original="Put pajamas on child" ></item>
+<item slot="4" original="Have child lay in bed" ></item>
+<item slot="5" original="Pull blanket over child" ></item>
+<item slot="6" original="Read bedtime story" ></item>
+<item slot="7" original="Kiss child's head" ></item>
+<item slot="8" original="Say goodnight to child" ></item>
+<item slot="9" original="Turn light off" ></item>
+<item slot="10" original="Leave the room" ></item>
+</script><script id="65" source="2"><item slot="1" original="tell child it is time to go to bed" ></item>
+<item slot="2" original="give child a bath" ></item>
+<item slot="3" original="brush teeth" ></item>
+<item slot="4" original="put on clean pajamas" ></item>
+<item slot="5" original="read bedtime story to child" ></item>
+<item slot="6" original="place child in bed" ></item>
+<item slot="7" original="cover with bedsheets" ></item>
+<item slot="8" original="say goodnight to child" ></item>
+<item slot="9" original="turn off light when exiting room" ></item>
+<item slot="10" original="shut door, if applicable" ></item>
+</script><script id="66" source="2"><item slot="1" original="Go into bedroom and make sure bed is made" ></item>
+<item slot="2" original="Pick up child gently" ></item>
+<item slot="3" original="Carry child gently and quietly to bed" ></item>
+<item slot="4" original="Place child in bed" ></item>
+<item slot="5" original="Rest child's head comfortably on pillow" ></item>
+<item slot="6" original="Pull covers over child" ></item>
+<item slot="7" original="Tuck child in comfortably" ></item>
+<item slot="8" original="Turn lights off in room." ></item>
+</script><script id="67" source="2"><item slot="1" original="Tell child it is time for bed." ></item>
+<item slot="2" original="Walk with child to bed." ></item>
+<item slot="3" original="Have child lay down in bed." ></item>
+<item slot="4" original="Tuck child in." ></item>
+<item slot="5" original="Tell them goodnight." ></item>
+</script><script id="68" source="2"><item slot="1" original="You take child to bedroom." ></item>
+<item slot="2" original="Help put pajamas on." ></item>
+<item slot="3" original="Pull back covers on bed." ></item>
+<item slot="4" original="Put child in bed." ></item>
+<item slot="5" original="Pull covers over child." ></item>
+<item slot="6" original="Kiss child and say goodnight." ></item>
+<item slot="7" original="Turn off light." ></item>
+<item slot="8" original="Close door a little." ></item>
+<item slot="9" original="Leave bedroom." ></item>
+</script><script id="69" source="2"><item slot="1" original="Tell child it's time for bed" ></item>
+<item slot="2" original="Tell him to go brush his teeth" ></item>
+<item slot="3" original="Walk into room after he brushes teeth" ></item>
+<item slot="4" original="Put child under covers" ></item>
+<item slot="5" original="Ask if they want a bed time story" ></item>
+<item slot="6" original="Read story if they say yes" ></item>
+<item slot="7" original="Give child a kiss" ></item>
+<item slot="8" original="Say goodnight" ></item>
+<item slot="9" original="Turn off light" ></item>
+<item slot="10" original="Walk out of room" ></item>
+</script><script id="70" source="2"><item slot="1" original="Ask the child to brush their teeth." ></item>
+<item slot="2" original="Ask them to get into bed." ></item>
+<item slot="3" original="Read them a story." ></item>
+<item slot="4" original="Make sure the covers are up." ></item>
+<item slot="5" original="Kiss goodnight." ></item>
+</script><script id="71" source="2"><item slot="1" original="Have child brush teeth." ></item>
+<item slot="2" original="Have child get into pj's." ></item>
+<item slot="3" original="Walk child to bed." ></item>
+<item slot="4" original="Pull back covers." ></item>
+<item slot="5" original="Place child in bed." ></item>
+<item slot="6" original="Kiss child good night." ></item>
+<item slot="7" original="Tuck child in." ></item>
+<item slot="8" original="Turn off light." ></item>
+</script><script id="72" source="2"><item slot="1" original="make sure child has brushed their teeth" ></item>
+<item slot="2" original="walk with child to their bedroom" ></item>
+<item slot="3" original="help child change into pajamas" ></item>
+<item slot="4" original="tuck child into bed" ></item>
+<item slot="5" original="read child a bedtime story" ></item>
+<item slot="6" original="tuck stuffed animal or favorite toy into bed with child" ></item>
+<item slot="7" original="say goodnight" ></item>
+<item slot="8" original="turn on night light" ></item>
+<item slot="9" original="turn off main light" ></item>
+<item slot="10" original="leave door slightly open" ></item>
+</script><script id="73" source="2"><item slot="1" original="Pick the child up" ></item>
+<item slot="2" original="Take them to the bedroom" ></item>
+<item slot="3" original="Pull down the sheets" ></item>
+<item slot="4" original="Place the child in bed" ></item>
+<item slot="5" original="Pull the covers to their neck" ></item>
+<item slot="6" original="Say good-night" ></item>
+<item slot="7" original="Turn on the nightlight" ></item>
+<item slot="8" original="Turn off the main light" ></item>
+<item slot="9" original="Close the door" ></item>
+</script><script id="74" source="2"><item slot="1" original="At bedtime, tell child it's time for bed" ></item>
+<item slot="2" original="Tell child to brush teeth and put on pajamas" ></item>
+<item slot="3" original="Tell child to get into bed" ></item>
+<item slot="4" original="Read child bedtime story" ></item>
+<item slot="5" original="Tuck child in" ></item>
+<item slot="6" original="Kiss child on forehead and say sweet dreams" ></item>
+<item slot="7" original="Turn off bedroom lights" ></item>
+<item slot="8" original="Leave bedroom" ></item>
+</script><script id="75" source="2"><item slot="1" original="carry them to bed" ></item>
+<item slot="2" original="sing them good night songs" ></item>
+<item slot="3" original="read book" ></item>
+<item slot="4" original="kiss on forehead" ></item>
+<item slot="5" original="turn lights off" ></item>
+<item slot="6" original="close the door" ></item>
+</script><script id="76" source="2"><item slot="1" original="Make sure child has taken bath" ></item>
+<item slot="2" original="Dress child in pajamas" ></item>
+<item slot="3" original="Make sure child has brushed his or her teeth" ></item>
+<item slot="4" original="Pull the blanket and covers back" ></item>
+<item slot="5" original="Allow child to get into bed" ></item>
+<item slot="6" original="Pull the blanket and covers over the child" ></item>
+<item slot="7" original="Read child a bedtime story" ></item>
+<item slot="8" original="Give child a kiss on the forehead" ></item>
+<item slot="9" original="Turn off the main light in bedroom" ></item>
+<item slot="10" original="Turn on the night light" ></item>
+<item slot="11" original="Exit the room" ></item>
+<item slot="12" original="Leave the door cracked open" ></item>
+</script><script id="77" source="2"><item slot="1" original="Make the bed ready" ></item>
+<item slot="2" original="Call the child" ></item>
+<item slot="3" original="Take the child to bed room" ></item>
+<item slot="4" original="Make the child lay on bed" ></item>
+<item slot="5" original="Lay near to child" ></item>
+<item slot="6" original="Tell story" ></item>
+<item slot="7" original="Child sleeps" ></item>
+<item slot="8" original="Cover the child with blanket" ></item>
+</script><script id="78" source="2"><item slot="1" original="Take child to bathroom" ></item>
+<item slot="2" original="Have them brush their teeth" ></item>
+<item slot="3" original="Have them bathe" ></item>
+<item slot="4" original="Put on child's pajamas" ></item>
+<item slot="5" original="Take child to their bedroom" ></item>
+<item slot="6" original="Read a bedtime story" ></item>
+<item slot="7" original="Kiss child goodnight and give loves" ></item>
+</script><script id="79" source="2"><item slot="1" original="Put child in sleeping clothes" ></item>
+<item slot="2" original="Take child to go to the bathroom and brush teeth" ></item>
+<item slot="3" original="Tuck child into bed" ></item>
+<item slot="4" original="Make sure child has favorite doll / stuffed toy to sleep with'" ></item>
+<item slot="5" original="Say nighttime prayers with child" ></item>
+<item slot="6" original="Kiss child" ></item>
+<item slot="7" original="Tell child goodnight" ></item>
+<item slot="8" original="Leave a night light on for the child if you want to" ></item>
+<item slot="9" original="Leave the room so the child can sleep" ></item>
+</script><script id="80" source="2"><item slot="1" original="Brush child's teeth" ></item>
+<item slot="2" original="Put on child's pajamas" ></item>
+<item slot="3" original="Put child in bed" ></item>
+<item slot="4" original="Say prayers, goodnight" ></item>
+<item slot="5" original="Tuck blanket around child" ></item>
+<item slot="6" original="Kiss child" ></item>
+<item slot="7" original="Turn off light" ></item>
+<item slot="8" original="Leave room" ></item>
+<item slot="9" original="Clsoe door" ></item>
+</script><script id="81" source="2"><item slot="1" original="Inform child bedtime has arrived" ></item>
+<item slot="2" original="Have child change into pajamas" ></item>
+<item slot="3" original="Accompany child to room" ></item>
+<item slot="4" original="Remove covers from bed" ></item>
+<item slot="5" original="Have child get into bed" ></item>
+<item slot="6" original="Cover child with blankets" ></item>
+<item slot="7" original="Kiss child good night" ></item>
+<item slot="8" original="turn off lights" ></item>
+<item slot="9" original="Turn on nightlight" ></item>
+<item slot="10" original="Leave room" ></item>
+</script><script id="82" source="2"><item slot="1" original="Dress the child in proper sleepwear." ></item>
+<item slot="2" original="Bring the child to bed." ></item>
+<item slot="3" original="Help the child into bed." ></item>
+<item slot="4" original="Cover the child." ></item>
+<item slot="5" original="Tell the child goodnight." ></item>
+<item slot="6" original="Turn on nightlight or lamp." ></item>
+<item slot="7" original="Turn off light." ></item>
+</script><script id="83" source="2"><item slot="1" original="Tell child that it is time for bed." ></item>
+<item slot="2" original="Let child choose a storybook to read before bed." ></item>
+<item slot="3" original="Tuck child into bed, covering with blankets." ></item>
+<item slot="4" original="Read story to child." ></item>
+<item slot="5" original="Tell child goodnight and turn out the lights." ></item>
+<item slot="6" original="Leave the room and quietly sit elsewhere until child falls asleep." ></item>
+</script><script id="84" source="2"><item slot="1" original="Take child to bathroom" ></item>
+<item slot="2" original="Have child use toilet" ></item>
+<item slot="3" original="Undress child" ></item>
+<item slot="4" original="Bathe child" ></item>
+<item slot="5" original="Dry off child" ></item>
+<item slot="6" original="Have child brush teeth" ></item>
+<item slot="7" original="Put pajamas on child" ></item>
+<item slot="8" original="Take child to bed" ></item>
+<item slot="9" original="Put covers over child" ></item>
+<item slot="10" original="Say goodnight" ></item>
+</script><script id="85" source="2"><item slot="1" original="Tell the child that it is time for bed." ></item>
+<item slot="2" original="Accompany the child to the bathroom sink." ></item>
+<item slot="3" original="Assist the child in brushing his or her teeth." ></item>
+<item slot="4" original="Wait outside the bathroom while the child goes to the bathroom." ></item>
+<item slot="5" original="Walk with the child to his or her bed." ></item>
+<item slot="6" original="Pull back the covers and allow the child to get into the bed." ></item>
+<item slot="7" original="Ask the child if he or she wants to lead in prayer." ></item>
+<item slot="8" original="Pray with the child." ></item>
+<item slot="9" original="Kiss the child on the forehead." ></item>
+<item slot="11" original="Walk to the door of the bedroom." ></item>
+<item slot="12" original="Turn out the light." ></item>
+</script><script id="86" source="2"><item slot="1" original="Put on child's pajamas." ></item>
+<item slot="2" original="Brush child's teeth." ></item>
+<item slot="3" original="Get child drink of water, if necessary." ></item>
+<item slot="4" original="Have child go to the bathroom, if necessary." ></item>
+<item slot="5" original="Put child in bed." ></item>
+<item slot="6" original="Read bedtime story." ></item>
+<item slot="7" original="Talk a little bit." ></item>
+<item slot="8" original="Tuck child under covers." ></item>
+<item slot="9" original="Kiss child goodnight." ></item>
+<item slot="10" original="Leave child's room." ></item>
+</script><script id="87" source="2"><item slot="1" original="Get a book" ></item>
+<item slot="2" original="call the child" ></item>
+<item slot="3" original="Tuck in the child" ></item>
+<item slot="4" original="Read the book" ></item>
+<item slot="5" original="Watch child as he sleeps" ></item>
+<item slot="6" original="turn off the light" ></item>
+</script><script id="88" source="2"><item slot="1" original="Tell the child it is bedtime" ></item>
+<item slot="2" original="Wait as child refuses" ></item>
+<item slot="3" original="Tell the child again" ></item>
+<item slot="4" original="Take child's hand" ></item>
+<item slot="5" original="Brush child's teeth" ></item>
+<item slot="6" original="Take child to room" ></item>
+<item slot="7" original="Pick out a story" ></item>
+<item slot="8" original="Read story to child" ></item>
+<item slot="9" original="Kiss child goodnight" ></item>
+</script><script id="89" source="2"><item slot="1" original="Pick child up from playpen" ></item>
+<item slot="2" original="Soothe child" ></item>
+<item slot="3" original="Carry child up the stairs" ></item>
+<item slot="4" original="Take off clothes" ></item>
+<item slot="5" original="Put pajamas on child" ></item>
+<item slot="6" original="Take child to bathroom" ></item>
+<item slot="7" original="Brush child's teeth" ></item>
+<item slot="8" original="Put child in crib" ></item>
+<item slot="9" original="Sing a lullaby" ></item>
+</script><script id="90" source="2"><item slot="1" original="Decide it is bedtime" ></item>
+<item slot="2" original="Announce to child that it is bedtime" ></item>
+<item slot="3" original="Deal with child's unhappiness" ></item>
+<item slot="4" original="Escort child to bathroom" ></item>
+<item slot="5" original="Have child brush their teeth" ></item>
+<item slot="6" original="Have child use bathroom if needed" ></item>
+<item slot="7" original="Prepare child's bed" ></item>
+<item slot="8" original="Tuck the child in" ></item>
+<item slot="9" original="Read a story to child" ></item>
+<item slot="10" original="Wait until child is asleep and exit quietly" ></item>
+<item slot="11" original="Put child back to bed when child awakes" ></item>
+<item slot="12" original="Repeat until child falls asleep" ></item>
+</script><script id="91" source="2"><item slot="1" original="Wake up the child if they've fallen asleep elsewhere, like the couch" ></item>
+<item slot="2" original="Help them brush their teeth" ></item>
+<item slot="3" original="Help them change into their pajamas" ></item>
+<item slot="4" original="Untuck the covers and lay the child down" ></item>
+<item slot="5" original="Tuck them back in." ></item>
+</script><script id="92" source="2"><item slot="1" original="Tell the child it is bedtime." ></item>
+<item slot="2" original="Walk the child to his or her room." ></item>
+<item slot="3" original="Roll the covers down." ></item>
+<item slot="4" original="Allow the child to get into bed." ></item>
+<item slot="5" original="Pull the covers up on the child." ></item>
+<item slot="6" original="Sit down next to the child." ></item>
+<item slot="7" original="Tell the child a bedtime story." ></item>
+<item slot="8" original="Kiss the child on the forehead." ></item>
+<item slot="9" original="Turn the light out." ></item>
+<item slot="10" original="Softly pull the door closed." ></item>
+</script><script id="93" source="2"><item slot="1" original="undress the child" ></item>
+<item slot="2" original="put the child in bed clothes" ></item>
+<item slot="3" original="brush the child's teeth" ></item>
+<item slot="4" original="read a story" ></item>
+<item slot="5" original="tuck the child in" ></item>
+<item slot="6" original="get a glass of water for the nightstand" ></item>
+</script><script id="94" source="2"><item slot="1" original="Pick up child." ></item>
+<item slot="2" original="Walk to child bed." ></item>
+<item slot="3" original="Put child into bed." ></item>
+<item slot="4" original="Cover child with blanket." ></item>
+<item slot="5" original="Turn on nightlight." ></item>
+<item slot="6" original="Close door." ></item>
+</script><script id="95" source="2"><item slot="1" original="Tell child its bed time" ></item>
+<item slot="2" original="Change into pajamas" ></item>
+<item slot="3" original="Brush their teeth" ></item>
+<item slot="4" original="Tuck them into bed" ></item>
+<item slot="5" original="Read them a bed time story" ></item>
+<item slot="6" original="Give them a kiss" ></item>
+<item slot="7" original="Turn off lights" ></item>
+<item slot="8" original="Close the door" ></item>
+</script><script id="96" source="2"><item slot="1" original="Get the child dressed into their nightclothes" ></item>
+<item slot="2" original="Take the child to their bedroom" ></item>
+<item slot="3" original="Get them into the bed" ></item>
+<item slot="4" original="Read them a story" ></item>
+<item slot="5" original="Tuck them in" ></item>
+<item slot="6" original="Say goodnight" ></item>
+<item slot="7" original="Leave" ></item>
+</script><script id="97" source="2"><item slot="1" original="Find child" ></item>
+<item slot="2" original="Have child brush teeth" ></item>
+<item slot="3" original="Tell child to put on PJ's" ></item>
+<item slot="4" original="Put child in bed" ></item>
+<item slot="5" original="Cover" ></item>
+<item slot="6" original="Kiss goodnight" ></item>
+</script><script id="99" source="2"><item slot="1" original="Feed child" ></item>
+<item slot="2" original="Give child bath" ></item>
+<item slot="3" original="Read to child" ></item>
+<item slot="4" original="Have snuggle time with child" ></item>
+<item slot="5" original="Make sure child is not thirsty" ></item>
+<item slot="6" original="Give water" ></item>
+<item slot="7" original="Tuck into bed" ></item>
+<item slot="8" original="give a kiss" ></item>
+<item slot="9" original="Say goodnight" ></item>
+<item slot="10" original="Turn off lights" ></item>
+</script></scripts>

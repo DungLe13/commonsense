@@ -1,0 +1,689 @@
+<scripts><script id="0" source="2"><item slot="1" original="Purchase a tree to plant" ></item>
+<item slot="2" original="Find a location to plant tree" ></item>
+<item slot="3" original="Dig hole in ground about 16 inches deep" ></item>
+<item slot="4" original="Place tree in hole" ></item>
+<item slot="5" original="Fill hole back in with dirt" ></item>
+<item slot="6" original="Water tree" ></item>
+</script><script id="1" source="2"><item slot="1" original="Get soil" ></item>
+<item slot="2" original="Get tree in pot" ></item>
+<item slot="3" original="Find a spot to plant tree" ></item>
+<item slot="4" original="Dig a hole with shovel" ></item>
+<item slot="5" original="Place tree in hole" ></item>
+<item slot="6" original="Fill hole with soil" ></item>
+<item slot="7" original="Flatten soil with shovel" ></item>
+<item slot="8" original="Admire tree" ></item>
+</script><script id="2" source="2"><item slot="1" original="Locate the spot to plant the tree" ></item>
+<item slot="2" original="Dig the soil about two fingers deep" ></item>
+<item slot="3" original="Plant the seed in the soil" ></item>
+<item slot="4" original="Cover the seed loosely with soil" ></item>
+<item slot="5" original="Pour some water over the covered seed" ></item>
+</script><script id="3" source="2"><item slot="1" original="Go to garden center" ></item>
+<item slot="2" original="Pick out a sapling that you like" ></item>
+<item slot="3" original="Go home and pick out a nice place to plant your tree" ></item>
+<item slot="4" original="Make sure your spot is not too close to your house, allowing roots plenty of room" ></item>
+<item slot="5" original="Dig a hole deep and wide enough to accommodate the roots" ></item>
+<item slot="6" original="Place sapling into hole" ></item>
+<item slot="7" original="Fill in space around the roots with dirt or potting soil" ></item>
+<item slot="8" original="Firmly but gently pack down around roots" ></item>
+<item slot="9" original="Place mulch around bottom of sapling" ></item>
+<item slot="10" original="Water your tree" ></item>
+<item slot="11" original="Watch it grow through the years" ></item>
+</script><script id="4" source="2"><item slot="1" original="digging in the ground" ></item>
+<item slot="2" original="preparing the dirt" ></item>
+<item slot="3" original="placing the seeds in the ground" ></item>
+<item slot="4" original="putting dirt over the seeds" ></item>
+<item slot="5" original="watering the dirt" ></item>
+</script><script id="5" source="2"><item slot="1" original="Choose a tree that you want to grow" ></item>
+<item slot="2" original="Purchase the tree" ></item>
+<item slot="3" original="Use a shovel to dig a hole into the ground" ></item>
+<item slot="4" original="Put fertilizer in the hole" ></item>
+<item slot="5" original="Place the tree inside the whole" ></item>
+<item slot="6" original="Cover the hole with topsoil" ></item>
+</script><script id="6" source="2"><item slot="1" original="Go to nursery" ></item>
+<item slot="2" original="Buy sapling" ></item>
+<item slot="3" original="Go outside" ></item>
+<item slot="4" original="Dig hole" ></item>
+<item slot="5" original="Put sapling in hole" ></item>
+<item slot="6" original="Cover hole" ></item>
+<item slot="7" original="Water sapling" ></item>
+<item slot="8" original="Wait for growth" ></item>
+</script><script id="7" source="2"><item slot="1" original="Prepare soil." ></item>
+<item slot="2" original="Dig the hole for the tree." ></item>
+<item slot="3" original="Place tree in hole." ></item>
+<item slot="4" original="Cover hole with soil." ></item>
+<item slot="5" original="Water it." ></item>
+<item slot="6" original="Stake the tree." ></item>
+</script><script id="8" source="2"><item slot="1" original="get seeds, seedling, or bush" ></item>
+<item slot="2" original="dig hole" ></item>
+<item slot="3" original="plant seed, seedling, or bush" ></item>
+<item slot="4" original="fill hole with dirt around the tree" ></item>
+<item slot="5" original="water the tree" ></item>
+</script><script id="9" source="2"><item slot="1" original="Get shovel and tree sapling" ></item>
+<item slot="2" original="Dig a hole into the ground" ></item>
+<item slot="3" original="Place tree sapling into hole" ></item>
+<item slot="4" original="Put dirt back into hole" ></item>
+<item slot="5" original="Press dirt firmly around root ball as hole is filled in" ></item>
+<item slot="6" original="Water the tree generously" ></item>
+</script><script id="10" source="2"><item slot="1" original="Buy a young tree." ></item>
+<item slot="2" original="Take it home." ></item>
+<item slot="3" original="Dig a hole where you want to plant tree." ></item>
+<item slot="4" original="Put the tree in the hole." ></item>
+<item slot="5" original="Fill the hole back with dirt." ></item>
+<item slot="6" original="Watch tree grow." ></item>
+</script><script id="11" source="2"><item slot="1" original="Buy a tree sapling" ></item>
+<item slot="2" original="Dig a hole" ></item>
+<item slot="3" original="Place sapling in hole" ></item>
+<item slot="4" original="Fill hole with dirt" ></item>
+<item slot="5" original="Water the tree every day" ></item>
+</script><script id="13" source="2"><item slot="1" original="Buy some seeds of desired tree" ></item>
+<item slot="2" original="Select a spot where to plant a tree preferably in good exposure to sunlight" ></item>
+<item slot="3" original="Take a shovel" ></item>
+<item slot="4" original="Dig about 6 inches deep or as desired" ></item>
+<item slot="5" original="Dig in a circle all around the spot" ></item>
+<item slot="6" original="Secure the boundary of the circle with fence of rounded river stones" ></item>
+<item slot="7" original="Take the seed" ></item>
+<item slot="8" original="Gently insert it under the soil about 6 inches deep" ></item>
+<item slot="9" original="Cover with soil" ></item>
+<item slot="10" original="Water it lightly" ></item>
+<item slot="11" original="Water it daily 2 times" ></item>
+<item slot="12" original="The plant will come out in some days" ></item>
+</script><script id="14" source="2"><item slot="1" original="Get gloves" ></item>
+<item slot="2" original="Get sunglasses" ></item>
+<item slot="3" original="Put on hat" ></item>
+<item slot="4" original="Get garden supplies" ></item>
+<item slot="5" original="Put on gloves and sunglasses" ></item>
+<item slot="6" original="Walk outside" ></item>
+<item slot="7" original="Dig hole" ></item>
+<item slot="8" original="Put tree in hole" ></item>
+<item slot="9" original="Pack dirt back in" ></item>
+<item slot="10" original="Water" ></item>
+<item slot="11" original="Watch grow" ></item>
+</script><script id="15" source="2"><item slot="1" original="Find a shovel." ></item>
+<item slot="2" original="Dig a hole the same size as the container holding the tree." ></item>
+<item slot="3" original="Take the tree out of the container." ></item>
+<item slot="4" original="Place the tree in the hole." ></item>
+<item slot="5" original="Fill in any gaps in the hole with soil." ></item>
+<item slot="6" original="Watch your tree grow over the years." ></item>
+</script><script id="16" source="2"><item slot="1" original="Obtain seedling." ></item>
+<item slot="2" original="Choose spot for planting." ></item>
+<item slot="3" original="Dig hole big enough for seedling." ></item>
+<item slot="4" original="Place seedling into hole." ></item>
+<item slot="5" original="Cover roots with dirt." ></item>
+<item slot="6" original="Water regularly." ></item>
+</script><script id="17" source="2"><item slot="1" original="Get a sapling, shovel and garden gloves." ></item>
+<item slot="2" original="Put on gloves" ></item>
+<item slot="3" original="dig hole for tree" ></item>
+<item slot="4" original="put sapling in hole" ></item>
+<item slot="5" original="cover with dirt" ></item>
+<item slot="6" original="take off gloves and put away with shovel" ></item>
+<item slot="7" original="come back regularly to water sapling" ></item>
+<item slot="8" original="watch tree grow" ></item>
+</script><script id="18" source="2"><item slot="1" original="Take tree seed outside." ></item>
+<item slot="2" original="With small shovel dig hole." ></item>
+<item slot="3" original="Place seed in hole." ></item>
+<item slot="4" original="cover with soil." ></item>
+<item slot="5" original="Water." ></item>
+<item slot="6" original="Wait patiently." ></item>
+</script><script id="19" source="2"><item slot="1" original="Buy a sapling from nursery" ></item>
+<item slot="2" original="Select a correct place in my backyard" ></item>
+<item slot="3" original="Dig a hole according to the size of the sapling" ></item>
+<item slot="4" original="Ensure the hole is not too deep and not too narrow" ></item>
+<item slot="5" original="Place the tree sapling into the hole" ></item>
+<item slot="6" original="Hold it with one hand firmly and refill the soil" ></item>
+<item slot="7" original="Water the plant" ></item>
+<item slot="8" original="Refill some more soil to fill the gap if any" ></item>
+</script><script id="20" source="2"><item slot="1" original="go buy a tree" ></item>
+<item slot="2" original="dig a hole twice as wide as the pot" ></item>
+<item slot="3" original="dig hole deep enough for the roots" ></item>
+<item slot="4" original="fill in with dirt" ></item>
+<item slot="5" original="water very well" ></item>
+</script><script id="21" source="2"><item slot="1" original="Get a tree" ></item>
+<item slot="2" original="Get a shovel" ></item>
+<item slot="3" original="Go to a field or a yard" ></item>
+<item slot="4" original="Dig a hole deep enough to plant the tree roots" ></item>
+<item slot="5" original="Put the tree in the hole" ></item>
+<item slot="6" original="Fill up the rest of the hole with dirt" ></item>
+<item slot="7" original="Pat the dirt down with the shovel" ></item>
+</script><script id="22" source="2"><item slot="1" original="Buy a small tree at a nursery" ></item>
+<item slot="2" original="Get a shovel" ></item>
+<item slot="3" original="Dig a hole large enough to place the tree into" ></item>
+<item slot="4" original="Put tree into hole" ></item>
+<item slot="5" original="Cover tree roots with dirt" ></item>
+<item slot="6" original="Pack down the dirt around the tree" ></item>
+<item slot="7" original="Water tree" ></item>
+</script><script id="23" source="2"><item slot="1" original="Choose type of tree." ></item>
+<item slot="2" original="Purchase tree." ></item>
+<item slot="3" original="Pick location." ></item>
+<item slot="4" original="Dig a very deep hole with a shovel." ></item>
+<item slot="5" original="Place tree in hole." ></item>
+<item slot="6" original="Cover with dirt." ></item>
+<item slot="7" original="If you like you can add a fertilizer." ></item>
+<item slot="8" original="Water well." ></item>
+<item slot="9" original="Wait patiently for tree to grow." ></item>
+</script><script id="24" source="2"><item slot="1" original="Get baby tree to plant or seed" ></item>
+<item slot="2" original="Find spot to plant tree" ></item>
+<item slot="3" original="Dig a hole" ></item>
+<item slot="4" original="Place tree or seed in hole" ></item>
+<item slot="5" original="Put soil back in hole around tree" ></item>
+<item slot="6" original="Pat lightly" ></item>
+<item slot="7" original="Watch tree grow (years)" ></item>
+</script><script id="25" source="2"><item slot="1" original="Buy a tree" ></item>
+<item slot="2" original="Transport it home" ></item>
+<item slot="3" original="Make a hole" ></item>
+<item slot="4" original="Plant the tree" ></item>
+<item slot="5" original="Make sure it is stable" ></item>
+<item slot="6" original="Water the tree" ></item>
+</script><script id="26" source="2"><item slot="1" original="Buy the tree" ></item>
+<item slot="2" original="Select a site to plant the tree" ></item>
+<item slot="3" original="Get a shovel" ></item>
+<item slot="4" original="Dig a hole three times the save as the root ball" ></item>
+<item slot="5" original="Place the tree at the top of the hole" ></item>
+<item slot="6" original="Fill in dirt around the tree gently" ></item>
+<item slot="7" original="Water the tree" ></item>
+</script><script id="27" source="2"><item slot="1" original="choose tree and spot to plant" ></item>
+<item slot="2" original="dig hole big enough for tree to grow" ></item>
+<item slot="3" original="place tree in hole" ></item>
+<item slot="4" original="replace the dirt" ></item>
+<item slot="5" original="water the tree" ></item>
+<item slot="6" original="wait for the tree to grow" ></item>
+</script><script id="29" source="2"><item slot="1" original="Get tree seeds." ></item>
+<item slot="2" original="Dig a hole in the ground." ></item>
+<item slot="3" original="Plant seed in ground." ></item>
+<item slot="4" original="Fill hole up with soil that you used to dig the hole." ></item>
+<item slot="5" original="Water it." ></item>
+<item slot="6" original="Wait and watch as it blossoms." ></item>
+</script><script id="30" source="2"><item slot="1" original="Find place in ground with enough space for tree." ></item>
+<item slot="2" original="Dig hole in the ground." ></item>
+<item slot="3" original="Put tree seedling into hole." ></item>
+<item slot="4" original="Fill hole with dirt and fertilizer." ></item>
+<item slot="5" original="Water tree daily." ></item>
+</script><script id="31" source="2"><item slot="1" original="Go to nursery" ></item>
+<item slot="2" original="Buy tree sapling" ></item>
+<item slot="3" original="Take tree sapling to place you want to plant it" ></item>
+<item slot="4" original="Get a shovel" ></item>
+<item slot="5" original="Dig a hole" ></item>
+<item slot="6" original="Put sapling in hole" ></item>
+<item slot="7" original="Fill in the hole with the shovel" ></item>
+<item slot="8" original="Get a water hose" ></item>
+<item slot="9" original="Turn water on" ></item>
+<item slot="10" original="Water tree" ></item>
+<item slot="11" original="Wait for tree to grow" ></item>
+</script><script id="32" source="2"><item slot="1" original="Grab shovel" ></item>
+<item slot="2" original="dig hole in ground" ></item>
+<item slot="3" original="Put tree into hole in ground" ></item>
+<item slot="4" original="Add shoveled dirt back into hole" ></item>
+<item slot="5" original="Water tree" ></item>
+</script><script id="33" source="2"><item slot="1" original="Get the tree and take it out into the yard." ></item>
+<item slot="2" original="Choose a spot to plant the tree." ></item>
+<item slot="3" original="Get a shovel and dig a hole where you want to plant the tree." ></item>
+<item slot="4" original="Place the roots of the tree into the hole you have dug." ></item>
+<item slot="5" original="Cover the roots with surrounding dirt." ></item>
+<item slot="6" original="Water the tree." ></item>
+</script><script id="35" source="2"><item slot="1" original="acquire sapling" ></item>
+<item slot="2" original="determine where to plant it" ></item>
+<item slot="3" original="dig a small hole, keep the displaced dirt accessible" ></item>
+<item slot="4" original="place sapling in hole, roots down" ></item>
+<item slot="5" original="replace displaced dirt" ></item>
+<item slot="6" original="pack dirt around tree" ></item>
+<item slot="7" original="add water" ></item>
+</script><script id="36" source="2"><item slot="1" original="Purchase a tree" ></item>
+<item slot="2" original="Dig a hole where you want the tree planted" ></item>
+<item slot="3" original="Put some water in the hole" ></item>
+<item slot="4" original="Take tree out of container" ></item>
+<item slot="5" original="Put in the ground" ></item>
+<item slot="6" original="Cover the tree with the dirt you took out of the hole" ></item>
+<item slot="7" original="Water again" ></item>
+</script><script id="37" source="2"><item slot="1" original="Go outside" ></item>
+<item slot="2" original="Find a suitable area" ></item>
+<item slot="3" original="Measure depth of required hole" ></item>
+<item slot="4" original="Use shovel to dig hole" ></item>
+<item slot="5" original="Place sapling into the hole" ></item>
+<item slot="6" original="Refill hole with remaining dirt" ></item>
+<item slot="7" original="Pat gently to secure sapling" ></item>
+<item slot="8" original="Put tools away" ></item>
+</script><script id="38" source="2"><item slot="1" original="Find shovel" ></item>
+<item slot="2" original="Dig hole" ></item>
+<item slot="3" original="Get tree" ></item>
+<item slot="4" original="Put tree roots into hole" ></item>
+<item slot="5" original="Put loose dirt around roots" ></item>
+<item slot="6" original="Fill hole so that only top of tree is above ground" ></item>
+<item slot="7" original="Make sure tree is standing straight and secure" ></item>
+<item slot="8" original="Add additional dirt if necessary" ></item>
+<item slot="9" original="Add small amount of water to base of tree" ></item>
+<item slot="10" original="Water tree daily and wait to grow" ></item>
+</script><script id="39" source="2"><item slot="1" original="Acquire sapling" ></item>
+<item slot="2" original="Get shovel and watering can" ></item>
+<item slot="3" original="Fill watering can" ></item>
+<item slot="4" original="Go outside" ></item>
+<item slot="5" original="Dig hole" ></item>
+<item slot="6" original="Place sapling in hole" ></item>
+<item slot="7" original="Fill hole with dirt" ></item>
+<item slot="8" original="Tamp down dirt" ></item>
+<item slot="9" original="Water sapling" ></item>
+<item slot="10" original="Put away shovel and watering can" ></item>
+</script><script id="40" source="2"><item slot="1" original="Buy seeds" ></item>
+<item slot="2" original="Go to garden" ></item>
+<item slot="3" original="Dig hole" ></item>
+<item slot="4" original="Put seed in hole" ></item>
+<item slot="5" original="Water the seed" ></item>
+<item slot="6" original="Cover hole" ></item>
+</script><script id="41" source="2"><item slot="1" original="Selecting the site to plant tree" ></item>
+<item slot="2" original="Dig hole for tree" ></item>
+<item slot="3" original="Put a small amount of water in hole" ></item>
+<item slot="4" original="Score roots to ensure good root growth" ></item>
+<item slot="5" original="Place tree in hole" ></item>
+<item slot="6" original="Cover hole with soil" ></item>
+</script><script id="42" source="2"><item slot="1" original="get seeds" ></item>
+<item slot="2" original="dig a hole" ></item>
+<item slot="3" original="insert some seeds" ></item>
+<item slot="4" original="cover up hole" ></item>
+<item slot="5" original="water the soil" ></item>
+</script><script id="43" source="2"><item slot="1" original="Buy seeds" ></item>
+<item slot="2" original="Dig a hole into the ground" ></item>
+<item slot="3" original="Place seed into hole" ></item>
+<item slot="4" original="Cover hole back up" ></item>
+<item slot="5" original="Take some water" ></item>
+<item slot="6" original="Water the seed everyday" ></item>
+<item slot="7" original="Make sure it gets sunlight" ></item>
+</script><script id="44" source="2"><item slot="1" original="get shovel" ></item>
+<item slot="2" original="dig hole at least 5 inches bigger then the root ball of tree" ></item>
+<item slot="3" original="start digging" ></item>
+<item slot="4" original="put water and fertilizer in hole" ></item>
+<item slot="5" original="put tree in hole" ></item>
+<item slot="6" original="cover back up with dirt" ></item>
+</script><script id="45" source="2"><item slot="1" original="Purchase seeds." ></item>
+<item slot="2" original="Get shovel and water ready." ></item>
+<item slot="3" original="Go outside to find spot for tree." ></item>
+<item slot="4" original="Dig hole for tree with shovel." ></item>
+<item slot="5" original="Place seeds in hole." ></item>
+<item slot="6" original="Cover seeds over with soil." ></item>
+<item slot="7" original="Water soil." ></item>
+</script><script id="46" source="2"><item slot="1" original="Get tree and shovel" ></item>
+<item slot="2" original="Dig an appropriate sized hole for the tree" ></item>
+<item slot="3" original="Place the tree in the hole" ></item>
+<item slot="4" original="Hold the tree upright while filling the hole back up" ></item>
+<item slot="5" original="Place a stabilizing stick if need" ></item>
+<item slot="6" original="Water the tree" ></item>
+</script><script id="47" source="2"><item slot="1" original="Buy tree seed" ></item>
+<item slot="2" original="Dig small hole in dirt" ></item>
+<item slot="3" original="Place seed in hole" ></item>
+<item slot="4" original="Cover hole" ></item>
+<item slot="5" original="Water seed every day" ></item>
+</script><script id="48" source="2"><item slot="1" original="Find place for tree" ></item>
+<item slot="2" original="Get shovel" ></item>
+<item slot="3" original="Dig hole" ></item>
+<item slot="4" original="Place tree in hole" ></item>
+<item slot="5" original="Fill hole with dirt" ></item>
+<item slot="6" original="Water tree" ></item>
+</script><script id="49" source="2"><item slot="1" original="get tree seed" ></item>
+<item slot="2" original="dig a hole" ></item>
+<item slot="3" original="place seed in hole" ></item>
+<item slot="4" original="cover hole with dirt" ></item>
+<item slot="5" original="water and care for tree" ></item>
+</script><script id="50" source="2"><item slot="1" original="go to store" ></item>
+<item slot="2" original="buy sapling" ></item>
+<item slot="3" original="go home" ></item>
+<item slot="4" original="get shovel" ></item>
+<item slot="5" original="select location" ></item>
+<item slot="6" original="dig hole" ></item>
+<item slot="7" original="put sapling in hole" ></item>
+<item slot="8" original="cover sapling with dirt" ></item>
+<item slot="9" original="water new sapling" ></item>
+</script><script id="51" source="2"><item slot="1" original="Buy a tree." ></item>
+<item slot="2" original="Find the shovel." ></item>
+<item slot="3" original="Dig a hole in the yard." ></item>
+<item slot="4" original="Take the tree out of its container." ></item>
+<item slot="5" original="Put it in the hole." ></item>
+<item slot="6" original="Cover the roots with dirt." ></item>
+<item slot="7" original="Get the hose." ></item>
+<item slot="8" original="Water the tree." ></item>
+</script><script id="52" source="2"><item slot="1" original="Pick a spot in the yard for the tree." ></item>
+<item slot="2" original="Buy or get a seed." ></item>
+<item slot="3" original="Plant tree seed about 4 inches in the dirt." ></item>
+<item slot="4" original="Water the area daily." ></item>
+<item slot="5" original="As the tree grows, remove any weeds that may grow from the area." ></item>
+</script><script id="53" source="2"><item slot="1" original="dig a small hole" ></item>
+<item slot="2" original="place seed in hole" ></item>
+<item slot="3" original="cover hole with dirt" ></item>
+<item slot="4" original="water seed" ></item>
+<item slot="5" original="keep watch to make sure it grows" ></item>
+</script><script id="54" source="2"><item slot="1" original="pick a spot for the tree" ></item>
+<item slot="2" original="dig a hole" ></item>
+<item slot="3" original="put root ball into the hole" ></item>
+<item slot="4" original="fill in the rest of the hole with dirt" ></item>
+<item slot="5" original="remove left over dirt" ></item>
+<item slot="6" original="water the tree" ></item>
+</script><script id="55" source="2"><item slot="1" original="Buy seedling." ></item>
+<item slot="2" original="Pick spot in yard." ></item>
+<item slot="3" original="Get shovel." ></item>
+<item slot="4" original="Dig hole." ></item>
+<item slot="5" original="Place seedling in whole." ></item>
+<item slot="6" original="Bury with dirt." ></item>
+<item slot="7" original="Wait for tree to slowly grow." ></item>
+<item slot="8" original="Water tree." ></item>
+</script><script id="56" source="2"><item slot="1" original="Pick out the tree" ></item>
+<item slot="2" original="Find the right spot" ></item>
+<item slot="3" original="Dig a hole" ></item>
+<item slot="4" original="Unbind the roots" ></item>
+<item slot="5" original="Place tree into hole" ></item>
+<item slot="6" original="Cover roots with dirt" ></item>
+<item slot="7" original="Water tree" ></item>
+</script><script id="57" source="2"><item slot="1" original="Find a spot for the tree" ></item>
+<item slot="2" original="Dig a spot in the ground" ></item>
+<item slot="3" original="Place tree in it" ></item>
+<item slot="4" original="Fill the hole with dirt" ></item>
+<item slot="5" original="Add water" ></item>
+</script><script id="58" source="2"><item slot="1" original="Dig hole" ></item>
+<item slot="2" original="When hole is deep enough, put tree in hole" ></item>
+<item slot="3" original="Make sure tree is upright" ></item>
+<item slot="4" original="Start filling in hole with dirt" ></item>
+<item slot="5" original="Add compost" ></item>
+<item slot="6" original="Finish filling in hole" ></item>
+<item slot="7" original="Level top of hole" ></item>
+<item slot="8" original="Water tree" ></item>
+</script><script id="59" source="2"><item slot="1" original="find empty grass field" ></item>
+<item slot="2" original="dig a hole" ></item>
+<item slot="3" original="put a seed in the hole" ></item>
+<item slot="4" original="cover hole" ></item>
+<item slot="5" original="wait 20 years" ></item>
+<item slot="6" original="visit tree" ></item>
+</script><script id="60" source="2"><item slot="1" original="Go outside" ></item>
+<item slot="2" original="Get a shovel" ></item>
+<item slot="3" original="Dig a hole" ></item>
+<item slot="4" original="Put a nerd in it, I mean the tree" ></item>
+<item slot="5" original="Cover the roots with dirt" ></item>
+<item slot="6" original="Water the tree" ></item>
+</script><script id="61" source="2"><item slot="1" original="Get seeds" ></item>
+<item slot="2" original="Find a place to plant the tree" ></item>
+<item slot="3" original="Dig up soil" ></item>
+<item slot="4" original="Place seeds in hole" ></item>
+<item slot="5" original="Cover the hole" ></item>
+<item slot="6" original="Water the top" ></item>
+</script><script id="63" source="2"><item slot="1" original="CHOOSE LOCATION FOR THE TREE" ></item>
+<item slot="2" original="DIG UP THE SOIL WHERE THE TREE SHOULD GO" ></item>
+<item slot="3" original="PLANT THE TREE OR THE SEEDS" ></item>
+<item slot="4" original="COVER BACK OVER WITH SOIL" ></item>
+<item slot="5" original="WATER THE PATCH OF LAND TO HELP IT GROW." ></item>
+</script><script id="64" source="2"><item slot="1" original="Dig a hole in a reasonable area" ></item>
+<item slot="2" original="Get your tree ready" ></item>
+<item slot="3" original="Insert tree root-first into the hole" ></item>
+<item slot="4" original="cover hole up with dirt and pat it down" ></item>
+<item slot="5" original="water plant" ></item>
+<item slot="6" original="wait for it to grow" ></item>
+</script><script id="65" source="2"><item slot="1" original="Select a tree" ></item>
+<item slot="2" original="Select a location" ></item>
+<item slot="3" original="Dig a hole" ></item>
+<item slot="4" original="Put tree in hole" ></item>
+<item slot="5" original="Cover hole" ></item>
+<item slot="6" original="Water tree" ></item>
+</script><script id="66" source="2"><item slot="1" original="Buy a tree" ></item>
+<item slot="2" original="Get a shovel" ></item>
+<item slot="3" original="Find a place to plant the tree" ></item>
+<item slot="4" original="Dig the hole" ></item>
+<item slot="5" original="Sit the tree inside the whole" ></item>
+<item slot="6" original="Fill the hole with the shovel" ></item>
+<item slot="7" original="Water the tree" ></item>
+</script><script id="67" source="2"><item slot="1" original="buy mature tree at nursery" ></item>
+<item slot="2" original="have tree delivered to house" ></item>
+<item slot="3" original="choose location of where tree will be planted" ></item>
+<item slot="4" original="dig hole at location" ></item>
+<item slot="5" original="place root of tree in hole" ></item>
+<item slot="6" original="cover up hole with soil" ></item>
+<item slot="7" original="water tree" ></item>
+</script><script id="68" source="2"><item slot="1" original="Get shovel" ></item>
+<item slot="2" original="Dig hole in the ground" ></item>
+<item slot="3" original="Get suitable tree for planting" ></item>
+<item slot="4" original="Place tree in hole securely" ></item>
+<item slot="5" original="Put dirt back in hole around tree roots" ></item>
+<item slot="6" original="Water tree" ></item>
+</script><script id="69" source="2"><item slot="1" original="Decide where the tree will be planted." ></item>
+<item slot="2" original="Using a shovel, dig a hole deep enough to place the tree roots." ></item>
+<item slot="3" original="Water the hole well." ></item>
+<item slot="4" original="Place the tree roots in the hole." ></item>
+<item slot="5" original="Pack loose soil firmly around the base of the tree and top of the hole." ></item>
+<item slot="6" original="Water the newly planted tree well." ></item>
+<item slot="7" original="Add fertilizer if needed." ></item>
+</script><script id="70" source="2"><item slot="1" original="Dig a hole in the ground." ></item>
+<item slot="2" original="Put the roots of the tree in the ground." ></item>
+<item slot="3" original="Fill rest of hole back up with dirt." ></item>
+<item slot="4" original="Pat dirt in." ></item>
+<item slot="5" original="Water the dirt and tree." ></item>
+</script><script id="71" source="2"><item slot="1" original="Go to garden center and buy small tree." ></item>
+<item slot="2" original="Find area to plant tree." ></item>
+<item slot="3" original="Use shovel to dig hole large enough for entire root of tree." ></item>
+<item slot="4" original="Save dirt to fill hole." ></item>
+<item slot="5" original="Water hole with hose." ></item>
+<item slot="6" original="Place root of tree in hole." ></item>
+<item slot="7" original="Cover roots completely with saved dirt." ></item>
+<item slot="8" original="Use hose to water planted tree." ></item>
+<item slot="9" original="Water tree as needed to prevent dirt from drying out." ></item>
+<item slot="10" original="Watch tree grow." ></item>
+</script><script id="72" source="2"><item slot="1" original="Buy a baby tree" ></item>
+<item slot="2" original="Buy soil" ></item>
+<item slot="3" original="Find a plot to plant it" ></item>
+<item slot="4" original="Dig up hole for tree" ></item>
+<item slot="5" original="Place tree in hole, making sure trunk is above ground" ></item>
+<item slot="6" original="Fill hole with soil" ></item>
+<item slot="7" original="Water tree" ></item>
+</script><script id="73" source="2"><item slot="1" original="Find a packet of seeds." ></item>
+<item slot="2" original="Go outside." ></item>
+<item slot="3" original="Scope for a good spot." ></item>
+<item slot="4" original="Dig a hole." ></item>
+<item slot="5" original="Place seeds." ></item>
+<item slot="6" original="Bury the seeds." ></item>
+</script><script id="74" source="2"><item slot="1" original="Get a tree." ></item>
+<item slot="2" original="Dig a hole big enough to cover the tree's roots and the base of the tree." ></item>
+<item slot="3" original="Remove the tree from any pot or container that it is in." ></item>
+<item slot="4" original="Place the tree in the hole." ></item>
+<item slot="5" original="Replace the soil that was removed from the hole." ></item>
+<item slot="6" original="Water the tree so that its roots can take hold and begin to grow." ></item>
+<item slot="7" original="Fertilize and water again as needed or desired." ></item>
+</script><script id="75" source="2"><item slot="1" original="Select tree seedling." ></item>
+<item slot="2" original="Find perfect spot to grow." ></item>
+<item slot="3" original="Dig hole." ></item>
+<item slot="4" original="Remove seedling from container." ></item>
+<item slot="5" original="Place in hole." ></item>
+<item slot="6" original="Fill in and pack dirt around seedling." ></item>
+<item slot="7" original="Water thoroughly." ></item>
+</script><script id="76" source="2"><item slot="1" original="Buy a tree." ></item>
+<item slot="2" original="Get shovel out of garage." ></item>
+<item slot="3" original="Dig a hole." ></item>
+<item slot="4" original="Put tree in hole." ></item>
+<item slot="5" original="Fill hole with dirt." ></item>
+<item slot="6" original="Put shovel away." ></item>
+<item slot="7" original="Get the water hose." ></item>
+<item slot="8" original="Turn water on." ></item>
+<item slot="9" original="Water the tree." ></item>
+<item slot="10" original="Turn water off." ></item>
+</script><script id="77" source="2"><item slot="1" original="Get a shovel" ></item>
+<item slot="2" original="Dig a small hole in the ground" ></item>
+<item slot="3" original="Get a tree seedling" ></item>
+<item slot="4" original="Put tree seedling in hole" ></item>
+<item slot="5" original="Bury seedling roots with removed dirt" ></item>
+<item slot="6" original="Water seedling" ></item>
+</script><script id="78" source="2"><item slot="1" original="Get tiny tree from a store" ></item>
+<item slot="2" original="Go to area where you're planting" ></item>
+<item slot="3" original="Dig a whole big enough and deep enough to fit tree" ></item>
+<item slot="4" original="Take tree out of pot" ></item>
+<item slot="5" original="Put the tree into the hole" ></item>
+<item slot="6" original="Fill the hole back up" ></item>
+<item slot="7" original="Pat down the soil" ></item>
+</script><script id="79" source="2"><item slot="1" original="Visit a plant nursery and choose a tree." ></item>
+<item slot="2" original="Transport the tree to where you will plant it." ></item>
+<item slot="3" original="Dig a hole in the ground large enough to accommodate the root ball of the tree." ></item>
+<item slot="4" original="Add a bit of water to the hole before planting the tree." ></item>
+<item slot="5" original="Put the roots of the tree into the hole." ></item>
+<item slot="6" original="Replace the dirt, ensuring that roots are well covered." ></item>
+<item slot="7" original="Water the tree again." ></item>
+<item slot="8" original="Watch it grow." ></item>
+</script><script id="80" source="2"><item slot="1" original="Dig a hole" ></item>
+<item slot="2" original="water the hole" ></item>
+<item slot="3" original="put the tree in hole" ></item>
+<item slot="4" original="cover the tree with dirt" ></item>
+<item slot="5" original="fertilize" ></item>
+<item slot="6" original="water again" ></item>
+</script><script id="81" source="2"><item slot="1" original="Dig whole" ></item>
+<item slot="2" original="Water ground so it is nice and moist" ></item>
+<item slot="3" original="Put tree in roots down" ></item>
+<item slot="4" original="Shovel soil back around tree" ></item>
+<item slot="5" original="Pat down the soil" ></item>
+<item slot="6" original="Water the soil again" ></item>
+</script><script id="82" source="2"><item slot="1" original="Get a spade" ></item>
+<item slot="2" original="Take the tree" ></item>
+<item slot="3" original="Go to the location planned for the plant" ></item>
+<item slot="4" original="Dig a small pit" ></item>
+<item slot="5" original="Put a small quantity of organic fertilizer in the pit" ></item>
+<item slot="6" original="Put some water in the pit" ></item>
+<item slot="7" original="Place the tree in the pit while keeping the orientation centered" ></item>
+<item slot="8" original="Fill the pit with soil" ></item>
+<item slot="9" original="Make the loosened soil tight by pressing it." ></item>
+<item slot="10" original="Water the tree" ></item>
+<item slot="11" original="Place a guard net around the newly planted tree" ></item>
+</script><script id="83" source="2"><item slot="1" original="Go to a nursery." ></item>
+<item slot="2" original="Purchase a young seedling." ></item>
+<item slot="3" original="Return home or wherever you will be planting." ></item>
+<item slot="4" original="Find a shovel." ></item>
+<item slot="5" original="Dig a hole deep enough for the plant." ></item>
+<item slot="6" original="Gently place the young tree into the hole." ></item>
+<item slot="7" original="Cover the hole with dirt." ></item>
+<item slot="8" original="You may wish to use ropes to tie down the tree for extra support while young." ></item>
+<item slot="9" original="Keep plant watered and watch tree grow." ></item>
+</script><script id="84" source="2"><item slot="1" original="Go to nursery to pick out a tree." ></item>
+<item slot="2" original="Take tree home." ></item>
+<item slot="3" original="Look for the best place for the tree" ></item>
+<item slot="4" original="Dig a deep hole." ></item>
+<item slot="5" original="Place tree in hole." ></item>
+<item slot="6" original="Fill the hole" ></item>
+<item slot="7" original="water as needed" ></item>
+</script><script id="85" source="2"><item slot="1" original="take a sapling" ></item>
+<item slot="2" original="dig hole in the ground" ></item>
+<item slot="3" original="place the sapling" ></item>
+<item slot="4" original="place it in the hole" ></item>
+<item slot="5" original="cover with soil" ></item>
+<item slot="6" original="water regularly" ></item>
+</script><script id="86" source="2"><item slot="1" original="take a sapling" ></item>
+<item slot="2" original="dig hole in the ground" ></item>
+<item slot="3" original="place the sapling" ></item>
+<item slot="4" original="place it in the hole" ></item>
+<item slot="5" original="cover with soil" ></item>
+<item slot="6" original="water regularly" ></item>
+</script><script id="102" source="2"><item slot="1" original="Select the right time of a year to plant a tree" ></item>
+<item slot="2" original="check any local requirement before digging hole" ></item>
+<item slot="3" original="select suitable tree for climate and region" ></item>
+<item slot="4" original="Prepare the hole" ></item>
+<item slot="5" original="Prepare the tree for planting" ></item>
+<item slot="6" original="Use a seed for planting" ></item>
+<item slot="7" original="Place the tree in the hole gently" ></item>
+<item slot="8" original="Use some composted manure" ></item>
+<item slot="9" original="Water the newly planted tree" ></item>
+<item slot="10" original="Stake the tree for some years" ></item>
+<item slot="11" original="Enjoy the tree as it grows over the years" ></item>
+</script><script id="103" source="2"><item slot="1" original="Find a good spot to plant tree" ></item>
+<item slot="2" original="Dig a hole deep enough and wide enough" ></item>
+<item slot="3" original="Place tree roots in hole" ></item>
+<item slot="4" original="Fill in dirt" ></item>
+<item slot="5" original="Water tree" ></item>
+</script><script id="104" source="2"><item slot="1" original="Dig a hole" ></item>
+<item slot="2" original="Loosen soil around hole" ></item>
+<item slot="3" original="Remove tree from container" ></item>
+<item slot="4" original="Place tree in hole" ></item>
+<item slot="5" original="Cover with dirt" ></item>
+</script><script id="105" source="2"><item slot="1" original="Get a sapling" ></item>
+<item slot="2" original="Dig hole, larger than root ball of sapling" ></item>
+<item slot="3" original="Add some topsoil and compost into bottom of hole" ></item>
+<item slot="4" original="Put tree into hole" ></item>
+<item slot="5" original="Fill the rest of hole with topsoil" ></item>
+<item slot="6" original="Add some fertilizer into topsoil" ></item>
+<item slot="7" original="Put mulch over base of tree" ></item>
+<item slot="8" original="Water tree deeply" ></item>
+</script><script id="106" source="2"><item slot="1" original="Get your tree" ></item>
+<item slot="2" original="Get a shovel" ></item>
+<item slot="3" original="Find the right spot in your garden or park" ></item>
+<item slot="4" original="Dig a hole" ></item>
+<item slot="5" original="Remove tree from pot" ></item>
+<item slot="6" original="Place tree in hole" ></item>
+<item slot="7" original="Refill the hole with dirt" ></item>
+</script><script id="107" source="2"><item slot="1" original="Get a tree" ></item>
+<item slot="2" original="Dig a hole" ></item>
+<item slot="3" original="Place tree in hole" ></item>
+<item slot="4" original="Fill hole with dirt" ></item>
+<item slot="5" original="Water tree" ></item>
+</script><script id="108" source="2"><item slot="1" original="Buy a tree" ></item>
+<item slot="2" original="Pick a spot to plant it" ></item>
+<item slot="3" original="Get a shovel" ></item>
+<item slot="4" original="Dig a hole" ></item>
+<item slot="5" original="Put the tree in" ></item>
+<item slot="6" original="Fill around it with dirt" ></item>
+<item slot="7" original="Water it" ></item>
+</script><script id="109" source="2"><item slot="1" original="Find a sapling" ></item>
+<item slot="2" original="Find a place to plant it" ></item>
+<item slot="3" original="Dig a small hole in ground" ></item>
+<item slot="4" original="Remove sapling from old pot" ></item>
+<item slot="5" original="Set sapling in the ground" ></item>
+<item slot="6" original="Fill the dirt in around it" ></item>
+<item slot="7" original="Pack the dirt tightly" ></item>
+<item slot="8" original="Water the sapling" ></item>
+</script><script id="110" source="2"><item slot="1" original="Grab a shovel" ></item>
+<item slot="2" original="Dig a hole" ></item>
+<item slot="3" original="Put tree in hole" ></item>
+<item slot="4" original="Cover up hole" ></item>
+<item slot="5" original="Water tree" ></item>
+<item slot="6" original="Wait" ></item>
+</script><script id="111" source="2"><item slot="1" original="Select location for the tree" ></item>
+<item slot="2" original="Get a shovel" ></item>
+<item slot="3" original="Dig a hole bigger than the ball on the tree" ></item>
+<item slot="4" original="Fill part of the hole with good soil" ></item>
+<item slot="5" original="Unwrap the ball of the tree" ></item>
+<item slot="6" original="Place the ball of the tree into the hole" ></item>
+<item slot="7" original="Fill in the hole with the removed dirt" ></item>
+<item slot="8" original="Assure that the trunk is vertical" ></item>
+<item slot="9" original="Pack the dirt to affirm the position of the trunk" ></item>
+<item slot="10" original="Lightly apply some fertilizer on the surface near the tree" ></item>
+<item slot="11" original="Water the area" ></item>
+</script><script id="112" source="2"><item slot="1" original="Buy a tree to plant from a flower supply company" ></item>
+<item slot="2" original="Buy topsoil" ></item>
+<item slot="3" original="Buy mulch" ></item>
+<item slot="4" original="Buy fertilizer" ></item>
+<item slot="5" original="Dig a hole for the tree" ></item>
+<item slot="6" original="Hold the tree upright as you shovel topsoil into the hole" ></item>
+<item slot="7" original="Tamp the topsoil down" ></item>
+<item slot="8" original="Straighten the tree" ></item>
+<item slot="9" original="Pour a layer of fertilizer around the tree" ></item>
+<item slot="10" original="Pour chipped-wood mulch around tree" ></item>
+<item slot="11" original="Straighten tree" ></item>
+<item slot="12" original="Water tree" ></item>
+<item slot="13" original="Continue to water tree regularly" ></item>
+<item slot="14" original="Tree will grow" ></item>
+</script><script id="114" source="2"><item slot="1" original="Buy some tree seeds or purchase a small tree." ></item>
+<item slot="2" original="Use a shovel to dig a hole" ></item>
+<item slot="3" original="Place tree into hole carefully." ></item>
+<item slot="4" original="Add some compost" ></item>
+<item slot="5" original="Water tree" ></item>
+<item slot="6" original="Add stakes to tree if necessary over the years." ></item>
+<item slot="7" original="Tree will continue to grow over the years." ></item>
+</script><script id="115" source="2"><item slot="1" original="Buy a seedling" ></item>
+<item slot="2" original="Dig a hole" ></item>
+<item slot="3" original="Put fertilizer in the hole" ></item>
+<item slot="4" original="Plant the seedling" ></item>
+<item slot="5" original="Put dirt back around hole" ></item>
+<item slot="6" original="Water the seedling" ></item>
+</script><script id="116" source="2"><item slot="1" original="Buy the tree of your choice." ></item>
+<item slot="2" original="Find a good spot that gets plenty of sun." ></item>
+<item slot="3" original="Dig a hole to accommodate the size you need." ></item>
+<item slot="4" original="Take tree out with roots exposed." ></item>
+<item slot="5" original="Put tree into hole." ></item>
+<item slot="6" original="Softly put dirt into hole." ></item>
+<item slot="7" original="Pat dirt down slightly." ></item>
+<item slot="8" original="Water tree." ></item>
+</script><script id="117" source="2"><item slot="1" original="dig hole" ></item>
+<item slot="2" original="plant seed" ></item>
+<item slot="3" original="fill hole back up" ></item>
+<item slot="4" original="water the spot every day." ></item>
+<item slot="5" original="wait for the tree to grow" ></item>
+</script><script id="118" source="2"><item slot="1" original="buy a tree" ></item>
+<item slot="2" original="find a place for it" ></item>
+<item slot="3" original="dig a hole" ></item>
+<item slot="4" original="put the tree in the hole" ></item>
+<item slot="5" original="cover the hole" ></item>
+<item slot="6" original="water" ></item>
+</script></scripts>

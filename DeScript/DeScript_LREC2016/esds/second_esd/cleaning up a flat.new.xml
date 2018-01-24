@@ -1,0 +1,700 @@
+<scripts><script id="0" source="2"><item slot="1" original="Pick up dirty clothes" ></item>
+<item slot="2" original="Put away clean clothes" ></item>
+<item slot="3" original="Clear off surfaces" ></item>
+<item slot="4" original="Wash dishes" ></item>
+<item slot="5" original="Pick up anything else on the floor" ></item>
+<item slot="6" original="Empty trash" ></item>
+<item slot="7" original="Make beds" ></item>
+<item slot="8" original="Dust" ></item>
+<item slot="9" original="Vacuum" ></item>
+<item slot="10" original="Sweep" ></item>
+<item slot="11" original="Mop" ></item>
+<item slot="12" original="Enjoy your clean flat" ></item>
+</script><script id="19" source="2"><item slot="1" original="getting out cleaning products" ></item>
+<item slot="2" original="Wetting rag" ></item>
+<item slot="3" original="wiping surface areas" ></item>
+<item slot="4" original="sweeping floor" ></item>
+<item slot="5" original="picking up with dustpan" ></item>
+<item slot="6" original="getting mop" ></item>
+<item slot="7" original="mopping floor" ></item>
+<item slot="8" original="drying floor" ></item>
+<item slot="9" original="getting vacuum" ></item>
+<item slot="10" original="vacuuming floor" ></item>
+</script><script id="20" source="2"><item slot="1" original="Put dirty clothes in hamper" ></item>
+<item slot="2" original="Organize loose papers" ></item>
+<item slot="3" original="Pick junk off floor" ></item>
+<item slot="4" original="Throw away trash" ></item>
+<item slot="5" original="Clean the cat box" ></item>
+<item slot="6" original="Vacuum" ></item>
+<item slot="7" original="Wash the dishes" ></item>
+<item slot="8" original="Take out the trash" ></item>
+</script><script id="21" source="2"><item slot="1" original="Vacuum the carpet" ></item>
+<item slot="2" original="Organize the rooms" ></item>
+<item slot="3" original="Dust the furniture" ></item>
+<item slot="4" original="Sweep the floor" ></item>
+<item slot="5" original="Organize the closets" ></item>
+</script><script id="22" source="2"><item slot="1" original="Get broom, mop, detergent, bucket and water" ></item>
+<item slot="2" original="Open the flat" ></item>
+<item slot="3" original="Put water in the bucket" ></item>
+<item slot="4" original="Mix detergent in water" ></item>
+<item slot="5" original="Put the mob inside and let it soak" ></item>
+<item slot="6" original="Take the broom" ></item>
+<item slot="7" original="Broom the whole flat" ></item>
+<item slot="8" original="Mop up the flat room by room" ></item>
+<item slot="9" original="Mop up again" ></item>
+<item slot="10" original="Wipe with dry mop" ></item>
+<item slot="11" original="Switch on the fan" ></item>
+<item slot="12" original="Let the flat get dry" ></item>
+</script><script id="23" source="2"><item slot="1" original="Get into the flat" ></item>
+<item slot="2" original="Take the vacuum cleaner" ></item>
+<item slot="3" original="Switch on the plug of the cleaner" ></item>
+<item slot="4" original="Move the cleaner to the places where there is dust" ></item>
+<item slot="5" original="Wash the floor" ></item>
+<item slot="6" original="Put the unwanted things into the dustbin" ></item>
+<item slot="7" original="Arrange the things back to their positions" ></item>
+</script><script id="24" source="2"><item slot="1" original="Get all the stuff off the floor." ></item>
+<item slot="2" original="Take the garbage out." ></item>
+<item slot="3" original="Wash the dishes." ></item>
+<item slot="4" original="Vacuum the floor." ></item>
+<item slot="5" original="Put all the dishes away." ></item>
+<item slot="6" original="Wash clothes." ></item>
+<item slot="7" original="Put laundry away." ></item>
+</script><script id="25" source="2"><item slot="1" original="Vacuum the floor" ></item>
+<item slot="2" original="Dust the furniture" ></item>
+<item slot="3" original="Clean the windows" ></item>
+<item slot="4" original="Wash the dishes" ></item>
+<item slot="5" original="Clean the bathroom" ></item>
+<item slot="6" original="Throw away trash" ></item>
+</script><script id="27" source="2"><item slot="1" original="clear any clutter off floor" ></item>
+<item slot="2" original="vacuum the carpet" ></item>
+<item slot="3" original="throw away any trash" ></item>
+<item slot="4" original="put on gloves" ></item>
+<item slot="5" original="wash windows with cleaner" ></item>
+<item slot="6" original="scrub counters with bleach" ></item>
+<item slot="7" original="dust lamps and shelves" ></item>
+<item slot="8" original="take trash out to dumpster" ></item>
+<item slot="9" original="take off gloves" ></item>
+<item slot="10" original="put cleaning supplies away" ></item>
+</script><script id="28" source="2"><item slot="1" original="Gather cleaning supplies." ></item>
+<item slot="2" original="Gather up trash in trash bag." ></item>
+<item slot="3" original="Wash dirty dishes and put them away." ></item>
+<item slot="4" original="Sweep floors." ></item>
+<item slot="5" original="Sponge down counters." ></item>
+<item slot="6" original="Fold laundry." ></item>
+<item slot="7" original="Scrub bath tub and toilet." ></item>
+<item slot="8" original="Mop bathroom floor." ></item>
+<item slot="9" original="Spray windows with cleaner and wipe with newspaper." ></item>
+</script><script id="29" source="2"><item slot="1" original="First I would get out my cleaning supplies." ></item>
+<item slot="2" original="Then I would clean the windows." ></item>
+<item slot="3" original="Vacuum floors" ></item>
+<item slot="4" original="Pick up all trash" ></item>
+<item slot="5" original="take out trash" ></item>
+<item slot="6" original="clean off table" ></item>
+<item slot="7" original="Clean furniture" ></item>
+</script><script id="30" source="2"><item slot="1" original="set up a plan" ></item>
+<item slot="2" original="pick up anything out of place" ></item>
+<item slot="3" original="put away in the right places" ></item>
+<item slot="4" original="take out vacuum and vacuum the floor" ></item>
+<item slot="5" original="dust the furniture" ></item>
+<item slot="6" original="pick up anyting out of place in the kitchen" ></item>
+<item slot="7" original="wipe down countertops" ></item>
+<item slot="8" original="mop the floor" ></item>
+<item slot="9" original="go to the bathroom" ></item>
+<item slot="10" original="wipe down all surfaces" ></item>
+<item slot="11" original="mop the floor" ></item>
+</script><script id="31" source="2"><item slot="1" original="Throw away garbage" ></item>
+<item slot="2" original="Organize desks and tables" ></item>
+<item slot="3" original="Put away dirty dishes" ></item>
+<item slot="4" original="Organize clothes" ></item>
+<item slot="5" original="Dust the furniture" ></item>
+<item slot="6" original="Vacuum the flat" ></item>
+<item slot="7" original="Wash the floor" ></item>
+</script><script id="32" source="2"><item slot="1" original="Get out cleaning supplies" ></item>
+<item slot="2" original="Pick stuff up off the floor" ></item>
+<item slot="3" original="Sweep floor with broom" ></item>
+<item slot="4" original="Mop floor with mop and soapy water" ></item>
+<item slot="5" original="Vacuum carpet" ></item>
+<item slot="6" original="Dust surfaces with duster" ></item>
+<item slot="7" original="Wipe counters with wet cloth" ></item>
+<item slot="8" original="Put dishes in hot soapy water" ></item>
+<item slot="9" original="Wash dishes with sponge and soap" ></item>
+<item slot="10" original="Rinse soap off of dishes" ></item>
+<item slot="11" original="Dry dishes" ></item>
+<item slot="12" original="Put dishes away" ></item>
+<item slot="13" original="Make bed" ></item>
+<item slot="14" original="Put cleaning supplies away" ></item>
+</script><script id="33" source="2"><item slot="1" original="Pick up any clutter or laundry first." ></item>
+<item slot="2" original="Put the laundry in the washer and start it." ></item>
+<item slot="3" original="Pick up any dirty dishes and place them in the sink or dishwasher to be washed." ></item>
+<item slot="4" original="Dust the surfaces." ></item>
+<item slot="5" original="Vacuum or clean the upholstery to remove pet hair and crumbs." ></item>
+<item slot="6" original="Wipe down any surfaces that are dirtier or that need special care." ></item>
+<item slot="7" original="Sweep, mop, or vacuum the floor." ></item>
+<item slot="8" original="Put the laundry in the dryer." ></item>
+<item slot="9" original="Wash the dishes." ></item>
+<item slot="10" original="Fold and put the laundry away." ></item>
+<item slot="11" original="Dry and put the dishes away." ></item>
+<item slot="12" original="Put away any other stray items." ></item>
+</script><script id="35" source="2"><item slot="1" original="Wear old casual clothes" ></item>
+<item slot="2" original="Wear a cap and nose mask" ></item>
+<item slot="3" original="Transfer all the small objects into one place" ></item>
+<item slot="4" original="Cover beds and furniture with unused bedspreads" ></item>
+<item slot="5" original="Clean all bedrooms and living room with a vacuum cleaner" ></item>
+<item slot="6" original="Use a broom duster to clean the wall surfaces" ></item>
+<item slot="7" original="Vacuum the floor thoroughly" ></item>
+<item slot="8" original="Arrange back all the objects in their places" ></item>
+</script><script id="36" source="2"><item slot="1" original="Pick up clutter, put it in proper places" ></item>
+<item slot="2" original="sweep up solid floors" ></item>
+<item slot="3" original="mop solid floors" ></item>
+<item slot="4" original="vacuum carpets" ></item>
+<item slot="5" original="dust furniture and fixtures" ></item>
+<item slot="6" original="wash counters" ></item>
+<item slot="7" original="scrub and wash toilets and sinks" ></item>
+</script><script id="37" source="2"><item slot="1" original="Pick up and put away things." ></item>
+<item slot="2" original="Put dirty dishes and food away." ></item>
+<item slot="3" original="Sweep tile or wood floors." ></item>
+<item slot="4" original="Dust knick knacks and wall hangings." ></item>
+<item slot="5" original="Vacuum any carpeted floors." ></item>
+<item slot="6" original="Wash windows or glass doors." ></item>
+<item slot="7" original="Clean bathrooms." ></item>
+<item slot="8" original="Do laundry." ></item>
+</script><script id="38" source="2"><item slot="1" original="Putting things away" ></item>
+<item slot="2" original="Vacuuming the floor" ></item>
+<item slot="3" original="Dusting the tables and such" ></item>
+<item slot="4" original="Doing dishes" ></item>
+<item slot="5" original="Making sure that everything looks straight" ></item>
+</script><script id="39" source="2"><item slot="1" original="Enter your flat" ></item>
+<item slot="2" original="Pick up all the trash from the floor and put it in the waste basket" ></item>
+<item slot="3" original="Take all objects that do not belong on the floor and put them in their proper place" ></item>
+<item slot="4" original="Open the windows to let fresh air into the flat" ></item>
+<item slot="5" original="Dust the furniture and objects around the house" ></item>
+<item slot="6" original="Vacuum the rugs and carpet" ></item>
+<item slot="7" original="Sweep and mop the hard floors" ></item>
+<item slot="8" original="Wash and dry all the dirty dishes" ></item>
+<item slot="9" original="Clean the sinks and toilets" ></item>
+<item slot="10" original="Clean the shower curtain and bath tub" ></item>
+<item slot="11" original="Use an air spray or deodorizer to freshen the air" ></item>
+</script><script id="40" source="2"><item slot="1" original="Decide what needs to be done." ></item>
+<item slot="2" original="Make a chore list." ></item>
+<item slot="3" original="Start at the first one and clean." ></item>
+<item slot="4" original="Sweep floors." ></item>
+<item slot="5" original="Do dishes." ></item>
+<item slot="6" original="Do laundry." ></item>
+</script><script id="41" source="2"><item slot="1" original="Pick up all big things on the floor" ></item>
+<item slot="2" original="Put them in their proper spots" ></item>
+<item slot="3" original="Get vacuum" ></item>
+<item slot="4" original="Turn it on" ></item>
+<item slot="5" original="Vacuum the floor" ></item>
+</script><script id="43" source="2"><item slot="1" original="turn on music" ></item>
+<item slot="2" original="pick up everything out of order" ></item>
+<item slot="3" original="dust" ></item>
+<item slot="4" original="sweep" ></item>
+<item slot="5" original="disinfect" ></item>
+</script><script id="44" source="2"><item slot="1" original="grab vacuum" ></item>
+<item slot="2" original="spray carpet cleaner" ></item>
+<item slot="3" original="vacuum floors" ></item>
+<item slot="4" original="grab towel" ></item>
+<item slot="5" original="wipe down furniture" ></item>
+</script><script id="45" source="2"><item slot="1" original="Pick up any loose stuff" ></item>
+<item slot="2" original="dust surfaces" ></item>
+<item slot="3" original="Clean sinks" ></item>
+<item slot="4" original="Clean toilet" ></item>
+<item slot="5" original="Wipe down table and counters" ></item>
+<item slot="6" original="Change bed sheets" ></item>
+<item slot="7" original="sweep floors" ></item>
+<item slot="8" original="Vaccuum rugs" ></item>
+<item slot="9" original="Mop floors" ></item>
+</script><script id="46" source="2"><item slot="1" original="Notice flat is dirty" ></item>
+<item slot="2" original="Clean up trash" ></item>
+<item slot="3" original="Do dirty dishes" ></item>
+<item slot="4" original="Do laundry" ></item>
+<item slot="5" original="Scrub counters" ></item>
+<item slot="6" original="Clean bathroom" ></item>
+</script><script id="47" source="2"><item slot="1" original="Put on work clothes" ></item>
+<item slot="2" original="Get cleaning supplies" ></item>
+<item slot="3" original="Fill bucket with water" ></item>
+<item slot="4" original="Vacuum floors" ></item>
+<item slot="5" original="Mop floors" ></item>
+<item slot="6" original="Clean surfaces with damp rag" ></item>
+<item slot="7" original="Wax floors" ></item>
+<item slot="8" original="Take any rugs outside" ></item>
+<item slot="9" original="Beat rugs" ></item>
+<item slot="10" original="Take rugs back inside" ></item>
+<item slot="11" original="Replace rugs" ></item>
+<item slot="12" original="Put away cleaning supplies" ></item>
+</script><script id="48" source="2"><item slot="1" original="Enter flat" ></item>
+<item slot="2" original="Pick up any stray items" ></item>
+<item slot="3" original="Move furniture" ></item>
+<item slot="4" original="Take out vacuum" ></item>
+<item slot="5" original="Plug vacuum into outlet" ></item>
+<item slot="6" original="Vacuum floors" ></item>
+<item slot="7" original="Unplug vacuum" ></item>
+<item slot="8" original="Put vacuum away" ></item>
+<item slot="9" original="Put furniture back" ></item>
+<item slot="10" original="Straighten tables and items" ></item>
+</script><script id="49" source="2"><item slot="1" original="Pick up any items on floor that don't belong there." ></item>
+<item slot="2" original="Throw away any trash that is left about." ></item>
+<item slot="3" original="Put all dirty dishes in sink." ></item>
+<item slot="4" original="Wash dishes." ></item>
+<item slot="5" original="Sweep any un-carpeted floors." ></item>
+<item slot="6" original="Mop un-carpeted floors." ></item>
+<item slot="7" original="Vacuum carpets." ></item>
+<item slot="8" original="Take out trash." ></item>
+</script><script id="50" source="2"><item slot="1" original="Assess the area" ></item>
+<item slot="2" original="Start picking things up" ></item>
+<item slot="3" original="Put things in their proper places" ></item>
+<item slot="4" original="Wipe down dust" ></item>
+<item slot="5" original="Vaccuum the floor" ></item>
+<item slot="6" original="Make beds" ></item>
+<item slot="7" original="Wipe counters" ></item>
+<item slot="8" original="Do laundry" ></item>
+<item slot="9" original="Sanitize" ></item>
+<item slot="10" original="Rest" ></item>
+</script><script id="52" source="2"><item slot="1" original="pick everything up off the floor" ></item>
+<item slot="2" original="pick up everything off of table top spaces" ></item>
+<item slot="3" original="vacuum floor" ></item>
+<item slot="4" original="take out trash" ></item>
+<item slot="5" original="once over to put everything in its place" ></item>
+</script><script id="53" source="2"><item slot="1" original="Gather trash into waste basket" ></item>
+<item slot="2" original="Take dirty dishes to kitchen" ></item>
+<item slot="3" original="Straighten pillows on couch" ></item>
+<item slot="4" original="Dust tables" ></item>
+<item slot="5" original="Vacuum living room" ></item>
+<item slot="6" original="Scrub bathroom" ></item>
+<item slot="7" original="Sweep bathroom floor" ></item>
+<item slot="8" original="Mop bathroom floor" ></item>
+<item slot="9" original="Make bed" ></item>
+<item slot="10" original="Pick up dirty clothes in bedroom" ></item>
+<item slot="11" original="Vacuum bedroom" ></item>
+<item slot="12" original="Wash dishes" ></item>
+<item slot="13" original="Wipe off kitchen counters" ></item>
+<item slot="14" original="Sweep kitchen floor" ></item>
+<item slot="15" original="Mop kitchen floor" ></item>
+<item slot="16" original="Take trash to outside trash can" ></item>
+</script><script id="54" source="2"><item slot="1" original="Go into flat" ></item>
+<item slot="2" original="Get vacuum cleaner" ></item>
+<item slot="3" original="Get broom and dust pan" ></item>
+<item slot="4" original="Get sponges and spray cleaner" ></item>
+<item slot="5" original="Get dust cloth" ></item>
+<item slot="6" original="Dust furniture in flat" ></item>
+<item slot="7" original="Sweep floors and gather dirt into dust pan" ></item>
+<item slot="8" original="Toss dirt from dust pan into trash" ></item>
+<item slot="9" original="Vacuum carpets" ></item>
+<item slot="10" original="Clean bathrooms with sponge and spray cleaner" ></item>
+<item slot="11" original="Clean kitchen with sponge and spray cleaner" ></item>
+</script><script id="55" source="2"><item slot="1" original="Collect things that are not in the right place" ></item>
+<item slot="2" original="Put items away" ></item>
+<item slot="3" original="Get duster" ></item>
+<item slot="4" original="Dust surfaces" ></item>
+<item slot="5" original="Get vacuum cleaner" ></item>
+<item slot="6" original="Vacuum floors" ></item>
+</script><script id="56" source="2"><item slot="1" original="Clean up trash" ></item>
+<item slot="2" original="Mop floors" ></item>
+<item slot="3" original="Vacuum carpets" ></item>
+<item slot="4" original="Dust tables" ></item>
+<item slot="5" original="Clean any dirty dishes" ></item>
+<item slot="6" original="Make bed(s)" ></item>
+</script><script id="57" source="2"><item slot="1" original="Clear clutter from the floor" ></item>
+<item slot="2" original="Dust shelves and tables" ></item>
+<item slot="3" original="Mop the floors" ></item>
+<item slot="4" original="Clean the windows" ></item>
+<item slot="5" original="Run the vacuum" ></item>
+</script><script id="59" source="2"><item slot="1" original="Get all cleaning supplies out." ></item>
+<item slot="2" original="Put all clothes away." ></item>
+<item slot="3" original="Throw all trash away." ></item>
+<item slot="4" original="Put things away where they belong." ></item>
+<item slot="5" original="Dust flat." ></item>
+<item slot="6" original="Clean bathroom with supplies." ></item>
+<item slot="7" original="Sweep floors." ></item>
+<item slot="8" original="Mop floors." ></item>
+<item slot="9" original="Make beds." ></item>
+<item slot="10" original="Clean kitchen counters." ></item>
+</script><script id="60" source="2"><item slot="1" original="Empty all trash cans into one trashbag" ></item>
+<item slot="2" original="Vacuum the carpets" ></item>
+<item slot="3" original="Mop the hard floors" ></item>
+<item slot="4" original="Clean the windows" ></item>
+<item slot="5" original="Discard trash" ></item>
+</script><script id="61" source="2"><item slot="1" original="PICK UP ALL RUBBISH" ></item>
+<item slot="2" original="THROW AWAY RUBBISH" ></item>
+<item slot="3" original="VACUUM THE CARPET" ></item>
+<item slot="4" original="DUST ALL THE SURFACES" ></item>
+<item slot="5" original="PUT EVERYTHING BACK IN ITS PLACE" ></item>
+<item slot="6" original="SIT DOWN WHEN DONE" ></item>
+</script><script id="62" source="2"><item slot="1" original="Assemble cleaning supplies" ></item>
+<item slot="2" original="Make beds" ></item>
+<item slot="3" original="Dust furniture" ></item>
+<item slot="4" original="Vacuum all rooms" ></item>
+<item slot="5" original="Wash dishes" ></item>
+<item slot="6" original="Dry dishes" ></item>
+<item slot="7" original="Put dishes away" ></item>
+<item slot="8" original="Clean tub" ></item>
+<item slot="9" original="Clean sink" ></item>
+<item slot="10" original="Clean toilet" ></item>
+<item slot="11" original="Sweep hard floors" ></item>
+<item slot="12" original="Put collected dirt from floors in trash" ></item>
+<item slot="13" original="Put cleaning supplies away" ></item>
+<item slot="14" original="Spray room fragrance" ></item>
+</script><script id="63" source="2"><item slot="1" original="at dirty spot" ></item>
+<item slot="2" original="pick up trash and miscellaneous items from floor" ></item>
+<item slot="3" original="organize items that are out of place (ie: books back in bookshelf)" ></item>
+<item slot="4" original="sweep floors" ></item>
+<item slot="5" original="vacuum if carpets or rugs in place" ></item>
+<item slot="6" original="cleanse floor with mop" ></item>
+<item slot="7" original="allow floor to dry" ></item>
+<item slot="8" original="enjoy clean flat" ></item>
+</script><script id="64" source="2"><item slot="1" original="Gather cleaning supplies" ></item>
+<item slot="2" original="Pick up trash from floor and other areas" ></item>
+<item slot="3" original="Place trash in trash can" ></item>
+<item slot="4" original="Use cleaning supplies to clean surfaces" ></item>
+<item slot="5" original="Move furniture" ></item>
+<item slot="6" original="Sweep dirt and other debris off of floor" ></item>
+<item slot="7" original="Pick up dirt and debris with dustpan" ></item>
+<item slot="8" original="Throw dirt and debris in trash can" ></item>
+<item slot="9" original="Plug in vacuum cleaner" ></item>
+<item slot="10" original="Vacuum entire floor" ></item>
+<item slot="11" original="Put furniture back in place" ></item>
+</script><script id="65" source="2"><item slot="1" original="Gather any trash and throw it away." ></item>
+<item slot="2" original="Remove any items of clutter and put them where they belong." ></item>
+<item slot="3" original="Vacuum the carpets." ></item>
+<item slot="4" original="Sweep the floors." ></item>
+<item slot="5" original="Dust the shelves and furniture." ></item>
+<item slot="6" original="Wash the windows and mirrors." ></item>
+<item slot="7" original="Use an air freshener to create a pleasant scent." ></item>
+</script><script id="66" source="2"><item slot="1" original="Locate a duster" ></item>
+<item slot="2" original="Dust all the surfaces in the flat" ></item>
+<item slot="3" original="Find a broom" ></item>
+<item slot="4" original="Sweep the floors" ></item>
+<item slot="5" original="Gather dirt into a dustpan" ></item>
+<item slot="6" original="Throw the dirt into a trashcan" ></item>
+<item slot="7" original="Find a mop" ></item>
+<item slot="8" original="Find a bucket" ></item>
+<item slot="9" original="Fill the bucket with water" ></item>
+<item slot="10" original="Put the mop in the bucket" ></item>
+<item slot="11" original="Ring out the excess water" ></item>
+<item slot="12" original="Mop all of your wood or tile floors" ></item>
+<item slot="13" original="Pour out the water" ></item>
+<item slot="14" original="Put away the mop" ></item>
+<item slot="15" original="Put away the bucket" ></item>
+</script><script id="67" source="2"><item slot="1" original="Inspect which areas need cleaning" ></item>
+<item slot="2" original="Get cleaning supplies" ></item>
+<item slot="3" original="Pick up clutter" ></item>
+<item slot="4" original="Dust surfaces" ></item>
+<item slot="5" original="Wash walls or windows, as needed" ></item>
+<item slot="6" original="Sweep floor" ></item>
+<item slot="7" original="Mop floor" ></item>
+<item slot="8" original="Continue cleaning with steps 3-7 as needed" ></item>
+</script><script id="68" source="2"><item slot="1" original="Dusting the furniture." ></item>
+<item slot="2" original="Sweeping the floor." ></item>
+<item slot="3" original="Cleaning the dishes." ></item>
+<item slot="4" original="Vacuuming." ></item>
+<item slot="5" original="Making the beds." ></item>
+</script><script id="69" source="2"><item slot="1" original="Pick up laundry and carry it to washer and dryer." ></item>
+<item slot="2" original="Begin washing a load of laundry in the washer." ></item>
+<item slot="3" original="Empty dish washing machine." ></item>
+<item slot="4" original="Rinse dirty dishes and place into dishwasher." ></item>
+<item slot="5" original="Start dishwasher." ></item>
+<item slot="6" original="Vacuum floor in entire flat." ></item>
+<item slot="7" original="Fold any laundry that needs to be put away." ></item>
+<item slot="8" original="Put away clean dishes." ></item>
+<item slot="9" original="Scoop cat litter box." ></item>
+<item slot="10" original="Take recyclable things from the pantry to the recycling area." ></item>
+</script><script id="71" source="2"><item slot="1" original="Get cleaning supplies." ></item>
+<item slot="2" original="Spray cleaner on walls." ></item>
+<item slot="3" original="Wipe walls with rag." ></item>
+<item slot="4" original="Get vacuum cleaner out." ></item>
+<item slot="5" original="Plug it in." ></item>
+<item slot="6" original="Turn it on." ></item>
+<item slot="7" original="Vacuum carpet." ></item>
+<item slot="8" original="Take trash out." ></item>
+<item slot="9" original="Put supplies away." ></item>
+</script><script id="73" source="2"><item slot="1" original="Clean cob webs" ></item>
+<item slot="2" original="Clean ceiling" ></item>
+<item slot="3" original="Clean fans" ></item>
+<item slot="4" original="Get a duster cloth" ></item>
+<item slot="5" original="Clean all the items" ></item>
+<item slot="6" original="Take a soft broom" ></item>
+<item slot="7" original="Broom the flat" ></item>
+<item slot="8" original="Keep the broom back" ></item>
+<item slot="9" original="Take a dust pan" ></item>
+<item slot="10" original="Collect the dust" ></item>
+<item slot="11" original="Put the dust in dust bin" ></item>
+<item slot="12" original="Keep the dust pan back" ></item>
+<item slot="13" original="Take a mop" ></item>
+<item slot="14" original="Dip the mop in diluted cleaning solution" ></item>
+<item slot="15" original="Mop the entire flat floor" ></item>
+</script><script id="74" source="2"><item slot="1" original="do the dusting" ></item>
+<item slot="2" original="sweep the floors" ></item>
+<item slot="3" original="vacuum the floor" ></item>
+<item slot="4" original="mop the floor" ></item>
+<item slot="5" original="spray the glass" ></item>
+<item slot="6" original="swipe all surfaces clean with a mop" ></item>
+</script><script id="75" source="2"><item slot="1" original="Put items in proper place" ></item>
+<item slot="2" original="Assemble cleaning supplies" ></item>
+<item slot="3" original="Clean non-tile floors" ></item>
+<item slot="4" original="Clean tile floors" ></item>
+<item slot="5" original="Clean kitchen sink" ></item>
+<item slot="6" original="Clean kitchen counters" ></item>
+<item slot="7" original="Dust other surfaces" ></item>
+<item slot="8" original="Sweep non-tile, non-carpeted floors" ></item>
+<item slot="9" original="Vacuum carpeted floors" ></item>
+<item slot="10" original="Clean bathroom tub and/or shower" ></item>
+<item slot="11" original="Clean bathroom toilet" ></item>
+<item slot="12" original="Clean bathroom sink" ></item>
+</script><script id="76" source="2"><item slot="1" original="Use a broom and duster to remove light dust" ></item>
+<item slot="2" original="Use a mop to clean the floors" ></item>
+<item slot="3" original="Clean the furniture and fans etc" ></item>
+<item slot="4" original="Wash and replace curtains" ></item>
+<item slot="5" original="Clean decorative items in the house" ></item>
+</script><script id="77" source="2"><item slot="1" original="Gather your supplies - mop, broom, duster, etc..." ></item>
+<item slot="2" original="Pick up all your dirty clothes" ></item>
+<item slot="3" original="Pick up everything from the floor" ></item>
+<item slot="4" original="Sweep the floors" ></item>
+<item slot="5" original="Vacuum the carpets" ></item>
+<item slot="6" original="Mop the floors" ></item>
+<item slot="7" original="Wash laundry" ></item>
+<item slot="8" original="Wash the dishes" ></item>
+<item slot="9" original="Make the beds" ></item>
+<item slot="10" original="Dust the furniture" ></item>
+</script><script id="78" source="2"><item slot="1" original="Take out the trash" ></item>
+<item slot="2" original="Open the windows" ></item>
+<item slot="3" original="Pick up items" ></item>
+<item slot="4" original="Bleach the kitchen" ></item>
+<item slot="5" original="Clean the bathroom" ></item>
+<item slot="6" original="Vacuum the carpets" ></item>
+<item slot="7" original="Sweep the floor" ></item>
+<item slot="8" original="Dust the shelves" ></item>
+<item slot="9" original="Change the bedsheets" ></item>
+<item slot="10" original="Put clothes in the washer" ></item>
+</script><script id="80" source="2"><item slot="1" original="Pick up and put away items that aren't where they should be." ></item>
+<item slot="2" original="Dust surfaces." ></item>
+<item slot="3" original="Vacuum carpet." ></item>
+<item slot="4" original="Sweep floors." ></item>
+<item slot="5" original="Clean sink, toilet, and tub in bathroom." ></item>
+<item slot="6" original="Clean counters and stove in kitchen." ></item>
+</script><script id="81" source="2"><item slot="1" original="Put on enjoyable music" ></item>
+<item slot="2" original="Gather cleaning tools" ></item>
+<item slot="3" original="Pick up things off the ground" ></item>
+<item slot="4" original="Throw away trash" ></item>
+<item slot="5" original="Dust" ></item>
+<item slot="6" original="Spray" ></item>
+<item slot="7" original="Wipe" ></item>
+<item slot="8" original="Drink water" ></item>
+<item slot="9" original="Repeat" ></item>
+</script><script id="82" source="2"><item slot="1" original="Pick up loose clothing and deposit into hamper" ></item>
+<item slot="2" original="Vacuum the carpeting" ></item>
+<item slot="3" original="Mop the tile floors" ></item>
+<item slot="4" original="Place dishes into dishwasher and start it" ></item>
+<item slot="5" original="Clean kitchen counters with cleaner and cloths" ></item>
+<item slot="6" original="Clean toilet" ></item>
+<item slot="7" original="Clean the tub and bathroom sink" ></item>
+<item slot="8" original="Wash the windows" ></item>
+<item slot="9" original="Dust the furniture and blinds" ></item>
+<item slot="10" original="Sit down" ></item>
+</script><script id="83" source="2"><item slot="1" original="Take out trash bag" ></item>
+<item slot="2" original="Pick up trash" ></item>
+<item slot="3" original="Tie trash bag off" ></item>
+<item slot="4" original="Put clothes on the couch" ></item>
+<item slot="5" original="Fold the clothes" ></item>
+<item slot="6" original="Put the clothes away" ></item>
+<item slot="7" original="Pick up odds and ends" ></item>
+<item slot="8" original="Put odds and ends on the shelves" ></item>
+<item slot="9" original="Take out the vacuum" ></item>
+<item slot="10" original="Vacuum the floor" ></item>
+<item slot="11" original="Put away the vacuum" ></item>
+<item slot="12" original="Take out the trash" ></item>
+</script><script id="84" source="2"><item slot="1" original="Gather up any free trash or waste and throw it into a bag" ></item>
+<item slot="2" original="Dust all furniture and spot check for stains and spots that need to be wiped up" ></item>
+<item slot="3" original="Vacuum the carpet if applicable" ></item>
+<item slot="4" original="Straighten and align any furniture or display items that are off center" ></item>
+<item slot="5" original="Wash any dishes and glassware or place them in the dishwasher." ></item>
+</script><script id="85" source="2"><item slot="1" original="Get trash bag" ></item>
+<item slot="2" original="Pick up all trash" ></item>
+<item slot="3" original="Get rag and dusting spray" ></item>
+<item slot="4" original="Clean/Dust all surfaces" ></item>
+<item slot="5" original="Get vacuum/broom" ></item>
+<item slot="6" original="Vacuum/sweep flat" ></item>
+</script><script id="86" source="2"><item slot="1" original="Ensure everything is in its proper place." ></item>
+<item slot="2" original="Vacuum all carpets thoroughly." ></item>
+<item slot="3" original="Sweep all floors thoroughly." ></item>
+<item slot="4" original="Run water with detergent into bucket." ></item>
+<item slot="5" original="Get mop." ></item>
+<item slot="6" original="Dip mop into bucket." ></item>
+<item slot="7" original="Ring mop out." ></item>
+<item slot="8" original="Mop floors." ></item>
+<item slot="9" original="Dip into bucket every few minutes." ></item>
+<item slot="10" original="Keep mopping all floors." ></item>
+<item slot="11" original="Spray air freshener in every room." ></item>
+</script><script id="88" source="2"><item slot="1" original="Get out cleaning supplies." ></item>
+<item slot="2" original="Get the broom and dustpan." ></item>
+<item slot="3" original="Sweep up the floor." ></item>
+<item slot="4" original="Throw away the dust." ></item>
+<item slot="5" original="Throw away trash." ></item>
+<item slot="6" original="Vacuum the carpet." ></item>
+<item slot="7" original="Dust the flat." ></item>
+<item slot="8" original="Put up cleaning supplies." ></item>
+</script><script id="89" source="2"><item slot="1" original="Put things away" ></item>
+<item slot="2" original="Vaccuum the floors" ></item>
+<item slot="3" original="Clean the kitchen counters,sink and appliances" ></item>
+<item slot="4" original="Clean the bathroom sink, toilet, tub and mirror" ></item>
+<item slot="5" original="Dust the furniture" ></item>
+<item slot="6" original="Clean the windows" ></item>
+</script><script id="92" source="2"><item slot="1" original="Buy cleaning products" ></item>
+<item slot="2" original="Put on some cloths that you don't mind messing up" ></item>
+<item slot="3" original="Clean the floor" ></item>
+<item slot="4" original="Clean the windows" ></item>
+<item slot="5" original="Make everything neat" ></item>
+</script><script id="94" source="2"><item slot="1" original="pick up items off the floor" ></item>
+<item slot="2" original="tidy up the rooms" ></item>
+<item slot="3" original="sweep all the rooms" ></item>
+<item slot="4" original="mop all the rooms" ></item>
+<item slot="5" original="remove dust from all services" ></item>
+<item slot="6" original="wash all dishes" ></item>
+</script><script id="95" source="2"><item slot="1" original="Pick up all trash and dispose" ></item>
+<item slot="2" original="Pick up all items lying loose on floor" ></item>
+<item slot="3" original="Vacuum all exposed areas of carpet" ></item>
+<item slot="4" original="Pick up and put away all loose items on tables/stands" ></item>
+<item slot="5" original="Dust tables and stands" ></item>
+<item slot="6" original="Tidy up any items out of place" ></item>
+<item slot="7" original="Make bed" ></item>
+<item slot="8" original="Wash any dirty dishes" ></item>
+<item slot="9" original="Enjoy cleaned flat!" ></item>
+</script><script id="97" source="2"><item slot="1" original="Enter dirty room." ></item>
+<item slot="2" original="Pick up misplaced objects." ></item>
+<item slot="3" original="Replace misplaced objects to correct place." ></item>
+<item slot="4" original="Dust areas." ></item>
+<item slot="5" original="Vacuum area." ></item>
+<item slot="6" original="Clean windows." ></item>
+<item slot="7" original="Repeat for next room." ></item>
+</script><script id="98" source="2"><item slot="1" original="Pick up things off the floor" ></item>
+<item slot="2" original="Get out vacuum cleaner" ></item>
+<item slot="3" original="Vacuum the floor and carpets" ></item>
+<item slot="4" original="Get out your dusting brush" ></item>
+<item slot="5" original="Brush dust off of surfaces" ></item>
+<item slot="6" original="Wash dirty dishes in kitchen sink" ></item>
+<item slot="7" original="Put clean dishes onto kitchen cabinets" ></item>
+<item slot="8" original="Put any dirty clothes in bedroom into hamper" ></item>
+<item slot="9" original="Take hamper to washing machine" ></item>
+<item slot="10" original="Put dirty clothes into washing machine to clean" ></item>
+<item slot="11" original="When done, hang up and put away clean clothes" ></item>
+<item slot="12" original="Bag up trash and take trash out" ></item>
+<item slot="13" original="Enjoy clean flat." ></item>
+</script><script id="99" source="2"><item slot="1" original="vacuum up the floor" ></item>
+<item slot="2" original="dust the cabinet tops, table tops, fans, other dusty areas" ></item>
+<item slot="3" original="sweep the hard floors" ></item>
+<item slot="4" original="mop the hard floors" ></item>
+<item slot="5" original="do laundry" ></item>
+<item slot="6" original="straighten up house" ></item>
+<item slot="7" original="clean up your fridge" ></item>
+<item slot="8" original="clean the bathroom" ></item>
+<item slot="9" original="wash your sheets" ></item>
+<item slot="10" original="make your bed" ></item>
+</script><script id="101" source="2"><item slot="1" original="Get garbage bags" ></item>
+<item slot="2" original="Pick up anything out of place and put it away" ></item>
+<item slot="3" original="Throw any garbage in the garbage bags" ></item>
+<item slot="4" original="When the floor is clean, get a vacuum" ></item>
+<item slot="5" original="Vacuum the floor" ></item>
+<item slot="6" original="Clean surfaces with a sponge" ></item>
+<item slot="7" original="Scrub sinks, toilets, shower" ></item>
+<item slot="8" original="Take garbage bags out" ></item>
+</script><script id="102" source="2"><item slot="1" original="Pick up any items that aren't where they belong." ></item>
+<item slot="2" original="Wash the dishes and put them away." ></item>
+<item slot="3" original="Vacuum the carpet." ></item>
+<item slot="4" original="Sweep the floor." ></item>
+<item slot="5" original="Dust places that need dusting." ></item>
+<item slot="6" original="Wipe the counters with cleaner and a wash cloth." ></item>
+</script><script id="103" source="2"><item slot="1" original="Scrub the toilet and bathtub in the bathroom" ></item>
+<item slot="2" original="Tidy up the bedroom by picking up your dirty clothes" ></item>
+<item slot="3" original="Vacuum the carpet" ></item>
+<item slot="4" original="Straighten the cushions on the couch" ></item>
+<item slot="5" original="Wash dirty cups and dishes" ></item>
+<item slot="6" original="Take out the trash" ></item>
+</script><script id="104" source="2"><item slot="1" original="Assess where things need to go." ></item>
+<item slot="2" original="Separate everything into sections." ></item>
+<item slot="3" original="Put stuff into container and/or their proper storage areas." ></item>
+<item slot="4" original="Wipe down hard surfaces." ></item>
+<item slot="5" original="Restock toilet paper and paper towels." ></item>
+<item slot="6" original="Clean flooring." ></item>
+<item slot="7" original="Clean any visible glass." ></item>
+<item slot="8" original="Light a candle." ></item>
+</script><script id="105" source="2"><item slot="1" original="get or buy cleaning material from a store" ></item>
+<item slot="2" original="put on gloves and mop the floor of the flat" ></item>
+<item slot="3" original="pick up the trash and throw it away" ></item>
+<item slot="4" original="vacuum the carpet" ></item>
+<item slot="5" original="do laundry" ></item>
+<item slot="6" original="clean the bathroom and the bathtub with commercial cleanser" ></item>
+<item slot="7" original="put things in their proper place" ></item>
+</script><script id="106" source="2"><item slot="1" original="Acknowledge the mess." ></item>
+<item slot="2" original="Gather up items that are laying around." ></item>
+<item slot="3" original="Put items that are not trash where they need to be." ></item>
+<item slot="4" original="Grab trash bags and place trash inside." ></item>
+<item slot="5" original="Grab a broom to sweep the floor." ></item>
+<item slot="6" original="Grab the vacuum from the closet. Plug it in." ></item>
+<item slot="7" original="Vacuum the carpet." ></item>
+<item slot="8" original="Tidy up the shelves and coffee table." ></item>
+<item slot="9" original="Take out the trash." ></item>
+<item slot="10" original="Relax." ></item>
+</script><script id="107" source="2"><item slot="1" original="Put away random items in their correct spot" ></item>
+<item slot="2" original="Vacuum or sweep and mop the floors" ></item>
+<item slot="3" original="Clean the kitchen by sanitizing appliances and doing the dishes" ></item>
+<item slot="4" original="Clean the bathroom by sanitizing counters and the tub" ></item>
+<item slot="5" original="Dust surfaces in the living room and bedroom" ></item>
+</script><script id="109" source="2"><item slot="1" original="Pick up items from the floor." ></item>
+<item slot="2" original="Sort items that constitute laundry from other items" ></item>
+<item slot="3" original="Start laundry" ></item>
+<item slot="4" original="Sort items that constitute trash from other items" ></item>
+<item slot="5" original="Throw away trash" ></item>
+<item slot="6" original="Place other items back in their proper spots" ></item>
+<item slot="7" original="Dust, starting high up and working down" ></item>
+<item slot="8" original="Wipe down heavily used items and surfaces with cleaning product and rag" ></item>
+<item slot="9" original="Sweep" ></item>
+<item slot="10" original="Vacuum" ></item>
+<item slot="11" original="Mop" ></item>
+<item slot="12" original="Switch laundry" ></item>
+<item slot="13" original="Light scented candle" ></item>
+<item slot="14" original="Order take out" ></item>
+<item slot="15" original="Throw out all trash" ></item>
+</script><script id="110" source="2"><item slot="1" original="Pick up stray items" ></item>
+<item slot="2" original="Collect trash" ></item>
+<item slot="3" original="Tidy furniture" ></item>
+<item slot="4" original="Vacuum floor" ></item>
+<item slot="5" original="Clean counters" ></item>
+<item slot="6" original="Dust tables" ></item>
+<item slot="7" original="Organize furniture" ></item>
+<item slot="8" original="Dispose of trash" ></item>
+</script><script id="112" source="2"><item slot="1" original="Obtain cleaning supplies." ></item>
+<item slot="2" original="Pick up all clothing and place it in the hamper." ></item>
+<item slot="3" original="Pick up all garbage into a trash bag." ></item>
+<item slot="4" original="Tidy up any other belongings and return them to their proper place." ></item>
+<item slot="5" original="Wipe any surfaces with cleaning cloths." ></item>
+<item slot="6" original="Vaccuum or sweep the floors." ></item>
+<item slot="7" original="Clean any dishes in the sink." ></item>
+<item slot="8" original="Scrub the toilet and shower." ></item>
+<item slot="9" original="Put cleaning supplies away." ></item>
+</script><script id="113" source="2"><item slot="1" original="Pick up any trash." ></item>
+<item slot="2" original="Empty trash." ></item>
+<item slot="3" original="Sweep." ></item>
+<item slot="4" original="Vacuum." ></item>
+<item slot="5" original="Clean any surfaces such as stove and tables." ></item>
+<item slot="6" original="Wash dishes." ></item>
+<item slot="7" original="Change towels." ></item>
+</script><script id="114" source="2"><item slot="1" original="Get out cleaning products" ></item>
+<item slot="2" original="pick up items laying the floor" ></item>
+<item slot="3" original="Straighten things up on shelves/dressers" ></item>
+<item slot="4" original="Vacuum/sweep" ></item>
+<item slot="5" original="Dust" ></item>
+<item slot="6" original="clean windows" ></item>
+<item slot="7" original="Do laundry" ></item>
+<item slot="8" original="do dishes" ></item>
+<item slot="9" original="clean counters" ></item>
+<item slot="10" original="Put away products" ></item>
+</script><script id="116" source="2"><item slot="1" original="Put dirty dishes in sink" ></item>
+<item slot="2" original="Put dirty clothes in hamper" ></item>
+<item slot="3" original="Put all mail and papers away" ></item>
+<item slot="4" original="Make bed" ></item>
+<item slot="5" original="Do dishes" ></item>
+<item slot="6" original="Clean kitchen" ></item>
+<item slot="7" original="Dust" ></item>
+<item slot="8" original="Vacuum" ></item>
+<item slot="9" original="Take trash out" ></item>
+<item slot="10" original="Put load in washer" ></item>
+</script></scripts>

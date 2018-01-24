@@ -1,0 +1,986 @@
+<scripts><script id="0" source="2"><item slot="1" original="Drive car to gas station" ></item>
+<item slot="2" original="Pull into gas lane" ></item>
+<item slot="3" original="Get out of car" ></item>
+<item slot="4" original="Pay for gas at pump" ></item>
+<item slot="5" original="Remove gas cap" ></item>
+<item slot="6" original="Put gas nozzle into car" ></item>
+<item slot="7" original="Push gas choice on pump" ></item>
+<item slot="8" original="Pull lever on nozzle" ></item>
+<item slot="9" original="Fuel into car until nozzle click" ></item>
+<item slot="10" original="Remove nozzle from car" ></item>
+<item slot="11" original="Put nozzle back into pump" ></item>
+<item slot="12" original="Put gas cap back on" ></item>
+<item slot="13" original="Get back in car" ></item>
+<item slot="14" original="Drive away" ></item>
+</script><script id="1" source="2"><item slot="1" original="Park car in front of a fueling station" ></item>
+<item slot="2" original="Pay for fuel" ></item>
+<item slot="3" original="Select quality of fuel" ></item>
+<item slot="4" original="Insert fuel pump into the gas tank of your car" ></item>
+<item slot="5" original="Pull lever to begin fueling your car" ></item>
+<item slot="6" original="When finished pull fuel pump lever again to stop fueling" ></item>
+<item slot="7" original="Place fuel pump back on the fueling station" ></item>
+</script><script id="2" source="2"><item slot="1" original="Go to the gas station" ></item>
+<item slot="2" original="Park by the pump" ></item>
+<item slot="3" original="Open up your gas tank" ></item>
+<item slot="4" original="Scan card in machine" ></item>
+<item slot="5" original="Select credit" ></item>
+<item slot="6" original="Select fuel type" ></item>
+<item slot="7" original="Put nozzle in gas tank" ></item>
+<item slot="8" original="Hold down until tank is full" ></item>
+<item slot="9" original="Remove nozzle" ></item>
+<item slot="10" original="Put back in machine" ></item>
+<item slot="11" original="Close gas tank" ></item>
+<item slot="12" original="Get in car and go home" ></item>
+</script><script id="3" source="2"><item slot="1" original="Locate a fueling station." ></item>
+<item slot="2" original="Drive up to a pump on the same side as gas tank." ></item>
+<item slot="3" original="Remove gas cap on car." ></item>
+<item slot="4" original="Select which fuel to use." ></item>
+<item slot="5" original="Remove fuel nozzle from fuel station gas tank" ></item>
+<item slot="6" original="Place fuel nozzle into gas tank on car." ></item>
+<item slot="7" original="Start the pump." ></item>
+<item slot="8" original="Allow fuel to dispense till it auto stops" ></item>
+<item slot="9" original="Replace fuel nozzle to gas pump." ></item>
+<item slot="10" original="Replace the cap on car fuel tank." ></item>
+<item slot="11" original="Go inside fuel station to pay clerk for fuel." ></item>
+</script><script id="4" source="2"><item slot="1" original="pulling into a gas station" ></item>
+<item slot="2" original="getting out of car" ></item>
+<item slot="3" original="opening gas tank" ></item>
+<item slot="4" original="swiping credit card at pump" ></item>
+<item slot="5" original="putting pump into gas tank" ></item>
+<item slot="6" original="holding trigger to pump gas" ></item>
+<item slot="7" original="pump gas" ></item>
+<item slot="8" original="put gas trigger back" ></item>
+<item slot="9" original="close gas tank" ></item>
+</script><script id="5" source="2"><item slot="1" original="Go to gas station" ></item>
+<item slot="2" original="Pop open gas cap" ></item>
+<item slot="3" original="Put money in gas pump" ></item>
+<item slot="4" original="Pay for gas" ></item>
+<item slot="5" original="Grab pump" ></item>
+<item slot="6" original="Put pump into car" ></item>
+<item slot="7" original="Add gas to the vehicle" ></item>
+<item slot="8" original="Hang up the pump when finished" ></item>
+<item slot="9" original="Close gas cap" ></item>
+</script><script id="6" source="2"><item slot="1" original="Go to a filling station" ></item>
+<item slot="2" original="Park the car next to the pump" ></item>
+<item slot="3" original="Switch off the ignition" ></item>
+<item slot="4" original="Press the fuel cap button to open the fuel cap" ></item>
+<item slot="5" original="Tell the attendant to fill gas as much as desired" ></item>
+<item slot="6" original="Take out money" ></item>
+<item slot="7" original="Give the money to the attendant" ></item>
+<item slot="8" original="Take change if any" ></item>
+<item slot="9" original="Start the car" ></item>
+</script><script id="11" source="2"><item slot="1" original="Buy the fuel" ></item>
+<item slot="2" original="Get near to the car" ></item>
+<item slot="3" original="Open the fuel tank" ></item>
+<item slot="4" original="Pour the fuel into tank" ></item>
+<item slot="5" original="Close the fuel tank" ></item>
+</script><script id="12" source="2"><item slot="1" original="Go to a gas station." ></item>
+<item slot="2" original="Pull up to a pump with the gas tank on the side closest to pump." ></item>
+<item slot="3" original="Open gas tank." ></item>
+<item slot="4" original="Put nozzle in gas tank." ></item>
+<item slot="5" original="Depress handle on nozzle." ></item>
+<item slot="6" original="Keep filling to tank is full." ></item>
+<item slot="7" original="Pay for gas." ></item>
+</script><script id="13" source="2"><item slot="1" original="Drive to gas station" ></item>
+<item slot="2" original="Park in front of gas pump" ></item>
+<item slot="3" original="Get out of car" ></item>
+<item slot="4" original="Go in station" ></item>
+<item slot="5" original="Pay cashier for gas" ></item>
+<item slot="6" original="Go to car" ></item>
+<item slot="7" original="Pick up pump" ></item>
+<item slot="8" original="Put in gas tank" ></item>
+<item slot="9" original="Pump gas" ></item>
+<item slot="10" original="Take out pump" ></item>
+<item slot="11" original="Close gas tank" ></item>
+<item slot="12" original="Get in car" ></item>
+<item slot="13" original="Drive away" ></item>
+</script><script id="14" source="2"><item slot="1" original="Drive to gas station" ></item>
+<item slot="2" original="Park near gas pump" ></item>
+<item slot="3" original="Walk inside and pay attendant" ></item>
+<item slot="4" original="Walk back to car" ></item>
+<item slot="5" original="Open car's gas plug" ></item>
+<item slot="6" original="Put pump nozzle in plug" ></item>
+<item slot="7" original="Fill car with gas" ></item>
+<item slot="8" original="Replace pump nozzle" ></item>
+</script><script id="15" source="2"><item slot="1" original="Drive to gas station" ></item>
+<item slot="2" original="Set up pump digitally" ></item>
+<item slot="3" original="Open fuel hole" ></item>
+<item slot="4" original="Attach pump to fuel hole" ></item>
+<item slot="5" original="Press trigger to transfer gas" ></item>
+<item slot="6" original="Place nozzle back on base" ></item>
+<item slot="7" original="Replace top and close" ></item>
+<item slot="8" original="Drive car" ></item>
+</script><script id="16" source="2"><item slot="1" original="drive to gas station" ></item>
+<item slot="2" original="park in front of gas pump" ></item>
+<item slot="3" original="get out of car" ></item>
+<item slot="4" original="open tank cover on car" ></item>
+<item slot="5" original="remove nozzle from pump and place in tank" ></item>
+<item slot="6" original="pump gas" ></item>
+<item slot="7" original="when full remove nozzle and replace on pump" ></item>
+<item slot="8" original="pay for gas" ></item>
+<item slot="9" original="get in car and drive away" ></item>
+</script><script id="17" source="2"><item slot="1" original="Drive car to gas station." ></item>
+<item slot="2" original="Park next to pump on same side as gas tank door." ></item>
+<item slot="3" original="Turn off engine." ></item>
+<item slot="4" original="Slide credit card in pump machine and choose payment options." ></item>
+<item slot="5" original="Select grade of fuel you desire." ></item>
+<item slot="6" original="Open gas tank door." ></item>
+<item slot="7" original="Insert gas hose into tank." ></item>
+<item slot="8" original="Pump gas until full or to desired cost point." ></item>
+<item slot="9" original="Remove nozzle." ></item>
+<item slot="10" original="Close tank door." ></item>
+<item slot="11" original="Get receipt." ></item>
+<item slot="12" original="Drive away." ></item>
+</script><script id="18" source="2"><item slot="1" original="Drive car to gas station" ></item>
+<item slot="2" original="Park car at a gas pump" ></item>
+<item slot="3" original="Go into gas station and pay for gas" ></item>
+<item slot="4" original="Go back to car and open gas tank door" ></item>
+<item slot="5" original="Remove gas cap" ></item>
+<item slot="6" original="Lift handle on gas pump" ></item>
+<item slot="7" original="Select type of fuel preferred" ></item>
+<item slot="8" original="Insert nozzle into gas tank on car" ></item>
+<item slot="9" original="Begin pumping" ></item>
+<item slot="10" original="Stop pumping and remove nozzle when completed" ></item>
+<item slot="11" original="Hang nozzle on gas pump" ></item>
+<item slot="12" original="Put gas cap back on" ></item>
+<item slot="13" original="Close tank door" ></item>
+<item slot="14" original="Get in car" ></item>
+<item slot="15" original="Leave gas station" ></item>
+</script><script id="19" source="2"><item slot="1" original="Park car next to gas pump." ></item>
+<item slot="2" original="Open gas tank." ></item>
+<item slot="3" original="Insert credit/debit card into pump or go inside store to purchase fuel." ></item>
+<item slot="4" original="Select type of fuel." ></item>
+<item slot="5" original="Insert nozzle into gas tank." ></item>
+<item slot="6" original="Pull lever on nozzle to pump gas." ></item>
+<item slot="7" original="Fill tank." ></item>
+<item slot="8" original="Return nozzle to original location." ></item>
+<item slot="9" original="Close gas tank." ></item>
+<item slot="10" original="Leave gas station." ></item>
+</script><script id="20" source="2"><item slot="1" original="Drive to gas station" ></item>
+<item slot="2" original="Pull up next to pump" ></item>
+<item slot="3" original="Get out" ></item>
+<item slot="4" original="Take gas cap off" ></item>
+<item slot="5" original="Pull out pump" ></item>
+<item slot="6" original="Select grade" ></item>
+<item slot="7" original="Swipe credit card" ></item>
+<item slot="8" original="Insert nozzle into gas tank" ></item>
+<item slot="9" original="Pump desired amount" ></item>
+<item slot="10" original="Remove nozzle" ></item>
+<item slot="11" original="Replace" ></item>
+<item slot="12" original="Put cap back on tank" ></item>
+<item slot="13" original="Take receipt" ></item>
+</script><script id="21" source="2"><item slot="1" original="Park next to the gas pump." ></item>
+<item slot="2" original="Pay the attendant." ></item>
+<item slot="3" original="Pick up the gas nozzle." ></item>
+<item slot="4" original="Flip the lever." ></item>
+<item slot="5" original="Insert nozzle into fuel tank opening." ></item>
+<item slot="6" original="Squeeze the lever on the nozzle." ></item>
+<item slot="7" original="Pump the amount of gas you need." ></item>
+<item slot="8" original="Replace the nozzle." ></item>
+</script><script id="22" source="2"><item slot="1" original="Know which side of the car your gas cap is located" ></item>
+<item slot="2" original="Pull up to the pump on the same side as gas cap" ></item>
+<item slot="3" original="Open gas cap" ></item>
+<item slot="4" original="Select payment option" ></item>
+<item slot="5" original="Follow payment directions on screen" ></item>
+<item slot="6" original="Select which grade of gasoline you need" ></item>
+<item slot="7" original="Remove nozzle from pump" ></item>
+<item slot="8" original="Place end of nozzle into hole under where the gas cap was" ></item>
+<item slot="9" original="Squeeze lever under the handle of the nozzle" ></item>
+<item slot="10" original="Allow gas to flow into tank" ></item>
+<item slot="11" original="When full stop squeezing handle" ></item>
+<item slot="12" original="Replace nozzle back into pump rest" ></item>
+<item slot="13" original="Replace gas cap" ></item>
+</script><script id="24" source="2"><item slot="1" original="Drive the car to the gas station" ></item>
+<item slot="2" original="Remove the car's fuel cover" ></item>
+<item slot="3" original="Pay for the gas" ></item>
+<item slot="4" original="Take out the nozzle out from the pump" ></item>
+<item slot="5" original="Place the nozzle inside the car's tank" ></item>
+<item slot="6" original="Fuel up the car" ></item>
+</script><script id="25" source="2"><item slot="1" original="Pull into a gas station, positioning the vehicle's fuel tank next to the pump" ></item>
+<item slot="2" original="Open car's fuel tank by twisting open the cap" ></item>
+<item slot="3" original="Swipe your credit card on the automated machine or prepay inside station" ></item>
+<item slot="4" original="Pull the gas nozzle from its dock" ></item>
+<item slot="5" original="Select your grade of fuel either by pushing button or lifting lever" ></item>
+<item slot="6" original="Push the nozzle into the car's fuel tank" ></item>
+<item slot="7" original="Squeeze the trigger lever on the gas nozzle" ></item>
+<item slot="8" original="When you have put in as much gas as you want, release trigger." ></item>
+<item slot="9" original="Return nozzle to its dock." ></item>
+<item slot="10" original="Close fuel tank cap tightly" ></item>
+<item slot="11" original="Drive away" ></item>
+</script><script id="26" source="2"><item slot="1" original="Drive up to gas station pump" ></item>
+<item slot="2" original="Exit car" ></item>
+<item slot="3" original="Swipe credit or debit card at pump" ></item>
+<item slot="4" original="Open nozzle of car" ></item>
+<item slot="5" original="Insert pump and hold trigger" ></item>
+<item slot="6" original="Remove pump at desired level" ></item>
+<item slot="7" original="Close nozzle and return pump" ></item>
+</script><script id="27" source="2"><item slot="1" original="Drive to the gas station." ></item>
+<item slot="2" original="Pay for the gas." ></item>
+<item slot="3" original="Remove the gas cap." ></item>
+<item slot="4" original="Insert the nozzle into the car." ></item>
+<item slot="5" original="Pull the lever to start the gas flowing." ></item>
+<item slot="6" original="Hold the lever until the tank is filled." ></item>
+</script><script id="28" source="2"><item slot="1" original="Find gas station" ></item>
+<item slot="2" original="Stop the car" ></item>
+<item slot="3" original="Fuel the car" ></item>
+<item slot="4" original="Watch the counter" ></item>
+<item slot="5" original="Pay the bill" ></item>
+<item slot="6" original="Leave with car" ></item>
+</script><script id="29" source="2"><item slot="1" original="find a gas station" ></item>
+<item slot="2" original="pull in" ></item>
+<item slot="3" original="pay for gas either inside at the counter or on a kiosk" ></item>
+<item slot="4" original="choose grade for fuel" ></item>
+<item slot="5" original="put fuel pump in gas tank" ></item>
+<item slot="6" original="pump gas until full" ></item>
+<item slot="7" original="replace fuel pump" ></item>
+<item slot="8" original="get receipt." ></item>
+</script><script id="30" source="2"><item slot="1" original="Pull into gas station." ></item>
+<item slot="2" original="Get out of car." ></item>
+<item slot="3" original="Take cap off of fuel tank." ></item>
+<item slot="4" original="Take nozzle out of fuel pump." ></item>
+<item slot="5" original="Choose type of gas." ></item>
+<item slot="6" original="Put pump into fuel tank." ></item>
+<item slot="7" original="Push lever down until tank is full." ></item>
+<item slot="8" original="Run credit card through machine to pay for gas." ></item>
+<item slot="9" original="Put cap back on fuel tank." ></item>
+<item slot="10" original="Leave gas station." ></item>
+</script><script id="31" source="2"><item slot="1" original="Find a gas station." ></item>
+<item slot="2" original="Pull up to the gas pump." ></item>
+<item slot="3" original="Pay by credit card at pump or go inside to pay before pumping." ></item>
+<item slot="4" original="Pump gas." ></item>
+<item slot="5" original="Get receipt." ></item>
+<item slot="6" original="Close gas tank door." ></item>
+<item slot="7" original="Leave gas station." ></item>
+</script><script id="32" source="2"><item slot="1" original="Drive to gas station" ></item>
+<item slot="2" original="Stop at gas pump" ></item>
+<item slot="3" original="Turn car off" ></item>
+<item slot="4" original="Get out of car" ></item>
+<item slot="5" original="Pay for gas at the pump with credit card or debit card" ></item>
+<item slot="6" original="Open gas cap" ></item>
+<item slot="7" original="Place end of fuel nozzle into gas tank" ></item>
+<item slot="8" original="Squeeze handle until it stops" ></item>
+<item slot="9" original="Replace fuel nozzle" ></item>
+<item slot="10" original="Replace gas cap" ></item>
+<item slot="11" original="Take receipt" ></item>
+<item slot="12" original="Get in car" ></item>
+<item slot="13" original="Start car" ></item>
+<item slot="14" original="Leave gas station" ></item>
+</script><script id="33" source="2"><item slot="1" original="Park at pump" ></item>
+<item slot="2" original="Open gas cap" ></item>
+<item slot="3" original="Select gas option" ></item>
+<item slot="4" original="Select pay inside/pay at pump" ></item>
+<item slot="5" original="Remove handle" ></item>
+<item slot="6" original="Put handle in gas area" ></item>
+<item slot="7" original="Push handle" ></item>
+<item slot="8" original="Pump until gas stops or at price you want" ></item>
+<item slot="9" original="Remove handle" ></item>
+<item slot="10" original="Place back in holder" ></item>
+<item slot="11" original="Put gas cap on and close door of gas" ></item>
+<item slot="12" original="Pay inside or get receipt" ></item>
+</script><script id="34" source="2"><item slot="1" original="Drive to gas station" ></item>
+<item slot="2" original="Park car next to gas pump" ></item>
+<item slot="3" original="Turn off car" ></item>
+<item slot="4" original="Open gas cap lid" ></item>
+<item slot="5" original="Insert credit card into pump station" ></item>
+<item slot="6" original="Choose correct gas grade" ></item>
+<item slot="7" original="Insert gas pump into car" ></item>
+</script><script id="35" source="2"><item slot="1" original="Drive car to gas station." ></item>
+<item slot="2" original="Park the car with the gas pump close to the gas cap." ></item>
+<item slot="3" original="Go inside and pay the cashier desired amount." ></item>
+<item slot="4" original="Go back to car." ></item>
+<item slot="5" original="Open the pump door gas cap on side of car." ></item>
+<item slot="6" original="Put the pump in the hole." ></item>
+<item slot="7" original="Pump gas until you have pumped the amount you paid for." ></item>
+<item slot="8" original="Remove the pump from the car." ></item>
+<item slot="9" original="Place pump back on the holder." ></item>
+<item slot="10" original="Close the gas cap and pump door." ></item>
+<item slot="11" original="Get back in car." ></item>
+<item slot="12" original="Drive away." ></item>
+</script><script id="36" source="2"><item slot="1" original="Drive a car to the gas station." ></item>
+<item slot="2" original="Put the credit card in." ></item>
+<item slot="3" original="Take off the oil nozzle." ></item>
+<item slot="4" original="Put the nozzle into the car." ></item>
+<item slot="5" original="Wait till it stops." ></item>
+<item slot="6" original="Take the nozzle off." ></item>
+<item slot="7" original="Put the nozzle back." ></item>
+<item slot="8" original="Take the receipt." ></item>
+<item slot="9" original="Drive away." ></item>
+</script><script id="37" source="2"><item slot="1" original="park car carefully next to fuel pump" ></item>
+<item slot="2" original="open fuel door" ></item>
+<item slot="3" original="remove fuel cap" ></item>
+<item slot="4" original="insert credit/debit card into pump machine" ></item>
+<item slot="5" original="select appropriate options including fuel octane rating" ></item>
+<item slot="6" original="remove pump nozzle from pump machine and place in car's fuel tank" ></item>
+<item slot="7" original="squeeze pump nozzle until it clicks off" ></item>
+<item slot="8" original="remove pump nozzle from car, returning it to pump machine" ></item>
+<item slot="9" original="replace fuel cap" ></item>
+<item slot="10" original="close fuel door" ></item>
+<item slot="11" original="answer if you'd like receipt" ></item>
+</script><script id="38" source="2"><item slot="1" original="Check gas gauge." ></item>
+<item slot="2" original="If low then go to gas station." ></item>
+<item slot="3" original="Park in front of pump." ></item>
+<item slot="4" original="Turn off car." ></item>
+<item slot="5" original="Prepay at pump or in store." ></item>
+<item slot="6" original="Open gas tank door on car." ></item>
+<item slot="7" original="Activate pump." ></item>
+<item slot="8" original="Fill car until full." ></item>
+<item slot="9" original="Replace pump nozzle." ></item>
+<item slot="10" original="Get receipt." ></item>
+<item slot="11" original="Drive away." ></item>
+</script><script id="39" source="2"><item slot="1" original="Drive to a gas station" ></item>
+<item slot="2" original="Turn off car and get out" ></item>
+<item slot="3" original="Put payment in the gas pump" ></item>
+<item slot="4" original="Open gas door on car" ></item>
+<item slot="5" original="Lift handle from pump and put gas in car" ></item>
+<item slot="6" original="Return handle to the pump" ></item>
+<item slot="7" original="Close gas door on the car" ></item>
+<item slot="8" original="Get receipt" ></item>
+</script><script id="40" source="2"><item slot="1" original="Pull into gas station" ></item>
+<item slot="2" original="Turn off car" ></item>
+<item slot="3" original="Pull lever to open gas tank" ></item>
+<item slot="4" original="Get out of car" ></item>
+<item slot="5" original="Input payment information" ></item>
+<item slot="6" original="Choose type of fuel" ></item>
+<item slot="7" original="Insert nozzle into gas tank" ></item>
+<item slot="8" original="Begin fueling" ></item>
+<item slot="9" original="Wait for gas tank to fill" ></item>
+<item slot="10" original="Replace nozzle" ></item>
+<item slot="11" original="Get receipt" ></item>
+<item slot="12" original="Get back into car" ></item>
+<item slot="13" original="Leave gas station" ></item>
+</script><script id="41" source="2"><item slot="1" original="Pull into gas station." ></item>
+<item slot="2" original="Unscrew tank cap." ></item>
+<item slot="3" original="Swipe credit card." ></item>
+<item slot="4" original="Choose fuel type." ></item>
+<item slot="5" original="Unhang fuel nozzle." ></item>
+<item slot="6" original="Place nozzle in tank opening." ></item>
+</script><script id="42" source="2"><item slot="1" original="Get my keys" ></item>
+<item slot="2" original="Go to the car" ></item>
+<item slot="3" original="Turn the car on" ></item>
+<item slot="4" original="Drive to the gas station" ></item>
+<item slot="5" original="Get out of the car" ></item>
+<item slot="6" original="Pay for gas" ></item>
+<item slot="7" original="Pump gas" ></item>
+<item slot="8" original="Get back in" ></item>
+<item slot="9" original="Leave" ></item>
+</script><script id="43" source="2"><item slot="1" original="Drive to gas station." ></item>
+<item slot="2" original="Take off gas cap" ></item>
+<item slot="3" original="Select grade of gas" ></item>
+<item slot="4" original="Put nozzle in tank." ></item>
+<item slot="5" original="Pull trigger." ></item>
+<item slot="6" original="When full, release trigger." ></item>
+<item slot="7" original="Replace gas cap." ></item>
+<item slot="8" original="Pay for gas." ></item>
+</script><script id="44" source="2"><item slot="1" original="Pull into gas station" ></item>
+<item slot="2" original="Pick pump and pull up" ></item>
+<item slot="3" original="Hit gas tank cover release button" ></item>
+<item slot="4" original="Swipe card at pump to pay" ></item>
+<item slot="5" original="Unscrew tank cap" ></item>
+<item slot="6" original="Stick pump nozzle in tank and fill" ></item>
+<item slot="7" original="Place pump nozzle back on pump" ></item>
+<item slot="8" original="Screw tank cap back on" ></item>
+<item slot="9" original="Close tank cap cover" ></item>
+<item slot="10" original="Get in car" ></item>
+<item slot="11" original="Start car" ></item>
+<item slot="12" original="Drive away" ></item>
+</script><script id="45" source="2"><item slot="1" original="Drive car to gas station" ></item>
+<item slot="2" original="Pull up next to pump" ></item>
+<item slot="3" original="Open gas tank cover" ></item>
+<item slot="4" original="Ask attendant for the amount of gas you want" ></item>
+<item slot="5" original="Hand over credit card" ></item>
+<item slot="6" original="Once credit card is swiped, take back credit card" ></item>
+<item slot="7" original="Wait for fueling to end" ></item>
+<item slot="8" original="Collect receipt" ></item>
+<item slot="9" original="Drive out of gas station" ></item>
+</script><script id="46" source="2"><item slot="1" original="step out of car" ></item>
+<item slot="2" original="pay for gas" ></item>
+<item slot="3" original="open gas tank" ></item>
+<item slot="4" original="insert gas nozzle" ></item>
+<item slot="5" original="pump gas" ></item>
+</script><script id="47" source="2"><item slot="1" original="Go to gas station" ></item>
+<item slot="2" original="Pull up to pump" ></item>
+<item slot="3" original="Pay for gas" ></item>
+<item slot="4" original="Open up gas cap" ></item>
+<item slot="5" original="Remove pump" ></item>
+<item slot="6" original="Pump gas" ></item>
+</script><script id="48" source="2"><item slot="1" original="Pull into gas station" ></item>
+<item slot="2" original="Put bank card into machine" ></item>
+<item slot="3" original="Insert pump into car" ></item>
+<item slot="4" original="Pump fuel" ></item>
+<item slot="5" original="Wait till pump stops" ></item>
+<item slot="6" original="Get receipt" ></item>
+<item slot="7" original="Get into car" ></item>
+<item slot="8" original="Leave gas station" ></item>
+</script><script id="49" source="2"><item slot="1" original="go to the fuel station" ></item>
+<item slot="2" original="stop the car" ></item>
+<item slot="3" original="get out of the car" ></item>
+<item slot="4" original="attach fuel pipe to car" ></item>
+<item slot="5" original="start the fuel" ></item>
+<item slot="6" original="deposit money" ></item>
+<item slot="7" original="take out the fuel pipe" ></item>
+<item slot="8" original="drive away" ></item>
+</script><script id="50" source="2"><item slot="1" original="Drive your car to a gas station" ></item>
+<item slot="2" original="Open up the gas hatch" ></item>
+<item slot="3" original="Select an octane level of gas you want" ></item>
+<item slot="4" original="Swipe your credit card" ></item>
+<item slot="5" original="Fill your car until the pump stops automatically" ></item>
+<item slot="6" original="Return the hose and drive away" ></item>
+</script><script id="51" source="2"><item slot="1" original="Get dressed to go to service station" ></item>
+<item slot="2" original="get in car to drive to service station" ></item>
+<item slot="3" original="drive to service station and park at fuel pump" ></item>
+<item slot="4" original="get out your ATM card and insert into card holder" ></item>
+<item slot="5" original="pay for fuel" ></item>
+<item slot="6" original="start pumping the fuel" ></item>
+<item slot="7" original="after pumping for fuel get back into car and drive off" ></item>
+</script><script id="52" source="2"><item slot="1" original="pull up to pump" ></item>
+<item slot="2" original="open gas tank" ></item>
+<item slot="3" original="remove gas cap" ></item>
+<item slot="4" original="choose octane" ></item>
+<item slot="5" original="put pump in car" ></item>
+<item slot="6" original="fill tank" ></item>
+<item slot="7" original="close gas cap" ></item>
+<item slot="8" original="pay with credit card" ></item>
+<item slot="9" original="get receipt" ></item>
+<item slot="10" original="return to car" ></item>
+</script><script id="53" source="2"><item slot="1" original="Drive to gas station" ></item>
+<item slot="2" original="Pay for gas" ></item>
+<item slot="3" original="Choose option that I want" ></item>
+<item slot="4" original="Open gas lid on car" ></item>
+<item slot="5" original="Place tube into hole" ></item>
+<item slot="6" original="Wait for gas to finish pumping" ></item>
+<item slot="7" original="Take out the tube" ></item>
+<item slot="8" original="Close the gas lid" ></item>
+</script><script id="54" source="2"><item slot="1" original="Find a gas station" ></item>
+<item slot="2" original="Pull up to the gas pump" ></item>
+<item slot="3" original="Pull the level to release the gas door" ></item>
+<item slot="4" original="Get out of the car" ></item>
+<item slot="5" original="Take the gas cap off" ></item>
+<item slot="6" original="Insert the gas nozzle" ></item>
+<item slot="7" original="Slide the credit card" ></item>
+<item slot="8" original="Select fuel type" ></item>
+<item slot="9" original="Begin pumping gas" ></item>
+</script><script id="55" source="2"><item slot="1" original="Go to gas station" ></item>
+<item slot="2" original="Take out gas cartridge" ></item>
+<item slot="3" original="Put fuel in gas" ></item>
+<item slot="4" original="pay for gas" ></item>
+<item slot="5" original="Leave" ></item>
+</script><script id="56" source="2"><item slot="1" original="Drive to the gas station" ></item>
+<item slot="2" original="Pull up to the pump" ></item>
+<item slot="3" original="Get out of your vehicle" ></item>
+<item slot="4" original="Insert credit card into the pump" ></item>
+<item slot="5" original="Take the cap of of gas tank" ></item>
+<item slot="6" original="Insert nozzle in the tank" ></item>
+<item slot="7" original="Press the lever" ></item>
+<item slot="8" original="Fill the tank" ></item>
+<item slot="9" original="Remove the nozzle" ></item>
+<item slot="10" original="Put gas cap on" ></item>
+<item slot="11" original="Get receipt from the pump" ></item>
+</script><script id="57" source="2"><item slot="1" original="pull up to the gas pump" ></item>
+<item slot="2" original="put your card in to pay" ></item>
+<item slot="3" original="pick your fuel type" ></item>
+<item slot="4" original="open your gas cap" ></item>
+<item slot="5" original="pump gas" ></item>
+<item slot="6" original="replace nozzle" ></item>
+<item slot="7" original="close gas cap" ></item>
+<item slot="8" original="get receipt" ></item>
+<item slot="9" original="leave" ></item>
+</script><script id="58" source="2"><item slot="1" original="Pull in to pump." ></item>
+<item slot="2" original="Turn off car." ></item>
+<item slot="3" original="Open fuel door." ></item>
+<item slot="4" original="Get out and go to pump." ></item>
+<item slot="5" original="Swipe credit card." ></item>
+<item slot="6" original="Open fuel cap." ></item>
+<item slot="7" original="Select grade." ></item>
+<item slot="8" original="Put pump in tank." ></item>
+<item slot="9" original="Pump fuel." ></item>
+<item slot="10" original="Put pump back." ></item>
+<item slot="11" original="Close fuel compartment." ></item>
+<item slot="12" original="Get back in car." ></item>
+</script><script id="59" source="2"><item slot="1" original="Get in car." ></item>
+<item slot="2" original="Turn key to start car." ></item>
+<item slot="3" original="Drive to gas station." ></item>
+<item slot="4" original="Park at pump shut off car." ></item>
+<item slot="5" original="Slide debit card at pump." ></item>
+<item slot="6" original="Pick up nozzle" ></item>
+<item slot="7" original="take off gas cap." ></item>
+<item slot="8" original="Begin fueling." ></item>
+<item slot="9" original="Replace nozzle." ></item>
+<item slot="10" original="Replace gas cap." ></item>
+<item slot="11" original="Get in car." ></item>
+<item slot="12" original="Start car." ></item>
+<item slot="13" original="Drive off." ></item>
+</script><script id="60" source="2"><item slot="1" original="drive car to gas station" ></item>
+<item slot="2" original="pull up to pump" ></item>
+<item slot="3" original="pay for gas" ></item>
+<item slot="4" original="pump gas into car" ></item>
+<item slot="5" original="replace pump" ></item>
+<item slot="6" original="leave" ></item>
+</script><script id="61" source="2"><item slot="1" original="live in New Jersey" ></item>
+<item slot="2" original="drive to pump" ></item>
+<item slot="3" original="wait" ></item>
+<item slot="4" original="tell attendant what kind of gas to put in" ></item>
+<item slot="5" original="tell attendant how much gas to put in" ></item>
+<item slot="6" original="wait for pump to finish" ></item>
+<item slot="7" original="pay attendant" ></item>
+<item slot="8" original="drive away" ></item>
+</script><script id="62" source="2"><item slot="1" original="Pull up to gas pump" ></item>
+<item slot="2" original="Turn car off" ></item>
+<item slot="3" original="Remove gas lid from car" ></item>
+<item slot="4" original="Pay for fuel" ></item>
+<item slot="5" original="Insert nozzle in car" ></item>
+<item slot="6" original="Pump desired amount of gas" ></item>
+<item slot="7" original="Remove nozzle" ></item>
+<item slot="8" original="Put lid back on" ></item>
+<item slot="9" original="Get in car and leave" ></item>
+</script><script id="63" source="2"><item slot="1" original="Take car to the gas station" ></item>
+<item slot="2" original="Find a pump" ></item>
+<item slot="3" original="Turn off car" ></item>
+<item slot="4" original="Get out of car" ></item>
+<item slot="5" original="Pay" ></item>
+<item slot="6" original="Put the pump into the tank" ></item>
+<item slot="7" original="Fuel car" ></item>
+<item slot="8" original="Stop pump" ></item>
+<item slot="9" original="Put pump back" ></item>
+</script><script id="64" source="2"><item slot="1" original="Drive to the gas station." ></item>
+<item slot="2" original="Get out of car and pop the gas cover." ></item>
+<item slot="3" original="Pay for gas with card." ></item>
+<item slot="4" original="Select gas, put the nozzle in the tank." ></item>
+<item slot="5" original="Pump gas." ></item>
+<item slot="6" original="Put the nozzle back on the pump." ></item>
+<item slot="7" original="Close gas tank." ></item>
+</script><script id="65" source="2"><item slot="1" original="Arrive at gas station." ></item>
+<item slot="2" original="Get out of car." ></item>
+<item slot="3" original="Open fuel tank." ></item>
+<item slot="4" original="Choose type of fuel you want." ></item>
+<item slot="5" original="Pay." ></item>
+<item slot="6" original="Remove nozzle from pump and put in tank." ></item>
+<item slot="7" original="Let it fill until it clicks." ></item>
+<item slot="8" original="Put nozzle back on put." ></item>
+<item slot="9" original="Close fuel tank." ></item>
+<item slot="10" original="Get back in car." ></item>
+</script><script id="66" source="2"><item slot="1" original="Get into the car" ></item>
+<item slot="2" original="Start the car" ></item>
+<item slot="3" original="Drive to the gas station" ></item>
+<item slot="4" original="Stop next to a pump" ></item>
+<item slot="5" original="Get out of the car" ></item>
+<item slot="6" original="Slide your card on the reader" ></item>
+<item slot="7" original="Choose your gas type" ></item>
+<item slot="8" original="Pick up the pump handle" ></item>
+<item slot="9" original="Open the gas tank with your other hand" ></item>
+<item slot="10" original="Insert the gas pump" ></item>
+<item slot="11" original="Press the handle lever" ></item>
+<item slot="12" original="Fill tank until full" ></item>
+<item slot="13" original="Remove handle from tank and replace on gas pump" ></item>
+<item slot="14" original="Close gas tank" ></item>
+<item slot="15" original="Get in car" ></item>
+<item slot="16" original="Drive home" ></item>
+</script><script id="67" source="2"><item slot="1" original="stop at gas station" ></item>
+<item slot="2" original="park with the gas tank lid towards the tank" ></item>
+<item slot="3" original="turn off car" ></item>
+<item slot="4" original="get out of car" ></item>
+<item slot="5" original="remove nozzle" ></item>
+<item slot="6" original="select grade" ></item>
+<item slot="7" original="fill tank" ></item>
+<item slot="8" original="enter gas station building" ></item>
+<item slot="9" original="pay" ></item>
+<item slot="10" original="exit gas station building" ></item>
+</script><script id="68" source="2"><item slot="1" original="Drive car to gas station" ></item>
+<item slot="2" original="Position car to gas pump relative to your gas cap location" ></item>
+<item slot="3" original="Remove gas cap" ></item>
+<item slot="4" original="Place gas pump in car" ></item>
+<item slot="5" original="Pump gas to desired amount/price" ></item>
+<item slot="6" original="Place the gas cap back on" ></item>
+<item slot="7" original="Pay for gas" ></item>
+</script><script id="69" source="2"><item slot="1" original="Enter the fueling station" ></item>
+<item slot="2" original="Park the car to the right side of fuel pump" ></item>
+<item slot="3" original="Switch off engine" ></item>
+<item slot="4" original="Open the fuel tank lid" ></item>
+<item slot="5" original="Tell the attender to fill petrol 10 ltrs" ></item>
+<item slot="6" original="Ensure 0 before delivery" ></item>
+<item slot="7" original="Ensure the reading" ></item>
+<item slot="8" original="Pay the amount" ></item>
+<item slot="9" original="Ensure he is closing the tank lid properly" ></item>
+<item slot="10" original="Start the engine and leave the filling station" ></item>
+</script><script id="70" source="2"><item slot="1" original="Go to the gas station" ></item>
+<item slot="2" original="Pre-pay for gas" ></item>
+<item slot="3" original="Remove gas cap" ></item>
+<item slot="4" original="Remove fueling pump handle" ></item>
+<item slot="5" original="Begin fueling car" ></item>
+<item slot="6" original="Put fueling pump handle back" ></item>
+<item slot="7" original="Put on gas cap" ></item>
+<item slot="8" original="Leave the station" ></item>
+</script><script id="71" source="2"><item slot="1" original="GO TO THE GAS STATION" ></item>
+<item slot="2" original="OPEN FUEL TANK" ></item>
+<item slot="3" original="REMOVE THE STOPPER" ></item>
+<item slot="4" original="SWIPE CREDIT CARD" ></item>
+<item slot="5" original="SELECT GRADE OF GAS REQUIRED FOR YOUR CAR" ></item>
+<item slot="6" original="PUT THE PUMP IN THE FUEL TANK" ></item>
+<item slot="7" original="BEGIN PUMPING GAS" ></item>
+<item slot="8" original="WHEN THE PUMP CLICKS, THE TANK IS FULL" ></item>
+<item slot="9" original="REMOVE THE PUMP" ></item>
+<item slot="10" original="PUT THE PUMP BACK ON THE STAND" ></item>
+<item slot="11" original="PUT THE STOPPER BACK IN YOUR TANK" ></item>
+<item slot="12" original="CLOSE TANK DOOR" ></item>
+</script><script id="72" source="2"><item slot="1" original="Pull up next to the gas pump." ></item>
+<item slot="2" original="Turn off the engine." ></item>
+<item slot="3" original="Get out of the car." ></item>
+<item slot="4" original="Slide credit card through slot on pump." ></item>
+<item slot="5" original="Press buttons on pump to authorize purchase." ></item>
+<item slot="6" original="Open the fuel door on car." ></item>
+<item slot="7" original="Unscrew gas cap on fuel tank." ></item>
+<item slot="8" original="Remove pump handle from slot on pump." ></item>
+<item slot="9" original="Insert pump nozzle into gas tank slot." ></item>
+<item slot="10" original="Squeeze pump handle." ></item>
+<item slot="11" original="Replace pump handle in slot." ></item>
+<item slot="12" original="Screw gas cap on fuel tank." ></item>
+<item slot="13" original="Close fuel door." ></item>
+<item slot="14" original="Take receipt from pump." ></item>
+<item slot="15" original="Get in car." ></item>
+<item slot="16" original="Drive away." ></item>
+</script><script id="73" source="2"><item slot="1" original="Arrive at gas station." ></item>
+<item slot="2" original="Select pump." ></item>
+<item slot="3" original="Pay for gas." ></item>
+<item slot="4" original="Put pump in car." ></item>
+<item slot="5" original="Pump the gas into the car." ></item>
+<item slot="6" original="Finish and put on cap." ></item>
+</script><script id="74" source="2"><item slot="1" original="Drive car to desired pump at the gas station." ></item>
+<item slot="2" original="Open the gas cap on car." ></item>
+<item slot="3" original="Select payment method for purchasing fuel." ></item>
+<item slot="4" original="Select grade of fuel." ></item>
+<item slot="5" original="Put fuel nozzle into gas tank opening on car." ></item>
+<item slot="6" original="Pull handle to pump gas." ></item>
+<item slot="7" original="Stop pumping when desired amount of gas has been pumped." ></item>
+<item slot="8" original="Put nozzle back into holder." ></item>
+<item slot="9" original="Replace gas cap on car." ></item>
+<item slot="10" original="Finish payment transaction." ></item>
+<item slot="11" original="Take receipt." ></item>
+</script><script id="75" source="2"><item slot="1" original="Drive to nearest gas station" ></item>
+<item slot="2" original="Wait for an available gas pump to be open" ></item>
+<item slot="3" original="Drive car close to gas pump" ></item>
+<item slot="4" original="Turn off engine" ></item>
+<item slot="5" original="Park car" ></item>
+<item slot="6" original="Open gas tank door" ></item>
+<item slot="7" original="Note the gas pump number (if paying for gas inside the store)" ></item>
+<item slot="8" original="Pay gas via credit card through pump credit reader or inside the store(tell pump number)" ></item>
+<item slot="9" original="Select gas type (Unleaded Regular, Unleaded Premium, Diesel)" ></item>
+<item slot="10" original="Take gas pump filler from gas pump" ></item>
+<item slot="11" original="Remove gas cap on gas tank of your car" ></item>
+<item slot="12" original="Use gas pump filler to fill the gas tank of your car" ></item>
+<item slot="13" original="Once gas pump filler handle clicks, it indicates car gas tank is full" ></item>
+<item slot="14" original="Put back the gas pump filler on the gas pump" ></item>
+<item slot="15" original="put the gas cap tank on and tighten (3 clicks), and close gas tank door." ></item>
+<item slot="16" original="Receive receipt if desired and leave gas station." ></item>
+</script><script id="76" source="2"><item slot="1" original="drive to gas station" ></item>
+<item slot="2" original="open gas cap" ></item>
+<item slot="3" original="enter in payment information" ></item>
+<item slot="4" original="take out fuel pump" ></item>
+<item slot="5" original="place fuel pump into car" ></item>
+<item slot="6" original="press lever on fuel pump" ></item>
+<item slot="7" original="await until gas tank is full" ></item>
+<item slot="8" original="pull out fuel pump from car" ></item>
+<item slot="9" original="replace fuel pump in original holder" ></item>
+<item slot="10" original="close gas cap" ></item>
+</script><script id="77" source="2"><item slot="1" original="Park vehicle next to fuel pump" ></item>
+<item slot="2" original="Turn off car engine" ></item>
+<item slot="3" original="Get out of car" ></item>
+<item slot="4" original="Pay for fuel" ></item>
+<item slot="5" original="Remove fuel cap" ></item>
+<item slot="6" original="Choose desired type of fuel" ></item>
+<item slot="7" original="Insert fuel hose into fuel tank" ></item>
+<item slot="8" original="Pump desired amount of fuel into fuel tank" ></item>
+<item slot="9" original="Remove fuel hose" ></item>
+<item slot="10" original="Place fuel hose back on fuel pump" ></item>
+<item slot="11" original="Replace fuel cap" ></item>
+<item slot="12" original="Secure fuel cap" ></item>
+</script><script id="78" source="2"><item slot="1" original="Find price-appropriate gas station" ></item>
+<item slot="2" original="Pull into an empty fueling spot" ></item>
+<item slot="3" original="Open tank" ></item>
+<item slot="4" original="Put nozzle in" ></item>
+<item slot="5" original="Click trigger" ></item>
+<item slot="6" original="Watch numbers go up" ></item>
+<item slot="7" original="Stop gas at nice, round number either for gallons or price" ></item>
+<item slot="8" original="Swipe card" ></item>
+<item slot="9" original="Drive off" ></item>
+</script><script id="79" source="2"><item slot="1" original="You drive up to gas pumps." ></item>
+<item slot="2" original="You get out of car." ></item>
+<item slot="3" original="You walk into store." ></item>
+<item slot="4" original="You pay for gas." ></item>
+<item slot="5" original="You walk back to your car." ></item>
+<item slot="6" original="Take off gas cap." ></item>
+<item slot="7" original="Lift nozzle and push lever." ></item>
+<item slot="8" original="Put nozzle in gas tank." ></item>
+<item slot="9" original="Pull back lever and fill car with gas." ></item>
+<item slot="10" original="Put nozzle back." ></item>
+<item slot="11" original="Put cap back on." ></item>
+<item slot="12" original="Get in car and drive." ></item>
+</script><script id="80" source="2"><item slot="1" original="Go to gas station" ></item>
+<item slot="2" original="Park gas tank side next to pump" ></item>
+<item slot="3" original="Choose which type of gas you need" ></item>
+<item slot="4" original="Open gas tank hatch and insert gas pump" ></item>
+<item slot="5" original="Pump gas until you reach desired amount" ></item>
+<item slot="6" original="Go inside gas station and pay" ></item>
+<item slot="7" original="Leave" ></item>
+</script><script id="81" source="2"><item slot="1" original="Find a gas station." ></item>
+<item slot="2" original="Pull into a station." ></item>
+<item slot="3" original="Shut off the engine." ></item>
+<item slot="4" original="Choose the gas" ></item>
+<item slot="5" original="Pump gas." ></item>
+</script><script id="82" source="2"><item slot="1" original="Pull up to pump." ></item>
+<item slot="2" original="Pay inside or at the pump." ></item>
+<item slot="3" original="Remove gas cap." ></item>
+<item slot="4" original="Select fuel grade." ></item>
+<item slot="5" original="Remove nozzle from pump." ></item>
+<item slot="6" original="Place nozzle into fuel tank opening." ></item>
+<item slot="7" original="Squeeze handle." ></item>
+<item slot="8" original="Remove nozzle from fuel tank." ></item>
+<item slot="9" original="Place nozzle back on pump." ></item>
+<item slot="10" original="Replace gas cap." ></item>
+</script><script id="83" source="2"><item slot="1" original="Go to the gas station." ></item>
+<item slot="2" original="Pull up along the pump." ></item>
+<item slot="3" original="Pay at the pump." ></item>
+<item slot="4" original="Open your fuel cap." ></item>
+<item slot="5" original="Pick up the pump." ></item>
+<item slot="6" original="Place the nozzle inside your gas tank." ></item>
+<item slot="7" original="Squeeze the trigger on the nozzle to begin pumping fuel." ></item>
+<item slot="8" original="Once your tank is full, remove the nozzle." ></item>
+<item slot="9" original="Place the nozzle back on the pumping station." ></item>
+<item slot="10" original="Receive your receipt." ></item>
+<item slot="11" original="Close your gas cap." ></item>
+<item slot="12" original="Drive away." ></item>
+</script><script id="84" source="2"><item slot="1" original="Park at the gas station" ></item>
+<item slot="2" original="Get out of the car" ></item>
+<item slot="3" original="Walk to the fuel pump" ></item>
+<item slot="4" original="Insert payment method" ></item>
+<item slot="5" original="Select what octane gas to get" ></item>
+<item slot="6" original="Open/unlock the gas tank on the car" ></item>
+<item slot="7" original="Insert the fuel nozzle" ></item>
+<item slot="8" original="Pull the trigger" ></item>
+<item slot="10" original="Wait for the fueling to stop automatically" ></item>
+<item slot="11" original="Remove the nozzle" ></item>
+<item slot="12" original="Replace the nozzle" ></item>
+<item slot="13" original="Select a receipt option from the machine" ></item>
+<item slot="14" original="Close and lock the gas tank on the car" ></item>
+<item slot="15" original="Get back into the car" ></item>
+<item slot="16" original="Drive away" ></item>
+</script><script id="85" source="2"><item slot="1" original="go to gas station" ></item>
+<item slot="2" original="get out of car" ></item>
+<item slot="3" original="go to pump" ></item>
+<item slot="4" original="open gas door on car" ></item>
+<item slot="5" original="take handle of pump" ></item>
+<item slot="6" original="stick into gas hole" ></item>
+<item slot="7" original="slide your card and pay" ></item>
+<item slot="8" original="pick grade" ></item>
+<item slot="9" original="push handle on pump" ></item>
+<item slot="10" original="wait for pump to stop" ></item>
+<item slot="11" original="put handle back on pump" ></item>
+<item slot="12" original="close gas door" ></item>
+<item slot="13" original="get receipt" ></item>
+</script><script id="86" source="2"><item slot="1" original="Drive to the gas station." ></item>
+<item slot="2" original="Position the car with the gas cap on the same side as the pump." ></item>
+<item slot="3" original="Get cash ready." ></item>
+<item slot="4" original="Get out of the car and make note of pump number." ></item>
+<item slot="5" original="Walk to the payment kiosk and press pump number on keypad." ></item>
+<item slot="6" original="Press cash option and insert cash." ></item>
+<item slot="7" original="Wait for cash payment to be registered." ></item>
+<item slot="8" original="Go to pump." ></item>
+<item slot="9" original="Open door to gas cap and remove cap." ></item>
+<item slot="10" original="Press button on pump for grade of gas desired." ></item>
+<item slot="11" original="Remove gas nozzle from holder and insert in tank opening." ></item>
+<item slot="12" original="Depress nozzle leaver and fill tank." ></item>
+<item slot="13" original="When pump turns off, replace nozzle in holder" ></item>
+<item slot="14" original="Replace gas cap and close cap door." ></item>
+<item slot="15" original="Get in car and drive away." ></item>
+</script><script id="87" source="2"><item slot="1" original="Pull car into gas station" ></item>
+<item slot="2" original="Park car at fuel pump" ></item>
+<item slot="3" original="Unlatch gas tank cover (usually button on driver side door)" ></item>
+<item slot="4" original="Insert card or select pay inside" ></item>
+<item slot="5" original="Remove gas tank cover" ></item>
+<item slot="6" original="Insert pump into gas tank" ></item>
+<item slot="7" original="Fuel until fuel pump stops" ></item>
+<item slot="8" original="Put fuel pump back into holder" ></item>
+<item slot="9" original="Put fuel tank cover back on" ></item>
+<item slot="10" original="Pay inside if needed" ></item>
+</script><script id="88" source="2"><item slot="1" original="go to gas station" ></item>
+<item slot="2" original="turn off engine" ></item>
+<item slot="3" original="pay in the store" ></item>
+<item slot="4" original="put pump in car" ></item>
+<item slot="5" original="pump the gas" ></item>
+<item slot="6" original="get receipt" ></item>
+<item slot="7" original="start engine" ></item>
+<item slot="8" original="go" ></item>
+</script><script id="89" source="2"><item slot="1" original="Pull up to gas station" ></item>
+<item slot="2" original="Park next to open filling station" ></item>
+<item slot="3" original="Turn off car" ></item>
+<item slot="4" original="Get out of car" ></item>
+<item slot="5" original="Remove gas tank cap" ></item>
+<item slot="6" original="Insert payment" ></item>
+<item slot="7" original="Select gas type" ></item>
+<item slot="8" original="Pick up nozzle" ></item>
+<item slot="9" original="Put nozzle in gas tank" ></item>
+<item slot="10" original="Squeeze handle" ></item>
+<item slot="11" original="Wait for fuel to stop running" ></item>
+<item slot="12" original="Return nozzle" ></item>
+<item slot="13" original="Get back into car" ></item>
+</script><script id="90" source="2"><item slot="1" original="Know which side your tank is on" ></item>
+<item slot="2" original="Drive that side up to the pump" ></item>
+<item slot="3" original="Get out of the car" ></item>
+<item slot="4" original="Pay for gas" ></item>
+<item slot="5" original="Open the tank lid" ></item>
+<item slot="6" original="Remove cap" ></item>
+<item slot="7" original="Place pump inside the cap" ></item>
+<item slot="8" original="Pump the amount paid for" ></item>
+<item slot="9" original="Remove nozzle" ></item>
+<item slot="10" original="Replace cap" ></item>
+<item slot="11" original="Close tank door" ></item>
+<item slot="12" original="Replace pump" ></item>
+</script><script id="91" source="2"><item slot="1" original="park up next to gasoline station" ></item>
+<item slot="2" original="open gas tank" ></item>
+<item slot="3" original="pay for fuel" ></item>
+<item slot="4" original="walk back to vehicle" ></item>
+<item slot="5" original="put nozzle into gas tank hole" ></item>
+<item slot="6" original="click desirable gasoline" ></item>
+<item slot="7" original="start pumping gas" ></item>
+<item slot="8" original="close gas tank" ></item>
+<item slot="9" original="put nozzle back on the station" ></item>
+</script><script id="92" source="2"><item slot="1" original="Drive to gas station" ></item>
+<item slot="2" original="Pull up next to gas pump" ></item>
+<item slot="3" original="Swipe card or pay cashier inside" ></item>
+<item slot="4" original="Open car's gas tank" ></item>
+<item slot="5" original="Insert gas nozzle" ></item>
+<item slot="6" original="Choose gas grade" ></item>
+<item slot="7" original="Squeeze handle and pump gas" ></item>
+<item slot="8" original="Return nozzle to pump when tank is full" ></item>
+<item slot="9" original="Close car's gas tank" ></item>
+</script><script id="93" source="2"><item slot="1" original="Pull into the gas station" ></item>
+<item slot="2" original="Make sure to pull your car in so that the fuel door is next to the pump" ></item>
+<item slot="3" original="Get out of the car" ></item>
+<item slot="4" original="Open the fuel door and remove the gas cap" ></item>
+<item slot="5" original="Swipe your credit card" ></item>
+<item slot="6" original="Choose the grade of fuel you want" ></item>
+<item slot="7" original="Insert the nozzle in your car's fuel hole" ></item>
+<item slot="8" original="Pump as much gas as you need" ></item>
+<item slot="9" original="When finished, remove the nozzle" ></item>
+<item slot="10" original="Place the nozzle back on the pump" ></item>
+<item slot="11" original="Replace fuel cap" ></item>
+<item slot="12" original="Close fuel door" ></item>
+<item slot="13" original="Get your receipt" ></item>
+<item slot="14" original="Drive away" ></item>
+</script><script id="94" source="2"><item slot="1" original="Pull up to the gas pump" ></item>
+<item slot="2" original="Make sure your gas cap is facing the gas pump" ></item>
+<item slot="3" original="Get out of car" ></item>
+<item slot="4" original="Go into gas station" ></item>
+<item slot="5" original="Pay for how much gas you want" ></item>
+<item slot="6" original="Go back to your car" ></item>
+<item slot="7" original="Open door to your gas cap" ></item>
+<item slot="8" original="Unscrew gas cap" ></item>
+<item slot="9" original="Remove gas pump" ></item>
+<item slot="10" original="Insert the nozzle into the gas chamber on your car" ></item>
+<item slot="11" original="Push the button of the type of gas you want" ></item>
+<item slot="12" original="Pump gas" ></item>
+<item slot="13" original="Replace gas cap" ></item>
+<item slot="14" original="Shut the door to your gas cap" ></item>
+</script><script id="95" source="2"><item slot="1" original="Pull up to gas pump" ></item>
+<item slot="2" original="Turn off engine" ></item>
+<item slot="3" original="Pull lever to open gas tank cover" ></item>
+<item slot="4" original="Get out of car" ></item>
+<item slot="5" original="Open gas tank door" ></item>
+<item slot="6" original="Remove gas cap" ></item>
+<item slot="7" original="Swipe card at pump" ></item>
+<item slot="8" original="Select fuel type" ></item>
+<item slot="9" original="Remove nozzle" ></item>
+<item slot="10" original="Insert nozzle in tank" ></item>
+<item slot="11" original="Pump gas" ></item>
+<item slot="12" original="Return nozzle to pump" ></item>
+<item slot="13" original="Get receipt" ></item>
+<item slot="14" original="Put gas cap on" ></item>
+<item slot="15" original="Close gas tank cover" ></item>
+<item slot="16" original="Get in car and drive away" ></item>
+</script><script id="96" source="2"><item slot="1" original="Drive the car to fuel station" ></item>
+<item slot="2" original="Stop the car at fueling point" ></item>
+<item slot="3" original="Open the fuel tank lid" ></item>
+<item slot="4" original="Tell the fuel type and quantity to fill" ></item>
+<item slot="5" original="Fuel filled" ></item>
+<item slot="6" original="Close the fuel tank lid" ></item>
+<item slot="7" original="Get the bill" ></item>
+<item slot="8" original="Pay the bill" ></item>
+<item slot="9" original="Leave the fuel station" ></item>
+</script><script id="97" source="2"><item slot="1" original="Go to the fuel bunk in car" ></item>
+<item slot="2" original="Stop the car near pump" ></item>
+<item slot="3" original="Turn off the engine" ></item>
+<item slot="4" original="Apply handbrake" ></item>
+<item slot="5" original="Open petrol tap" ></item>
+<item slot="6" original="Tell the amount to the worker" ></item>
+<item slot="7" original="Check pump meter is reset to zero" ></item>
+<item slot="8" original="Worker fills petrol for that amount" ></item>
+<item slot="9" original="Pay the amount" ></item>
+<item slot="10" original="Get the bill" ></item>
+<item slot="11" original="Close the tap" ></item>
+<item slot="12" original="Start the car" ></item>
+<item slot="13" original="Release the handbrake" ></item>
+<item slot="14" original="Leave the fuel bunk" ></item>
+</script><script id="98" source="2"><item slot="1" original="Pull in to gas station" ></item>
+<item slot="2" original="Park at a spot" ></item>
+<item slot="3" original="Push buttons on the pump regarding payment" ></item>
+<item slot="4" original="Insert nozzle into car" ></item>
+<item slot="5" original="Hold down button and fill car" ></item>
+<item slot="6" original="Pay" ></item>
+<item slot="7" original="Drive away" ></item>
+</script><script id="99" source="2"><item slot="1" original="Go to gas station" ></item>
+<item slot="2" original="Park car next to pump" ></item>
+<item slot="3" original="Turn off engine" ></item>
+<item slot="4" original="Remove gas cap cover" ></item>
+<item slot="5" original="Insert credit card into pump reader" ></item>
+<item slot="6" original="Remove nozzle from pump" ></item>
+<item slot="7" original="Insert nozzle into car" ></item>
+<item slot="8" original="Push button for desired gas type" ></item>
+<item slot="9" original="Press lever to start gas flowing" ></item>
+<item slot="10" original="Fill to desired amount of gas" ></item>
+<item slot="11" original="Remove nozzle" ></item>
+<item slot="12" original="replace in pump" ></item>
+<item slot="13" original="Replace car gas tank cover" ></item>
+<item slot="14" original="Get back in car" ></item>
+<item slot="15" original="Start engine and leave" ></item>
+</script><script id="100" source="2"><item slot="1" original="Drive car to gas station" ></item>
+<item slot="2" original="Pull car up to gas pump" ></item>
+<item slot="3" original="Ensure gas tank on car is next to gas pump" ></item>
+<item slot="4" original="Remove cap on car gas tank" ></item>
+<item slot="5" original="Remove nozzle from gas pump" ></item>
+<item slot="6" original="Insert nozzle into gas tank" ></item>
+<item slot="7" original="Select which grade gasoline you want" ></item>
+<item slot="8" original="Squeeze lever on nozzle to get gas going" ></item>
+<item slot="9" original="Keep nozzle in tank with lever held down until you reach your desired level of fuel" ></item>
+<item slot="10" original="Remove nozzle from tank" ></item>
+<item slot="11" original="Replace nozzle on gas pump" ></item>
+<item slot="12" original="Replace gas tank cap" ></item>
+<item slot="13" original="Pay inside gas station or at the pump using a credit card" ></item>
+</script><script id="101" source="2"><item slot="1" original="Drive to gas station." ></item>
+<item slot="2" original="Park next to pump." ></item>
+<item slot="3" original="Open fuel door" ></item>
+<item slot="4" original="Remove car's gasoline tank cap" ></item>
+<item slot="5" original="Prepay for gasoline" ></item>
+<item slot="6" original="Remove nozzle and handle from pump." ></item>
+<item slot="7" original="Put nozzle into the car's gas tank" ></item>
+<item slot="8" original="Press 'Start' button or lift handle to activate pump." ></item>
+<item slot="9" original="Activate pump handle to pump gas" ></item>
+<item slot="10" original="When done, take nozzle out of gas tank" ></item>
+<item slot="11" original="Put nozzle and handle back onto pump." ></item>
+<item slot="12" original="Put cap back onto car gasoline tank" ></item>
+<item slot="13" original="Close fuel door." ></item>
+<item slot="14" original="Leave gas station." ></item>
+</script><script id="102" source="2"><item slot="1" original="Monitor gas gauge" ></item>
+<item slot="2" original="When fuel is low, go to gas station" ></item>
+<item slot="3" original="Pull in front of pump" ></item>
+<item slot="4" original="Stop and shut off car" ></item>
+<item slot="5" original="Remove seat belt, get out of car" ></item>
+<item slot="6" original="Open fuel tank door and remove fuel tank lid" ></item>
+<item slot="7" original="(Optional: swipe credit card for payment)" ></item>
+<item slot="8" original="Follow instructions to start gas pump (choose payment option, select fuel type, etc.)" ></item>
+<item slot="9" original="Put pump in tank" ></item>
+<item slot="10" original="Squeeze trigger" ></item>
+<item slot="11" original="Fill to desired dollar amount or fuel volume, or until pump shuts off." ></item>
+<item slot="12" original="Replace pump" ></item>
+<item slot="13" original="Replace fuel tank lid and close gas tank door" ></item>
+<item slot="14" original="If did not pay via credit card, pay cashier" ></item>
+<item slot="15" original="Enter vehicle, put on seat belt, start car" ></item>
+<item slot="16" original="Leave gas station" ></item>
+</script></scripts>

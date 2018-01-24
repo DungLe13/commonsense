@@ -1,0 +1,680 @@
+<scripts><script id="0" source="2"><item slot="1" original="turn bicycle upside down" ></item>
+<item slot="2" original="take off tire" ></item>
+<item slot="3" original="take off tube" ></item>
+<item slot="4" original="put new tube on" ></item>
+<item slot="5" original="put tire over tube" ></item>
+<item slot="6" original="pump air into new tube" ></item>
+<item slot="7" original="flip bicycle back around" ></item>
+</script><script id="2" source="2"><item slot="1" original="Get tools" ></item>
+<item slot="2" original="Get spare tire" ></item>
+<item slot="3" original="Taking old tire off" ></item>
+<item slot="4" original="Put on spare tire" ></item>
+<item slot="5" original="Put away old tire" ></item>
+</script><script id="3" source="2"><item slot="1" original="Take the toolbox" ></item>
+<item slot="2" original="Open up the tire with a long screwdriver and lever" ></item>
+<item slot="3" original="Pull out the rubber tube" ></item>
+<item slot="4" original="Fill air" ></item>
+<item slot="5" original="Put the aerated tube in a water tub" ></item>
+<item slot="6" original="look for air bubbles" ></item>
+<item slot="7" original="mark all the holes as indicated by the bubbles" ></item>
+<item slot="8" original="Remove the air from tube" ></item>
+<item slot="9" original="Take the patch" ></item>
+<item slot="10" original="Heat the patch" ></item>
+<item slot="11" original="put the patch on the hole" ></item>
+<item slot="12" original="Heat and press with heat press for 5 minutes" ></item>
+<item slot="13" original="Remove the press" ></item>
+<item slot="14" original="put the tube back inside the tire" ></item>
+<item slot="15" original="Put back the tire" ></item>
+<item slot="16" original="Fill air" ></item>
+</script><script id="4" source="2"><item slot="1" original="Place bike on ground" ></item>
+<item slot="2" original="Unscrew nozzle cap on tire" ></item>
+<item slot="3" original="Place tire pump hose on nozzle" ></item>
+<item slot="4" original="Pump air into tire" ></item>
+<item slot="5" original="Replace nozzle cap" ></item>
+</script><script id="5" source="2"><item slot="1" original="Get a new bicycle tire" ></item>
+<item slot="2" original="Get tools" ></item>
+<item slot="3" original="Remove flat tire" ></item>
+<item slot="4" original="Put new tire in its place" ></item>
+<item slot="5" original="Secure the tire." ></item>
+<item slot="6" original="Test to make sure it is in sturdily." ></item>
+</script><script id="7" source="2"><item slot="1" original="Put bike upside down" ></item>
+<item slot="2" original="Take flat tire off" ></item>
+<item slot="3" original="Collect tools" ></item>
+<item slot="4" original="Get new tire" ></item>
+<item slot="5" original="Align new tire" ></item>
+<item slot="6" original="Use tools to secure" ></item>
+<item slot="7" original="Flip bike right side up" ></item>
+<item slot="8" original="Ride away" ></item>
+</script><script id="9" source="2"><item slot="1" original="Prop bike upside down." ></item>
+<item slot="2" original="Remove wheel." ></item>
+<item slot="3" original="From wheel pull out inner tube." ></item>
+<item slot="4" original="Open package with new inner tube." ></item>
+<item slot="5" original="Install new inner tube." ></item>
+<item slot="6" original="Use pump to fill with air." ></item>
+<item slot="7" original="Secure wheel on." ></item>
+<item slot="8" original="Test ride bike." ></item>
+</script><script id="10" source="2"><item slot="1" original="Examine the tire" ></item>
+<item slot="2" original="if there are any holes, plug them up" ></item>
+<item slot="3" original="Get air pump" ></item>
+<item slot="4" original="pump air into tire" ></item>
+<item slot="5" original="Test tire pressure with gage" ></item>
+<item slot="6" original="Walk bike around to make sure the tire holds air" ></item>
+<item slot="7" original="ride bike" ></item>
+</script><script id="11" source="2"><item slot="1" original="Get a patch for the hole in the tire." ></item>
+<item slot="2" original="Place it over the hole." ></item>
+<item slot="3" original="Make sure it is sealed properly." ></item>
+<item slot="4" original="Move the bike back and forth so the patch gets accustomed to the tire." ></item>
+<item slot="5" original="Enjoy your bike!" ></item>
+</script><script id="12" source="2"><item slot="1" original="Remove the wheel from the bike." ></item>
+<item slot="2" original="Check the tire for damage." ></item>
+<item slot="3" original="Remove any debris or nails that may have caused the damage." ></item>
+<item slot="4" original="Repair or replace the tube as needed." ></item>
+<item slot="5" original="Inflate the tire slowly." ></item>
+<item slot="6" original="Put the tire back on the bicycle." ></item>
+</script><script id="13" source="2"><item slot="1" original="get a spare tire" ></item>
+<item slot="2" original="take flat tire off the bike" ></item>
+<item slot="3" original="either patch it with a bike patch or a put on a new tire" ></item>
+<item slot="4" original="put tire back on the bike" ></item>
+<item slot="5" original="put air in tire" ></item>
+<item slot="6" original="test out bike" ></item>
+</script><script id="14" source="2"><item slot="1" original="Remove wheel from bicycle" ></item>
+<item slot="2" original="Remove tire from wheel" ></item>
+<item slot="3" original="Remove tube from tire" ></item>
+<item slot="4" original="Take new tube out of package" ></item>
+<item slot="5" original="Place tube in tire" ></item>
+<item slot="6" original="Replace tire onto wheel" ></item>
+<item slot="7" original="Attach wheel to bicycle" ></item>
+<item slot="8" original="Use air compressor to fill tire with air" ></item>
+</script><script id="15" source="2"><item slot="1" original="Get pump for tire" ></item>
+<item slot="2" original="Unscrew cap on bike tire" ></item>
+<item slot="3" original="Put hose of pump on tire" ></item>
+<item slot="4" original="Start pumping up tire" ></item>
+<item slot="5" original="Check tire" ></item>
+<item slot="6" original="Rescrew cap on tire" ></item>
+<item slot="7" original="Put pump away" ></item>
+<item slot="8" original="Ride bike" ></item>
+</script><script id="16" source="2"><item slot="1" original="Find hole in tire" ></item>
+<item slot="2" original="Plug hole" ></item>
+<item slot="3" original="Find tire pump" ></item>
+<item slot="4" original="Insert tire pump into tire" ></item>
+<item slot="5" original="Pump tire until full of air" ></item>
+</script><script id="19" source="2"><item slot="1" original="flip the bike upside down" ></item>
+<item slot="2" original="remove the wheel with the flat tire" ></item>
+<item slot="3" original="use a screwdriver to pry one side of the tire off of the rim" ></item>
+<item slot="4" original="pull the flat inner-tube out of the tire carefully" ></item>
+<item slot="5" original="line the valve of the new inner-tube up with to the correct spot on the rim" ></item>
+<item slot="6" original="stuff the new inner-tube in the tire" ></item>
+<item slot="7" original="press the side wall of the tire back onto the rim" ></item>
+<item slot="8" original="use a bike pump to add air to the inner tube until correct pressure is reached" ></item>
+<item slot="9" original="put wheel back on bike" ></item>
+</script><script id="20" source="2"><item slot="1" original="Turn bike over to look at tire." ></item>
+<item slot="2" original="Determine if there is something stuck in tire." ></item>
+<item slot="3" original="Remove inner tube from middle of tire." ></item>
+<item slot="4" original="Patch inner tube with patch." ></item>
+<item slot="5" original="If not possible, then purchase new inner tube." ></item>
+<item slot="6" original="Insert new or fixed tube back into tire." ></item>
+<item slot="7" original="Fill tube with air." ></item>
+<item slot="8" original="Check tire to make sure it holds air." ></item>
+<item slot="9" original="Turn bike back over and ride." ></item>
+</script><script id="21" source="2"><item slot="1" original="take tire off bike" ></item>
+<item slot="2" original="take tube out of tire tread" ></item>
+<item slot="3" original="drive tube to bike shop" ></item>
+<item slot="4" original="buy the same size tube" ></item>
+<item slot="5" original="drive home" ></item>
+<item slot="6" original="place tube in tire with the nozzle going through the tread" ></item>
+<item slot="7" original="air up to approx 35psi" ></item>
+<item slot="8" original="ride for test" ></item>
+</script><script id="22" source="2"><item slot="1" original="Get tire patch kit" ></item>
+<item slot="2" original="Take bicycle to open area" ></item>
+<item slot="3" original="Flip bicycle upside down" ></item>
+<item slot="4" original="Pump tire with air" ></item>
+<item slot="5" original="Squeeze tire" ></item>
+<item slot="6" original="Feel for hole in tire" ></item>
+<item slot="7" original="Patch discovered holes in tire" ></item>
+<item slot="8" original="Pump tire with air" ></item>
+<item slot="9" original="Flip bicycle back over" ></item>
+<item slot="10" original="Ride bicycle" ></item>
+</script><script id="23" source="2"><item slot="1" original="Removing the wheel" ></item>
+<item slot="2" original="Removing the tire from one side of rim" ></item>
+<item slot="3" original="Remove tube" ></item>
+<item slot="4" original="Patch or replace tube" ></item>
+<item slot="5" original="Mount tire back to wheel" ></item>
+</script><script id="24" source="2"><item slot="1" original="grab tire" ></item>
+<item slot="2" original="locate puncture" ></item>
+<item slot="3" original="patch puncture" ></item>
+<item slot="4" original="inflate tire" ></item>
+<item slot="5" original="test pressure" ></item>
+<item slot="6" original="ride off" ></item>
+</script><script id="25" source="2"><item slot="1" original="Get a spare tire." ></item>
+<item slot="2" original="Unscrew the screws." ></item>
+<item slot="3" original="Unhook the bicycle chains." ></item>
+<item slot="4" original="Take off the flat tire on bicycle." ></item>
+<item slot="5" original="Throw away the flat tire." ></item>
+<item slot="6" original="Put on spare tire." ></item>
+<item slot="7" original="Screw everything back." ></item>
+<item slot="8" original="Hook the chain back on." ></item>
+</script><script id="26" source="2"><item slot="1" original="Buy new tire" ></item>
+<item slot="2" original="Go to garage" ></item>
+<item slot="3" original="Get bike" ></item>
+<item slot="4" original="Remove tire" ></item>
+<item slot="5" original="Put new tire on" ></item>
+</script><script id="27" source="2"><item slot="1" original="Remove tire and tube from bicycle." ></item>
+<item slot="2" original="Submerge tube in water." ></item>
+<item slot="3" original="Squeeze tube until you see bubble to find the hole." ></item>
+<item slot="4" original="Take out of water." ></item>
+<item slot="5" original="Dry off tube." ></item>
+<item slot="6" original="Use repair kit to patch up tube." ></item>
+<item slot="7" original="Put tube and tire back on bicycle." ></item>
+</script><script id="28" source="2"><item slot="1" original="Remove wheel from bicycle" ></item>
+<item slot="2" original="Use tire irons to remove tire" ></item>
+<item slot="3" original="Take out inner tube" ></item>
+<item slot="4" original="Find leak" ></item>
+<item slot="5" original="Patch leak" ></item>
+<item slot="6" original="Wait for patch to seal" ></item>
+<item slot="7" original="Put inner tube back into bike tire" ></item>
+<item slot="8" original="Put bike tire back on wheel" ></item>
+<item slot="9" original="Fill tire with air" ></item>
+<item slot="10" original="Put wheel back on bicycle" ></item>
+</script><script id="29" source="2"><item slot="1" original="buy new tire" ></item>
+<item slot="2" original="remove flat tire from bike" ></item>
+<item slot="3" original="throw flat tire away" ></item>
+<item slot="4" original="install new tire" ></item>
+<item slot="5" original="fill new tire with air" ></item>
+<item slot="6" original="ride away on bicycle" ></item>
+</script><script id="30" source="2"><item slot="1" original="Remove the tire from your bike" ></item>
+<item slot="2" original="Deflate any remaining air" ></item>
+<item slot="3" original="Patch up any holes in the tire with a tire patching adhesive" ></item>
+<item slot="4" original="Wait for it to dry" ></item>
+<item slot="5" original="Place the tire back on your bike" ></item>
+<item slot="6" original="Re-inflate the tire." ></item>
+</script><script id="31" source="2"><item slot="1" original="Notice flat tire" ></item>
+<item slot="2" original="Take wheel off bike" ></item>
+<item slot="3" original="Take tire off wheel" ></item>
+<item slot="4" original="Put tire patch on leak" ></item>
+<item slot="5" original="Put tire back on wheel" ></item>
+<item slot="6" original="Inflate tire" ></item>
+<item slot="7" original="Put wheel back on bike" ></item>
+</script><script id="32" source="2"><item slot="1" original="Remove tire from bike" ></item>
+<item slot="2" original="remove tube from tire" ></item>
+<item slot="3" original="purchase new bike tube from store" ></item>
+<item slot="4" original="fit tube into tire" ></item>
+<item slot="5" original="attach tire back on to the bike" ></item>
+</script><script id="33" source="2"><item slot="1" original="Get air pump" ></item>
+<item slot="2" original="Unscrew cap on tire" ></item>
+<item slot="3" original="Place hose end into the tire" ></item>
+<item slot="4" original="Fasten the hose" ></item>
+<item slot="5" original="Pump air into tire" ></item>
+<item slot="6" original="Unfasten the hose" ></item>
+<item slot="7" original="Screw cap back on tire" ></item>
+</script><script id="34" source="2"><item slot="1" original="Remove tire from wheel rim" ></item>
+<item slot="2" original="Remove inner tube" ></item>
+<item slot="3" original="Pump inner tube with air to locate puncture" ></item>
+<item slot="4" original="Apply glue around puncture" ></item>
+<item slot="5" original="Apply patch to puncture" ></item>
+<item slot="6" original="Allow to dry" ></item>
+<item slot="7" original="Replace inner tube" ></item>
+<item slot="8" original="Replace tire" ></item>
+<item slot="9" original="Pump up tire" ></item>
+</script><script id="35" source="2"><item slot="1" original="get replacement tire tube" ></item>
+<item slot="2" original="release brakes from bike" ></item>
+<item slot="3" original="remove tire from bike" ></item>
+<item slot="4" original="patch damaged area from tire" ></item>
+<item slot="5" original="put tire back on bike" ></item>
+</script><script id="36" source="2"><item slot="1" original="Get new tire." ></item>
+<item slot="2" original="Get air pump." ></item>
+<item slot="3" original="Take old tire off." ></item>
+<item slot="4" original="Put new tire on bicycle." ></item>
+<item slot="5" original="Inflate the new tire." ></item>
+<item slot="6" original="Throw away the old tire." ></item>
+</script><script id="37" source="2"><item slot="1" original="Locate spot to insert air into tire" ></item>
+<item slot="2" original="Attach pump to tire" ></item>
+<item slot="3" original="Start pumping air into tire" ></item>
+<item slot="4" original="Push on tire with thumb and feel pressure" ></item>
+<item slot="5" original="Store pump" ></item>
+<item slot="6" original="Ride bike" ></item>
+</script><script id="38" source="2"><item slot="1" original="getting an air pump" ></item>
+<item slot="2" original="take the cap off the tire" ></item>
+<item slot="3" original="turn the air pump on" ></item>
+<item slot="4" original="refill the tire" ></item>
+<item slot="5" original="turn off air pump" ></item>
+<item slot="6" original="replace the cap" ></item>
+</script><script id="39" source="2"><item slot="1" original="Locate where the hole is in bike tire." ></item>
+<item slot="2" original="Buy a tire repair kit from store." ></item>
+<item slot="3" original="Remove tire from bike frame." ></item>
+<item slot="4" original="Follow directions and plug the hole." ></item>
+<item slot="5" original="Air up tire using a air pump." ></item>
+<item slot="6" original="Check for any remaining leaks." ></item>
+</script><script id="40" source="2"><item slot="1" original="remove tire" ></item>
+<item slot="2" original="find air valve" ></item>
+<item slot="3" original="attach pump to air valve" ></item>
+<item slot="4" original="pump tire" ></item>
+<item slot="5" original="check psi with gauge" ></item>
+<item slot="6" original="re-attach tire" ></item>
+<item slot="7" original="ride bike" ></item>
+</script><script id="41" source="2"><item slot="1" original="purchase tire repair kit" ></item>
+<item slot="2" original="locate bike" ></item>
+<item slot="3" original="turn bike upside down" ></item>
+<item slot="4" original="take wheel off" ></item>
+<item slot="5" original="take tire off" ></item>
+<item slot="6" original="inflate tube" ></item>
+<item slot="7" original="put tube in water to find leak" ></item>
+<item slot="8" original="dry tube" ></item>
+<item slot="9" original="repair tube" ></item>
+<item slot="10" original="put tube back on wheel" ></item>
+<item slot="11" original="put tire back on" ></item>
+<item slot="12" original="inflate tube" ></item>
+<item slot="13" original="inspect for leaks" ></item>
+<item slot="14" original="put wheel back on bike" ></item>
+<item slot="15" original="ride bike" ></item>
+</script><script id="42" source="2"><item slot="1" original="get a new tube" ></item>
+<item slot="2" original="remove tire" ></item>
+<item slot="3" original="place new tube inside tube" ></item>
+<item slot="4" original="replace tire" ></item>
+<item slot="5" original="pump full of air" ></item>
+</script><script id="43" source="2"><item slot="1" original="lay bike on side" ></item>
+<item slot="2" original="remove screws so you can remove the entire tire and rim." ></item>
+<item slot="3" original="use screwdriver to pry off old tire" ></item>
+<item slot="4" original="find hole in tire" ></item>
+<item slot="5" original="use patch to repair tire from the inside" ></item>
+<item slot="6" original="wait for patch to dry" ></item>
+<item slot="7" original="replace tire on rim" ></item>
+<item slot="8" original="air up tire" ></item>
+<item slot="9" original="replace tire and rim onto bicycle" ></item>
+</script><script id="44" source="2"><item slot="1" original="Take the tire off the bike" ></item>
+<item slot="2" original="Pull the tire off the wheel" ></item>
+<item slot="3" original="Patch the innertube" ></item>
+<item slot="4" original="Put the innertube back inside the tire" ></item>
+<item slot="5" original="Put the tire back on the wheel" ></item>
+<item slot="6" original="Put it back on the bike" ></item>
+</script><script id="45" source="2"><item slot="1" original="Stand the bike somewhere." ></item>
+<item slot="2" original="Find a pump." ></item>
+<item slot="3" original="Attach air pump to tire." ></item>
+<item slot="4" original="Pump air." ></item>
+<item slot="5" original="Seal tire and ride away." ></item>
+</script><script id="46" source="2"><item slot="1" original="LOCATE THE PUNCTURE ON THE TIRE" ></item>
+<item slot="2" original="USING A TIRE REPAIR KIT, COVER THE HOLE" ></item>
+<item slot="3" original="WHEN COVERED, CHECK THAT NO AIR ESCAPES" ></item>
+<item slot="4" original="WHEN SATISFIED, PUT TIRE BACK ON BIKE" ></item>
+<item slot="5" original="USE BIKE AS NORMAL" ></item>
+</script><script id="47" source="2"><item slot="1" original="determine what caused the flat" ></item>
+<item slot="2" original="go to the store to buy a repair kit" ></item>
+<item slot="3" original="use the repair kit to fix the tire" ></item>
+<item slot="4" original="double check to make sure the tire is repaired properly" ></item>
+<item slot="5" original="put air in the tire." ></item>
+<item slot="6" original="inspect the tire to make sure it doesn't leak" ></item>
+</script><script id="48" source="2"><item slot="1" original="turn bicycle upside down" ></item>
+<item slot="2" original="remove old tire" ></item>
+<item slot="3" original="place new rubber tire" ></item>
+<item slot="4" original="put outer portion of tire back on tire rim" ></item>
+<item slot="5" original="pump up tire with air" ></item>
+<item slot="6" original="ride bicycle" ></item>
+</script><script id="49" source="2"><item slot="1" original="Remove tire and rim from bicycle" ></item>
+<item slot="2" original="Remove tire from rim" ></item>
+<item slot="3" original="Locate leak on tire" ></item>
+<item slot="4" original="Get flat fixing compound" ></item>
+<item slot="5" original="Apply flat fixing compound to tire" ></item>
+<item slot="6" original="Place tire on rim" ></item>
+<item slot="7" original="Air up tire" ></item>
+<item slot="8" original="Ensure that tire holds air" ></item>
+</script><script id="50" source="2"><item slot="1" original="Find the source of the air leaking from the tire." ></item>
+<item slot="2" original="Apply a patch over the hole that is causing air to leak." ></item>
+<item slot="3" original="Wait until the glued patch is dry." ></item>
+<item slot="4" original="Add air to the tire." ></item>
+<item slot="5" original="Test the fix but riding a short distance." ></item>
+</script><script id="51" source="2"><item slot="1" original="You take tire off bike." ></item>
+<item slot="2" original="You take out tube." ></item>
+<item slot="3" original="You put tube in water to find the hole." ></item>
+<item slot="4" original="You put glue on hole." ></item>
+<item slot="5" original="Then put a patch on glue." ></item>
+<item slot="6" original="You wait for it to dry." ></item>
+<item slot="7" original="You put tube back in tire." ></item>
+<item slot="8" original="You air up tire." ></item>
+<item slot="9" original="Put tire back on bike." ></item>
+<item slot="10" original="Ride away." ></item>
+</script><script id="52" source="2"><item slot="1" original="Stand the bicycle up" ></item>
+<item slot="2" original="Locate an air pump" ></item>
+<item slot="3" original="Locate tire patches" ></item>
+<item slot="4" original="Find the hole" ></item>
+<item slot="5" original="Connect the pump to the tire" ></item>
+<item slot="6" original="Pump the tire back up" ></item>
+<item slot="7" original="Remove the pump" ></item>
+<item slot="8" original="Place patch over the hole" ></item>
+<item slot="9" original="Put the pump back" ></item>
+<item slot="10" original="Put extra patches back" ></item>
+</script><script id="53" source="2"><item slot="1" original="Buy bike tire sealer" ></item>
+<item slot="2" original="Find hole in bicycle tire" ></item>
+<item slot="3" original="Use bike tire sealer on hole" ></item>
+<item slot="4" original="Refill tire with air" ></item>
+<item slot="5" original="Test bike to make sure it holds" ></item>
+</script><script id="55" source="2"><item slot="1" original="Lay the bicycle on ground" ></item>
+<item slot="2" original="Open the valve tube nut" ></item>
+<item slot="3" original="Open the tire from rim" ></item>
+<item slot="4" original="Take out the tube from tire" ></item>
+<item slot="5" original="Fill air in the flat tire" ></item>
+<item slot="6" original="Immerse one portion of the tube in water" ></item>
+<item slot="7" original="Watch out for air bubbles to locate the punctured area" ></item>
+<item slot="8" original="Change the portion of the tube immersed in water by rotating the tube till finding the punctured area" ></item>
+<item slot="9" original="Mark the punctured area" ></item>
+<item slot="10" original="Take one adhesive puncture patch" ></item>
+<item slot="11" original="Clean the punctured area" ></item>
+<item slot="12" original="Open the protective sticker and paste it to close the puncture" ></item>
+<item slot="13" original="Press gently" ></item>
+<item slot="14" original="Put the tube back to the tire" ></item>
+<item slot="15" original="Fit the tire in rim" ></item>
+<item slot="16" original="Fill the air" ></item>
+</script><script id="56" source="2"><item slot="1" original="turn bike upside down" ></item>
+<item slot="2" original="take off wheel" ></item>
+<item slot="3" original="take off tire" ></item>
+<item slot="4" original="take tube out of tire" ></item>
+<item slot="5" original="place new tube into tire" ></item>
+<item slot="6" original="pump up tire" ></item>
+<item slot="7" original="make sure its ok" ></item>
+<item slot="8" original="put tire back on bike" ></item>
+<item slot="9" original="test out new tire." ></item>
+</script><script id="57" source="2"><item slot="1" original="Buy a bicycle repair patch" ></item>
+<item slot="2" original="use glue on patch" ></item>
+<item slot="3" original="put patch on leakage" ></item>
+<item slot="4" original="let it dry" ></item>
+<item slot="5" original="inflate the wheel" ></item>
+<item slot="6" original="dunk in water to make sure there are no air bubbles" ></item>
+</script><script id="58" source="2"><item slot="1" original="lay the cycle flat on the floor" ></item>
+<item slot="2" original="take out the tube from the tire" ></item>
+<item slot="3" original="stick repair tape on the area of puncture" ></item>
+<item slot="4" original="insert the tube back again" ></item>
+<item slot="5" original="inflate the tire" ></item>
+<item slot="6" original="ride the repaired bicycle" ></item>
+</script><script id="59" source="2"><item slot="1" original="Turn bike on side" ></item>
+<item slot="2" original="Open up tire repair kit" ></item>
+<item slot="3" original="Patch up the hole" ></item>
+<item slot="4" original="Put air into tire" ></item>
+<item slot="5" original="Ride bike" ></item>
+</script><script id="60" source="2"><item slot="1" original="Remove any foreign object from tire" ></item>
+<item slot="2" original="Buy or get repair kit and pump" ></item>
+<item slot="3" original="Apply adhesive" ></item>
+<item slot="4" original="Apply patch" ></item>
+<item slot="5" original="Let dry" ></item>
+<item slot="6" original="Pump up tire" ></item>
+</script><script id="61" source="2"><item slot="1" original="Place the bicycle on the stand" ></item>
+<item slot="2" original="Connect air pump to the flat tire" ></item>
+<item slot="3" original="Inflate the tire" ></item>
+<item slot="4" original="Check the tire for any leakages" ></item>
+<item slot="5" original="Repair any leakages or punctures" ></item>
+</script><script id="62" source="2"><item slot="1" original="Remove wheel" ></item>
+<item slot="2" original="See what needs to be repaired" ></item>
+<item slot="3" original="Gather appropriate tools/repair kit" ></item>
+<item slot="4" original="Clean area to be patched" ></item>
+<item slot="5" original="Spread glue" ></item>
+<item slot="6" original="Place patch over damaged area" ></item>
+<item slot="7" original="Inflate tire" ></item>
+<item slot="8" original="Replace wheel on bike" ></item>
+</script><script id="63" source="2"><item slot="1" original="Turn bicycle upside down" ></item>
+<item slot="2" original="Take tire and inner tube off wheel" ></item>
+<item slot="3" original="Replace inner tube" ></item>
+<item slot="4" original="Put tire with inner tube back on wheel" ></item>
+<item slot="5" original="Turn bicycle to upside" ></item>
+</script><script id="64" source="2"><item slot="1" original="Get a patch kit" ></item>
+<item slot="2" original="Remove the tire" ></item>
+<item slot="3" original="Check for holes in the tire" ></item>
+<item slot="4" original="Patch the holes" ></item>
+<item slot="5" original="Wait for patch to dry" ></item>
+<item slot="6" original="Refill the tire with air" ></item>
+<item slot="7" original="Put the tire back on bike" ></item>
+<item slot="8" original="Test the tire" ></item>
+</script><script id="65" source="2"><item slot="1" original="Remove the wheel from the bicycle" ></item>
+<item slot="2" original="Remove the bicycle tire and tube from the wheel" ></item>
+<item slot="3" original="Repair or replace the tube" ></item>
+<item slot="4" original="Install the repaired or new tube and the tire onto the wheel" ></item>
+<item slot="5" original="Inflate the tube" ></item>
+<item slot="6" original="Install the wheel onto the bicycle" ></item>
+</script><script id="66" source="2"><item slot="1" original="Check to see if there is a hole" ></item>
+<item slot="2" original="If there isn't a hole, get a pump" ></item>
+<item slot="3" original="Take the cover off of the tire valve" ></item>
+<item slot="4" original="Pump up the tire until it is at the desired pressure" ></item>
+<item slot="5" original="Ride the bike to test it out" ></item>
+</script><script id="67" source="2"><item slot="1" original="Obtain patch material and air pump" ></item>
+<item slot="2" original="Remove item penetrating from tire puncture" ></item>
+<item slot="3" original="Apply patch or plug" ></item>
+<item slot="4" original="Inflate tire to appropriate level" ></item>
+<item slot="5" original="Carefully test that patch is holding" ></item>
+</script><script id="68" source="2"><item slot="1" original="Turn bike over." ></item>
+<item slot="2" original="Remove the tire with a flat." ></item>
+<item slot="3" original="Take outer part of tire off carefully." ></item>
+<item slot="4" original="Remove inner tubing." ></item>
+<item slot="5" original="Find a patch kit." ></item>
+<item slot="6" original="Attach patch to tube." ></item>
+<item slot="7" original="Allow to dry." ></item>
+<item slot="8" original="Put tube back on tire." ></item>
+<item slot="9" original="Put outer layer of tire back on." ></item>
+<item slot="10" original="Pump tire up until firm." ></item>
+<item slot="11" original="Ride bike." ></item>
+</script><script id="69" source="2"><item slot="1" original="Get repair kit out." ></item>
+<item slot="2" original="Take off tire from bike." ></item>
+<item slot="3" original="Take the tube out of the tire." ></item>
+<item slot="4" original="Replace the tube." ></item>
+<item slot="5" original="Air up tire." ></item>
+<item slot="6" original="Put tire back on bike." ></item>
+<item slot="7" original="Put up repair kit." ></item>
+</script><script id="70" source="2"><item slot="1" original="get a patch kit" ></item>
+<item slot="2" original="find the hole" ></item>
+<item slot="3" original="patch the hole" ></item>
+<item slot="4" original="refill the air" ></item>
+<item slot="5" original="test the tire" ></item>
+<item slot="6" original="be careful" ></item>
+</script><script id="71" source="2"><item slot="1" original="Access where the tire is leaking" ></item>
+<item slot="2" original="Remove the bike tire" ></item>
+<item slot="3" original="Replace the tube" ></item>
+<item slot="4" original="Inflate the tire" ></item>
+<item slot="5" original="Check the tire once more" ></item>
+<item slot="6" original="enjoy." ></item>
+</script><script id="72" source="2"><item slot="1" original="Fill the tire with air" ></item>
+<item slot="2" original="Find the hole using soapy water to see bubbles" ></item>
+<item slot="3" original="Mark the tire" ></item>
+<item slot="4" original="Let the air out of the tire" ></item>
+<item slot="5" original="Take off the wheel" ></item>
+<item slot="6" original="Place a patch on the hole" ></item>
+<item slot="7" original="Put the tire back on the wheel" ></item>
+<item slot="8" original="Air up the tire and make sure there are no more holes" ></item>
+</script><script id="75" source="2"><item slot="1" original="Get a wrench, tire lever and a new tube" ></item>
+<item slot="2" original="Flip bike and remove wheel with wrench" ></item>
+<item slot="3" original="Use lever to pull bike tire over the edge of the rim" ></item>
+<item slot="4" original="Pull old tube out and fit in the new one" ></item>
+<item slot="5" original="Use lever to put tire back in rim." ></item>
+<item slot="6" original="Inflate tire to optimal PSI" ></item>
+<item slot="7" original="Put tire back on bike" ></item>
+</script><script id="76" source="2"><item slot="1" original="Determine if tire is damaged" ></item>
+<item slot="2" original="Get pump" ></item>
+<item slot="3" original="Unscrew valve" ></item>
+<item slot="4" original="Insert pump and fill tire" ></item>
+<item slot="5" original="Listen to determine if any air is leaking" ></item>
+<item slot="6" original="If no leak flat tire is repaired" ></item>
+<item slot="7" original="If leaking obtain tire patch or new tire" ></item>
+<item slot="8" original="Apply patch to leak" ></item>
+<item slot="9" original="refill with air" ></item>
+<item slot="10" original="If tire still leaks, buy new tire" ></item>
+<item slot="11" original="Remove old tire" ></item>
+<item slot="12" original="Replace with new tire" ></item>
+</script><script id="77" source="2"><item slot="1" original="Go to a store" ></item>
+<item slot="2" original="Purchase a bicycle tire repair kit" ></item>
+<item slot="3" original="Go home" ></item>
+<item slot="4" original="Flip bike upside down" ></item>
+<item slot="5" original="Locate hole in tire" ></item>
+<item slot="6" original="Apply tire patch" ></item>
+<item slot="7" original="Refill tire with air" ></item>
+<item slot="8" original="Flip bike back right side up" ></item>
+<item slot="9" original="Ride bike" ></item>
+</script><script id="78" source="2"><item slot="1" original="Get tools for the job" ></item>
+<item slot="2" original="Unscrew the bolts holding the tire in place" ></item>
+<item slot="3" original="Remove the old tire" ></item>
+<item slot="4" original="Remove the outside rubber from the inner balloon" ></item>
+<item slot="5" original="Replace inner ballon" ></item>
+<item slot="6" original="Place tire back on bicycle" ></item>
+<item slot="7" original="Screw the tire to secure it in place." ></item>
+</script><script id="79" source="2"><item slot="1" original="Remove wheel from bike" ></item>
+<item slot="2" original="Remove flat tire from rim" ></item>
+<item slot="3" original="Take out inner tube" ></item>
+<item slot="4" original="Pump up tube" ></item>
+<item slot="5" original="Find the hole where air is leaking out" ></item>
+<item slot="6" original="Use a patch kit to repair hole" ></item>
+<item slot="7" original="Let glue dry" ></item>
+<item slot="8" original="Pump air into tube to test" ></item>
+<item slot="9" original="If not airtight, repeat from step 5" ></item>
+<item slot="10" original="If airtight, put tube back in tire" ></item>
+<item slot="11" original="Put repaired tire back on rim" ></item>
+<item slot="12" original="Put wheel back on bike" ></item>
+<item slot="13" original="Ride away" ></item>
+</script><script id="80" source="2"><item slot="1" original="Properly rest the bike, then unscrew the nuts on the tire." ></item>
+<item slot="2" original="Remove the tire and use a screwdriver to peel the rubber off." ></item>
+<item slot="3" original="Take out the inner-tube and find the nozzle to pump air in." ></item>
+<item slot="4" original="Get a pump and stick it in to the nozzle and adjust it so air moves through." ></item>
+<item slot="5" original="Apply air, and when it feels full enough, re-place the tube in the rubber and on the bike." ></item>
+</script><script id="81" source="2"><item slot="1" original="Get the bike" ></item>
+<item slot="2" original="Remove the flat tire" ></item>
+<item slot="3" original="Get another tire" ></item>
+<item slot="4" original="Replace the old tire with this one" ></item>
+<item slot="5" original="Ride the bike" ></item>
+</script><script id="82" source="2"><item slot="1" original="Pull off the road safely." ></item>
+<item slot="2" original="Look for visible punctures." ></item>
+<item slot="3" original="Remove tire using your tools." ></item>
+<item slot="4" original="Observe tube for punctures and/or tears." ></item>
+<item slot="5" original="Patch or replace the tube." ></item>
+<item slot="6" original="Re-install tube into tire and put it back on." ></item>
+<item slot="7" original="Check for proper inflation." ></item>
+<item slot="8" original="Keep riding." ></item>
+</script><script id="83" source="2"><item slot="1" original="Check the air pressure in the tire." ></item>
+<item slot="2" original="Grab the bicycle pump." ></item>
+<item slot="3" original="Remove the inner tubing of the tire from the tire and the wheel if necessary." ></item>
+<item slot="4" original="Unscrew the cap on the tube." ></item>
+<item slot="5" original="Place the pump's opening on the tube." ></item>
+<item slot="6" original="Begin pumping." ></item>
+<item slot="7" original="Go slowly and check the tire's pressure as you pump." ></item>
+<item slot="8" original="When it is filled, remove the pump and screw the cap back on." ></item>
+<item slot="9" original="Go ride your bike." ></item>
+</script><script id="84" source="2"><item slot="1" original="get new bicycle tire and wrench" ></item>
+<item slot="2" original="wrench out the flat tire from bicycle" ></item>
+<item slot="3" original="wrench in the new bicycle tire" ></item>
+<item slot="4" original="put wrench away" ></item>
+<item slot="5" original="throw flat tire away or recycle it" ></item>
+</script><script id="85" source="2"><item slot="1" original="Take the tire off" ></item>
+<item slot="2" original="Go to a bicycle shop" ></item>
+<item slot="3" original="Buy a new tire" ></item>
+<item slot="4" original="Replace the tire" ></item>
+<item slot="5" original="Ride your bicycle" ></item>
+</script><script id="86" source="2"><item slot="1" original="Go to the store" ></item>
+<item slot="2" original="Find a replacement bicycle tire" ></item>
+<item slot="3" original="Buy the replacement bicycle tire" ></item>
+<item slot="4" original="remove the flat tire from the bicycle" ></item>
+<item slot="5" original="Install the new tire" ></item>
+</script><script id="87" source="2"><item slot="1" original="Get air pump" ></item>
+<item slot="2" original="Inspect tire" ></item>
+<item slot="3" original="Locate puncture point" ></item>
+<item slot="4" original="Stitch puncture point" ></item>
+<item slot="5" original="Insert air pump into tire" ></item>
+<item slot="6" original="Pump air into tire" ></item>
+<item slot="7" original="Eject air pump from tire" ></item>
+<item slot="8" original="Test bike by riding" ></item>
+</script><script id="88" source="2"><item slot="1" original="remove tire" ></item>
+<item slot="2" original="remove tube" ></item>
+<item slot="3" original="find hole in tube" ></item>
+<item slot="4" original="skuff the tube up" ></item>
+<item slot="5" original="apply glue" ></item>
+<item slot="6" original="apply the patch" ></item>
+<item slot="7" original="let the patch dry" ></item>
+<item slot="8" original="pump up the tube to see if it hold pressure" ></item>
+<item slot="9" original="put tube back on rim" ></item>
+<item slot="10" original="put tire back on rim" ></item>
+<item slot="11" original="pump the tube back up to full pressure" ></item>
+<item slot="12" original="enjoy fixed bicycle." ></item>
+</script><script id="89" source="2"><item slot="1" original="Obtain a bicycle pump and new tire tube." ></item>
+<item slot="2" original="Remove the flat tire from the bicycle." ></item>
+<item slot="3" original="Remove the rubber part of the tire from the wheel." ></item>
+<item slot="4" original="Inspect the rubber for damage. If it is heavily damaged obtain a new one." ></item>
+<item slot="5" original="Remove the inner tire tube." ></item>
+<item slot="6" original="Insert the new inner tire tube into the rubber of the tire." ></item>
+<item slot="7" original="Put the tire back on the wheel." ></item>
+<item slot="8" original="Inflate the new tire tube to the proper pressure." ></item>
+<item slot="9" original="Place the wheel back onto the bicycle." ></item>
+</script><script id="90" source="2"><item slot="1" original="Obtain new tire tube." ></item>
+<item slot="2" original="Put bike on bike stand, or flipped resting on seat / handlebars." ></item>
+<item slot="3" original="Remove bolts or quick release to get tire off the bike." ></item>
+<item slot="4" original="Life the edges of the tire and work off rim." ></item>
+<item slot="5" original="Remove old tire tube." ></item>
+<item slot="6" original="Replace with new tire tube." ></item>
+<item slot="7" original="Put tire back on rim." ></item>
+<item slot="8" original="Inflate tire" ></item>
+<item slot="9" original="Put rim back on bike." ></item>
+</script><script id="91" source="2"><item slot="1" original="Take the tire and check for leaks." ></item>
+<item slot="2" original="Pump the tire up to check for leaks." ></item>
+<item slot="3" original="If there are no leaks then you have to buy a new tube." ></item>
+<item slot="4" original="Take tire off." ></item>
+<item slot="5" original="Take out leaking tube." ></item>
+<item slot="6" original="Put new tube into tire." ></item>
+<item slot="7" original="Put tire back on rim." ></item>
+<item slot="8" original="Pump up tire." ></item>
+</script><script id="92" source="2"><item slot="1" original="Inspect tire to determine if popped or just low on air" ></item>
+<item slot="2" original="If just flat but not popped, find air compressor" ></item>
+<item slot="3" original="Remove valve cap by unscrewing" ></item>
+<item slot="4" original="Attach air compressor hose" ></item>
+<item slot="5" original="Turn on compressor" ></item>
+<item slot="6" original="Fill tire with air until feels full" ></item>
+<item slot="7" original="Remove compressor hose" ></item>
+<item slot="8" original="Put valve cap back on" ></item>
+<item slot="9" original="Check other tire" ></item>
+</script><script id="93" source="2"><item slot="1" original="Pull over to side of the road" ></item>
+<item slot="2" original="Have a bike pump handy" ></item>
+<item slot="3" original="Grab spare tire" ></item>
+<item slot="4" original="Make sure spare tire has enough air in it" ></item>
+<item slot="5" original="Unbolt tire." ></item>
+<item slot="6" original="Remove flat tire" ></item>
+<item slot="7" original="Fasten spare tire on." ></item>
+<item slot="8" original="Make sure everything is tight" ></item>
+</script><script id="94" source="2"><item slot="1" original="Deflate old tire" ></item>
+<item slot="2" original="Get hex wrench" ></item>
+<item slot="3" original="Unscrew wheel off bike" ></item>
+<item slot="4" original="Take off outer protective shell" ></item>
+<item slot="5" original="Take off inner tube" ></item>
+<item slot="6" original="Place in water to determine puncture" ></item>
+<item slot="7" original="Spread glue on area" ></item>
+<item slot="8" original="Place inner tube back on wheel" ></item>
+<item slot="9" original="Place outer protective shell" ></item>
+<item slot="10" original="Pump air into tire" ></item>
+<item slot="11" original="Screw back the wheel on bike" ></item>
+</script><script id="95" source="2"><item slot="1" original="Release the brakes of the bike that holds the flat wheel" ></item>
+<item slot="2" original="Remove the flat wheel from the bicycle" ></item>
+<item slot="3" original="Check for damage of tire" ></item>
+<item slot="4" original="Decide if the tire is flat because of natural deflation or a hole in the tube and tire" ></item>
+<item slot="5" original="(If natural deflation) re-inflate tire with air pump" ></item>
+<item slot="6" original="(if hole in tube and/or tire) Replace the tube if damaged" ></item>
+<item slot="7" original="Repair tire (Patch) or replace tire depending on the damage of the tire." ></item>
+<item slot="8" original="Re-inflate the bike wheel tube" ></item>
+<item slot="9" original="Re-install the wheel to the bike" ></item>
+<item slot="10" original="Re-install the brakes" ></item>
+<item slot="11" original="Try new tire a bit with the bike before using it regularly." ></item>
+<item slot="12" original="Check wheel tire pressure after test ride." ></item>
+<item slot="13" original="Enjoy new bike wheel" ></item>
+</script><script id="96" source="2"><item slot="1" original="Remove tire from bicycle" ></item>
+<item slot="2" original="Take tire to bike shop" ></item>
+<item slot="3" original="Give tire to shop owner to be fixed" ></item>
+<item slot="4" original="Take tire home" ></item>
+<item slot="5" original="Put fixed tire on bike" ></item>
+</script><script id="97" source="2"><item slot="1" original="find the hole in the bicycle tire" ></item>
+<item slot="2" original="get appropriate tools (e.g. wrench)" ></item>
+<item slot="3" original="disassemble the tire from the base" ></item>
+<item slot="4" original="locate the hole and remove whatever punctured the flat" ></item>
+<item slot="5" original="patch up the flat tire" ></item>
+<item slot="6" original="if not able to repair, purchase a new tire" ></item>
+<item slot="7" original="fill up the tire with air" ></item>
+<item slot="8" original="make sure tire is still not leaking air" ></item>
+<item slot="9" original="reassemble the tire to the bicycle" ></item>
+<item slot="10" original="ride your bicycle" ></item>
+</script><script id="98" source="2"><item slot="1" original="Retrieve Fix-a-Flat from garage" ></item>
+<item slot="2" original="Take nipple cap off bike tire" ></item>
+<item slot="3" original="Remove cap on Fix-a-Flat" ></item>
+<item slot="4" original="Hook Fix-a-Flat to bicycle tire nipple" ></item>
+<item slot="5" original="Inflate bicycle tire with Fix-a-Flat" ></item>
+<item slot="6" original="Replace nipple cap on bicycle tire" ></item>
+<item slot="7" original="Replace cap on Fix-a-Flat canister." ></item>
+<item slot="8" original="Put Fix-a-Flat back in garage." ></item>
+<item slot="9" original="Ride bicycle around." ></item>
+<item slot="10" original="Get secondary flat." ></item>
+<item slot="11" original="Have a parent or competent friend fix bicycle tire." ></item>
+</script></scripts>

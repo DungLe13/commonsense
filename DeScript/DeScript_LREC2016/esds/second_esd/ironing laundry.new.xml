@@ -1,0 +1,782 @@
+<scripts><script id="0" source="2"><item slot="1" original="get wrinkled laundry" ></item>
+<item slot="2" original="place wrinkled laundry on ironing board" ></item>
+<item slot="3" original="get iron" ></item>
+<item slot="4" original="plug in iron" ></item>
+<item slot="5" original="place iron on ironing board" ></item>
+<item slot="6" original="allow iron to heat up" ></item>
+<item slot="7" original="iron one side of the piece of laundry" ></item>
+<item slot="8" original="iron the other side of the piece of laundry" ></item>
+<item slot="9" original="turn off iron" ></item>
+<item slot="10" original="allow iron to cool" ></item>
+<item slot="11" original="put iron away" ></item>
+<item slot="12" original="put ironed laundry away" ></item>
+</script><script id="1" source="2"><item slot="1" original="Set up ironing board." ></item>
+<item slot="2" original="Fill iron with water." ></item>
+<item slot="3" original="Plug in iron and let it heat up." ></item>
+<item slot="4" original="Gather laundry to be ironed." ></item>
+<item slot="5" original="Lay item on ironing board and iron it." ></item>
+<item slot="6" original="Hang up item on a hangar." ></item>
+</script><script id="2" source="2"><item slot="1" original="Set up ironing board" ></item>
+<item slot="2" original="Plug in iron and turn on" ></item>
+<item slot="3" original="Fill water compartment" ></item>
+<item slot="4" original="Get clothes to iron" ></item>
+<item slot="5" original="Get hangers" ></item>
+<item slot="6" original="Lay item on the board and press with iron until done" ></item>
+<item slot="7" original="Hang up item" ></item>
+<item slot="8" original="Repeat with other items" ></item>
+</script><script id="3" source="2"><item slot="1" original="picking up article of clothing" ></item>
+<item slot="2" original="placing clothing on ironing board" ></item>
+<item slot="3" original="turning iron on" ></item>
+<item slot="4" original="wait for iron to get hot" ></item>
+<item slot="5" original="place iron on clothing" ></item>
+<item slot="6" original="move back and forth" ></item>
+</script><script id="5" source="2"><item slot="1" original="Get wrinkled clothes" ></item>
+<item slot="2" original="Get ironing board" ></item>
+<item slot="3" original="Get iron" ></item>
+<item slot="4" original="Put clothes on Ironing board" ></item>
+<item slot="5" original="Iron them" ></item>
+<item slot="6" original="Hang the clothes back up when finished" ></item>
+</script><script id="6" source="2"><item slot="1" original="Unfold ironing board" ></item>
+<item slot="2" original="Retrieve iron" ></item>
+<item slot="3" original="Plug it in" ></item>
+<item slot="4" original="Turn it on" ></item>
+<item slot="5" original="Retrieve select clothing item" ></item>
+<item slot="6" original="Lay on ironing board" ></item>
+<item slot="7" original="Glide iron across material" ></item>
+</script><script id="7" source="2"><item slot="1" original="Take clothes out of dryer." ></item>
+<item slot="2" original="Put water in iron." ></item>
+<item slot="3" original="Plug in and turn on iron." ></item>
+<item slot="4" original="Put clothes to be ironed on ironing board." ></item>
+<item slot="5" original="Straighten piece of clothes by hand." ></item>
+<item slot="6" original="Run iron over clothes." ></item>
+<item slot="7" original="Flip piece of clothes." ></item>
+<item slot="8" original="Run iron over other side." ></item>
+</script><script id="8" source="2"><item slot="1" original="Unfold ironing board" ></item>
+<item slot="2" original="Place laundry on board" ></item>
+<item slot="3" original="Plug in iron" ></item>
+<item slot="4" original="Wait for iron to heat up" ></item>
+<item slot="5" original="Rub iron on clothes" ></item>
+</script><script id="10" source="2"><item slot="1" original="Set up ironing board" ></item>
+<item slot="2" original="Align clothes on top of board" ></item>
+<item slot="3" original="Plug in iron" ></item>
+<item slot="4" original="Adjust setting" ></item>
+<item slot="5" original="Iron clothes" ></item>
+<item slot="6" original="Repeat if necessary" ></item>
+</script><script id="11" source="2"><item slot="1" original="Gather clean items." ></item>
+<item slot="2" original="Open ironing board." ></item>
+<item slot="3" original="Lay clothes one at a time on board." ></item>
+<item slot="4" original="Plug in and heat up iron." ></item>
+<item slot="5" original="Carefully and quickly run hot item over clothes." ></item>
+<item slot="6" original="Smooth out wrinkles." ></item>
+<item slot="7" original="Use steam when necessary." ></item>
+<item slot="8" original="When done, unplug iron and sit upright to cool." ></item>
+<item slot="9" original="When cool put away." ></item>
+</script><script id="12" source="2"><item slot="1" original="Set up ironing board" ></item>
+<item slot="2" original="Put water in iron if needed" ></item>
+<item slot="3" original="Turn on iron to optimal setting" ></item>
+<item slot="4" original="Place clothing flat onto ironing board" ></item>
+<item slot="5" original="When heated, gently brush iron over clothing" ></item>
+<item slot="6" original="Brush iron over clothing for only a few seconds at a time" ></item>
+<item slot="7" original="Repeat until wrinkles are removed from clothing" ></item>
+<item slot="8" original="Turn off iron and set aside" ></item>
+<item slot="9" original="Hang up ironed clothes" ></item>
+<item slot="10" original="Put away iron and ironing board" ></item>
+</script><script id="13" source="2"><item slot="1" original="take laundry out of dryer" ></item>
+<item slot="2" original="get out ironing board" ></item>
+<item slot="3" original="get out iron" ></item>
+<item slot="4" original="plug it in" ></item>
+<item slot="5" original="turn it on" ></item>
+<item slot="6" original="place clothes on board" ></item>
+<item slot="7" original="place iron on top of clothes moving it back and forth until no wrinkles" ></item>
+</script><script id="14" source="2"><item slot="1" original="Take the laundry clothes" ></item>
+<item slot="2" original="Switch on the iron box" ></item>
+<item slot="3" original="Leave it for some times" ></item>
+<item slot="4" original="Iron the clothes" ></item>
+<item slot="5" original="Switch off the Iron box" ></item>
+</script><script id="15" source="2"><item slot="1" original="Set up the ironing board" ></item>
+<item slot="2" original="Plug in the iron" ></item>
+<item slot="3" original="Turn the iron to the setting that you need" ></item>
+<item slot="4" original="Make sure water is in iron" ></item>
+<item slot="5" original="If no water, add water" ></item>
+<item slot="6" original="Place article of clothing on ironing board" ></item>
+<item slot="7" original="Spread out clothing so that it is flat on the board" ></item>
+<item slot="8" original="Check to make sure iron is hot" ></item>
+<item slot="9" original="Place iron on clothing" ></item>
+<item slot="10" original="Move iron around carefully until wrinkles are no longer in clothing" ></item>
+<item slot="11" original="Remove clothing from ironing board" ></item>
+</script><script id="16" source="2"><item slot="1" original="Plug in iron so it can start heating up" ></item>
+<item slot="2" original="Set up ironing board" ></item>
+<item slot="3" original="Check clothing labels for type of material" ></item>
+<item slot="4" original="Set iron to correct setting depending on material type" ></item>
+<item slot="5" original="Place garment on ironing board" ></item>
+<item slot="6" original="Slowly rub iron over clothing pressing out any wrinkles" ></item>
+<item slot="7" original="Fold or hang up ironed clothing" ></item>
+</script><script id="17" source="2"><item slot="1" original="Select the clothes to be ironed" ></item>
+<item slot="2" original="Set up the ironing board" ></item>
+<item slot="3" original="Plug in the iron, to make it hot" ></item>
+<item slot="4" original="Place the cloth on the ironing board" ></item>
+<item slot="5" original="Iron the cloth(s)" ></item>
+</script><script id="18" source="2"><item slot="1" original="Set up ironing board" ></item>
+<item slot="2" original="plug in iron" ></item>
+<item slot="3" original="lay clothing on ironing board" ></item>
+<item slot="4" original="pick up iron and iron laundry" ></item>
+<item slot="5" original="carefully fold or hang up ironed clothing" ></item>
+<item slot="6" original="unplug iron" ></item>
+<item slot="7" original="fold up ironing board" ></item>
+<item slot="8" original="put board and iron away" ></item>
+</script><script id="19" source="2"><item slot="1" original="Get laundry" ></item>
+<item slot="2" original="Put on ironing board" ></item>
+<item slot="3" original="Plug in iron" ></item>
+<item slot="4" original="Wait for iron to heat" ></item>
+<item slot="5" original="Run iron on clothes one at a time" ></item>
+<item slot="6" original="Turn iron off" ></item>
+</script><script id="20" source="2"><item slot="1" original="Take laundry" ></item>
+<item slot="2" original="Check tags" ></item>
+<item slot="3" original="Fill iron" ></item>
+<item slot="4" original="Choose right setting" ></item>
+<item slot="5" original="Iron clothes" ></item>
+<item slot="6" original="Fold clothes" ></item>
+<item slot="7" original="Put clothes in wardrobe" ></item>
+</script><script id="21" source="2"><item slot="1" original="Take an item of clothing and put it over the ironing board." ></item>
+<item slot="2" original="Add water to iron." ></item>
+<item slot="3" original="Plug in iron." ></item>
+<item slot="4" original="Run iron over the clothes until all wrinkles are gone." ></item>
+<item slot="5" original="Turn clothing item over and run the iron over the opposite side." ></item>
+<item slot="6" original="Unplug iron and put on its side." ></item>
+</script><script id="22" source="2"><item slot="1" original="Get ironing board" ></item>
+<item slot="2" original="Turn on iron - wait to heat up" ></item>
+<item slot="3" original="Spray laundry with water" ></item>
+<item slot="4" original="Run iron over laundry" ></item>
+<item slot="5" original="Get out all wrinkles" ></item>
+<item slot="6" original="Hang laundry" ></item>
+<item slot="7" original="Repeat until finished" ></item>
+<item slot="8" original="Turn iron off" ></item>
+<item slot="9" original="Put ironing board away" ></item>
+</script><script id="23" source="2"><item slot="1" original="Turn on iron" ></item>
+<item slot="2" original="Adjust to desired temperature" ></item>
+<item slot="3" original="Place one piece of laundry on ironing board" ></item>
+<item slot="4" original="Iron clothing until smooth" ></item>
+<item slot="5" original="Repeat for each piece of laundry" ></item>
+<item slot="6" original="Turn iron off" ></item>
+<item slot="7" original="Put clothes away" ></item>
+</script><script id="24" source="2"><item slot="1" original="Gather wrinkled clothes" ></item>
+<item slot="2" original="Gather ironing board" ></item>
+<item slot="3" original="Gather clothes iron" ></item>
+<item slot="4" original="Place wrinkled clothes onto ironing board" ></item>
+<item slot="5" original="use clothes iron to remove wrinkles" ></item>
+</script><script id="25" source="2"><item slot="1" original="Check clothes for wrinkles." ></item>
+<item slot="2" original="Set up ironing board." ></item>
+<item slot="3" original="Plug in iron." ></item>
+<item slot="4" original="Turn on iron." ></item>
+<item slot="5" original="Set to appropriate heat level." ></item>
+<item slot="6" original="Place clothes on board." ></item>
+<item slot="7" original="Iron clothes until free of wrinkles." ></item>
+<item slot="8" original="Remove clothes from board." ></item>
+<item slot="9" original="turn off iron." ></item>
+<item slot="10" original="Replace board to resting spot." ></item>
+<item slot="11" original="Wear clothes." ></item>
+</script><script id="26" source="2"><item slot="1" original="Set up ironing board." ></item>
+<item slot="2" original="Plug in and turn on iron." ></item>
+<item slot="3" original="Fill iron with water." ></item>
+<item slot="4" original="Iron collar of shirt." ></item>
+<item slot="5" original="Iron the yoke on back of shirt." ></item>
+<item slot="6" original="Iron each sleeve of the shirt." ></item>
+<item slot="7" original="Starting with one side, iron body of shirt." ></item>
+<item slot="8" original="Hang up shirt in closet." ></item>
+<item slot="9" original="Iron other clothes." ></item>
+</script><script id="28" source="2"><item slot="1" original="plug in and turn on clothing iron" ></item>
+<item slot="2" original="place clothing flat on ironing board" ></item>
+<item slot="3" original="run the iron flat along the clothing until wrinkles are no longer evident" ></item>
+<item slot="4" original="move the clothing as necessary to flatten additional surfaces" ></item>
+<item slot="5" original="hang the clothing" ></item>
+<item slot="6" original="turn off the iron, being careful not to let it touch anything it could damage" ></item>
+<item slot="7" original="once the iron cools, put it and the ironing board away" ></item>
+</script><script id="29" source="2"><item slot="1" original="Gather laundry" ></item>
+<item slot="2" original="Set up ironing board" ></item>
+<item slot="3" original="Get iron" ></item>
+<item slot="4" original="Plug in iron" ></item>
+<item slot="5" original="Lay item to iron on ironing board" ></item>
+<item slot="6" original="Run iron over item until smooth" ></item>
+<item slot="7" original="Fold clothing" ></item>
+<item slot="8" original="Put on pile" ></item>
+<item slot="9" original="Repeat item 5-8 until done" ></item>
+</script><script id="30" source="2"><item slot="1" original="grab cloth" ></item>
+<item slot="2" original="spread on iron board" ></item>
+<item slot="3" original="plug in iron" ></item>
+<item slot="4" original="iron cloth" ></item>
+<item slot="5" original="place on hanger" ></item>
+</script><script id="31" source="2"><item slot="1" original="Get ironing board." ></item>
+<item slot="2" original="Set up ironing board." ></item>
+<item slot="3" original="Fill iron with water." ></item>
+<item slot="4" original="Set clothing up." ></item>
+<item slot="5" original="Plug in iron." ></item>
+<item slot="6" original="Spray clothing with startch." ></item>
+<item slot="7" original="Iron clothing." ></item>
+</script><script id="32" source="2"><item slot="1" original="Gather wrinkled laundry." ></item>
+<item slot="2" original="Heat up iron." ></item>
+<item slot="3" original="Put clothes on ironing board flat." ></item>
+<item slot="4" original="Move hot iron over wrinkles." ></item>
+<item slot="5" original="Hang up laundry." ></item>
+</script><script id="33" source="2"><item slot="1" original="Fill iron with water" ></item>
+<item slot="2" original="Plug in iron" ></item>
+<item slot="3" original="Adjust iron temperature" ></item>
+<item slot="4" original="Wait for iron to heat up" ></item>
+<item slot="5" original="Place item on ironing board" ></item>
+<item slot="6" original="Smooth out wrinkles" ></item>
+<item slot="7" original="Hang up item" ></item>
+<item slot="8" original="Turn off iron" ></item>
+</script><script id="34" source="2"><item slot="1" original="Gather clothes" ></item>
+<item slot="2" original="Grab ironing board" ></item>
+<item slot="3" original="Set up ironing board" ></item>
+<item slot="4" original="Get iron" ></item>
+<item slot="5" original="Plug in iron" ></item>
+<item slot="6" original="Turn iron on and let it heat-up" ></item>
+<item slot="7" original="Iron clothes" ></item>
+<item slot="8" original="Fold clothes" ></item>
+<item slot="9" original="Unplug iron" ></item>
+<item slot="10" original="Fold ironing board" ></item>
+<item slot="11" original="Put laundry, ironing board and iron away" ></item>
+</script><script id="35" source="2"><item slot="1" original="Get laundry out of dryer." ></item>
+<item slot="2" original="Put it in basket" ></item>
+<item slot="3" original="Take basket upstairs" ></item>
+<item slot="4" original="Take article out of basket" ></item>
+<item slot="5" original="Put on the ironing board" ></item>
+<item slot="6" original="Iron it." ></item>
+<item slot="7" original="Take it off board." ></item>
+<item slot="8" original="Repeat." ></item>
+</script><script id="36" source="2"><item slot="1" original="take washed clothes" ></item>
+<item slot="2" original="take out the iron" ></item>
+<item slot="3" original="spread out clothes on ironing board" ></item>
+<item slot="4" original="connect iron to the electric plug" ></item>
+<item slot="5" original="let it heat" ></item>
+<item slot="6" original="iron the clothes from top to bottom" ></item>
+<item slot="7" original="fold the clothes" ></item>
+<item slot="8" original="repeat for other clothes" ></item>
+</script><script id="37" source="2"><item slot="1" original="take clean laundry out of dryer" ></item>
+<item slot="2" original="put laundry into laundry basket" ></item>
+<item slot="3" original="take basket to ironing board" ></item>
+<item slot="4" original="turn on iron" ></item>
+<item slot="5" original="iron wrinkled clothes" ></item>
+<item slot="6" original="hang ironed clothes in closet" ></item>
+</script><script id="38" source="2"><item slot="1" original="get ironing board out and set up" ></item>
+<item slot="2" original="heat up iron" ></item>
+<item slot="3" original="place laundry on board" ></item>
+<item slot="4" original="run iron over laundry" ></item>
+<item slot="5" original="put everything away" ></item>
+</script><script id="39" source="2"><item slot="1" original="Take laundry" ></item>
+<item slot="2" original="Place laundry aside" ></item>
+<item slot="3" original="Get an ironing board" ></item>
+<item slot="4" original="Place laundry on ironing board" ></item>
+<item slot="5" original="Ready an iron" ></item>
+<item slot="6" original="Iron your clothing" ></item>
+</script><script id="40" source="2"><item slot="1" original="Set up ironing board" ></item>
+<item slot="2" original="Plug in iron" ></item>
+<item slot="3" original="Add water to iron" ></item>
+<item slot="4" original="Preheat iron" ></item>
+<item slot="5" original="Get clothes to iron" ></item>
+<item slot="6" original="Place clothes on ironing board" ></item>
+<item slot="7" original="Iron clothes flat" ></item>
+<item slot="8" original="Unplug iron" ></item>
+<item slot="9" original="Fold up ironing board" ></item>
+</script><script id="41" source="2"><item slot="1" original="Get clothes" ></item>
+<item slot="2" original="find iron" ></item>
+<item slot="3" original="put clothes on iron board" ></item>
+<item slot="4" original="turn iron on" ></item>
+<item slot="5" original="start ironing clothes" ></item>
+</script><script id="42" source="2"><item slot="1" original="Set up ironing board." ></item>
+<item slot="2" original="Grab iron." ></item>
+<item slot="3" original="Plug iron in to wall outlet." ></item>
+<item slot="4" original="Place iron on ironing board vertically." ></item>
+<item slot="5" original="Get laundry." ></item>
+<item slot="6" original="Spread out each laundered item." ></item>
+<item slot="7" original="Iron clothes." ></item>
+</script><script id="43" source="2"><item slot="1" original="Open ironing board" ></item>
+<item slot="2" original="Plug in iron" ></item>
+<item slot="3" original="Lay clothing out on ironing board" ></item>
+<item slot="4" original="Pass iron over clothing" ></item>
+<item slot="5" original="Flip clothing over" ></item>
+<item slot="6" original="Pass iron over clothing" ></item>
+<item slot="7" original="Fold clothing" ></item>
+<item slot="8" original="Un-plug iron" ></item>
+</script><script id="44" source="2"><item slot="1" original="Get out ironing board." ></item>
+<item slot="2" original="Get out iron." ></item>
+<item slot="3" original="Plug in iron and wait for it to heat." ></item>
+<item slot="4" original="Put clothing on the ironing board." ></item>
+<item slot="5" original="Iron out the wrinkles." ></item>
+<item slot="6" original="Hang up the clothing." ></item>
+</script><script id="45" source="2"><item slot="1" original="Get out iron, ironing board, clothes" ></item>
+<item slot="2" original="Plug in iron" ></item>
+<item slot="3" original="Wait a moment for iron to heat up" ></item>
+<item slot="4" original="Run iron over clothing slowly" ></item>
+<item slot="5" original="Make sure not to set the iron on the clothing or it will burn" ></item>
+<item slot="6" original="When wrinkles are gone, hang clothing up carefully" ></item>
+<item slot="7" original="Turn off iron" ></item>
+<item slot="8" original="Let iron cool before putting it away" ></item>
+</script><script id="46" source="2"><item slot="1" original="Get out ironing board and iron" ></item>
+<item slot="2" original="Set up the board" ></item>
+<item slot="3" original="Plug in the iron" ></item>
+<item slot="4" original="Gather laundry in a basket" ></item>
+<item slot="5" original="Choose item to iron" ></item>
+<item slot="6" original="Place on board" ></item>
+<item slot="7" original="Iron item" ></item>
+<item slot="8" original="Put item on hanger" ></item>
+<item slot="9" original="Hang in closet" ></item>
+</script><script id="47" source="2"><item slot="1" original="Get ironing board" ></item>
+<item slot="2" original="Set up ironing board" ></item>
+<item slot="3" original="Fill iron with water" ></item>
+<item slot="4" original="Plug in iron" ></item>
+<item slot="5" original="Wait for iron to heat up" ></item>
+<item slot="6" original="Arrange garment on ironing board" ></item>
+<item slot="7" original="Press and move iron on garment" ></item>
+<item slot="8" original="Hang up garment" ></item>
+<item slot="9" original="Iron other garments" ></item>
+<item slot="10" original="Unplug iron" ></item>
+<item slot="11" original="Wait for iron to cool" ></item>
+<item slot="12" original="Put iron away" ></item>
+<item slot="13" original="Fold ironing table and put away" ></item>
+</script><script id="48" source="2"><item slot="1" original="Get basket of clean clothes that need to be ironed." ></item>
+<item slot="2" original="Set up iron board." ></item>
+<item slot="3" original="Put water in iron." ></item>
+<item slot="4" original="Plug in the iron." ></item>
+<item slot="5" original="Wait for iron to warm-up." ></item>
+<item slot="6" original="Place laundry on the ironing board one by one." ></item>
+<item slot="7" original="Iron clothes one by one until finished." ></item>
+<item slot="8" original="Unplug the iron." ></item>
+<item slot="9" original="Hang up the ironed clothes." ></item>
+<item slot="10" original="Put iron and ironing board away." ></item>
+</script><script id="49" source="2"><item slot="1" original="Get out the ironing board" ></item>
+<item slot="2" original="Get out the iron" ></item>
+<item slot="3" original="Plug in the iron" ></item>
+<item slot="4" original="Wait for it to heat up" ></item>
+<item slot="5" original="Put the clothes board" ></item>
+<item slot="6" original="Iron" ></item>
+<item slot="7" original="Unplug iron" ></item>
+<item slot="8" original="Let it cool" ></item>
+<item slot="9" original="Put the board away" ></item>
+<item slot="10" original="Put the iron away" ></item>
+</script><script id="50" source="2"><item slot="1" original="Take a shirt out of the laundry basket" ></item>
+<item slot="2" original="Put it on the ironing board" ></item>
+<item slot="3" original="Plug in the iron" ></item>
+<item slot="4" original="For it to heat up" ></item>
+<item slot="5" original="Iron the shirt" ></item>
+</script><script id="51" source="2"><item slot="1" original="Obtain laundry that needs to be ironed" ></item>
+<item slot="2" original="Get ironing board and iron" ></item>
+<item slot="3" original="Heat up iron" ></item>
+<item slot="4" original="Place clothes on board" ></item>
+<item slot="5" original="Iron out clothes" ></item>
+</script><script id="52" source="2"><item slot="1" original="SET UP IRONING BOARD" ></item>
+<item slot="2" original="TURN ON IRON" ></item>
+<item slot="3" original="GET CLOTHES THAT NEED IRONING" ></item>
+<item slot="4" original="IRON THE CLOTHES" ></item>
+<item slot="5" original="HANG THEM ON HANGERS" ></item>
+<item slot="6" original="COMPLETE UNTIL ALL CLOTHES ARE DONE" ></item>
+</script><script id="53" source="2"><item slot="1" original="set up ironing board" ></item>
+<item slot="2" original="put water in iron" ></item>
+<item slot="3" original="plug in iron" ></item>
+<item slot="4" original="put shirt on ironing board" ></item>
+<item slot="5" original="iron each section of shirt" ></item>
+<item slot="6" original="make sure there are no wrinkles" ></item>
+<item slot="7" original="repeat until all clothes are done" ></item>
+<item slot="8" original="put away iron" ></item>
+<item slot="9" original="put away ironing board" ></item>
+</script><script id="54" source="2"><item slot="1" original="Set up ironing board and iron" ></item>
+<item slot="2" original="Get laundry basket" ></item>
+<item slot="3" original="Sort laundry to be ironed" ></item>
+<item slot="4" original="Iron a piece of laundry" ></item>
+<item slot="5" original="Hang up the laundry after it is ironed" ></item>
+<item slot="6" original="Iron the next pieces of laundry until all ironed and hung up" ></item>
+<item slot="7" original="Put away laundry basket" ></item>
+<item slot="8" original="Put away iron and ironing board" ></item>
+</script><script id="55" source="2"><item slot="1" original="Collect all laundry to be ironed" ></item>
+<item slot="2" original="Place the clothes on the ironing table" ></item>
+<item slot="3" original="Switch on the Iron" ></item>
+<item slot="4" original="Iron the clothes one by one" ></item>
+<item slot="5" original="Fold the clothes nicely" ></item>
+</script><script id="56" source="2"><item slot="1" original="Get ironing board" ></item>
+<item slot="2" original="Plug in iron" ></item>
+<item slot="3" original="Test iron" ></item>
+<item slot="4" original="Lay clothing on board" ></item>
+<item slot="5" original="Iron the wrinkles out" ></item>
+</script><script id="57" source="2"><item slot="1" original="Gather items to be ironed." ></item>
+<item slot="2" original="Open up and set up ironing board." ></item>
+<item slot="3" original="Plug in and turn on iron," ></item>
+<item slot="4" original="Wait for iron to heat up." ></item>
+<item slot="5" original="Iron items." ></item>
+<item slot="6" original="Turn off iron." ></item>
+<item slot="7" original="Allow iron to cool." ></item>
+<item slot="8" original="Put away iron." ></item>
+<item slot="9" original="Put away ironing board." ></item>
+</script><script id="58" source="2"><item slot="1" original="Set up ironing board" ></item>
+<item slot="2" original="Gather clothes to iron" ></item>
+<item slot="3" original="Fill Iron with water and let it heat up" ></item>
+<item slot="4" original="Lay clothing flat on Ironing Board" ></item>
+<item slot="5" original="Slowly and gently press the iron onto the clothing and rub back and forth" ></item>
+<item slot="6" original="Enjoy crisp clothing" ></item>
+</script><script id="59" source="2"><item slot="1" original="collect clean clothes" ></item>
+<item slot="2" original="pull out ironing board" ></item>
+<item slot="3" original="pull out iron" ></item>
+<item slot="4" original="plug in iron" ></item>
+<item slot="5" original="place clothing item on ironing board" ></item>
+<item slot="6" original="put iron on clothing and press down" ></item>
+<item slot="7" original="continue step 6 until clothes ironed" ></item>
+</script><script id="60" source="2"><item slot="1" original="Set up ironing board." ></item>
+<item slot="2" original="Plug in the iron." ></item>
+<item slot="3" original="Turn on the iron." ></item>
+<item slot="4" original="Get the clothes you want to iron." ></item>
+<item slot="5" original="Place those clothes on the ironing board." ></item>
+<item slot="6" original="Straighten the clothes out on the board." ></item>
+<item slot="7" original="Pick up iron." ></item>
+<item slot="8" original="Move the iron lightly up and down the clothing a few times." ></item>
+<item slot="9" original="Turn off iron." ></item>
+<item slot="10" original="Wait for clothes to cool before wearing." ></item>
+</script><script id="61" source="2"><item slot="1" original="Set up ironing board" ></item>
+<item slot="2" original="Plug in iron" ></item>
+<item slot="3" original="Pour desired amount of water into iron" ></item>
+<item slot="4" original="Turn iron on to desired setting" ></item>
+<item slot="5" original="Place individual laundry items on iron" ></item>
+<item slot="6" original="Iron individual items to get wrinkles out" ></item>
+<item slot="7" original="Hang items to keep them pressed" ></item>
+</script><script id="62" source="2"><item slot="1" original="Open ironing board." ></item>
+<item slot="2" original="Plug in iron." ></item>
+<item slot="3" original="Put clothing on ironing board flat." ></item>
+<item slot="4" original="Turn on iron." ></item>
+<item slot="5" original="Spritz water onto clothing from the water section on iron." ></item>
+<item slot="6" original="Press iron onto wet spot until wrinkles are gone." ></item>
+<item slot="7" original="Turn off iron." ></item>
+</script><script id="63" source="2"><item slot="1" original="Find clothing in need of ironing" ></item>
+<item slot="2" original="Set up ironing board" ></item>
+<item slot="3" original="Make sure iron is plugged in and turned on" ></item>
+<item slot="4" original="Set iron upright and let heat up on ironing board" ></item>
+<item slot="5" original="Lay clothing item flat on ironing board" ></item>
+<item slot="6" original="Holding iron by handle, move flat heated side across wrinkled garment" ></item>
+<item slot="7" original="Repeat, changing positions of iron to different area of wrinkled garment" ></item>
+<item slot="8" original="Repeat until no more wrinkles remain" ></item>
+<item slot="9" original="Turn off iron" ></item>
+<item slot="10" original="Unplug and put away iron when cool" ></item>
+<item slot="11" original="Fold up and put away ironing board" ></item>
+</script><script id="64" source="2"><item slot="1" original="Take out ironing board" ></item>
+<item slot="2" original="Take out Iron" ></item>
+<item slot="3" original="Heat iron on ironing board" ></item>
+<item slot="4" original="Put clothes to be ironed into the ironing board" ></item>
+<item slot="5" original="Iron out all parts of the clothing" ></item>
+<item slot="6" original="Hang up ironed clothing" ></item>
+<item slot="7" original="Turn off iron" ></item>
+<item slot="8" original="Put Iron away" ></item>
+<item slot="9" original="Put Ironing board away" ></item>
+</script><script id="65" source="2"><item slot="1" original="Set up the iron board." ></item>
+<item slot="2" original="Put apparel on the board." ></item>
+<item slot="3" original="Plug in the hot iron." ></item>
+<item slot="4" original="Iron the apparel when the hot iron is hot." ></item>
+<item slot="5" original="Put away the ironed apparel." ></item>
+</script><script id="66" source="2"><item slot="1" original="Get the ironing board" ></item>
+<item slot="2" original="Get the iron" ></item>
+<item slot="3" original="Plug in the iron to heat" ></item>
+<item slot="4" original="Spread clothes over the board" ></item>
+<item slot="5" original="Spray the clothes with starch" ></item>
+<item slot="6" original="Moving the irons over the clothes" ></item>
+<item slot="7" original="Check for remaining wrinkles" ></item>
+<item slot="8" original="Removes clothes from board" ></item>
+<item slot="9" original="Do next item until finished" ></item>
+<item slot="10" original="Unplug the iron" ></item>
+<item slot="11" original="Replace iron" ></item>
+<item slot="12" original="Replace ironing board" ></item>
+</script><script id="67" source="2"><item slot="1" original="Get clean laundry" ></item>
+<item slot="2" original="Find wrinkles" ></item>
+<item slot="3" original="Set up ironing board" ></item>
+<item slot="4" original="Plug in iron heat up" ></item>
+<item slot="5" original="Lay one piece of clothing flat on ironing board" ></item>
+<item slot="6" original="Take iron" ></item>
+<item slot="7" original="Move iron slowly back and forth over wrinkles until smooth" ></item>
+<item slot="8" original="Set iron down" ></item>
+<item slot="9" original="Pick up piece of clothing" ></item>
+<item slot="10" original="Fold clothing" ></item>
+<item slot="11" original="Repeat steps 5-10 as necessary" ></item>
+</script><script id="68" source="2"><item slot="1" original="Choose a wrinkly shirt." ></item>
+<item slot="2" original="Pull out an ironing board." ></item>
+<item slot="3" original="Lay the shirt on the board." ></item>
+<item slot="4" original="Heat up the iron." ></item>
+<item slot="5" original="Spritz the shirt and iron." ></item>
+</script><script id="69" source="2"><item slot="1" original="Set up ironing board" ></item>
+<item slot="2" original="Turn on iron to heat" ></item>
+<item slot="3" original="Select item to iron" ></item>
+<item slot="4" original="Place on ironing board" ></item>
+<item slot="5" original="Spray with water if necessary" ></item>
+<item slot="6" original="Place iron on wrinkled item" ></item>
+<item slot="7" original="Move iron with slight pressure across item" ></item>
+<item slot="8" original="Move item to next wrinkled section" ></item>
+<item slot="9" original="Repeat until item is completely ironed" ></item>
+<item slot="10" original="Put item away" ></item>
+<item slot="11" original="Repeat until all items are ironed" ></item>
+<item slot="12" original="Turn off iron and allow to cool" ></item>
+<item slot="13" original="Put ironing board and iron away" ></item>
+</script><script id="70" source="2"><item slot="1" original="Fill the iron with water" ></item>
+<item slot="2" original="Plug in the iron to let it heat up" ></item>
+<item slot="3" original="Get out the ironing board" ></item>
+<item slot="4" original="Set up the ironing board" ></item>
+<item slot="5" original="Organize the laundry" ></item>
+<item slot="6" original="Set the first piece of laundry on the ironing board" ></item>
+<item slot="7" original="Lay the laundry flat" ></item>
+<item slot="8" original="Turn on the iron" ></item>
+<item slot="9" original="Run the iron over the laundry" ></item>
+<item slot="10" original="Remove the ironed laundry from the board" ></item>
+<item slot="11" original="Fold the ironed laundry" ></item>
+<item slot="12" original="Do this for all the laundry" ></item>
+<item slot="13" original="Turn off the iron" ></item>
+<item slot="14" original="Fold up the ironing board" ></item>
+<item slot="15" original="Put away the ironing board" ></item>
+<item slot="16" original="Put away the iron once it has cooled" ></item>
+</script><script id="71" source="2"><item slot="1" original="Take out iron and ironing board." ></item>
+<item slot="2" original="Unfold ironing board." ></item>
+<item slot="3" original="Plug in iron." ></item>
+<item slot="4" original="Take a shirt out of laundry basket." ></item>
+<item slot="5" original="Lay shirt on ironing board." ></item>
+<item slot="6" original="Iron shirt." ></item>
+<item slot="7" original="Put shirt on hanger." ></item>
+<item slot="8" original="Fold ironing board." ></item>
+<item slot="9" original="Unplug iron." ></item>
+<item slot="10" original="Hang clothes in closet." ></item>
+</script><script id="72" source="2"><item slot="1" original="grab the clothes out of dryer" ></item>
+<item slot="2" original="choose a flat surface" ></item>
+<item slot="3" original="put clothes on flat surface" ></item>
+<item slot="4" original="turn iron on" ></item>
+<item slot="5" original="put water into iron" ></item>
+<item slot="6" original="start ironing clothes" ></item>
+<item slot="7" original="when done turn off iron and unplug" ></item>
+<item slot="8" original="fold clothes ironed" ></item>
+</script><script id="73" source="2"><item slot="1" original="Set up ironing board" ></item>
+<item slot="2" original="Get iron" ></item>
+<item slot="3" original="Fill iron with water" ></item>
+<item slot="4" original="Plug iron in" ></item>
+<item slot="5" original="Get first piece of clothing" ></item>
+<item slot="6" original="Place article of clothing flat on the ironing board" ></item>
+<item slot="7" original="Run iron over every inch of clothing" ></item>
+<item slot="8" original="Do not leave iron on clothing for more than a few seconds" ></item>
+</script><script id="74" source="2"><item slot="1" original="Collect the clothes" ></item>
+<item slot="2" original="Bring the clothes near ironing table" ></item>
+<item slot="3" original="Switch on iron" ></item>
+<item slot="4" original="Place one cloth on the ironing table" ></item>
+<item slot="5" original="Set the thermostat" ></item>
+<item slot="6" original="Iron the cloth" ></item>
+<item slot="7" original="Change the area of the cloth" ></item>
+<item slot="8" original="Iron the cloth" ></item>
+<item slot="9" original="Hang the cloth" ></item>
+<item slot="10" original="Repeat for each piece of cloth" ></item>
+<item slot="11" original="Switch off the iron when finished" ></item>
+</script><script id="75" source="2"><item slot="1" original="TAKE IRONING BOARD" ></item>
+<item slot="2" original="COLLECT THE CLOTHES" ></item>
+<item slot="3" original="PLUG IN THE IRONING MACHINE" ></item>
+<item slot="4" original="IRON THE CLOTHES" ></item>
+<item slot="5" original="FOLDING CLOTHES" ></item>
+<item slot="6" original="PLUG OFF THE MACHINE" ></item>
+</script><script id="76" source="2"><item slot="1" original="Wash and dry clothing" ></item>
+<item slot="2" original="Plug in iron and wait for it to heat up" ></item>
+<item slot="3" original="Lay out first article of clothing" ></item>
+<item slot="4" original="Move iron over the clothes until the wrinkles disappear" ></item>
+<item slot="5" original="Repeat with all clothing" ></item>
+</script><script id="77" source="2"><item slot="1" original="Separate out clothes that need ironing from those that don't" ></item>
+<item slot="2" original="Find iron, add water if needed to reservoir, and plug in to let it warm up" ></item>
+<item slot="3" original="Unfold or setup ironing board" ></item>
+<item slot="4" original="When iron is ready, select one item of clothing for ironing" ></item>
+<item slot="5" original="Spread it out on ironing board so only one layer of fabric is between the iron and board" ></item>
+<item slot="6" original="Move iron, flat side touching fabric, across clothing until all areas have been touched" ></item>
+<item slot="7" original="Move clothing so a different part is on top of the board" ></item>
+<item slot="8" original="Iron that part." ></item>
+<item slot="9" original="Repeat as needed" ></item>
+<item slot="10" original="Hang ironed clothing or put it away as desired" ></item>
+</script><script id="78" source="2"><item slot="1" original="Get clothing to be ironed" ></item>
+<item slot="2" original="Set up ironing board" ></item>
+<item slot="3" original="Take iron out of closet" ></item>
+<item slot="4" original="Place iron on board" ></item>
+<item slot="5" original="Fill with water" ></item>
+<item slot="6" original="Plug in iron" ></item>
+<item slot="7" original="Wait for iron to heat" ></item>
+<item slot="8" original="Place clothing item on board" ></item>
+<item slot="9" original="Press steam button on iron" ></item>
+<item slot="10" original="Start ironing clothing" ></item>
+<item slot="11" original="Hang clothing" ></item>
+<item slot="12" original="Unplug iron" ></item>
+<item slot="13" original="Wait for iron to cool" ></item>
+<item slot="14" original="Put iron and board away" ></item>
+</script><script id="79" source="2"><item slot="1" original="Get iron out." ></item>
+<item slot="2" original="Get ironing board out." ></item>
+<item slot="3" original="Gather laundry that you would like to iron." ></item>
+<item slot="4" original="Get coat hangers to hang up freshly ironed laundry." ></item>
+<item slot="5" original="Plug iron in and wait for it to heat up." ></item>
+<item slot="6" original="Iron laundry by moving hot iron along clothing to flatten it." ></item>
+<item slot="7" original="Hang laundry up after ironing." ></item>
+<item slot="8" original="Unplug iron and wait for it to cool." ></item>
+<item slot="9" original="Put iron, ironing board, and laundry away." ></item>
+</script><script id="80" source="2"><item slot="1" original="Get ironing board" ></item>
+<item slot="2" original="Get iron" ></item>
+<item slot="3" original="Turn iron on" ></item>
+<item slot="4" original="Put iron on ironing board" ></item>
+<item slot="5" original="Get clothing" ></item>
+<item slot="6" original="Put clothing on ironing board" ></item>
+<item slot="7" original="Put iron on clothes" ></item>
+</script><script id="81" source="2"><item slot="1" original="Set up ironing board." ></item>
+<item slot="2" original="Plug in the iron a set for appropriate temperature." ></item>
+<item slot="3" original="Take the article of clothing and place a portion on the ironing board." ></item>
+<item slot="4" original="Move the iron back and forth on the clothing article." ></item>
+<item slot="5" original="Move another portion of the clothing to the ironing board surface." ></item>
+<item slot="6" original="Move the iron back and forth on the clothing article." ></item>
+<item slot="7" original="Repeat steps 5 and 6 until the clothing is complete." ></item>
+<item slot="8" original="Hang the clothing on a hanger." ></item>
+<item slot="9" original="Turn off the iron." ></item>
+<item slot="10" original="Wait for it to cool." ></item>
+<item slot="11" original="Put up the iron and ironing board." ></item>
+</script><script id="82" source="2"><item slot="1" original="Set up ironing board." ></item>
+<item slot="2" original="Put water in iron." ></item>
+<item slot="3" original="Plug in iron." ></item>
+<item slot="4" original="Set iron to appropriate temperature." ></item>
+<item slot="5" original="Put clothing item on ironing board." ></item>
+<item slot="6" original="Press item with iron." ></item>
+<item slot="7" original="Press button for steam if necessary." ></item>
+<item slot="8" original="Continue pressing all parts of item until no wrinkles exist." ></item>
+<item slot="9" original="Set iron on end." ></item>
+<item slot="10" original="Hang up clothing item." ></item>
+</script><script id="83" source="2"><item slot="1" original="Get iron from the closet" ></item>
+<item slot="2" original="Open ironing board" ></item>
+<item slot="3" original="Lay out clothes to be ironed" ></item>
+<item slot="4" original="Plug in iron" ></item>
+<item slot="5" original="Add water to iron" ></item>
+<item slot="6" original="Wait for iron to heat" ></item>
+<item slot="7" original="Put first clothes item on board" ></item>
+<item slot="8" original="Press the steam button on iron" ></item>
+<item slot="9" original="Move hot iron across wrinkles" ></item>
+<item slot="10" original="Remove clothing from iron" ></item>
+<item slot="11" original="Put next item on iron" ></item>
+</script><script id="84" source="2"><item slot="1" original="Get ironing board" ></item>
+<item slot="2" original="Get iron" ></item>
+<item slot="3" original="Plug in iron" ></item>
+<item slot="4" original="Get the clothing to iron" ></item>
+<item slot="5" original="Put the clothing on the board" ></item>
+<item slot="6" original="Iron the clothes" ></item>
+<item slot="7" original="Hang the ironed clothes" ></item>
+</script><script id="85" source="2"><item slot="1" original="Take laundry out of dryer" ></item>
+<item slot="2" original="Put laundry in hamper" ></item>
+<item slot="3" original="Lay laundry on ironing board" ></item>
+<item slot="4" original="Iron the side" ></item>
+<item slot="5" original="Flip the laundry" ></item>
+<item slot="6" original="Iron the other side" ></item>
+<item slot="7" original="Hang the laundry up" ></item>
+</script><script id="86" source="2"><item slot="1" original="Wash laundry" ></item>
+<item slot="2" original="Dry laundry" ></item>
+<item slot="3" original="Remove laundry from dryer" ></item>
+<item slot="4" original="Set up ironing board" ></item>
+<item slot="5" original="Warm up iron" ></item>
+<item slot="6" original="Place garment flat on board" ></item>
+<item slot="7" original="Straighten arms or legs" ></item>
+<item slot="8" original="Take iron in hand" ></item>
+<item slot="9" original="Press button and run iron up and down arm or leg, making neat creases" ></item>
+<item slot="10" original="Run iron up and down other parts of garment" ></item>
+<item slot="11" original="Iron until garment is completely ironed" ></item>
+<item slot="12" original="Fold and store garment" ></item>
+</script><script id="87" source="2"><item slot="1" original="Plug in iron and put on ironing board" ></item>
+<item slot="2" original="Wait for iron to get hot" ></item>
+<item slot="3" original="Place wrinkled clothing on ironing board" ></item>
+<item slot="4" original="Run the iron across the wrinkles to apply heat" ></item>
+<item slot="5" original="Get all the wrinkles out on one side" ></item>
+<item slot="6" original="Turn clothing over and repeat the ironing process" ></item>
+<item slot="7" original="Put clothing on a hanger" ></item>
+<item slot="8" original="Unplug iron and wait for it to cool down" ></item>
+<item slot="9" original="Put away iron and ironing board" ></item>
+</script><script id="88" source="2"><item slot="1" original="set up ironing board" ></item>
+<item slot="2" original="plug iron in and turn on" ></item>
+<item slot="3" original="pour water into iron" ></item>
+<item slot="4" original="move iron over clothes" ></item>
+<item slot="5" original="remove clothes from ironing board" ></item>
+<item slot="6" original="unplug iron and pour water out" ></item>
+<item slot="7" original="put ironing board away" ></item>
+</script><script id="89" source="2"><item slot="1" original="Gather laundry to iron" ></item>
+<item slot="2" original="Set up ironing board" ></item>
+<item slot="3" original="Add water to iron for steam" ></item>
+<item slot="4" original="Plug in and turn on iron" ></item>
+<item slot="5" original="Set desired temperature" ></item>
+<item slot="6" original="Lay out item to iron" ></item>
+<item slot="7" original="Iron once iron is to temperature" ></item>
+</script><script id="90" source="2"><item slot="1" original="start with dry laundry" ></item>
+<item slot="2" original="get out iron" ></item>
+<item slot="3" original="heat up iron" ></item>
+<item slot="4" original="press hot iron on clothing" ></item>
+<item slot="5" original="make sure to remove wrinkles from clothing" ></item>
+</script><script id="91" source="2"><item slot="1" original="Get ironing board out." ></item>
+<item slot="2" original="Get iron out." ></item>
+<item slot="3" original="Get laundry that needs ironing." ></item>
+<item slot="4" original="Turn iron on." ></item>
+<item slot="5" original="Wait for iron to get the correct temperature." ></item>
+<item slot="6" original="Put laundry on ironing board." ></item>
+<item slot="7" original="Iron the laundry." ></item>
+<item slot="8" original="Turn iron off." ></item>
+<item slot="9" original="Put away ironing board." ></item>
+<item slot="10" original="Put up laundry." ></item>
+</script><script id="92" source="2"><item slot="1" original="Gather up the clothes needing ironing" ></item>
+<item slot="2" original="Set up the ironing board" ></item>
+<item slot="3" original="Plug in the iron" ></item>
+<item slot="4" original="Add water to the iron for steam, preferably distilled water" ></item>
+<item slot="5" original="Wait for the iron to heat up" ></item>
+<item slot="6" original="Press the hot iron over the clothes, using water spray and steam as needed" ></item>
+<item slot="7" original="As each item is ironed, hang it up" ></item>
+<item slot="8" original="Turn off the iron" ></item>
+<item slot="9" original="Set the iron someplace to cool" ></item>
+<item slot="10" original="Put away the ironing board" ></item>
+</script><script id="93" source="2"><item slot="1" original="Take dirty laundry and lay it out" ></item>
+<item slot="2" original="Get out ironing board and iron" ></item>
+<item slot="3" original="heat up iron" ></item>
+<item slot="4" original="run iron over clothes on top of board" ></item>
+<item slot="5" original="keep going until there are no wrinkles" ></item>
+<item slot="6" original="fold clothes" ></item>
+</script><script id="95" source="2"><item slot="1" original="Get out ironing board" ></item>
+<item slot="2" original="Get out iron" ></item>
+<item slot="3" original="Get laundry to iron" ></item>
+<item slot="4" original="Plug in iron" ></item>
+<item slot="5" original="Turn iron to appropriate setting" ></item>
+<item slot="6" original="Get spray starch" ></item>
+<item slot="7" original="Spray starch on item to iron" ></item>
+<item slot="8" original="Iron item" ></item>
+<item slot="9" original="Hang on a hanger" ></item>
+<item slot="10" original="Move on to next item to iron" ></item>
+<item slot="11" original="Continue until complete" ></item>
+<item slot="12" original="Hang all laundry in closet" ></item>
+</script><script id="96" source="2"><item slot="1" original="Select items to be ironed" ></item>
+<item slot="2" original="Set up ironing board" ></item>
+<item slot="3" original="Plug in and turn on iron" ></item>
+<item slot="4" original="Set iron to appropriate setting" ></item>
+<item slot="5" original="Wait for iron to get hot" ></item>
+<item slot="6" original="Place items one at a time on the ironing board" ></item>
+<item slot="7" original="Use iron to get wrinkles out of the items" ></item>
+<item slot="8" original="Neatly fold or hand items after they are ironed" ></item>
+<item slot="9" original="Turn off and unplug iron when finished" ></item>
+<item slot="10" original="Fold up and put ironing board away" ></item>
+<item slot="11" original="Put iron away when it's cooled off" ></item>
+</script><script id="97" source="2"><item slot="1" original="Collect laundry that needs ironing" ></item>
+<item slot="2" original="Set up ironing board" ></item>
+<item slot="3" original="Add water to iron" ></item>
+<item slot="4" original="Plug in iron and turn it on" ></item>
+<item slot="5" original="Set iron to desired temperature" ></item>
+<item slot="6" original="Wait until iron is hot" ></item>
+<item slot="7" original="Put garment on ironing board" ></item>
+<item slot="8" original="Remove wrinkles by gently passing iron over garment" ></item>
+<item slot="9" original="Remove garment" ></item>
+<item slot="10" original="Hang or fold garment" ></item>
+<item slot="11" original="Repeat 8-11 for each garment" ></item>
+<item slot="12" original="Turn off iron and remove from ironing board" ></item>
+<item slot="13" original="Fold and stow ironing board" ></item>
+<item slot="14" original="Put away iron when cool" ></item>
+<item slot="15" original="Put away garments" ></item>
+</script><script id="98" source="2"><item slot="1" original="Plug in iron to allow it to heat up." ></item>
+<item slot="2" original="Prepare ironing board" ></item>
+<item slot="3" original="Select clothing to be ironed." ></item>
+<item slot="4" original="Place item of clothing flat on iron board." ></item>
+<item slot="5" original="Make sure fabric is flat." ></item>
+<item slot="6" original="Slowly place and glide iron over the clothing to straighten out wrinkles." ></item>
+</script><script id="99" source="2"><item slot="1" original="wash laundry" ></item>
+<item slot="2" original="dry laundry" ></item>
+<item slot="3" original="take dry laundry out of dryer" ></item>
+<item slot="4" original="place laundry in basket." ></item>
+<item slot="5" original="set up ironing board" ></item>
+<item slot="6" original="plug in iron" ></item>
+<item slot="7" original="allow iron to get hot" ></item>
+<item slot="8" original="place item of laundry on ironing board" ></item>
+<item slot="9" original="iron with the hot iron" ></item>
+<item slot="10" original="continue until all articles are ironed." ></item>
+</script></scripts>

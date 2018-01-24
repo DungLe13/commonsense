@@ -1,0 +1,661 @@
+<scripts><script id="1" source="2"><item slot="1" original="Gather wood in a location outside" ></item>
+<item slot="2" original="Stack wood in a pile" ></item>
+<item slot="3" original="Get a lighter or matches" ></item>
+<item slot="4" original="Spray lighter fluid on wood pile" ></item>
+<item slot="5" original="Light wood pile with a lighter" ></item>
+</script><script id="2" source="2"><item slot="1" original="Find an open area of ground." ></item>
+<item slot="2" original="Gather rocks and place in a 3 ft circle on open ground." ></item>
+<item slot="3" original="Gather dry sticks of various sizes" ></item>
+<item slot="4" original="Place the sticks in a pile, on the ground, inside the circle" ></item>
+<item slot="5" original="Light a match" ></item>
+<item slot="6" original="Use match to light a small stick in the fire." ></item>
+<item slot="7" original="Lightly fan the flames until the larger pieces of wood catch fire" ></item>
+<item slot="8" original="Enjoy the bonfire" ></item>
+</script><script id="3" source="2"><item slot="1" original="Pick a spot" ></item>
+<item slot="2" original="Grab a bunch of dry twigs" ></item>
+<item slot="3" original="Dig a shallow pit." ></item>
+<item slot="4" original="Surround the pit with bricks or stones" ></item>
+<item slot="5" original="Place the fuel woods" ></item>
+<item slot="6" original="Use any fire ignite" ></item>
+<item slot="7" original="Ignite the woods" ></item>
+<item slot="8" original="get lawn chairs" ></item>
+<item slot="9" original="Set up some lawn chairs" ></item>
+<item slot="10" original="Get a cooler" ></item>
+<item slot="11" original="get drinks get ice" ></item>
+<item slot="12" original="get food" ></item>
+<item slot="13" original="get music" ></item>
+<item slot="14" original="get blankets" ></item>
+<item slot="15" original="make sure we have water handy to put out fire" ></item>
+<item slot="16" original="enjoy the fire" ></item>
+</script><script id="4" source="2"><item slot="1" original="Gather wood" ></item>
+<item slot="2" original="Place wood in pile" ></item>
+<item slot="3" original="Light wood on fire" ></item>
+<item slot="4" original="Add more wood to keep fire going" ></item>
+<item slot="5" original="Help fire catch on" ></item>
+</script><script id="5" source="2"><item slot="1" original="Clear an area" ></item>
+<item slot="2" original="Get kindling" ></item>
+<item slot="3" original="Arrange kindling in a pile" ></item>
+<item slot="4" original="Get lighter" ></item>
+<item slot="5" original="Get newspaper" ></item>
+<item slot="6" original="Light the newspaper" ></item>
+<item slot="7" original="Throw the newspaper on the kindling" ></item>
+</script><script id="6" source="2"><item slot="1" original="Gather wood and newspaper" ></item>
+<item slot="2" original="Place newspaper on ground" ></item>
+<item slot="3" original="Put small kindling on top of newspaper" ></item>
+<item slot="4" original="Use lighter or match to light paper on fire" ></item>
+<item slot="5" original="Blow gently on fire as it begins to catch" ></item>
+<item slot="6" original="Place larger sticks on top as the fire grows" ></item>
+<item slot="7" original="Sit in front of bonfire" ></item>
+</script><script id="7" source="2"><item slot="1" original="Gather sticks and logs for your fire" ></item>
+<item slot="2" original="Start your fire by building the classic pyramid of twigs" ></item>
+<item slot="3" original="Stuff some rolled paper inside your pyramid" ></item>
+<item slot="4" original="Light the paper and blow until the twigs catch" ></item>
+<item slot="5" original="Once your fire is burning well, add larger sticks" ></item>
+<item slot="6" original="Once those are burning, add logs to make your fire larger" ></item>
+<item slot="7" original="Make sure you continuously add twigs to keep the temperature hot" ></item>
+<item slot="8" original="If you want a raging fire, you can always add lighter fluid" ></item>
+<item slot="9" original="Cook some hot dogs or marshmallows for s'mores" ></item>
+<item slot="10" original="Enjoy the hot, roaring fire" ></item>
+</script><script id="8" source="2"><item slot="1" original="Get wood" ></item>
+<item slot="2" original="Get matchbox" ></item>
+<item slot="3" original="Place wood vertically supporting each other" ></item>
+<item slot="4" original="Light the match stick" ></item>
+<item slot="5" original="Put some newspaper in the wood" ></item>
+<item slot="6" original="Light up the newspaper with the burning match stick" ></item>
+<item slot="7" original="The bonfire is ready in a couple of minutes" ></item>
+</script><script id="9" source="2"><item slot="1" original="Gather firewood" ></item>
+<item slot="2" original="Pile firewood outdoors" ></item>
+<item slot="3" original="Optional, put accelerant on the fire" ></item>
+<item slot="4" original="throw match or light paper and throw it on the wood" ></item>
+<item slot="5" original="Provide oxygen to the fire until the embers are hot enough to consume the wood" ></item>
+<item slot="6" original="Optional, place bricks around the fire to prevent spread and people falling into the fire" ></item>
+</script><script id="10" source="2"><item slot="1" original="dig/clear an area so the fire remains in control" ></item>
+<item slot="2" original="place kindling in such a fashion that you'll be able to put the tinder underneath" ></item>
+<item slot="3" original="Use a match or lighter to light tinder, place it under the kindling" ></item>
+<item slot="4" original="add progressively larger wood to the stack" ></item>
+<item slot="5" original="If flame goes out, blow on coals to reignite" ></item>
+<item slot="6" original="continue feeding wood to maintain size" ></item>
+<item slot="7" original="When finished, douse thoroughly with water" ></item>
+</script><script id="11" source="2"><item slot="1" original="create a fire pit or use a ready made one available in stores." ></item>
+<item slot="2" original="Stack wood in a log cabin fashion inside of the pit, building upwards." ></item>
+<item slot="3" original="Fill the center with wood chippings/ twigs/ newspaper. Only use dry leaves" ></item>
+<item slot="4" original="Use matches to light different points in the center." ></item>
+<item slot="6" original="Add additional kindling until center logs catch on fire and embers are created." ></item>
+<item slot="7" original="In Bonfire be careful that you don't keep flammable things near to it." ></item>
+<item slot="8" original="Don't play hide and seek or pushing games in this time." ></item>
+<item slot="9" original="Put off the bonfire with water to prevent fire spreading after bonfire is done." ></item>
+</script><script id="12" source="2"><item slot="1" original="Gather firewood" ></item>
+<item slot="2" original="Arrange wood into a pile" ></item>
+<item slot="3" original="Pour lighter fluid on the wood" ></item>
+<item slot="4" original="Light a match" ></item>
+<item slot="5" original="Place the match's flame on the wood" ></item>
+</script><script id="13" source="2"><item slot="1" original="Gather kindling" ></item>
+<item slot="2" original="Put kindling in a pit surrounded by rocks" ></item>
+<item slot="3" original="Light kindling on fire" ></item>
+<item slot="4" original="Add twigs and small branches to get fire bigger" ></item>
+<item slot="5" original="Once fire is big enough start to add logs" ></item>
+</script><script id="14" source="2"><item slot="1" original="Make a small pile of kindling" ></item>
+<item slot="2" original="Light the kindling on fire" ></item>
+<item slot="3" original="Place small sticks on fire" ></item>
+<item slot="4" original="Place larger sticks on fire" ></item>
+<item slot="5" original="Place small logs on fire" ></item>
+<item slot="6" original="Place larger logs on fire" ></item>
+<item slot="7" original="Throw lots of wood onto the fire" ></item>
+</script><script id="15" source="2"><item slot="1" original="Gather wood." ></item>
+<item slot="2" original="Find safe place away from buildings." ></item>
+<item slot="3" original="Pile wood into pyre." ></item>
+<item slot="4" original="Light small kindling." ></item>
+<item slot="5" original="Fan flames." ></item>
+<item slot="6" original="Wait for flames to grow and take large pieces of wood." ></item>
+<item slot="7" original="Enjoy bonfire." ></item>
+</script><script id="16" source="2"><item slot="1" original="Collect fire wood small twigs and leaves" ></item>
+<item slot="2" original="Select a center spot in my back yard" ></item>
+<item slot="3" original="Dig a hole with 50 cm circumference and depth" ></item>
+<item slot="4" original="place some small rocks and stones around the pit" ></item>
+<item slot="5" original="Place some dry leaves and twigs in the pit" ></item>
+<item slot="6" original="Place the fire wood in standing position as a pyramid" ></item>
+<item slot="7" original="Place some twigs in between" ></item>
+<item slot="8" original="Ignite the twigs and leaves" ></item>
+</script><script id="17" source="2"><item slot="1" original="Gather a bunch of dry wood" ></item>
+<item slot="2" original="get some news papers" ></item>
+<item slot="3" original="light with a lighter" ></item>
+<item slot="4" original="place under some dry twigs" ></item>
+<item slot="5" original="invite friends over" ></item>
+</script><script id="18" source="2"><item slot="1" original="Go outside into the backyard, or front yard, but usually done in the back" ></item>
+<item slot="2" original="Gather any logs or kindling that will be used for the fire" ></item>
+<item slot="3" original="Put leaves underneath the wood to serve as the initial firestarter" ></item>
+<item slot="4" original="Set the leaves and smaller sticks on fire" ></item>
+<item slot="5" original="Watch the fire spread up to the rest of the wood" ></item>
+<item slot="6" original="Situate any chairs or seating devices around the fire" ></item>
+</script><script id="19" source="2"><item slot="1" original="Choose an appropriate safe wide open space away from buildings or trees" ></item>
+<item slot="2" original="Gather lumber and wood" ></item>
+<item slot="3" original="Place small kindling together in a tee pee shape" ></item>
+<item slot="4" original="Place paper inside and light" ></item>
+<item slot="5" original="Once caught on fire place larger logs and wood around flames" ></item>
+<item slot="6" original="Build fire to desired size" ></item>
+<item slot="7" original="Tend to fire by adding more wood as necessary" ></item>
+<item slot="8" original="Enjoy the fire" ></item>
+<item slot="9" original="When finished complete put out fire" ></item>
+<item slot="10" original="Wet ground to make sure all coals are put out." ></item>
+</script><script id="20" source="2"><item slot="1" original="Choose a spot" ></item>
+<item slot="2" original="Lay down logs" ></item>
+<item slot="3" original="Spark fire" ></item>
+<item slot="4" original="Ignite flames" ></item>
+<item slot="5" original="Call friends" ></item>
+<item slot="6" original="Sit next to fire" ></item>
+</script><script id="21" source="2"><item slot="1" original="Pick a spot" ></item>
+<item slot="2" original="Dig a pit if needed" ></item>
+<item slot="3" original="Gather wood into a pile" ></item>
+<item slot="4" original="surround with rocks" ></item>
+<item slot="5" original="light wood on fire" ></item>
+</script><script id="22" source="2"><item slot="1" original="Wait for nightfall" ></item>
+<item slot="2" original="Find a spot" ></item>
+<item slot="3" original="Gather kindling" ></item>
+<item slot="4" original="Gather tinder" ></item>
+<item slot="5" original="Gather logs" ></item>
+<item slot="6" original="Spark a fire" ></item>
+<item slot="7" original="Keep the flame burning" ></item>
+<item slot="8" original="Watch bonfire" ></item>
+</script><script id="23" source="2"><item slot="1" original="Gather wood and branches." ></item>
+<item slot="2" original="Stack wood and branches in area where you want bonfire." ></item>
+<item slot="3" original="Put leaves or paper under the biggest pieces of wood." ></item>
+<item slot="4" original="Light the kindling." ></item>
+<item slot="5" original="Stand back." ></item>
+<item slot="6" original="Allow the fire to burn." ></item>
+<item slot="7" original="Keep an eye on the fire until it burns out." ></item>
+</script><script id="24" source="2"><item slot="1" original="Purchase fire wood." ></item>
+<item slot="2" original="Lay small pieces of wood down." ></item>
+<item slot="3" original="Put larger pieces of wood over the smaller pieces." ></item>
+<item slot="4" original="Place tinder under the larger pieces." ></item>
+<item slot="5" original="Pull out matches." ></item>
+<item slot="6" original="Strike a match." ></item>
+<item slot="7" original="Light the tinder or smaller pieces of wood." ></item>
+</script><script id="25" source="2"><item slot="1" original="Gather sticks and wood" ></item>
+<item slot="2" original="Place in pit with rocks/stones around" ></item>
+<item slot="3" original="Put some fuel on wood" ></item>
+<item slot="4" original="Get paper" ></item>
+<item slot="5" original="Light paper on fire" ></item>
+<item slot="6" original="Put on wood" ></item>
+<item slot="7" original="Enjoy fire" ></item>
+</script><script id="26" source="2"><item slot="1" original="Dig a pit." ></item>
+<item slot="2" original="Place stones around the edge." ></item>
+<item slot="3" original="Find dry wood in varying sizes." ></item>
+<item slot="4" original="Arrange the larger pieces of wood in a teepee formation." ></item>
+<item slot="5" original="Add smaller pieces of wood inside the teepee." ></item>
+<item slot="6" original="Find material to use to start the fire, such as newspaper or grass." ></item>
+<item slot="7" original="Light this starter bundle and place it in the teepee." ></item>
+<item slot="8" original="Enjoy." ></item>
+</script><script id="27" source="2"><item slot="1" original="Clean space on ground." ></item>
+<item slot="2" original="Stack up firewood." ></item>
+<item slot="3" original="Get small tinder to start fire." ></item>
+<item slot="4" original="Light newspaper and use it to light tinder." ></item>
+<item slot="5" original="Be careful to keep fire contained in fire ring." ></item>
+<item slot="6" original="Cook marshmallows if desired." ></item>
+</script><script id="28" source="2"><item slot="1" original="find a dry space" ></item>
+<item slot="2" original="gather wood" ></item>
+<item slot="3" original="gather kindling" ></item>
+<item slot="4" original="strike a match" ></item>
+<item slot="5" original="light kindling and wood" ></item>
+<item slot="6" original="wait for bonfire to activate it up" ></item>
+<item slot="7" original="make sure bonfire doesn't get out of control" ></item>
+</script><script id="29" source="2"><item slot="1" original="Clear large area in backyard" ></item>
+<item slot="2" original="Gather some kindling into a pile" ></item>
+<item slot="3" original="Light match" ></item>
+<item slot="4" original="Put lit match on kindling" ></item>
+<item slot="5" original="Kindling catches on fire" ></item>
+<item slot="6" original="Place a lot more wood on fire" ></item>
+<item slot="7" original="Fire gets bigger" ></item>
+</script><script id="30" source="2"><item slot="1" original="Collect wood and kindling." ></item>
+<item slot="2" original="Collect matches/lighter." ></item>
+<item slot="3" original="Bring water hose close." ></item>
+<item slot="4" original="Stack wood and kindling." ></item>
+<item slot="5" original="Light wood and kindling." ></item>
+<item slot="6" original="Observe with water hose readily available in case of emergency." ></item>
+</script><script id="31" source="2"><item slot="1" original="Go outside" ></item>
+<item slot="2" original="Gather wood" ></item>
+<item slot="3" original="Throw wood into one pile" ></item>
+<item slot="4" original="Douse pile with gasoline" ></item>
+<item slot="5" original="Light on fire" ></item>
+</script><script id="32" source="2"><item slot="1" original="Gather items to burn" ></item>
+<item slot="2" original="Make a pile of items" ></item>
+<item slot="3" original="Put some newspaper in the pile, near the bottom" ></item>
+<item slot="4" original="Get lighter" ></item>
+<item slot="5" original="Set light to paper" ></item>
+</script><script id="33" source="2"><item slot="1" original="Gather kindling" ></item>
+<item slot="2" original="Gather larger wood" ></item>
+<item slot="3" original="Gather paper" ></item>
+<item slot="4" original="Put paper, kindling and wood in stack" ></item>
+<item slot="5" original="Light paper on fire" ></item>
+</script><script id="34" source="2"><item slot="1" original="Go to forest" ></item>
+<item slot="2" original="Get wood" ></item>
+<item slot="3" original="Put wood in pit" ></item>
+<item slot="4" original="Light a match" ></item>
+<item slot="5" original="Throw match on wood" ></item>
+</script><script id="35" source="2"><item slot="1" original="Gather wood." ></item>
+<item slot="2" original="Arrange it in a pile." ></item>
+<item slot="3" original="Ignite it with a flame." ></item>
+<item slot="4" original="Keep a safe distance." ></item>
+<item slot="5" original="Throw in more wood as needed." ></item>
+</script><script id="36" source="2"><item slot="1" original="Find a safe location to make a bonfire" ></item>
+<item slot="2" original="Clear the area of any flammable material" ></item>
+<item slot="3" original="Stack large pieces of wood together" ></item>
+<item slot="4" original="Squirt lighter fluid on the wood" ></item>
+<item slot="5" original="Throw a match on the wood to start the fire" ></item>
+<item slot="6" original="Add more wood to the bonfire to keep it going longer" ></item>
+<item slot="7" original="Extinguish the bonfire when finished" ></item>
+</script><script id="37" source="2"><item slot="1" original="Gather wood." ></item>
+<item slot="2" original="Place wood together on ground." ></item>
+<item slot="3" original="Find a match." ></item>
+<item slot="4" original="Throw match into wood." ></item>
+<item slot="5" original="Fan the wood so it burns nicely." ></item>
+</script><script id="38" source="2"><item slot="1" original="Go to the forest" ></item>
+<item slot="2" original="Dig fire pit" ></item>
+<item slot="3" original="Fill fire pit with kindling and logs" ></item>
+<item slot="4" original="Light fire" ></item>
+<item slot="5" original="Wait for fire to catch" ></item>
+<item slot="6" original="Sit around fire" ></item>
+</script><script id="39" source="2"><item slot="1" original="Make a fire pit" ></item>
+<item slot="2" original="Gather fire wood" ></item>
+<item slot="3" original="Spray wood with lighter fluid" ></item>
+<item slot="4" original="Throw a match onto the light fluid soaked wood" ></item>
+<item slot="5" original="Sit back and enjoy the bonfire" ></item>
+</script><script id="40" source="2"><item slot="1" original="Gather small branches and leaves" ></item>
+<item slot="2" original="Put these in a fire pit" ></item>
+<item slot="3" original="Get newspaper and matches" ></item>
+<item slot="4" original="Light" ></item>
+<item slot="5" original="Get small pieces of wood and leaves burning good" ></item>
+<item slot="6" original="Add bigger and bigger pieces of wood" ></item>
+<item slot="7" original="Keep adding until you can't get close to fire" ></item>
+</script><script id="41" source="2"><item slot="1" original="Dig a fire pit" ></item>
+<item slot="2" original="Find wood" ></item>
+<item slot="3" original="Find paper to start fire" ></item>
+<item slot="4" original="Build pile of wood" ></item>
+<item slot="5" original="Ignite pile of wood" ></item>
+</script><script id="42" source="2"><item slot="1" original="Obtain wood" ></item>
+<item slot="2" original="Locate a good spot for a fire" ></item>
+<item slot="3" original="Clear debris from area" ></item>
+<item slot="4" original="Make sure area is enclosed by bricks or rocks" ></item>
+<item slot="5" original="Place wood in the middle" ></item>
+<item slot="6" original="Add smaller twigs or paper near the bottom" ></item>
+<item slot="7" original="Light the smaller twigs or paper with a lighter" ></item>
+<item slot="8" original="Continue to put wood on the fire as it dies down" ></item>
+</script><script id="43" source="2"><item slot="1" original="gather nice wood" ></item>
+<item slot="2" original="pile wood at angle" ></item>
+<item slot="3" original="splash some lighter fluid" ></item>
+<item slot="4" original="fire up wood" ></item>
+<item slot="5" original="enjoy bonfire" ></item>
+</script><script id="44" source="2"><item slot="1" original="get wood" ></item>
+<item slot="2" original="place wood in pile" ></item>
+<item slot="3" original="add paper or gas" ></item>
+<item slot="4" original="light on fire" ></item>
+<item slot="5" original="add more wood as needed" ></item>
+</script><script id="45" source="2"><item slot="1" original="get lots of wood" ></item>
+<item slot="2" original="put wood in place" ></item>
+<item slot="3" original="add somthing to help it burn like paper" ></item>
+<item slot="4" original="light with match or lighter" ></item>
+<item slot="5" original="make sure the wood catches" ></item>
+</script><script id="46" source="2"><item slot="1" original="Collect wood." ></item>
+<item slot="2" original="Clear space for bonfire." ></item>
+<item slot="3" original="Place wood in a pile in the cleared space." ></item>
+<item slot="4" original="Find some newspaper to get fire started." ></item>
+<item slot="5" original="Light newspaper with lighter." ></item>
+<item slot="6" original="Place newspaper in pile of wood." ></item>
+</script><script id="47" source="2"><item slot="1" original="Pile wood by bonfire pit" ></item>
+<item slot="2" original="Light firestarter log" ></item>
+<item slot="3" original="Add kindling to firestarter" ></item>
+<item slot="4" original="Stoke fire" ></item>
+<item slot="5" original="Add more wood as needed" ></item>
+</script><script id="48" source="2"><item slot="1" original="Collect twigs and extra sticks in the backyward" ></item>
+<item slot="2" original="Put twigs/sticks in a fire pit" ></item>
+<item slot="3" original="Put paper around and under the twigs/sticks" ></item>
+<item slot="4" original="Light the paper on fire" ></item>
+<item slot="5" original="Sit back and roast marshmallows or hotdogs" ></item>
+<item slot="6" original="Poke the fire every once in awhile" ></item>
+</script><script id="49" source="2"><item slot="1" original="Go to the forest" ></item>
+<item slot="2" original="Gather wood" ></item>
+<item slot="3" original="Drive to bonfire area" ></item>
+<item slot="4" original="Make a large pile with the wood" ></item>
+<item slot="5" original="Light the fire on one side" ></item>
+<item slot="6" original="Light the fire on another side" ></item>
+<item slot="7" original="Add more wood" ></item>
+</script><script id="50" source="2"><item slot="1" original="pile up sticks and logs and wood" ></item>
+<item slot="2" original="add additional kindling" ></item>
+<item slot="3" original="pour lighter fluid onto pile" ></item>
+<item slot="4" original="design a way to contain the bonfire" ></item>
+<item slot="5" original="light match" ></item>
+<item slot="6" original="throw match into pile" ></item>
+<item slot="7" original="stand back" ></item>
+<item slot="8" original="watch fire grow" ></item>
+</script><script id="51" source="2"><item slot="1" original="Grab kindling." ></item>
+<item slot="2" original="Gather fire wood." ></item>
+<item slot="3" original="Use kerosene to help start fire." ></item>
+<item slot="4" original="Light kindling with lighter." ></item>
+<item slot="5" original="Sit around fire drinking beer with friends." ></item>
+</script><script id="52" source="2"><item slot="1" original="Place wood in pile in open field" ></item>
+<item slot="2" original="Pour gasoline over wood" ></item>
+<item slot="3" original="Throw lit match on top of wood" ></item>
+<item slot="4" original="Watch fire grow" ></item>
+<item slot="5" original="Add wood as needed to keep fire burning" ></item>
+</script><script id="53" source="2"><item slot="1" original="make fire pit" ></item>
+<item slot="2" original="gather kindling" ></item>
+<item slot="3" original="light kindling" ></item>
+<item slot="4" original="add wood on top" ></item>
+<item slot="5" original="play guitar" ></item>
+<item slot="6" original="roast marshmallows" ></item>
+</script><script id="54" source="2"><item slot="1" original="Secure the campsite" ></item>
+<item slot="2" original="Gather wood" ></item>
+<item slot="3" original="Build a fire pit" ></item>
+<item slot="4" original="Ignite the wood" ></item>
+<item slot="5" original="Watch it burn" ></item>
+</script><script id="55" source="2"><item slot="1" original="Gather wood for fire" ></item>
+<item slot="2" original="Dig the fire pit" ></item>
+<item slot="3" original="Place a ring of stones around the edge" ></item>
+<item slot="4" original="Stack the wood" ></item>
+<item slot="5" original="Add kindling" ></item>
+<item slot="6" original="Light the fire" ></item>
+<item slot="7" original="Extinguish fire when bonfire ends" ></item>
+</script><script id="56" source="2"><item slot="1" original="Gather fallen wood and twigs" ></item>
+<item slot="2" original="Take them to a nearby fire pit" ></item>
+<item slot="3" original="Place the twigs in the fire pit" ></item>
+<item slot="4" original="Add some kindling like newspaper to catch the fire" ></item>
+<item slot="5" original="Light the kindling and wait for the wood to catch." ></item>
+</script><script id="57" source="2"><item slot="1" original="Get plenty of firewood." ></item>
+<item slot="2" original="Dig a hole." ></item>
+<item slot="3" original="Place your firewood into the hole." ></item>
+<item slot="4" original="Be sure to clear debris around your hole so you don't catch anything else on fire." ></item>
+<item slot="5" original="Light your wood." ></item>
+<item slot="6" original="Enjoy your fire." ></item>
+</script><script id="58" source="2"><item slot="1" original="GATHER WOOD FOR FIRE" ></item>
+<item slot="2" original="MAKE SURE THE WOOD IS DRY" ></item>
+<item slot="3" original="ASSEMBLE INTO A BONFIRE" ></item>
+<item slot="4" original="SET FIRE TO THE WOOD" ></item>
+<item slot="5" original="WATCH THE BONFIRE BURN" ></item>
+<item slot="6" original="SIT AT A SAFE DISTANCE" ></item>
+<item slot="7" original="TOAST MARSHMELLOWS OVER THE FLAMES" ></item>
+</script><script id="59" source="2"><item slot="1" original="Go to an open field." ></item>
+<item slot="2" original="Search for small, dead twigs and place in a large pile." ></item>
+<item slot="3" original="Keep an extra pile of dead twigs to stoke fire later." ></item>
+<item slot="4" original="Add crumpled paper between the twigs and underneath them." ></item>
+<item slot="5" original="Search for large, dead branches." ></item>
+<item slot="6" original="Place dead branches around twigs in a pyramid shape over twigs." ></item>
+<item slot="7" original="Keep a supply of dead branches for keeping the fire going." ></item>
+<item slot="8" original="Use matches or a lighter to catch the paper and twigs on fire." ></item>
+<item slot="9" original="Blow on burning papers and twigs to increase flame." ></item>
+<item slot="10" original="Add more twigs to increase flame." ></item>
+<item slot="11" original="Add branches to fire to increase height." ></item>
+<item slot="12" original="Enjoy the bonfire." ></item>
+<item slot="13" original="Two hours before leaving open field, let fire die out." ></item>
+<item slot="14" original="Cover remaining embers with dirt." ></item>
+</script><script id="60" source="2"><item slot="1" original="gather some wood" ></item>
+<item slot="2" original="gather dry leaves" ></item>
+<item slot="3" original="clear a circular area to make the fire" ></item>
+<item slot="4" original="pile the kindling together" ></item>
+<item slot="5" original="light a match to start a fire" ></item>
+<item slot="6" original="add additional kindling so it keeps burning" ></item>
+<item slot="7" original="protect fire so it does not burn out" ></item>
+</script><script id="61" source="2"><item slot="1" original="Find a flat land area" ></item>
+<item slot="2" original="Place wood on ground" ></item>
+<item slot="3" original="Place rocks around wood" ></item>
+<item slot="4" original="Pour a small amount of lighter fluid at center of wood" ></item>
+<item slot="5" original="Light wood with a match or lighter" ></item>
+<item slot="6" original="Watch fire and contain if needed" ></item>
+</script><script id="62" source="2"><item slot="1" original="Gather dry sticks, branches, logs and wood." ></item>
+<item slot="2" original="Pile these items in a pile." ></item>
+<item slot="3" original="Light them with matches or a lighter." ></item>
+<item slot="4" original="Keep the bonfire going by adding more wood or leaves." ></item>
+<item slot="5" original="Enjoy the glow." ></item>
+<item slot="6" original="Extinguish the fire with water or sand." ></item>
+</script><script id="63" source="2"><item slot="1" original="Gather kindling" ></item>
+<item slot="2" original="Place kindling in fire pit" ></item>
+<item slot="3" original="Light kindling to get fire started" ></item>
+<item slot="4" original="Add larger pieces of wood to fire" ></item>
+<item slot="5" original="Add wood to fire to keep fire going" ></item>
+<item slot="6" original="Monitor fire" ></item>
+</script><script id="64" source="2"><item slot="1" original="Look around for wood." ></item>
+<item slot="2" original="Place all wood in a pile." ></item>
+<item slot="3" original="Put some dry weeds in wood." ></item>
+<item slot="4" original="Light a match." ></item>
+<item slot="5" original="Light weeds and wood." ></item>
+<item slot="6" original="Get a beer and sit down." ></item>
+<item slot="7" original="Watch fire." ></item>
+</script><script id="65" source="2"><item slot="1" original="gather kindling" ></item>
+<item slot="2" original="gather thicker wood" ></item>
+<item slot="3" original="get a fire starter" ></item>
+<item slot="4" original="put fire starter in pit" ></item>
+<item slot="5" original="put some kindling in a tepee shape with starter under" ></item>
+<item slot="6" original="light a match or lighter" ></item>
+<item slot="7" original="stick the lit match or lighter on the kindling to catch it on fire" ></item>
+<item slot="8" original="watch the fire start to grow" ></item>
+<item slot="9" original="put some of the thicker wood around the lit fire" ></item>
+<item slot="10" original="watch it grow" ></item>
+</script><script id="66" source="2"><item slot="1" original="Gather wood." ></item>
+<item slot="2" original="Chop wood into kindling." ></item>
+<item slot="3" original="Place small wood in a fire." ></item>
+<item slot="4" original="Place paper on the fire." ></item>
+<item slot="5" original="Light with a match." ></item>
+</script><script id="67" source="2"><item slot="1" original="Create a fire pit" ></item>
+<item slot="2" original="Gather wood" ></item>
+<item slot="3" original="Place wood in fire pit" ></item>
+<item slot="4" original="Get water to place near fire pit in case of emergency" ></item>
+<item slot="5" original="Get starter for fire" ></item>
+<item slot="6" original="Carefully light fire" ></item>
+<item slot="7" original="Sit around fire as it continues to grow" ></item>
+<item slot="8" original="Enjoy bonfire" ></item>
+</script><script id="68" source="2"><item slot="1" original="Gather sticks" ></item>
+<item slot="2" original="Buy some logs from a store" ></item>
+<item slot="3" original="Line an area with stones" ></item>
+<item slot="4" original="Put logs on bottom" ></item>
+<item slot="5" original="Stack sticks on top" ></item>
+<item slot="6" original="Put some paper in the sticks" ></item>
+<item slot="7" original="light paper on fire" ></item>
+<item slot="8" original="Add more sticks and logs as fire burns down" ></item>
+<item slot="9" original="When finished, pour bucket of water on fire to extinguish" ></item>
+</script><script id="69" source="2"><item slot="1" original="Determine where you would like to have your bonfire." ></item>
+<item slot="2" original="Check area to make sure that nothing you don't want to burn is around." ></item>
+<item slot="3" original="Gather dry and/or dead wood for bonfire." ></item>
+<item slot="4" original="Pile wood up in chosen area." ></item>
+<item slot="5" original="Set afire." ></item>
+<item slot="6" original="Tend to fire to ensure that it does not get out of control and cause unwanted fire." ></item>
+</script><script id="70" source="2"><item slot="1" original="have a family reunion or friends over" ></item>
+<item slot="2" original="make a round shape with rocks" ></item>
+<item slot="3" original="grab wood as much desired" ></item>
+<item slot="4" original="use fire utensil" ></item>
+<item slot="5" original="turn wood on fire" ></item>
+<item slot="6" original="enjoy bonfire" ></item>
+<item slot="7" original="turn fire off after done" ></item>
+</script><script id="71" source="2"><item slot="1" original="collect the firewood" ></item>
+<item slot="2" original="arrange them in a heap" ></item>
+<item slot="3" original="surround it with sand" ></item>
+<item slot="4" original="make a circle around with bricks" ></item>
+<item slot="5" original="pour kerosine over the firewood" ></item>
+<item slot="6" original="ignite the firewood" ></item>
+</script><script id="72" source="2"><item slot="1" original="Collect fire wood" ></item>
+<item slot="2" original="Collect scrap wood and sticks" ></item>
+<item slot="3" original="Stack wood into a pile" ></item>
+<item slot="4" original="Light a piece of wood with matches" ></item>
+<item slot="5" original="Use lit wood to catch pile on fire" ></item>
+<item slot="6" original="Make smores :)" ></item>
+</script><script id="73" source="2"><item slot="1" original="Find a large area suitable for a bonfire" ></item>
+<item slot="2" original="Make sure there is no dry grass or brush nearby that can catch fire" ></item>
+<item slot="3" original="Place rocks in large circle surrounding where the fire will be" ></item>
+<item slot="4" original="Gather wood to be burned in the fire" ></item>
+<item slot="5" original="Place larger pieces in the middle" ></item>
+<item slot="6" original="Add smaller pieces around the larger pieces" ></item>
+<item slot="7" original="Add the smallest pieces along with kindling to the tops" ></item>
+<item slot="8" original="Add flammable liquids like lighting fluid if desired" ></item>
+<item slot="9" original="Light several areas of the fire" ></item>
+<item slot="10" original="Keeping a safe distance, stoke fire until it catches" ></item>
+</script><script id="74" source="2"><item slot="1" original="Gather wood" ></item>
+<item slot="2" original="Arrange wood in pile" ></item>
+<item slot="3" original="Collect tinder (leaves, dry grass, small twigs, paper, etc.)" ></item>
+<item slot="4" original="Put tinder under wood pile" ></item>
+<item slot="5" original="Light match or lighter" ></item>
+<item slot="6" original="Ignite tinder" ></item>
+<item slot="7" original="Light bonfire from tinder" ></item>
+</script><script id="75" source="2"><item slot="1" original="Select the spot" ></item>
+<item slot="2" original="Get some twigs, leaves, sticks and unwanted wood" ></item>
+<item slot="3" original="Dig a pit" ></item>
+<item slot="4" original="Make a boarder for pit with stones" ></item>
+<item slot="5" original=" Place the woods" ></item>
+<item slot="6" original=" Ignite the woods" ></item>
+<item slot="7" original=" Set up some chairs" ></item>
+<item slot="8" original=" Cook some food in the fire" ></item>
+<item slot="9" original="Enjoy the time" ></item>
+<item slot="10" original=" Put out the fire when finish" ></item>
+</script><script id="76" source="2"><item slot="1" original="Get some dry wood" ></item>
+<item slot="2" original="Stack a few pieces of wood into small pile with air gap underneath" ></item>
+<item slot="3" original="Collect kindling" ></item>
+<item slot="4" original="Ball up kindling into a small cup" ></item>
+<item slot="5" original="Generate spark to light kindling" ></item>
+<item slot="6" original="Blow into kindling" ></item>
+<item slot="7" original="Put kindling under the wood pile" ></item>
+<item slot="8" original="Wait for wood to catch fire" ></item>
+<item slot="9" original="Add more wood to grow fire" ></item>
+</script><script id="77" source="2"><item slot="1" original="Good place match for bonfire" ></item>
+<item slot="2" original="Bring the wood" ></item>
+<item slot="3" original="One by one arranging" ></item>
+<item slot="4" original="Take the match box." ></item>
+<item slot="5" original="Make bonfire" ></item>
+</script><script id="78" source="2"><item slot="1" original="Collect pieces of dry wood" ></item>
+<item slot="2" original="Arrange the wood in the fireplace" ></item>
+<item slot="3" original="Sprinkle some fuel on the wood" ></item>
+<item slot="4" original="Light the fire" ></item>
+<item slot="5" original="Sit around the fire and enjoy" ></item>
+</script><script id="79" source="2"><item slot="1" original="Find location to start the bonfire" ></item>
+<item slot="2" original="Gather wood" ></item>
+<item slot="3" original="Pile wood on location/ fire pit" ></item>
+<item slot="4" original="make sure anything flammable is safe distance away" ></item>
+<item slot="5" original="Ignite the wood" ></item>
+<item slot="6" original="Watch and tend the fire" ></item>
+</script><script id="80" source="2"><item slot="1" original="Gather as much wood as possible" ></item>
+<item slot="2" original="Get matches" ></item>
+<item slot="3" original="Get lighter fluid" ></item>
+<item slot="4" original="Get fire extinguisher" ></item>
+<item slot="5" original="Arrange wood in pile" ></item>
+<item slot="6" original="Pour lighter fluid over wood" ></item>
+<item slot="7" original="Light match" ></item>
+<item slot="8" original="Toss match into the wood pile" ></item>
+<item slot="9" original="Use fire extinguisher if necessary" ></item>
+</script><script id="81" source="2"><item slot="1" original="Find a fire-pit" ></item>
+<item slot="2" original="Gather kindling" ></item>
+<item slot="3" original="Put kindling in pit" ></item>
+<item slot="4" original="Gather small, dry wood pieces" ></item>
+<item slot="5" original="Build a tent shape with the small wood pieces over the kindling" ></item>
+<item slot="6" original="Get a match" ></item>
+<item slot="7" original="Strike match" ></item>
+<item slot="8" original="Light kindling with match" ></item>
+<item slot="9" original="Gather larger wood" ></item>
+<item slot="10" original="As small wood starts to burn, add larger pieces" ></item>
+<item slot="11" original="Continue adding larger pieces over time" ></item>
+</script><script id="82" source="2"><item slot="1" original="Dig a pit" ></item>
+<item slot="2" original="Place rocks around hole" ></item>
+<item slot="3" original="Put wood in hole" ></item>
+<item slot="4" original="Light firewood" ></item>
+<item slot="5" original="Tame fire" ></item>
+</script><script id="83" source="2"><item slot="1" original="Collect wood" ></item>
+<item slot="2" original="Put it in a spot that has no grass" ></item>
+<item slot="3" original="Arrange the wood" ></item>
+<item slot="4" original="Add some newspaper" ></item>
+<item slot="5" original="Light the newspaper" ></item>
+<item slot="6" original="Wait for fire to get big" ></item>
+<item slot="7" original="Roast some marshmallows" ></item>
+</script><script id="84" source="2"><item slot="1" original="Find a clearing" ></item>
+<item slot="2" original="Gather sticks and logs" ></item>
+<item slot="3" original="Gather small brush" ></item>
+<item slot="4" original="Put logs and sticks into pile" ></item>
+<item slot="5" original="Add small brush" ></item>
+<item slot="6" original="Light the brush" ></item>
+<item slot="7" original="Tend the growing fire" ></item>
+</script><script id="85" source="2"><item slot="1" original="Gather dry wood" ></item>
+<item slot="2" original="Get some matches" ></item>
+<item slot="3" original="Light some tinder under the wood" ></item>
+<item slot="4" original="Tend to the fire to get it going" ></item>
+<item slot="5" original="Add more wood once the fire is getting bigger" ></item>
+<item slot="6" original="Continue to add wood as it burns out" ></item>
+</script><script id="86" source="2"><item slot="1" original="Identify location" ></item>
+<item slot="2" original="Obtain permit if required" ></item>
+<item slot="3" original="Accumulate bonfire materials, primarily wood" ></item>
+<item slot="4" original="Stack the wood safely leaving air space" ></item>
+<item slot="5" original="Place kindling at the foot of the stack of wood" ></item>
+<item slot="6" original="Light the kindling" ></item>
+<item slot="7" original="Drink beer and sing" ></item>
+</script><script id="87" source="2"><item slot="1" original="Go to the woods" ></item>
+<item slot="2" original="Clear a spot for the fire" ></item>
+<item slot="3" original="Gather wood and tinder" ></item>
+<item slot="4" original="Stack wood, tinder and kindling" ></item>
+<item slot="5" original="Light the kindling on fire" ></item>
+<item slot="6" original="Let the fire spread to the logs" ></item>
+</script><script id="88" source="2"><item slot="1" original="Get a lighter." ></item>
+<item slot="2" original="Get lighter fluid." ></item>
+<item slot="3" original="Find wood or sticks." ></item>
+<item slot="4" original="Find a fire pit." ></item>
+<item slot="5" original="Put wood or sticks in fire pit." ></item>
+<item slot="6" original="Pour lighter fluid onto sticks." ></item>
+<item slot="7" original="Light fire." ></item>
+<item slot="8" original="Enjoy." ></item>
+</script><script id="89" source="2"><item slot="1" original="collect wood" ></item>
+<item slot="2" original="set up wood in a pit" ></item>
+<item slot="3" original="Get some matches" ></item>
+<item slot="4" original="Light a small bit of kindling and place it under the Wood" ></item>
+<item slot="5" original="Feed fire till it catches the rest of the wood" ></item>
+</script><script id="90" source="2"><item slot="1" original="Find a safe area" ></item>
+<item slot="2" original="clear the area for space" ></item>
+<item slot="3" original="stack small branches" ></item>
+<item slot="4" original="stack larger branches" ></item>
+<item slot="5" original="add an incendiary" ></item>
+<item slot="6" original="light a match" ></item>
+<item slot="7" original="keep everyone safe" ></item>
+</script><script id="91" source="2"><item slot="1" original="Dig out a hole." ></item>
+<item slot="2" original="Put wood into hole." ></item>
+<item slot="3" original="Put gas on the wood." ></item>
+<item slot="4" original="Light the wood." ></item>
+<item slot="5" original="Put up gas." ></item>
+</script><script id="92" source="2"><item slot="1" original="Get as much wood as you can" ></item>
+<item slot="2" original="Put wood in a pile" ></item>
+<item slot="3" original="Start a fire at the bottom of the pile" ></item>
+<item slot="4" original="Wait for the fire to spread" ></item>
+<item slot="5" original="Enjoy the light and heat of the fire" ></item>
+<item slot="6" original="Wait for fire to die down" ></item>
+<item slot="7" original="Spread coals and pour water on them to stop a wildfire" ></item>
+</script><script id="93" source="2"><item slot="1" original="Gather logs and kindling" ></item>
+<item slot="2" original="Build conical shape with wood" ></item>
+<item slot="3" original="Set light to kindling or paper" ></item>
+<item slot="4" original="Use lighting fluid if necessary" ></item>
+<item slot="5" original="Stoke bonfire once it is lit" ></item>
+<item slot="6" original="Enjoy bonfire" ></item>
+</script><script id="94" source="2"><item slot="1" original="Create a place for the fire by clearing out plants and place rocks around the outside" ></item>
+<item slot="2" original="Gather up dry wood of all sizes, from kindling up to logs" ></item>
+<item slot="3" original="Start to build a little tent of wood, with kindling underneath and some twigs over that." ></item>
+<item slot="4" original="Light the kindling" ></item>
+<item slot="5" original="As the twigs start to catch fire, start added wood on top, allowing space for air" ></item>
+<item slot="6" original="Keep going, as the fire gets bigger you can start using bigger branches" ></item>
+<item slot="7" original="Keep the fire going, make sure it doesn't go out" ></item>
+</script><script id="95" source="2"><item slot="1" original="Select the location for your fire" ></item>
+<item slot="2" original="Set up kindling" ></item>
+<item slot="3" original="Soak kindling in lighter fluid" ></item>
+<item slot="4" original="Light a match" ></item>
+<item slot="5" original="Set fire to kindling" ></item>
+</script><script id="96" source="2"><item slot="1" original="Gathering wood" ></item>
+<item slot="2" original="Putting the wood in a pile" ></item>
+<item slot="3" original="Pouring lighter fluid on the pile" ></item>
+<item slot="4" original="Lighting the pile" ></item>
+<item slot="5" original="Watching it burn" ></item>
+</script><script id="97" source="2"><item slot="1" original="Gather a large amount of dry firewood." ></item>
+<item slot="2" original="Put wood in a safe venue for a fire." ></item>
+<item slot="3" original="Stuff paper between the wood at the bottom of wood pile." ></item>
+<item slot="4" original="Put lighter fluid on wood." ></item>
+<item slot="5" original="Use a match to light the paper." ></item>
+<item slot="6" original="Stand away from fire and enjoy." ></item>
+</script><script id="98" source="2"><item slot="1" original="Gather dry wood." ></item>
+<item slot="2" original="Stack wood in pyramid shape." ></item>
+<item slot="3" original="Tuck kindling and newspaper around wood." ></item>
+<item slot="4" original="Pour lighter fluid on wood." ></item>
+<item slot="5" original="Light newspaper on fire." ></item>
+<item slot="6" original="Ensure wood catches fire." ></item>
+</script><script id="99" source="2"><item slot="1" original="load up all the wood into a pile" ></item>
+<item slot="2" original="stack as tall as possible safely" ></item>
+<item slot="3" original="use a safe flammable " ></item>
+<item slot="4" original="light " ></item>
+<item slot="5" original="stay far back to avoid getting burned" ></item>
+<item slot="6" original="making a bonfire-error note after I accept " ></item>
+</script></scripts>

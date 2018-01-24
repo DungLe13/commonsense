@@ -1,0 +1,748 @@
+<scripts><script id="1" source="2"><item slot="1" original="Going to the tennis court" ></item>
+<item slot="2" original="Grabbing a racket ball" ></item>
+<item slot="3" original="Serving ball with racket" ></item>
+<item slot="4" original="Hitting ball to other player" ></item>
+<item slot="5" original="Hitting ball when returned to you" ></item>
+</script><script id="2" source="2"><item slot="1" original="Get two tennis racquets" ></item>
+<item slot="2" original="Get a tennis ball" ></item>
+<item slot="3" original="Find a partner" ></item>
+<item slot="4" original="Go to a tennis court" ></item>
+<item slot="5" original="Give your partner one racquet" ></item>
+<item slot="6" original="Go to opposite sides of the net" ></item>
+<item slot="7" original="Throw the ball" ></item>
+<item slot="8" original="Hit the ball with the racquet" ></item>
+<item slot="9" original="Hit the ball back and forith" ></item>
+</script><script id="3" source="2"><item slot="1" original="Grab racket" ></item>
+<item slot="2" original="Grab balls" ></item>
+<item slot="3" original="Go to tennis park" ></item>
+<item slot="4" original="Find a partner/call a partner" ></item>
+<item slot="5" original="Step on the court" ></item>
+<item slot="6" original="Play" ></item>
+</script><script id="4" source="2"><item slot="1" original="Get the tennis racket and balls" ></item>
+<item slot="2" original="Go to the tennis court with a partner" ></item>
+<item slot="3" original="Put on tennis shoes" ></item>
+<item slot="4" original="Take out the racket and balls" ></item>
+<item slot="5" original="Take one tennis ball and throw in the air" ></item>
+<item slot="6" original="Serve it nicely" ></item>
+<item slot="7" original="Play the game" ></item>
+</script><script id="5" source="2"><item slot="1" original="Wear the sports dress" ></item>
+<item slot="2" original="Put on your shoes" ></item>
+<item slot="3" original="Take the Racket and balls" ></item>
+<item slot="4" original="Choose the opponent" ></item>
+<item slot="5" original="Go to the court" ></item>
+<item slot="6" original="Play the tennis" ></item>
+<item slot="7" original="Have some rest" ></item>
+<item slot="8" original="Leave the Court" ></item>
+</script><script id="6" source="2"><item slot="1" original="Put on comfy clothes" ></item>
+<item slot="2" original="Walk to the tennis court" ></item>
+<item slot="3" original="Grab a racket" ></item>
+<item slot="4" original="Hit the ball to your opponent" ></item>
+<item slot="5" original="Play until one of you wins" ></item>
+</script><script id="7" source="2"><item slot="1" original="Pack your tennis racket and balls" ></item>
+<item slot="2" original="Find a tennis partner" ></item>
+<item slot="3" original="Go to the tennis court" ></item>
+<item slot="4" original="Each go to opposite sides of the net" ></item>
+<item slot="5" original="Pick which one serves first" ></item>
+<item slot="6" original="That person hits the ball" ></item>
+<item slot="7" original="The other person tries to hit the ball back" ></item>
+</script><script id="8" source="2"><item slot="1" original="Dress properly with tennis shirt and pant" ></item>
+<item slot="2" original="Wear tennis shoes" ></item>
+<item slot="3" original="Head for the stadium, enter the court." ></item>
+<item slot="4" original="Shake hands with the opponent" ></item>
+<item slot="5" original="Start the game and serve the ball if it is my chance" ></item>
+<item slot="6" original="Apply proper foot work" ></item>
+<item slot="7" original="Place the ball in gaps properly to beat the player" ></item>
+<item slot="8" original=" Play the game by observing its rules" ></item>
+<item slot="9" original="Finish the game, shake hands with the other player" ></item>
+<item slot="10" original="Leave the stadium and back home" ></item>
+</script><script id="9" source="2"><item slot="1" original="Get a partner" ></item>
+<item slot="2" original="Grab a racket" ></item>
+<item slot="3" original="Get tennis balls" ></item>
+<item slot="4" original="Stretch out" ></item>
+<item slot="5" original="Leave house" ></item>
+<item slot="6" original="Walk to tennis court" ></item>
+<item slot="7" original="Form teams" ></item>
+<item slot="8" original="Play game" ></item>
+</script><script id="10" source="2"><item slot="1" original="Playing Tennis is not only one of the out door game but also keeps fit and healthy." ></item>
+<item slot="2" original="The Eye-hand coordination also improves, for the player able to accurately judge." ></item>
+<item slot="3" original="The timing of the ball, hitting it, and serving it plays a vital role in winning." ></item>
+<item slot="4" original="Men can burn up to 600 calories an hour,  women up to 420 calories an hour." ></item>
+<item slot="5" original="Harmone hair-loss can up-come their problem of hair-loss by playing tennis 3 days a week" ></item>
+<item slot="6" original="If playing tennis is professionally good u can get a lot of money." ></item>
+<item slot="7" original="It is a great way of keeping you fit." ></item>
+</script><script id="11" source="2"><item slot="1" original="Call friends ask if they can play" ></item>
+<item slot="2" original="Get dressed in playing closes" ></item>
+<item slot="3" original="Garther your gear" ></item>
+<item slot="4" original="go to tennis court" ></item>
+<item slot="5" original="play tennis with friends" ></item>
+</script><script id="12" source="2"><item slot="1" original="Go to store and buy tennis racket and balls." ></item>
+<item slot="2" original="Put on sports clothes." ></item>
+<item slot="3" original="Go to tennis court." ></item>
+<item slot="4" original="Stand on opposite side of court from opponent." ></item>
+<item slot="5" original="Serve ball b y hitting it over the net." ></item>
+<item slot="6" original="Watch opponent hit it back." ></item>
+<item slot="7" original="Return ball as many times as possible." ></item>
+<item slot="8" original="Keep score." ></item>
+<item slot="9" original="At end of game, shake opponent's hand." ></item>
+</script><script id="13" source="2"><item slot="1" original="Put on gym shorts, shirt, and tennis shoes" ></item>
+<item slot="2" original="Put my racquets, balls, and water bottles into my bag" ></item>
+<item slot="3" original="Go to the courts and wait for my partner to arrive" ></item>
+<item slot="4" original="Warm up before the match by stretching and having light rallies" ></item>
+<item slot="5" original="Serve the ball" ></item>
+<item slot="6" original="Hit forehands or backhands or volleys, depending on the rally" ></item>
+<item slot="7" original="Play out my service game" ></item>
+<item slot="8" original="Return serves directed at me by my opponent" ></item>
+<item slot="9" original="Change ends of the court after every odd game" ></item>
+<item slot="10" original="Take plenty of water breaks" ></item>
+</script><script id="14" source="2"><item slot="1" original="Change into athletic clothing" ></item>
+<item slot="2" original="get racket and ball" ></item>
+<item slot="3" original="find a partner" ></item>
+<item slot="4" original="pick sides of the court" ></item>
+<item slot="5" original="serve the ball" ></item>
+<item slot="6" original="keep track of points" ></item>
+<item slot="7" original="when game is over retrieve tennis balls" ></item>
+</script><script id="15" source="2"><item slot="1" original="Gather together a tennis racket and tennis ball" ></item>
+<item slot="2" original="Find a friend who also has a tennis racket" ></item>
+<item slot="3" original="Go to a tennis court at a park or other location" ></item>
+<item slot="4" original="Stand on one side of net while friend stands on the other" ></item>
+<item slot="5" original="Throw tennis ball high into the air" ></item>
+<item slot="6" original="Hit the ball with the racket so that it goes over the net" ></item>
+<item slot="7" original="Wait for friend to hit ball back to you" ></item>
+<item slot="8" original="Hit the ball back and forth until you or your friend misses" ></item>
+<item slot="9" original="Keep score if you choose" ></item>
+</script><script id="16" source="2"><item slot="1" original="Go to tennis courts." ></item>
+<item slot="2" original="Stand on one side of net." ></item>
+<item slot="3" original="Face your opponent." ></item>
+<item slot="4" original="Hit ball with tennis racket over the net." ></item>
+<item slot="5" original="Wait for opponent to hit ball back." ></item>
+<item slot="6" original="Exchange hits until ball goes out of bounds." ></item>
+<item slot="7" original="Play until game is won." ></item>
+</script><script id="17" source="2"><item slot="1" original="Call a friend" ></item>
+<item slot="2" original="Get your racket" ></item>
+<item slot="3" original="Wear tennis shoes" ></item>
+<item slot="4" original="Go to tennis field" ></item>
+<item slot="5" original="Play tennis with friend" ></item>
+</script><script id="18" source="2"><item slot="1" original="Find a tennis partner or partners to play with." ></item>
+<item slot="2" original="Find a tennis court." ></item>
+<item slot="3" original="Select a tennis racket." ></item>
+<item slot="4" original="Take turns hitting the ball back and forth across the net." ></item>
+<item slot="5" original="Enjoy." ></item>
+</script><script id="19" source="2"><item slot="1" original="Get racket" ></item>
+<item slot="2" original="Get tennis ball" ></item>
+<item slot="3" original="Go to tennis court" ></item>
+<item slot="4" original="Find someone to play with" ></item>
+<item slot="5" original="Hit tennis balls back and forth" ></item>
+<item slot="6" original="Keep score" ></item>
+<item slot="7" original="Finish game" ></item>
+<item slot="8" original="Leave tennis court" ></item>
+</script><script id="20" source="2"><item slot="1" original="Call friend to set a date to play tennis." ></item>
+<item slot="2" original="Call tennis court to set a court time." ></item>
+<item slot="3" original="Get dressed to play tennis." ></item>
+<item slot="4" original="Call friend to meet at tennis court." ></item>
+<item slot="5" original="Play one warm-up game with friend before match begins." ></item>
+<item slot="6" original="Play a few sets of tennis with friend." ></item>
+<item slot="7" original="Sit with friend and relax after match." ></item>
+<item slot="8" original="Plan for next tennis game." ></item>
+<item slot="9" original="Leave court and go home." ></item>
+</script><script id="21" source="2"><item slot="1" original="call a friend and invite to play" ></item>
+<item slot="2" original="drive to tennis court" ></item>
+<item slot="3" original="get out of car upon arrival" ></item>
+<item slot="4" original="greet friend" ></item>
+<item slot="5" original="enter tennis courts through gate" ></item>
+<item slot="6" original="Retrieve tennis ball from bag" ></item>
+<item slot="7" original="retrieve tennis rackets from same bag" ></item>
+<item slot="8" original="hit ball with racket" ></item>
+<item slot="9" original="continue hitting ball until game is over" ></item>
+</script><script id="22" source="2"><item slot="1" original="Obtain racket and tennis balls" ></item>
+<item slot="2" original="Dress in tennis clothes" ></item>
+<item slot="3" original="Go to tennis court" ></item>
+<item slot="4" original="Warm up" ></item>
+<item slot="5" original="Play match" ></item>
+<item slot="6" original="Congratulate winner" ></item>
+<item slot="7" original="Clean up" ></item>
+<item slot="8" original="Leave tennis courtm" ></item>
+</script><script id="23" source="2"><item slot="1" original="choose a racket" ></item>
+<item slot="2" original="get a tennis ball" ></item>
+<item slot="3" original="approach the court with opponent on opposite end" ></item>
+<item slot="4" original="throw the ball into the air" ></item>
+<item slot="5" original="hit the ball with the racket, aiming for the ground on the other side of the net" ></item>
+<item slot="6" original="if other player returns the ball, hit the ball as it comes to you with the same intent" ></item>
+<item slot="7" original="do this until one player cannot return the ball, that is a point" ></item>
+<item slot="8" original="play this way until the round is won" ></item>
+<item slot="9" original="switch, allowing your opponent to serve" ></item>
+</script><script id="24" source="2"><item slot="1" original="Put on tennis clothes" ></item>
+<item slot="2" original="gather tennis equipment" ></item>
+<item slot="3" original="go to tennis court" ></item>
+<item slot="4" original="get a tennis partner" ></item>
+<item slot="5" original="warm up to play" ></item>
+<item slot="6" original="begin play" ></item>
+<item slot="7" original="continue game until there's a winner" ></item>
+<item slot="8" original="players congratulate each other over a good game" ></item>
+<item slot="9" original="get a drink of water" ></item>
+<item slot="10" original="leave tennis court" ></item>
+<item slot="11" original="head home" ></item>
+<item slot="12" original="remove tennis clothes" ></item>
+<item slot="13" original="relax" ></item>
+</script><script id="25" source="2"><item slot="1" original="Book tennis court" ></item>
+<item slot="2" original="Change into tennis whites" ></item>
+<item slot="3" original="Get tennis racquet" ></item>
+<item slot="4" original="Get  tennis balls" ></item>
+<item slot="5" original="Walk on court with opponent" ></item>
+<item slot="6" original="Serve tennis ball" ></item>
+<item slot="7" original="Run for ball when opponent returns it" ></item>
+<item slot="8" original="Hit ball over net" ></item>
+<item slot="9" original="Repeat 7-8 until someone misses ball." ></item>
+</script><script id="26" source="2"><item slot="1" original="grab tennis ball" ></item>
+<item slot="2" original="grab tennis racket" ></item>
+<item slot="3" original="serve to opposition" ></item>
+<item slot="4" original="wait for the return" ></item>
+<item slot="5" original="hit ball to the opposite side of the court" ></item>
+<item slot="6" original="dont let opponent score" ></item>
+<item slot="7" original="win" ></item>
+</script><script id="27" source="2"><item slot="1" original="Get dressed." ></item>
+<item slot="2" original="Get tennis equipment" ></item>
+<item slot="3" original="Go to car" ></item>
+<item slot="4" original="Drive to tennis court" ></item>
+<item slot="5" original="Park" ></item>
+<item slot="6" original="Find friend" ></item>
+<item slot="7" original="Go to court" ></item>
+<item slot="8" original="Play tennis." ></item>
+</script><script id="28" source="2"><item slot="1" original="grab racket" ></item>
+<item slot="2" original="get on court" ></item>
+<item slot="3" original="grab tennis ball" ></item>
+<item slot="4" original="serve ball" ></item>
+<item slot="5" original="play back and forth" ></item>
+<item slot="6" original="win game" ></item>
+<item slot="7" original="declare myself champion" ></item>
+</script><script id="29" source="2"><item slot="1" original="Change into sports clothes" ></item>
+<item slot="2" original="Get tennis racket and balls" ></item>
+<item slot="3" original="Go to tennis court" ></item>
+<item slot="4" original="Find an opponent" ></item>
+<item slot="5" original="Play tennis with opponent" ></item>
+<item slot="6" original="When game is done, leave court" ></item>
+<item slot="7" original="Put away racket and balls" ></item>
+<item slot="8" original="Change into street clothes" ></item>
+</script><script id="30" source="2"><item slot="1" original="Buy a racket and some balls" ></item>
+<item slot="2" original="Travel to a tennis court with a friend" ></item>
+<item slot="3" original="Serve the ball to the other player over the net" ></item>
+<item slot="4" original="Wait for the other player to return the serve" ></item>
+<item slot="5" original="Continue playing until you have a clear winner in number of games won" ></item>
+</script><script id="31" source="2"><item slot="1" original="Get dressed in tennis clothes" ></item>
+<item slot="2" original="Find tennis racket" ></item>
+<item slot="3" original="Find tennis balls" ></item>
+<item slot="4" original="Drive to tennis court" ></item>
+<item slot="5" original="Play tennis" ></item>
+<item slot="6" original="Finish game" ></item>
+<item slot="7" original="Leave tennis court" ></item>
+</script><script id="32" source="2"><item slot="1" original="Drive to tennis court." ></item>
+<item slot="2" original="Exit car." ></item>
+<item slot="3" original="Take rackets and balls." ></item>
+<item slot="4" original="Find empty court." ></item>
+<item slot="5" original="Stretch" ></item>
+<item slot="6" original="Warm up" ></item>
+</script><script id="33" source="2"><item slot="1" original="hit ball to other player" ></item>
+<item slot="2" original="wait for other player to hit ball back" ></item>
+<item slot="3" original="hit ball to other player" ></item>
+<item slot="4" original="wait for player to hit ball back to you" ></item>
+<item slot="5" original="miss ball and cry" ></item>
+</script><script id="34" source="2"><item slot="1" original="Get appropriate attire" ></item>
+<item slot="2" original="Get tennis racket" ></item>
+<item slot="3" original="Go to tennis court" ></item>
+<item slot="4" original="Stretch and warm up" ></item>
+<item slot="5" original="Play tennis" ></item>
+</script><script id="35" source="2"><item slot="1" original="Pick up ball" ></item>
+<item slot="2" original="Pick up racket" ></item>
+<item slot="3" original="Toss ball into air and hit it with racket over net" ></item>
+<item slot="4" original="Wait for opponent to hit ball back" ></item>
+<item slot="5" original="Hit ball back to opponent" ></item>
+<item slot="6" original="Repeat until ball goes out of bounds" ></item>
+</script><script id="36" source="2"><item slot="1" original="going to the court" ></item>
+<item slot="2" original="serving the ball" ></item>
+<item slot="3" original="hitting the ball with the racket" ></item>
+<item slot="4" original="swinging the racket" ></item>
+<item slot="5" original="hitting the ball over the net" ></item>
+</script><script id="37" source="2"><item slot="1" original="arrive at tennis courts" ></item>
+<item slot="2" original="stretch muscles and limbs" ></item>
+<item slot="3" original="practice serving" ></item>
+<item slot="4" original="practice volleys" ></item>
+<item slot="5" original="start match with first serve" ></item>
+<item slot="6" original="play until winner is determined" ></item>
+<item slot="7" original="collect tennis balls" ></item>
+<item slot="8" original="exit tennis court" ></item>
+</script><script id="38" source="2"><item slot="1" original="Find a person to play with." ></item>
+<item slot="2" original="Drive to tennis court." ></item>
+<item slot="3" original="Server ball over net." ></item>
+<item slot="4" original="Wait for person to return ball." ></item>
+<item slot="5" original="Hit tennis ball again over net." ></item>
+<item slot="6" original="Watch opponent miss ball." ></item>
+<item slot="7" original="Enjoy being the winner." ></item>
+</script><script id="39" source="2"><item slot="1" original="go to courts" ></item>
+<item slot="2" original="stretch" ></item>
+<item slot="3" original="warm up" ></item>
+<item slot="4" original="defeat opponent by any means necessary" ></item>
+<item slot="5" original="jump over net" ></item>
+<item slot="6" original="shake hands" ></item>
+<item slot="7" original="leave courts" ></item>
+<item slot="8" original="drink gallon of Gatorade" ></item>
+</script><script id="40" source="2"><item slot="1" original="Gather tennis racket and balls" ></item>
+<item slot="2" original="Get into your car with items" ></item>
+<item slot="3" original="Drive to the tennis court" ></item>
+<item slot="4" original="Get out of car with items" ></item>
+<item slot="5" original="Walk over to the court" ></item>
+<item slot="6" original="Get out rack and balls" ></item>
+<item slot="7" original="Hit balls with racket" ></item>
+</script><script id="41" source="2"><item slot="1" original="Go to the tennis court" ></item>
+<item slot="2" original="Hit the ball at the racket" ></item>
+<item slot="3" original="Wait for opposing player to hit the ball back" ></item>
+<item slot="4" original="When ball comes back, hit it back to the other player" ></item>
+<item slot="5" original="Continue steps two through four" ></item>
+</script><script id="42" source="2"><item slot="1" original="dress in loose fitting clothing" ></item>
+<item slot="2" original="gather equipment" ></item>
+<item slot="3" original="go to courts" ></item>
+<item slot="4" original="open the can of tennis balls" ></item>
+<item slot="5" original="choose a side to play on, while you opponent takes the other side" ></item>
+<item slot="6" original="bounce ball and hit over the net" ></item>
+<item slot="7" original="hit the ball back each time your opponent hits it to you" ></item>
+</script><script id="43" source="2"><item slot="1" original="GET TENNIS RACQUET" ></item>
+<item slot="2" original="GO TO TENNIS COURT" ></item>
+<item slot="3" original="FIND AN OPPONENT" ></item>
+<item slot="4" original="PLAY TENNIS WITH OTHER PERSON" ></item>
+<item slot="5" original="HIT TENNIS BALL BACK AND FORTH OVER THE NET" ></item>
+</script><script id="44" source="2"><item slot="1" original="find person to play with" ></item>
+<item slot="2" original="collect tennis racket and tennis balls" ></item>
+<item slot="3" original="drive to tennis court" ></item>
+<item slot="4" original="hit ball to opponent with tennis racket" ></item>
+<item slot="5" original="await for opponent to hit ball back to you" ></item>
+<item slot="6" original="return ball by hitting opponent" ></item>
+<item slot="7" original="continue steps 5-6 until someone hits ball out of bounds" ></item>
+<item slot="8" original="or is unable to return ball" ></item>
+</script><script id="45" source="2"><item slot="1" original="Dress in your finest athletic gear" ></item>
+<item slot="2" original="Go to the tennis court" ></item>
+<item slot="3" original="Throw some balls in the air and hit them with your racket, otherwise known as serving" ></item>
+<item slot="4" original="Hit the tennis balls towards your opponent when they hit them to you" ></item>
+<item slot="5" original="Try to make your opponent miss the tennis ball" ></item>
+<item slot="6" original="Repeat" ></item>
+</script><script id="46" source="2"><item slot="1" original="Wear appropriate tennis clothing and shoes." ></item>
+<item slot="2" original="Go to your assigned side of the tennis court." ></item>
+<item slot="3" original="Play the game using a racket." ></item>
+<item slot="4" original="Keep score to see who wins." ></item>
+<item slot="5" original="Keep yourself hydrated by drinking water." ></item>
+</script><script id="47" source="2"><item slot="1" original="Find someone to play with" ></item>
+<item slot="2" original="Get tennis racket" ></item>
+<item slot="3" original="Get tennis balls" ></item>
+<item slot="4" original="Find empty tennis court" ></item>
+<item slot="5" original="Stretch and warm up to play" ></item>
+<item slot="6" original="Hit ball to opponent" ></item>
+<item slot="7" original="Return ball hit by opponent" ></item>
+<item slot="8" original="Compete to beat opponent" ></item>
+</script><script id="48" source="2"><item slot="1" original="Get tennis partner." ></item>
+<item slot="2" original="Get racket and ball." ></item>
+<item slot="3" original="Walk onto court." ></item>
+<item slot="4" original="Throw ball into air." ></item>
+<item slot="5" original="Serve ball with racket." ></item>
+<item slot="6" original="Swing racket at incoming serves." ></item>
+<item slot="7" original="Continue until end of game." ></item>
+</script><script id="49" source="2"><item slot="1" original="Put on appropriate tennis attire" ></item>
+<item slot="2" original="Find a partner or team to play with" ></item>
+<item slot="3" original="Decide which side goes first" ></item>
+<item slot="4" original="Serve the ball with your racket" ></item>
+<item slot="5" original="Prepare for the ball to return to your side of court" ></item>
+<item slot="6" original="Hit the ball back to the other side" ></item>
+<item slot="7" original="Continue steps 5-6 until one side misses the ball" ></item>
+<item slot="8" original="Play however many matches you agreed upon" ></item>
+<item slot="9" original="Whoever wins the most matches wins the total" ></item>
+</script><script id="50" source="2"><item slot="1" original="Find a tennis partner" ></item>
+<item slot="2" original="Get a tennis racket" ></item>
+<item slot="3" original="Get tennis balls" ></item>
+<item slot="4" original="Go to tennis court with partner" ></item>
+<item slot="5" original="You and partner each take one side of the court" ></item>
+<item slot="6" original="Serve tennis  ball" ></item>
+<item slot="7" original="When partner hits it back, you it it back at them" ></item>
+<item slot="8" original="Continue until someone scores a point" ></item>
+<item slot="9" original="Repeat steps 6-8 until someone wins the game" ></item>
+</script><script id="51" source="2"><item slot="1" original="Find an outfit to play in." ></item>
+<item slot="2" original="Ask a friend to play." ></item>
+<item slot="3" original="Walk to the tennis court." ></item>
+<item slot="4" original="Practice my serve." ></item>
+<item slot="5" original="Play tennis." ></item>
+</script><script id="52" source="2"><item slot="1" original="get tennis racket" ></item>
+<item slot="2" original="get tennis ball" ></item>
+<item slot="3" original="step onto the tennis court" ></item>
+<item slot="4" original="bounce ball a couple of times" ></item>
+<item slot="5" original="toss ball in air in front of you" ></item>
+<item slot="6" original="hit ball over net with your tennis racket" ></item>
+<item slot="7" original="wait for person to return ball." ></item>
+<item slot="8" original="hit ball back over the net after one bounce on your side." ></item>
+<item slot="9" original="try not to miss said ball" ></item>
+</script><script id="53" source="2"><item slot="1" original="Get a partner" ></item>
+<item slot="2" original="Get a racket" ></item>
+<item slot="3" original="Get a tennis ball" ></item>
+<item slot="4" original="Go to tennis court" ></item>
+<item slot="5" original="Throw ball in air" ></item>
+<item slot="6" original="Hit ball over net" ></item>
+<item slot="7" original="Partner hits ball back over net" ></item>
+<item slot="8" original="Hit ball back over net" ></item>
+<item slot="9" original="Game over when someone misses" ></item>
+</script><script id="54" source="2"><item slot="1" original="Walk on tennis court." ></item>
+<item slot="2" original="Get a ball." ></item>
+<item slot="3" original="Grab a racket." ></item>
+<item slot="4" original="Stand behind line." ></item>
+<item slot="5" original="Throw ball in air." ></item>
+<item slot="6" original="Hit with racket." ></item>
+<item slot="7" original="Other player returns ball." ></item>
+<item slot="8" original="Run to hit the ball." ></item>
+<item slot="9" original="Swing racket at ball." ></item>
+<item slot="10" original="Keep playing." ></item>
+<item slot="11" original="Leave court when done." ></item>
+</script><script id="55" source="2"><item slot="1" original="walk to a tennis court" ></item>
+<item slot="2" original="grab your tennis equipment" ></item>
+<item slot="3" original="play against someone else" ></item>
+<item slot="4" original="start a game" ></item>
+<item slot="5" original="hit the ball back and forth" ></item>
+<item slot="6" original="when done rest" ></item>
+</script><script id="56" source="2"><item slot="1" original="Arrive at tennis court with racket" ></item>
+<item slot="2" original="Find partner" ></item>
+<item slot="3" original="Find tennis ball" ></item>
+<item slot="4" original="Use racket to serve ball" ></item>
+<item slot="5" original="Wait for opponent to hit back" ></item>
+<item slot="6" original="Try to hit tennis ball over net" ></item>
+<item slot="7" original="Repeat until game over" ></item>
+</script><script id="57" source="2"><item slot="1" original="go to the tennis court" ></item>
+<item slot="2" original="wear tennis shoes" ></item>
+<item slot="3" original="take tennis racket and ball" ></item>
+<item slot="4" original="play with a partner" ></item>
+<item slot="5" original="throw ball in air and hit with racket" ></item>
+<item slot="6" original="return service of partner by hitting ball with racket" ></item>
+</script><script id="58" source="2"><item slot="1" original="Make friend who play tennis" ></item>
+<item slot="2" original="Improve your endurance" ></item>
+<item slot="3" original="Improve your strategy" ></item>
+<item slot="4" original="Get the right racket" ></item>
+<item slot="5" original="Learn the rules" ></item>
+<item slot="6" original="Get the basic strokes down" ></item>
+<item slot="7" original="Take some practice" ></item>
+<item slot="8" original="Learn playing techniques" ></item>
+<item slot="9" original="Putting the mind to it" ></item>
+<item slot="10" original="Hitting the courts" ></item>
+<item slot="11" original="Acing your opponents" ></item>
+<item slot="12" original="Play the match" ></item>
+</script><script id="59" source="2"><item slot="1" original="Enter the Stadium" ></item>
+<item slot="2" original="Register with receptionist" ></item>
+<item slot="3" original="Go to changing room" ></item>
+<item slot="4" original="Wear tennis rig" ></item>
+<item slot="5" original="Take out racket from cover" ></item>
+<item slot="6" original="Go near the court" ></item>
+<item slot="7" original="Wait for the turn" ></item>
+<item slot="8" original="Enter the court" ></item>
+<item slot="9" original="Play" ></item>
+</script><script id="60" source="2"><item slot="1" original="Find tennis partner/opponent" ></item>
+<item slot="2" original="Get dressed in loose clothes and tennis shoes" ></item>
+<item slot="3" original="Get racket and balls" ></item>
+<item slot="4" original="Go to court" ></item>
+<item slot="5" original="Play tennis" ></item>
+<item slot="6" original="Depart court" ></item>
+</script><script id="61" source="2"><item slot="1" original="Make sure you are wearing proper clothing and tennis shoes." ></item>
+<item slot="2" original="Gather your racket and balls." ></item>
+<item slot="3" original="Go to court." ></item>
+<item slot="4" original="When serving, toss ball up and swing with racket." ></item>
+<item slot="5" original="Hit ball over net to opponent." ></item>
+<item slot="6" original="When ball is returned, hit it back with your racket." ></item>
+<item slot="7" original="Continue through match." ></item>
+</script><script id="62" source="2"><item slot="1" original="Get your ball" ></item>
+<item slot="2" original="Get your racket" ></item>
+<item slot="3" original="Dress in comfortable athletic clothes" ></item>
+<item slot="4" original="Go to tennis court" ></item>
+<item slot="5" original="Serve your opponent the ball" ></item>
+<item slot="6" original="Wait for them to return the ball to you" ></item>
+<item slot="7" original="Hit the ball back to them" ></item>
+<item slot="8" original="Play until one of you gets more points than the other" ></item>
+</script><script id="63" source="2"><item slot="1" original="Get tennis rackets" ></item>
+<item slot="2" original="Get tennis balls" ></item>
+<item slot="3" original="Get opponent" ></item>
+<item slot="4" original="Go to tennis court" ></item>
+<item slot="5" original="Player serves ball" ></item>
+<item slot="6" original="Opponent hits ball" ></item>
+</script><script id="64" source="2"><item slot="1" original="Determine which player will serve first." ></item>
+<item slot="2" original="The serving player stands behind the back line right of the center line." ></item>
+<item slot="3" original="He or she tosses the tennis ball above his head." ></item>
+<item slot="4" original="As the ball descends, he or she strikes the ball with a tennis racket" ></item>
+<item slot="5" original="The ball is driven over the net to the opposite side of the center line." ></item>
+<item slot="6" original="If the ball is within the serving area, the opponent returns the serve." ></item>
+<item slot="7" original="Each volley must clear the net and land within the correct area." ></item>
+<item slot="8" original="When one player fails to return a volley he or she loses a point." ></item>
+<item slot="9" original="When one player wins 4 points and is 2 or more points ahead, a game is won." ></item>
+<item slot="10" original="When one player wins 6 games and is 2 or more games ahead, a set is won." ></item>
+</script><script id="65" source="2"><item slot="1" original="Put on tennis outfit" ></item>
+<item slot="2" original="Grab tennis racket" ></item>
+<item slot="3" original="Grab tennis balls" ></item>
+<item slot="4" original="Go to tennis court" ></item>
+<item slot="5" original="Unsleeve racket" ></item>
+<item slot="6" original="Greet opponent" ></item>
+<item slot="7" original="Announce score" ></item>
+<item slot="8" original="Serve the ball" ></item>
+<item slot="9" original="Return the serve" ></item>
+<item slot="10" original="Defend the return volley" ></item>
+<item slot="11" original="Score a point" ></item>
+</script><script id="66" source="2"><item slot="1" original="Find a friend to play tennis" ></item>
+<item slot="2" original="Gather racket and balls" ></item>
+<item slot="3" original="Drive to tennis court" ></item>
+<item slot="4" original="Walk to tennis court" ></item>
+<item slot="5" original="Play tennis with friend" ></item>
+<item slot="6" original="Gather tennis materials" ></item>
+<item slot="7" original="Drive home" ></item>
+</script><script id="67" source="2"><item slot="1" original="Put on tennis shoes" ></item>
+<item slot="2" original="Put racket and balls in car" ></item>
+<item slot="3" original="Pick up friend" ></item>
+<item slot="4" original="Drive to court" ></item>
+<item slot="5" original="Take out racket and balls" ></item>
+<item slot="6" original="Warm up" ></item>
+<item slot="7" original="Serve the ball" ></item>
+</script><script id="68" source="2"><item slot="1" original="find a partner" ></item>
+<item slot="2" original="make sure you are wearing exercise clothing" ></item>
+<item slot="3" original="go to a tennis court" ></item>
+<item slot="4" original="take a racket and a ball" ></item>
+<item slot="5" original="hit the ball to your partner" ></item>
+<item slot="6" original="run to hit the ball" ></item>
+<item slot="7" original="make sure you do not miss the ball" ></item>
+</script><script id="69" source="2"><item slot="1" original="get tennis clothing on" ></item>
+<item slot="2" original="find tennis racket" ></item>
+<item slot="3" original="go to tennis court" ></item>
+<item slot="4" original="find a player to play with" ></item>
+<item slot="5" original="hit ball back and forth" ></item>
+<item slot="6" original="eventually someone scores points and wins" ></item>
+</script><script id="70" source="2"><item slot="1" original="Reserve tennis court" ></item>
+<item slot="2" original="Dress in tennis clothing" ></item>
+<item slot="3" original="Purchase tennis racquet" ></item>
+<item slot="4" original="Purchase tennis balls" ></item>
+<item slot="5" original="Arrive at court" ></item>
+<item slot="6" original="Take your place on court with racquet and balls" ></item>
+<item slot="7" original="One of you serves the ball" ></item>
+<item slot="8" original="The other hits it back" ></item>
+<item slot="9" original="Continue hitting ball back and forth" ></item>
+<item slot="10" original="Repeat until someone wins" ></item>
+<item slot="11" original="Drive home" ></item>
+</script><script id="71" source="2"><item slot="1" original="Get tennis balls and racket" ></item>
+<item slot="2" original="Find another person to play with" ></item>
+<item slot="3" original="Go to a tennis court" ></item>
+<item slot="4" original="Hit ball back and Forth" ></item>
+<item slot="5" original="Keep score of who misses" ></item>
+</script><script id="72" source="2"><item slot="1" original="Get tennis racket and ball" ></item>
+<item slot="2" original="Go to tennis court" ></item>
+<item slot="3" original="Get players on either side of net" ></item>
+<item slot="4" original="Serve ball" ></item>
+<item slot="5" original="Play game" ></item>
+<item slot="6" original="End game" ></item>
+<item slot="7" original="Leave tennis court" ></item>
+</script><script id="73" source="2"><item slot="1" original="Put on appropriate clothing" ></item>
+<item slot="2" original="Find a tennis partner" ></item>
+<item slot="3" original="Take tennis rackets and tennis balls" ></item>
+<item slot="4" original="Stand on opposite sides of the court" ></item>
+<item slot="5" original="Serve the ball" ></item>
+<item slot="6" original="Wait for your partner to return the serve" ></item>
+<item slot="7" original="Hit the ball when it comes back to you" ></item>
+<item slot="8" original="Repeat this process until a winner of the match is decided" ></item>
+<item slot="9" original="Go home and shower and change into regular clothes" ></item>
+</script><script id="74" source="2"><item slot="1" original="dress for tennis" ></item>
+<item slot="2" original="gather your gear" ></item>
+<item slot="3" original="make sure you have balls" ></item>
+<item slot="4" original="get to the court" ></item>
+<item slot="5" original="pick your court" ></item>
+<item slot="6" original="wait for you partner" ></item>
+<item slot="7" original="have fun" ></item>
+</script><script id="75" source="2"><item slot="1" original="Find a partner" ></item>
+<item slot="2" original="Change into appropriate clothes" ></item>
+<item slot="3" original="Stretch out" ></item>
+<item slot="4" original="Volley for serve" ></item>
+<item slot="5" original="Begin game." ></item>
+</script><script id="76" source="2"><item slot="1" original="Get your gear together, racket and balls" ></item>
+<item slot="2" original="Have a partner lined up." ></item>
+<item slot="3" original="Put on your tennis clothes" ></item>
+<item slot="4" original="Travel to the tennis court" ></item>
+<item slot="5" original="Play tennis by hitting the ball back and forth" ></item>
+<item slot="6" original="Keep score" ></item>
+<item slot="7" original="Keep track of how many games each of you wins" ></item>
+</script><script id="77" source="2"><item slot="1" original="Wear short dress" ></item>
+<item slot="2" original="Take tennis bat and ball" ></item>
+<item slot="3" original="Against one player" ></item>
+<item slot="4" original="Rectangle ground want" ></item>
+<item slot="5" original="Running play" ></item>
+<item slot="6" original="Health energy" ></item>
+</script><script id="78" source="2"><item slot="1" original="Get dressed in tennis clothes." ></item>
+<item slot="2" original="Get tennis equipment." ></item>
+<item slot="3" original="Go to tennis court." ></item>
+<item slot="4" original="Take out racket." ></item>
+<item slot="5" original="Take out tennis balls." ></item>
+<item slot="6" original="Stand in serving position on one side of court." ></item>
+<item slot="7" original="Serve ball to opponent." ></item>
+<item slot="8" original="Opponent tries to return ball in such a way that you can't hit it." ></item>
+<item slot="9" original="Hit ball to opponent." ></item>
+<item slot="10" original="Play until one person wins." ></item>
+</script><script id="79" source="2"><item slot="1" original="Change into comfortable clothing/ shoes" ></item>
+<item slot="2" original="Get tennis racket and balls" ></item>
+<item slot="3" original="Arrange for opponent" ></item>
+<item slot="4" original="Go to tennis court" ></item>
+<item slot="5" original="Determine which side each player will take" ></item>
+<item slot="6" original="Serve ball to opponent" ></item>
+<item slot="7" original="Return ball if opponent hits back" ></item>
+<item slot="8" original="Continue until one player wins" ></item>
+</script><script id="80" source="2"><item slot="1" original="Make a date with a friend to play tennis" ></item>
+<item slot="2" original="Get dressed in a tennis outfit" ></item>
+<item slot="3" original="Put on tennis shoes" ></item>
+<item slot="4" original="Get racket and balls" ></item>
+<item slot="5" original="Get into car" ></item>
+<item slot="6" original="Drive to tennis court" ></item>
+<item slot="7" original="Get out of car" ></item>
+<item slot="8" original="Play tennis with friends" ></item>
+</script><script id="81" source="2"><item slot="1" original="Find someone to play tennis with" ></item>
+<item slot="2" original="Dress appropriately" ></item>
+<item slot="3" original="Get a tennis racket" ></item>
+<item slot="4" original="Get tennis balls" ></item>
+<item slot="5" original="Go to a tennis court" ></item>
+<item slot="6" original="Stand on the opposite side of the net from the person you are playing with" ></item>
+<item slot="7" original="Decide who serves (hits) the ball first" ></item>
+<item slot="8" original="Use the racket to hit the ball back over the net" ></item>
+<item slot="9" original="Get a point everything the ball touches the other persons court" ></item>
+<item slot="10" original="Play until someone wins or until you don't want to play any more" ></item>
+</script><script id="82" source="2"><item slot="1" original="Get a playing partner (or 3 if you want to play doubles)" ></item>
+<item slot="2" original="Get out your tennis racket and tennis balls" ></item>
+<item slot="3" original="Wear appropriate tennis shoes for the tennis court." ></item>
+<item slot="4" original="Go to tennis court." ></item>
+<item slot="5" original="If there is no free court, sign up for the next available one." ></item>
+<item slot="6" original="Stand along baseline of tennis court" ></item>
+<item slot="7" original="Serve ball to your tennis partner, without the tennis ball crossing the line" ></item>
+<item slot="8" original="If ball is returned back in play, return a volley." ></item>
+<item slot="9" original="Keep score if ball drops on the ground or goes out of play." ></item>
+<item slot="10" original="Repeat until someone wins the game." ></item>
+<item slot="11" original="Continue playing as long as desired" ></item>
+</script><script id="83" source="2"><item slot="1" original="Find an opponent to play against" ></item>
+<item slot="2" original="Get a racquet for each of you" ></item>
+<item slot="3" original="Open a new can of balls, or test old balls to find three that bounce well" ></item>
+<item slot="4" original="Find an available tennis court" ></item>
+<item slot="5" original="Stand with racquets on opposite sides of net" ></item>
+<item slot="6" original="Rally back and forth to warm up" ></item>
+<item slot="7" original="To rally, let ball bounce once in front of you, and hit over the net" ></item>
+<item slot="8" original="Return the ball your opponent hits before it bounces, or after one bounce" ></item>
+<item slot="9" original="Hit ball over the next, within bounds" ></item>
+<item slot="10" original="Start game with one person serving, the other returning" ></item>
+<item slot="11" original="Keep score" ></item>
+<item slot="12" original="When one person wins the game, switch sides if the total number of games is odd (after first game, third game, etc)" ></item>
+<item slot="13" original="Take turns serving" ></item>
+<item slot="14" original="Play until someone wins the set" ></item>
+<item slot="15" original="Play sets until someone wins the match" ></item>
+<item slot="16" original="Shake hands and go home" ></item>
+</script><script id="84" source="2"><item slot="1" original="Change into tennis outfit" ></item>
+<item slot="2" original="Gather equipment such as tennis racquet and balls" ></item>
+<item slot="3" original="Arrive at tennis court" ></item>
+<item slot="4" original="Meet playing partner" ></item>
+<item slot="5" original="have a great game" ></item>
+</script><script id="85" source="2"><item slot="1" original="Wear loose, comfortable clothes" ></item>
+<item slot="2" original="Get a tennis racket and balls" ></item>
+<item slot="3" original="Get a partner" ></item>
+<item slot="4" original="Go to tennis court" ></item>
+<item slot="5" original="Serve the ball into the small square opposite the side you're on" ></item>
+<item slot="6" original="Hit the ball back and forth with your partner" ></item>
+<item slot="7" original="Keep your shots inside the lines" ></item>
+</script><script id="86" source="2"><item slot="1" original="Get tennis shoes" ></item>
+<item slot="2" original="Serve the ball" ></item>
+<item slot="3" original="Wait for your opponent to hit the ball back" ></item>
+<item slot="4" original="Get ready to hit the ball" ></item>
+<item slot="5" original="Swing the racquet" ></item>
+<item slot="6" original="Continue until someone wins the point" ></item>
+</script><script id="87" source="2"><item slot="1" original="Get dressed in athletic gear." ></item>
+<item slot="2" original="Gather equipment." ></item>
+<item slot="3" original="Get a friend to play with. If no friend, get a ball machine." ></item>
+<item slot="4" original="Go to the park." ></item>
+<item slot="5" original="Grab racket and balls from the bag." ></item>
+<item slot="6" original="Bounce the ball on the court." ></item>
+<item slot="7" original="Throw ball in the air and prepare to swing racket." ></item>
+<item slot="8" original="Hit the ball over the net." ></item>
+<item slot="9" original="Wait for the ball to return." ></item>
+<item slot="10" original="Try and hit it again." ></item>
+</script><script id="88" source="2"><item slot="1" original="call friends to see who is available to play tennis" ></item>
+<item slot="2" original="get dressed with tennis gear and bring water" ></item>
+<item slot="3" original="go to a park to a tennis court with friend" ></item>
+<item slot="4" original="set up the net" ></item>
+<item slot="5" original="play tennis with a friend" ></item>
+</script><script id="89" source="2"><item slot="1" original="Find a location with a tennis court" ></item>
+<item slot="2" original="Prepare materials to play tennis" ></item>
+<item slot="3" original="Get in car" ></item>
+<item slot="4" original="Drive to tennis court" ></item>
+<item slot="5" original="Exit the car" ></item>
+<item slot="6" original="Start playing tennis on the court" ></item>
+</script><script id="90" source="2"><item slot="1" original="get tennis clothes" ></item>
+<item slot="2" original="get tennis shoes" ></item>
+<item slot="3" original="get tennis equipment" ></item>
+<item slot="4" original="reserve a tennis court" ></item>
+<item slot="5" original="put tennis clothes on" ></item>
+<item slot="6" original="put tennis shoes on" ></item>
+<item slot="7" original="train real hard" ></item>
+<item slot="8" original="play competitive match with another person or two" ></item>
+<item slot="9" original="mind all the rules" ></item>
+</script><script id="91" source="2"><item slot="1" original="Get good shoes and take rackets to the nearest tennis court." ></item>
+<item slot="2" original="Practice and warm-up by self-serving and hitting balls yourself." ></item>
+<item slot="3" original="Find or play against a prepared opponent, either for fun or score." ></item>
+<item slot="4" original="Serve the ball, and try to keep a volley and knock your opponent out." ></item>
+<item slot="5" original="Have fun and win if applicable, but remember that it's just a game." ></item>
+</script><script id="92" source="2"><item slot="1" original="Pack tennis bag with racquet, towels, and tennis balls." ></item>
+<item slot="2" original="Wear proper shoes and socks." ></item>
+<item slot="3" original="Bring water and/or fluids." ></item>
+<item slot="4" original="Make sure your racquet is properly strung." ></item>
+<item slot="5" original="Warm up." ></item>
+<item slot="6" original="Find a partner." ></item>
+<item slot="7" original="Play tennis." ></item>
+</script><script id="93" source="2"><item slot="1" original="Buy a tennis racket and tennis balls" ></item>
+<item slot="2" original="Invite someone to join you for tennis" ></item>
+<item slot="3" original="Get dressed in athletic clothing and tennis shoes" ></item>
+<item slot="4" original="Find/go to a tennis court with your friend" ></item>
+<item slot="5" original="Serve the ball" ></item>
+<item slot="6" original="Enjoy the game" ></item>
+</script><script id="94" source="2"><item slot="1" original="find tennis partner" ></item>
+<item slot="2" original="schedule a time to play tennis" ></item>
+<item slot="3" original="grab tennis racket and ball" ></item>
+<item slot="4" original="find tennis court" ></item>
+<item slot="5" original="drive to tennis court" ></item>
+<item slot="6" original="play tennis with partner" ></item>
+</script><script id="95" source="2"><item slot="1" original="Get tennis racket" ></item>
+<item slot="2" original="Get tennis balls" ></item>
+<item slot="3" original="Ask person to play tennis" ></item>
+<item slot="4" original="Walk onto tennis court" ></item>
+<item slot="5" original="Hold a tennis ball" ></item>
+<item slot="6" original="Serve tennis ball to other person" ></item>
+<item slot="7" original="Hit tennis ball back to other person" ></item>
+<item slot="8" original="Keep score" ></item>
+</script><script id="96" source="2"><item slot="1" original="Bounce the ball three times on the ground." ></item>
+<item slot="2" original="Serve it overhand from the back right corner." ></item>
+<item slot="3" original="Get rebounds from the other player and hit them back." ></item>
+<item slot="4" original="Repeat until one person has won." ></item>
+<item slot="5" original="Shake hands to show sportsmanship." ></item>
+</script><script id="97" source="2"><item slot="1" original="Dress in a tennis outfit." ></item>
+<item slot="2" original="Drive to the tennis court." ></item>
+<item slot="3" original="Obtain a racquet and ball." ></item>
+<item slot="4" original="Serve the ball." ></item>
+<item slot="5" original="Rally the ball back and forth against your opponent." ></item>
+<item slot="6" original="After finishing, put the ball and racquet back." ></item>
+<item slot="7" original="Drive home." ></item>
+</script><script id="98" source="2"><item slot="1" original="Charge into tennis attire" ></item>
+<item slot="2" original="Find playing partner" ></item>
+<item slot="3" original="Serve ball to partner" ></item>
+<item slot="4" original="Wait for partner to hit ball" ></item>
+<item slot="5" original="Try and hit ball when it returns to my side" ></item>
+</script><script id="99" source="2"><item slot="1" original="Dress up in athletic clothing." ></item>
+<item slot="2" original="Get tennis balls." ></item>
+<item slot="3" original="Meet a friend at the tennis court." ></item>
+<item slot="4" original="Stretch." ></item>
+<item slot="5" original="Take out your racket." ></item>
+<item slot="6" original="Warm up by volleying." ></item>
+<item slot="7" original="Start the match." ></item>
+<item slot="8" original="Serve the ball." ></item>
+<item slot="9" original="Return the ball." ></item>
+<item slot="10" original="Keep score." ></item>
+<item slot="11" original="Tell your partner good game." ></item>
+</script><script id="100" source="2"><item slot="1" original="Call a friend or find someone to play with." ></item>
+<item slot="2" original="Get dressed to go play. " ></item>
+<item slot="3" original="Wear comfortable clothing and tennis shoes." ></item>
+<item slot="4" original="Get your racket and tennis balls." ></item>
+<item slot="5" original="Bring more than one tennis ball so you don't have to chase them every time." ></item>
+<item slot="6" original="Meet your friend at the court." ></item>
+<item slot="7" original="Enjoy a game of tennis with your friend." ></item>
+<item slot="8" original="Good luck!" ></item>
+</script></scripts>

@@ -1,0 +1,793 @@
+<scripts><script id="0" source="2"><item slot="1" original="Remove clothing" ></item>
+<item slot="2" original="Step into shower" ></item>
+<item slot="3" original="Turn on water" ></item>
+<item slot="4" original="Get hair and body wet" ></item>
+<item slot="5" original="Pour shampoo into hand" ></item>
+<item slot="6" original="Lather shampoo into hair" ></item>
+<item slot="7" original="Massage shampoo into hair for at least a minute" ></item>
+<item slot="8" original="Rinse shampoo out of hair" ></item>
+<item slot="9" original="Turn off water" ></item>
+<item slot="10" original="Hair is clean" ></item>
+</script><script id="2" source="2"><item slot="1" original="Get towel" ></item>
+<item slot="2" original="Get shampoo" ></item>
+<item slot="3" original="Get conditioner" ></item>
+<item slot="4" original="Wet hair down in sink" ></item>
+<item slot="5" original="Scrub with shampoo" ></item>
+<item slot="6" original="Rinse hair" ></item>
+<item slot="7" original="Put conditioner in" ></item>
+<item slot="8" original="Rinse out" ></item>
+<item slot="9" original="Towel dry hair" ></item>
+<item slot="10" original="Comb hair" ></item>
+</script><script id="3" source="2"><item slot="1" original="enter bathroom" ></item>
+<item slot="2" original="run warm water into sink" ></item>
+<item slot="3" original="remove clothes" ></item>
+<item slot="4" original="place towel nearby" ></item>
+<item slot="5" original="step up to sink" ></item>
+<item slot="6" original="turn off water" ></item>
+<item slot="7" original="get shampoo off rack" ></item>
+<item slot="8" original="dip up water" ></item>
+<item slot="9" original="splash onto hair" ></item>
+<item slot="10" original="shampoo hair" ></item>
+<item slot="11" original="rinse" ></item>
+<item slot="12" original="stand up" ></item>
+<item slot="13" original="dry off with towel" ></item>
+<item slot="14" original="get clean clothes from cupboard" ></item>
+<item slot="15" original="get dressed" ></item>
+</script><script id="4" source="2"><item slot="1" original="wetting hair" ></item>
+<item slot="2" original="applying shampoo to hair" ></item>
+<item slot="3" original="lathering shampoo" ></item>
+<item slot="4" original="rinsing shampoo" ></item>
+<item slot="5" original="repeat lather and rinse" ></item>
+<item slot="6" original="apply conditioner" ></item>
+<item slot="7" original="rinse conditioner" ></item>
+</script><script id="5" source="2"><item slot="1" original="Wet your hair thoroughly down to the scalp" ></item>
+<item slot="2" original="Apply small amount of shampoo to your hair" ></item>
+<item slot="3" original="Work shampoo through hair with fingers" ></item>
+<item slot="4" original="Lightly massage scalp with fingertips" ></item>
+<item slot="5" original="Rinse hair completely until all suds are gone" ></item>
+<item slot="6" original="Gently squeeze water from hair with dry towel" ></item>
+<item slot="7" original="Style hair as desired" ></item>
+</script><script id="6" source="2"><item slot="1" original="Go to bathroom" ></item>
+<item slot="2" original="Take off clothes" ></item>
+<item slot="3" original="Get in shower" ></item>
+<item slot="4" original="Turn on water" ></item>
+<item slot="5" original="Put shampoo in hair" ></item>
+<item slot="6" original="Lather" ></item>
+<item slot="7" original="Rinse out" ></item>
+<item slot="8" original="Put conditioner in hair" ></item>
+<item slot="9" original="Lather" ></item>
+<item slot="10" original="Rinse out" ></item>
+<item slot="11" original="Turn water off" ></item>
+<item slot="12" original="Get towel" ></item>
+<item slot="13" original="Dry off with towel" ></item>
+</script><script id="7" source="2"><item slot="1" original="Get naked" ></item>
+<item slot="2" original="Get into shower" ></item>
+<item slot="3" original="add shampoo to you hands and move through your hair into a lather" ></item>
+<item slot="4" original="Rinse shampoo out" ></item>
+<item slot="5" original="Add conditioner to you hair" ></item>
+<item slot="6" original="Rinse conditioner out" ></item>
+<item slot="7" original="Dry hair" ></item>
+</script><script id="8" source="2"><item slot="1" original="Remove clothing (optional)" ></item>
+<item slot="2" original="Wet hair thoroughly" ></item>
+<item slot="3" original="Apply shampoo" ></item>
+<item slot="4" original="Scrub vigorously until lather forms" ></item>
+<item slot="5" original="Rinse and repeat (optional)" ></item>
+<item slot="6" original="Towel or blow dry" ></item>
+</script><script id="9" source="2"><item slot="1" original="Go to bathroom" ></item>
+<item slot="2" original="Undress" ></item>
+<item slot="3" original="Untie the hair" ></item>
+<item slot="4" original="Put the shower on" ></item>
+<item slot="5" original="Take soap" ></item>
+<item slot="6" original="Wash hair with soap until thick foam forms" ></item>
+<item slot="7" original="Rinse thoroughly" ></item>
+<item slot="8" original="Wash hair with soap again" ></item>
+<item slot="9" original="Rinse again" ></item>
+<item slot="10" original="Take the towel" ></item>
+<item slot="11" original="Wipe hair with towel" ></item>
+<item slot="12" original="Keep the hair loose to let it dry" ></item>
+<item slot="13" original="Put on clothes" ></item>
+<item slot="14" original="leave the bathroom" ></item>
+</script><script id="10" source="2"><item slot="1" original="Point shower head at head" ></item>
+<item slot="2" original="Get hair soaking wet" ></item>
+<item slot="3" original="Flip cap off of shampoo" ></item>
+<item slot="4" original="Squirt dollop into hand" ></item>
+<item slot="5" original="Work through hair from scalp to end" ></item>
+<item slot="6" original="Rinse" ></item>
+</script><script id="11" source="2"><item slot="1" original="First take Luke warm water with your recommended cosmetic to bathroom" ></item>
+<item slot="2" original="Completely soak your hair with water by rinsing it for around a minute." ></item>
+<item slot="3" original="Rub a small amount of the shampoo into the palms of your hands." ></item>
+<item slot="4" original="Then massage onto the scalp area of your head." ></item>
+<item slot="5" original="Completely rinse up your hair until water runs out with no bubbles." ></item>
+<item slot="6" original="No need to wash your hair twice with shampoo unless it is extremely dirty or long travel." ></item>
+<item slot="7" original="Use your fingers and comb out all the knots." ></item>
+<item slot="8" original="Apply conditioner through the middle and tips of your hair." ></item>
+<item slot="9" original="Rest the conditioner on for a few minutes." ></item>
+<item slot="10" original="After a few minutes, rinse completely." ></item>
+<item slot="11" original="Dry the hair." ></item>
+</script><script id="12" source="2"><item slot="1" original="Wet hair." ></item>
+<item slot="2" original="Scrub shampoo into hair." ></item>
+<item slot="3" original="Rinse shampoo out of hair." ></item>
+<item slot="4" original="Put conditioner in hair." ></item>
+<item slot="5" original="Let conditioner soak in hair for a few minutes." ></item>
+<item slot="6" original="Rinse conditioner out of hair." ></item>
+<item slot="7" original="Let hair dry." ></item>
+</script><script id="13" source="2"><item slot="1" original="Get into the bathroom" ></item>
+<item slot="2" original="Rinse the hair with the water" ></item>
+<item slot="3" original="Put the shampoo" ></item>
+<item slot="4" original="Gently massage the hair" ></item>
+<item slot="5" original="Let it for some time" ></item>
+<item slot="6" original="Turn on the shower" ></item>
+<item slot="7" original="Clean the hair" ></item>
+<item slot="8" original="Turn off the shower" ></item>
+<item slot="9" original="Get out of the Bathroom" ></item>
+</script><script id="14" source="2"><item slot="1" original="Go inside bathroom" ></item>
+<item slot="2" original="Take off clothes" ></item>
+<item slot="3" original="Turn on shower" ></item>
+<item slot="4" original="Step inside shower" ></item>
+<item slot="5" original="Get hair wet" ></item>
+<item slot="6" original="Rub shampoo in hair" ></item>
+<item slot="7" original="Wash out shampoo with water" ></item>
+</script><script id="16" source="2"><item slot="1" original="Take a high chair in front of the wash bath" ></item>
+<item slot="2" original="Bend my head in the wash basin and rinse with water" ></item>
+<item slot="3" original="Then apply shampoo and lather with both hands" ></item>
+<item slot="4" original="Massage the scalp with my finger-tips" ></item>
+<item slot="5" original="Rinse with water and wash thoroughly" ></item>
+<item slot="6" original="Dry the hair with a bath towel" ></item>
+</script><script id="17" source="2"><item slot="1" original="Brush hair out" ></item>
+<item slot="2" original="Add shampoo" ></item>
+<item slot="3" original="Lather well" ></item>
+<item slot="4" original="Rinse with water" ></item>
+<item slot="5" original="Add conditioner" ></item>
+<item slot="6" original="Let sit in hair" ></item>
+<item slot="7" original="Rinse out" ></item>
+<item slot="8" original="Dry hair" ></item>
+</script><script id="18" source="2"><item slot="1" original="Get into shower and wet hair" ></item>
+<item slot="2" original="pour shampoo from bottle into hand" ></item>
+<item slot="3" original="apply shampoo to hair, spreading evenly over head" ></item>
+<item slot="4" original="rinse shampoo" ></item>
+<item slot="5" original="repeat process with conditioner" ></item>
+<item slot="6" original="get out of shower" ></item>
+<item slot="7" original="towel dry self and hair" ></item>
+<item slot="8" original="comb hair" ></item>
+<item slot="9" original="blow dry hair" ></item>
+</script><script id="19" source="2"><item slot="1" original="comb hair" ></item>
+<item slot="2" original="wet with warm water" ></item>
+<item slot="3" original="add shampoo suds up all your hair" ></item>
+<item slot="4" original="wash out soap with warm water" ></item>
+<item slot="5" original="rinse in cool water" ></item>
+<item slot="6" original="dry with towel" ></item>
+</script><script id="20" source="2"><item slot="1" original="Undress." ></item>
+<item slot="2" original="Turn on shower to desired temperature." ></item>
+<item slot="3" original="Step in." ></item>
+<item slot="4" original="Wet hair." ></item>
+<item slot="5" original="Open shampoo bottle." ></item>
+<item slot="6" original="Pour small amount in hand." ></item>
+<item slot="7" original="Work into hair." ></item>
+<item slot="8" original="Lather." ></item>
+<item slot="9" original="Rinse." ></item>
+<item slot="10" original="Repeat." ></item>
+<item slot="11" original="Open conditioner." ></item>
+<item slot="12" original="Work into hair." ></item>
+<item slot="13" original="Soak for 60 seconds." ></item>
+<item slot="14" original="Rinse." ></item>
+</script><script id="21" source="2"><item slot="1" original="Get in the shower" ></item>
+<item slot="2" original="Turn on the water" ></item>
+<item slot="3" original="Wet hair entirely" ></item>
+<item slot="4" original="Put some shampoo in your hand" ></item>
+<item slot="5" original="Put shampoo on your head" ></item>
+<item slot="6" original="Move your hands around your head and hair until there is a lot of lather" ></item>
+<item slot="7" original="Rinse lather out of hair with water" ></item>
+</script><script id="22" source="2"><item slot="1" original="Allow your hair to get wet." ></item>
+<item slot="2" original="Soak the hair fully." ></item>
+<item slot="3" original="Put a small amount of shampoo in your hand." ></item>
+<item slot="4" original="Use the shampoo to lather up into your hair." ></item>
+<item slot="5" original="Massage the shampoo into your scalp." ></item>
+<item slot="6" original="Rinse all shampoo out of your hair." ></item>
+<item slot="7" original="Repeat lathering and rinsing if desired." ></item>
+<item slot="8" original="Dry hair with towel." ></item>
+</script><script id="23" source="2"><item slot="1" original="Get hair wet by sticking head in sink or taking a shower or bath." ></item>
+<item slot="2" original="Apply shampoo to wet hair." ></item>
+<item slot="3" original="Scrub head with fingers." ></item>
+<item slot="4" original="Rinse hair thoroughly with water." ></item>
+<item slot="5" original="Dry hair with towel." ></item>
+<item slot="6" original="Blow dry hair if desired." ></item>
+</script><script id="24" source="2"><item slot="1" original="Go to the bathroom" ></item>
+<item slot="2" original="Take off all clothing" ></item>
+<item slot="3" original="Get inside the shower" ></item>
+<item slot="4" original="Turn on the shower" ></item>
+<item slot="5" original="Wet the hair" ></item>
+<item slot="6" original="Using the shampoo, leather the hair" ></item>
+<item slot="7" original="Wash the hair using the water" ></item>
+</script><script id="25" source="2"><item slot="1" original="Get hair wet." ></item>
+<item slot="2" original="Put shampoo in hand." ></item>
+<item slot="3" original="Put shampoo on hair." ></item>
+<item slot="4" original="Rub it in so it foams up." ></item>
+<item slot="5" original="Rinse out the shampoo." ></item>
+<item slot="6" original="Put conditioner on." ></item>
+<item slot="7" original="Wait 1-2 minutes." ></item>
+<item slot="8" original="Rinse the conditioner til hair is clean." ></item>
+</script><script id="26" source="2"><item slot="1" original="Wet your hair." ></item>
+<item slot="2" original="Grab the shampoo bottle." ></item>
+<item slot="3" original="Empty some shampoo into your hands." ></item>
+<item slot="4" original="Lather your hair with the shampoo." ></item>
+<item slot="5" original="Rinse your hair with water." ></item>
+<item slot="6" original="Dry your hair with a towel or blow dryer." ></item>
+</script><script id="27" source="2"><item slot="1" original="Get hair wet" ></item>
+<item slot="2" original="Lather hair with shampoo" ></item>
+<item slot="3" original="Rinse with water" ></item>
+<item slot="4" original="Lather hair with conditioner" ></item>
+<item slot="5" original="Rinse with water" ></item>
+<item slot="6" original="Get towel" ></item>
+<item slot="7" original="Dry hair" ></item>
+</script><script id="28" source="2"><item slot="1" original="Turn the shower on to desired temperature." ></item>
+<item slot="2" original="Undress." ></item>
+<item slot="3" original="Use shampoo on your hair." ></item>
+<item slot="4" original="Rinse." ></item>
+<item slot="5" original="Use conditioner on your hair." ></item>
+<item slot="6" original="Rinse." ></item>
+</script><script id="29" source="2"><item slot="1" original="Take off clothes." ></item>
+<item slot="2" original="Get into shower." ></item>
+<item slot="3" original="Wet down hair." ></item>
+<item slot="4" original="Pour shampoo into hand." ></item>
+<item slot="5" original="Work shampoo through hair." ></item>
+<item slot="6" original="Rinse shampoo out of hair." ></item>
+<item slot="7" original="Pour conditioner in hand, if desired." ></item>
+<item slot="8" original="Work conditioner into hair." ></item>
+<item slot="9" original="Allow conditioner to sit in hair for 2 minutes." ></item>
+<item slot="10" original="Rinse conditioner out of hair." ></item>
+<item slot="11" original="Turn off water." ></item>
+<item slot="12" original="Get out of shower." ></item>
+</script><script id="30" source="2"><item slot="1" original="Get shampoo and conditioner" ></item>
+<item slot="2" original="Find towels" ></item>
+<item slot="3" original="Go to kitchen sink turn on water" ></item>
+<item slot="4" original="Bend over and soak hair" ></item>
+<item slot="5" original="apply shampoo" ></item>
+<item slot="6" original="lather up your hair" ></item>
+<item slot="7" original="rinse out all of the shampoo" ></item>
+<item slot="8" original="wrap head in towel" ></item>
+</script><script id="31" source="2"><item slot="1" original="Soak your hair" ></item>
+<item slot="2" original="Take shampoo" ></item>
+<item slot="3" original="Rub shampoo" ></item>
+<item slot="4" original="Rinse your hair" ></item>
+<item slot="5" original="Repeat steps" ></item>
+<item slot="6" original="Use towel" ></item>
+<item slot="7" original="Use hair dryer" ></item>
+</script><script id="32" source="2"><item slot="1" original="Take off clothes" ></item>
+<item slot="2" original="Enter shower" ></item>
+<item slot="3" original="Turn on water" ></item>
+<item slot="4" original="Adjust water temperature" ></item>
+<item slot="5" original="Wet hair" ></item>
+<item slot="6" original="Put shampoo on hair" ></item>
+<item slot="7" original="Rub hair until completely covered with shampoo" ></item>
+<item slot="8" original="Rinse shampoo out of hair" ></item>
+<item slot="9" original="Exit shower" ></item>
+<item slot="10" original="Dry hair and body with towel" ></item>
+<item slot="11" original="Get dressed" ></item>
+</script><script id="33" source="2"><item slot="1" original="rinse hair with warm water" ></item>
+<item slot="2" original="pick up shampoo" ></item>
+<item slot="3" original="later shampoo into hair" ></item>
+<item slot="4" original="scrub hair with shampoo" ></item>
+<item slot="5" original="rinse shampoo from hair" ></item>
+<item slot="6" original="rinse one more time" ></item>
+</script><script id="34" source="2"><item slot="1" original="Gather shampoo" ></item>
+<item slot="2" original="Turn on shower" ></item>
+<item slot="3" original="Wait for shower to get to desired temperature" ></item>
+<item slot="4" original="Get into shower" ></item>
+<item slot="5" original="Wet hair" ></item>
+<item slot="6" original="Apply shampoo onto hair" ></item>
+<item slot="7" original="Lather hair" ></item>
+<item slot="8" original="Rinse hair" ></item>
+</script><script id="35" source="2"><item slot="1" original="Brush Hair" ></item>
+<item slot="2" original="Wet Hair" ></item>
+<item slot="3" original="Apply Shampoo" ></item>
+<item slot="4" original="Lather the shampoo" ></item>
+<item slot="5" original="Rinse Thoroughly with water" ></item>
+<item slot="6" original="Towel Dry your hair" ></item>
+</script><script id="36" source="2"><item slot="1" original="wet hair with warm water in shower" ></item>
+<item slot="2" original="squeeze shampoo into you hand" ></item>
+<item slot="3" original="suds the shampoo between your hands" ></item>
+<item slot="4" original="apply directly to your hair" ></item>
+<item slot="5" original="scrub your scalp" ></item>
+<item slot="6" original="make sure shampoo is applied to all of your hair" ></item>
+<item slot="7" original="rinse" ></item>
+<item slot="8" original="repeat steps 2-7 if desired" ></item>
+</script><script id="37" source="2"><item slot="1" original="Get hair wet" ></item>
+<item slot="2" original="Get shampoo" ></item>
+<item slot="3" original="Squeeze out small amount" ></item>
+<item slot="4" original="Massage shampoo into hair" ></item>
+<item slot="5" original="Rinse hair with water" ></item>
+</script><script id="38" source="2"><item slot="1" original="Get naked" ></item>
+<item slot="2" original="Put towel on floor" ></item>
+<item slot="3" original="Start shower" ></item>
+<item slot="4" original="Get in" ></item>
+<item slot="5" original="Wet hair" ></item>
+<item slot="6" original="Add shampoo" ></item>
+<item slot="7" original="Rinse hair" ></item>
+</script><script id="39" source="2"><item slot="1" original="Get into shower." ></item>
+<item slot="2" original="Open bottle of shampoo." ></item>
+<item slot="3" original="Rub shampoo through hair." ></item>
+<item slot="4" original="Rinse shampoo." ></item>
+<item slot="5" original="Open bottle of conditioner." ></item>
+<item slot="6" original="Rub conditioner through hair." ></item>
+<item slot="7" original="Leave conditioner in for one minute." ></item>
+<item slot="8" original="Rinse conditioner." ></item>
+<item slot="9" original="Exit shower." ></item>
+<item slot="10" original="Grab towel." ></item>
+<item slot="11" original="Dry hair." ></item>
+</script><script id="40" source="2"><item slot="1" original="Get in shower" ></item>
+<item slot="2" original="Turn on water and adjust to comfort level" ></item>
+<item slot="3" original="Wet hair" ></item>
+<item slot="4" original="Apply shampoo and massage in" ></item>
+<item slot="5" original="Rinse hair until free of shampoo" ></item>
+</script><script id="41" source="2"><item slot="1" original="Get towel" ></item>
+<item slot="2" original="Undress" ></item>
+<item slot="3" original="Turn on water" ></item>
+<item slot="4" original="Get into shower" ></item>
+<item slot="5" original="Wet hair" ></item>
+<item slot="6" original="Apply shampoo" ></item>
+<item slot="7" original="Rinse" ></item>
+<item slot="8" original="Apply conditioner" ></item>
+<item slot="9" original="Rinse" ></item>
+<item slot="10" original="Leave shower" ></item>
+<item slot="11" original="Dry off" ></item>
+<item slot="12" original="Get dressed" ></item>
+</script><script id="42" source="2"><item slot="1" original="Enter bathroom" ></item>
+<item slot="2" original="Remove clothes" ></item>
+<item slot="3" original="Enter shower" ></item>
+<item slot="4" original="Turn on water" ></item>
+<item slot="5" original="Wet hair" ></item>
+<item slot="6" original="Put desired shampoo into hair" ></item>
+<item slot="7" original="Wash out shampoo" ></item>
+<item slot="8" original="Put desired conditioner into hair" ></item>
+<item slot="9" original="Wash body while waiting" ></item>
+<item slot="10" original="Rinse conditioner" ></item>
+<item slot="11" original="Exit shower" ></item>
+<item slot="12" original="Get dressed" ></item>
+</script><script id="43" source="2"><item slot="1" original="Thoroughly wet hair with water" ></item>
+<item slot="2" original="Pour the necessary amount of shampoo into your hand" ></item>
+<item slot="3" original="Massage the shampoo into your hair" ></item>
+<item slot="4" original="Rinse the shampoo thoroughly from your hair" ></item>
+<item slot="5" original="Apply conditioner to your hair" ></item>
+<item slot="6" original="Let conditioner sit in your hair for a minute" ></item>
+<item slot="7" original="Thoroughly rinse conditioner from your hair with water" ></item>
+</script><script id="44" source="2"><item slot="1" original="Turn on hot water" ></item>
+<item slot="2" original="Wait for water to come to temperature" ></item>
+<item slot="3" original="Get hair wet" ></item>
+<item slot="4" original="Put soap on hands" ></item>
+<item slot="5" original="Scrub head with soapy hands" ></item>
+<item slot="6" original="Rinse hair with water" ></item>
+<item slot="7" original="Dry hair with towel" ></item>
+</script><script id="45" source="2"><item slot="1" original="Comb tangles out of hair." ></item>
+<item slot="2" original="Undress." ></item>
+<item slot="3" original="Get in the shower." ></item>
+<item slot="4" original="Wet hair." ></item>
+<item slot="5" original="Apply shampoo." ></item>
+<item slot="6" original="Wash hair." ></item>
+<item slot="7" original="Rinse out shampoo." ></item>
+<item slot="8" original="Dry off." ></item>
+<item slot="9" original="Get out of shower." ></item>
+<item slot="10" original="Put clothes on." ></item>
+</script><script id="46" source="2"><item slot="1" original="Turn on shower" ></item>
+<item slot="2" original="Step into shower" ></item>
+<item slot="3" original="Rinse hair" ></item>
+<item slot="4" original="Use hands to scrub hair" ></item>
+<item slot="5" original="Apply shampoo" ></item>
+<item slot="6" original="Scrub again" ></item>
+<item slot="7" original="Rinse away shampoo" ></item>
+<item slot="8" original="Apply conditioner" ></item>
+<item slot="9" original="Make sure conditioner is foamy" ></item>
+<item slot="10" original="Rinse hair" ></item>
+<item slot="11" original="Dry hair with towel" ></item>
+</script><script id="47" source="2"><item slot="1" original="Get into the shower" ></item>
+<item slot="2" original="Turn on the water" ></item>
+<item slot="3" original="Get your hair wet" ></item>
+<item slot="4" original="Apply a small amount of shampoo into your hair" ></item>
+<item slot="5" original="Scrub it into a lather and continue scrubbing for a few seconds" ></item>
+<item slot="6" original="Rinse the shampoo out of your hair" ></item>
+</script><script id="48" source="2"><item slot="1" original="Get in the shower or bath" ></item>
+<item slot="2" original="Turn on the water" ></item>
+<item slot="3" original="Soak your hair with water" ></item>
+<item slot="4" original="Add a small amount of shampoo to your hands" ></item>
+<item slot="5" original="Lather the shampoo" ></item>
+<item slot="6" original="Rub all over your head and into your scalp" ></item>
+<item slot="7" original="Rinse well" ></item>
+</script><script id="49" source="2"><item slot="1" original="Turn water on in shower to hot/warm." ></item>
+<item slot="2" original="Get into shower." ></item>
+<item slot="3" original="Open shampoo bottle." ></item>
+<item slot="4" original="Pour small amount in palm of hand." ></item>
+<item slot="5" original="Spread shampoo all over hair and rub until a lather is formed." ></item>
+<item slot="6" original="Rinse well with water." ></item>
+<item slot="7" original="Possibly reapply shampoo again." ></item>
+<item slot="8" original="Rinse again with water." ></item>
+<item slot="9" original="Open conditioner bottle." ></item>
+<item slot="10" original="Pour small amount in palm of hand." ></item>
+<item slot="11" original="Apply to hair and leave in for a few minutes." ></item>
+<item slot="12" original="Rinse well with water." ></item>
+</script><script id="50" source="2"><item slot="1" original="turn on water at sink" ></item>
+<item slot="2" original="get hair wet" ></item>
+<item slot="3" original="massage shampoo into hair" ></item>
+<item slot="4" original="rinse shampoo from hair" ></item>
+<item slot="5" original="apply conditioner to hair" ></item>
+<item slot="6" original="rinse conditioner from hair" ></item>
+<item slot="7" original="turn off water" ></item>
+<item slot="8" original="dry hair" ></item>
+</script><script id="51" source="2"><item slot="1" original="washing your hair" ></item>
+<item slot="2" original="shampooing hair" ></item>
+<item slot="3" original="cleaning hair" ></item>
+<item slot="4" original="putting soap in your hair" ></item>
+<item slot="5" original="putting shampoo in your hair" ></item>
+<item slot="6" original="rinsing your hair" ></item>
+</script><script id="52" source="2"><item slot="1" original="grab shampoo" ></item>
+<item slot="2" original="wet hair" ></item>
+<item slot="3" original="add shampoo" ></item>
+<item slot="4" original="add more water" ></item>
+<item slot="5" original="wash hair with fingers" ></item>
+<item slot="6" original="rinse hair" ></item>
+</script><script id="53" source="2"><item slot="1" original="get hair wet" ></item>
+<item slot="2" original="put shampoo in hair" ></item>
+<item slot="3" original="lather" ></item>
+<item slot="4" original="rinse shampoo from hair" ></item>
+<item slot="5" original="towel dry" ></item>
+<item slot="6" original="style" ></item>
+</script><script id="54" source="2"><item slot="1" original="Turn of the shower" ></item>
+<item slot="2" original="Wait for the temperature of the water to get hot" ></item>
+<item slot="3" original="Get in the shower" ></item>
+<item slot="4" original="Open the shampoo" ></item>
+<item slot="5" original="Pour shampoo into hand" ></item>
+<item slot="6" original="Close the champoo" ></item>
+<item slot="7" original="Rub shampoo into hair" ></item>
+<item slot="8" original="Rinse with water" ></item>
+</script><script id="55" source="2"><item slot="1" original="Wet hair" ></item>
+<item slot="2" original="Open shampoo" ></item>
+<item slot="3" original="Pour shampoo into hand" ></item>
+<item slot="4" original="Rub shampoo all over hair" ></item>
+<item slot="5" original="Wait" ></item>
+<item slot="6" original="Rinse shampoo out of hair" ></item>
+<item slot="7" original="Dry hair" ></item>
+</script><script id="56" source="2"><item slot="1" original="Get into the shower" ></item>
+<item slot="2" original="Turn on the water" ></item>
+<item slot="3" original="Wet your hair" ></item>
+<item slot="4" original="Pick up shampoo bottle" ></item>
+<item slot="5" original="Pour desired amount into your hand" ></item>
+<item slot="6" original="Apply to hair" ></item>
+<item slot="7" original="Scrub for two minutes" ></item>
+<item slot="8" original="Rinse your hair" ></item>
+<item slot="9" original="Turn off shower" ></item>
+<item slot="10" original="Step out of shower" ></item>
+<item slot="11" original="Dry hair with towel" ></item>
+</script><script id="57" source="2"><item slot="1" original="Put shampoo in their head" ></item>
+<item slot="2" original="wash it" ></item>
+<item slot="3" original="rinse the hair" ></item>
+<item slot="4" original="make sure its clean" ></item>
+<item slot="5" original="dry the hair" ></item>
+</script><script id="58" source="2"><item slot="1" original="wet hair" ></item>
+<item slot="2" original="put shampoo on hair" ></item>
+<item slot="3" original="work shampoo thoroughly throughout hair" ></item>
+<item slot="4" original="rinse out shampoo" ></item>
+<item slot="5" original="put conditioner on hair" ></item>
+<item slot="6" original="work conditioner throughout hair" ></item>
+<item slot="7" original="rinse out conditioner" ></item>
+</script><script id="59" source="2"><item slot="1" original="get hair wet" ></item>
+<item slot="2" original="add soap" ></item>
+<item slot="3" original="rub soap in" ></item>
+<item slot="4" original="wash soap off" ></item>
+<item slot="5" original="dry hair" ></item>
+</script><script id="60" source="2"><item slot="1" original="Get hair wet." ></item>
+<item slot="2" original="Squirt quarter size of shampoo on hand." ></item>
+<item slot="3" original="Put shampoo in hair." ></item>
+<item slot="4" original="Scrub head and hair with fingers." ></item>
+<item slot="5" original="Rinse shampoo out of hair." ></item>
+</script><script id="61" source="2"><item slot="1" original="Obtain hair wash/shampoo" ></item>
+<item slot="2" original="Wet hair" ></item>
+<item slot="3" original="Place hair wash in hand from container" ></item>
+<item slot="4" original="Lather in your hair" ></item>
+<item slot="5" original="Was the hair out with water" ></item>
+<item slot="6" original="Dry your hair" ></item>
+</script><script id="63" source="2"><item slot="1" original="wet hair with water" ></item>
+<item slot="2" original="pour shampoo in your hands" ></item>
+<item slot="3" original="rub hands together" ></item>
+<item slot="4" original="rub hair with hands to lather the soap" ></item>
+<item slot="5" original="after one minute, rinse hair with water" ></item>
+<item slot="6" original="repeat if necessary" ></item>
+<item slot="7" original="dry hair" ></item>
+</script><script id="64" source="2"><item slot="1" original="TURN THE SHOWER ON" ></item>
+<item slot="2" original="GET INTO THE SHOWER" ></item>
+<item slot="3" original="WET YOUR HAIR" ></item>
+<item slot="4" original="PUT SOME SHAMPOO ON YOUR HAIR" ></item>
+<item slot="5" original="MASSAGE IT IN" ></item>
+<item slot="6" original="RINSE THE SHAMPOO" ></item>
+<item slot="7" original="PUT SOME CONDITIONER IN YOUR HAIR" ></item>
+<item slot="8" original="LEAVE IN FOR A FEW MINUTES" ></item>
+<item slot="9" original="RINSE HAIR" ></item>
+<item slot="10" original="GET OUT OF SHOWER" ></item>
+</script><script id="65" source="2"><item slot="1" original="Mix shampoos" ></item>
+<item slot="2" original="Turn on water" ></item>
+<item slot="3" original="Undress" ></item>
+<item slot="4" original="Wet hair" ></item>
+<item slot="5" original="Put shampoo in hair" ></item>
+<item slot="6" original="Lather up" ></item>
+<item slot="7" original="Rinse shampoo" ></item>
+<item slot="8" original="Towel dry hair" ></item>
+</script><script id="66" source="2"><item slot="1" original="Turn on faucet." ></item>
+<item slot="2" original="Adjust water to desired temperature." ></item>
+<item slot="3" original="Place head under water" ></item>
+<item slot="4" original="Fully wet hair." ></item>
+<item slot="5" original="Turn off faucet." ></item>
+<item slot="6" original="Apply desired shampoo to hair." ></item>
+<item slot="7" original="Lather hair and scalp with fingers." ></item>
+<item slot="8" original="Turn on faucet." ></item>
+<item slot="9" original="Adjust water to desired temperature." ></item>
+<item slot="10" original="Place head under water." ></item>
+<item slot="11" original="Rinse shampoo from hair." ></item>
+<item slot="12" original="Turn off water." ></item>
+<item slot="13" original="Dry hair with a towel." ></item>
+</script><script id="67" source="2"><item slot="1" original="obtain towel" ></item>
+<item slot="2" original="choose shower tub or large sink" ></item>
+<item slot="3" original="turn on water to desired temperature" ></item>
+<item slot="4" original="place shampoo in hair" ></item>
+<item slot="5" original="lather shampoo into hair" ></item>
+<item slot="6" original="rinse with water" ></item>
+<item slot="7" original="place conditioner into hair" ></item>
+<item slot="8" original="rinse off with water" ></item>
+<item slot="9" original="place towel on hair" ></item>
+<item slot="10" original="style hair as desired" ></item>
+</script><script id="68" source="2"><item slot="1" original="Turn water on to desired temperature" ></item>
+<item slot="2" original="Get shampoo" ></item>
+<item slot="3" original="Rinse hair thoroughly with water" ></item>
+<item slot="4" original="Lather shampoo into hair" ></item>
+<item slot="5" original="Scrub hair to clean hair" ></item>
+<item slot="6" original="Rinse shampoo out of hair" ></item>
+<item slot="7" original="Dry hair" ></item>
+</script><script id="69" source="2"><item slot="1" original="Get hair wet." ></item>
+<item slot="2" original="Put shampoo in hand." ></item>
+<item slot="3" original="Wash your hair." ></item>
+<item slot="4" original="Rinse your hair." ></item>
+<item slot="5" original="Put conditioner in hair." ></item>
+<item slot="6" original="Rinse hair again." ></item>
+<item slot="7" original="Ring out hair." ></item>
+<item slot="8" original="Wrap your hair in a towel." ></item>
+<item slot="9" original="Blow dry hair." ></item>
+</script><script id="70" source="2"><item slot="1" original="Get hair wet" ></item>
+<item slot="2" original="Put shampoo on head and rub into hair" ></item>
+<item slot="3" original="Massage scalp good to loosen dirt" ></item>
+<item slot="4" original="Rinse shampoo from hair" ></item>
+<item slot="5" original="Add conditioner to hair" ></item>
+<item slot="6" original="Cover all hair with conditioner" ></item>
+<item slot="7" original="Rinse out" ></item>
+<item slot="8" original="Wrap towel around soaked hair" ></item>
+<item slot="9" original="Remove towel and comb through hair" ></item>
+<item slot="10" original="Dry hair with blow dryer or let air dry" ></item>
+</script><script id="71" source="2"><item slot="1" original="Remove your clothes" ></item>
+<item slot="2" original="Get in the shower" ></item>
+<item slot="3" original="Turn on the water" ></item>
+<item slot="4" original="Let your hair get wet" ></item>
+<item slot="5" original="Locate the shampoo bottle" ></item>
+<item slot="6" original="Lather the shampoo into your hair" ></item>
+<item slot="7" original="Stand under the water to wash it out" ></item>
+<item slot="8" original="Find the conditioner" ></item>
+<item slot="9" original="Massage the conditioner in your hair" ></item>
+<item slot="10" original="Let it stay in for two minutes" ></item>
+<item slot="11" original="Rinse it out" ></item>
+</script><script id="72" source="2"><item slot="1" original="turn on the shower" ></item>
+<item slot="2" original="step into the shower" ></item>
+<item slot="3" original="wet hair" ></item>
+<item slot="4" original="grab shampoo bottle" ></item>
+<item slot="5" original="hold out hand palm up" ></item>
+<item slot="6" original="tip bottle so that opening is pointing to palm" ></item>
+<item slot="7" original="pour some shampoo into palm" ></item>
+<item slot="8" original="rub hands together to spread shampoo" ></item>
+<item slot="9" original="rub into hair" ></item>
+<item slot="10" original="rinse hair with water." ></item>
+</script><script id="74" source="2"><item slot="1" original="Get shampoo ready" ></item>
+<item slot="2" original="Get hair wet, this could be in the shower or sink" ></item>
+<item slot="3" original="Pour shampoo into hand" ></item>
+<item slot="4" original="Rub shampoo into wet hair, foaming up" ></item>
+<item slot="5" original="Rub shampoo all the way to the scalp" ></item>
+<item slot="6" original="Rinse shampoo out with water" ></item>
+<item slot="7" original="Dry hair" ></item>
+</script><script id="75" source="2"><item slot="1" original="Turn on shower water" ></item>
+<item slot="2" original="Take clothes off" ></item>
+<item slot="3" original="Step into shower" ></item>
+<item slot="4" original="Get hair wet" ></item>
+<item slot="5" original="Rub shampoo into hair" ></item>
+<item slot="6" original="Rinse shampoo out of hair" ></item>
+<item slot="7" original="Turn off water" ></item>
+<item slot="8" original="Dry off with towel in shower" ></item>
+</script><script id="76" source="2"><item slot="1" original="Run water that is a comfortable temperature for hair washing." ></item>
+<item slot="2" original="Get hair very wet." ></item>
+<item slot="3" original="Put some shampoo in your hands and lather it up." ></item>
+<item slot="4" original="Apply lathered shampoo to wet hair." ></item>
+<item slot="5" original="Rinse well." ></item>
+<item slot="6" original="Shampoo again, if desired." ></item>
+<item slot="7" original="If you want to condition your hair, put conditioner in hand (small amount)." ></item>
+<item slot="8" original="Apply to tips of hair." ></item>
+<item slot="9" original="Rinse." ></item>
+</script><script id="77" source="2"><item slot="1" original="have water available" ></item>
+<item slot="2" original="rinse hair with water" ></item>
+<item slot="3" original="use desirable shampoo" ></item>
+<item slot="4" original="rinse deeply" ></item>
+<item slot="5" original="wash off water" ></item>
+<item slot="6" original="dry hair" ></item>
+<item slot="7" original="comb hair" ></item>
+</script><script id="78" source="2"><item slot="1" original="Gather shampoo and conditioner" ></item>
+<item slot="2" original="Get a clean dry towel" ></item>
+<item slot="3" original="Go to sink or shower" ></item>
+<item slot="4" original="Turn on water" ></item>
+<item slot="5" original="Wait until water is warm" ></item>
+<item slot="6" original="Wet your hair thoroughly" ></item>
+<item slot="7" original="Apply shampoo to all of your hair" ></item>
+<item slot="8" original="Rub in shampoo" ></item>
+<item slot="9" original="Rinse shampoo from your hair" ></item>
+<item slot="10" original="Apply conditioner throughout your hair" ></item>
+<item slot="11" original="Wait appropriate amount of time before rinsing" ></item>
+<item slot="12" original="Rinse conditioner out of your hair" ></item>
+<item slot="13" original="Wrap dry towel around your hair" ></item>
+</script><script id="79" source="2"><item slot="1" original="Wet the hair with water" ></item>
+<item slot="2" original="Take shampoo bottle" ></item>
+<item slot="3" original="Open the shampoo bottle" ></item>
+<item slot="4" original="Apply shampoo to the hair" ></item>
+<item slot="5" original="Close the shampoo bottle" ></item>
+<item slot="6" original="Keep the shampoo bottle back" ></item>
+<item slot="7" original="Rinse the hair with water" ></item>
+<item slot="8" original="Apply conditioner" ></item>
+<item slot="9" original="Rinse the hair again" ></item>
+<item slot="10" original="Dry the hair" ></item>
+</script><script id="80" source="2"><item slot="1" original="step into the shower" ></item>
+<item slot="2" original="wet the hair" ></item>
+<item slot="3" original="apply shampoo on the scalp" ></item>
+<item slot="4" original="wash off the shampoo with water" ></item>
+<item slot="5" original="apply conditioner at the tips" ></item>
+<item slot="6" original="let it stay for two minutes" ></item>
+<item slot="7" original="wash off the conditioner" ></item>
+<item slot="8" original="dry hair with a towel" ></item>
+</script><script id="87" source="2"><item slot="1" original="Enter into the bathroom" ></item>
+<item slot="2" original="Take towel" ></item>
+<item slot="3" original="Remove dress" ></item>
+<item slot="4" original="Hang dress and towel in hanger" ></item>
+<item slot="5" original="Open tap" ></item>
+<item slot="6" original="Fill bucket" ></item>
+<item slot="7" original="Make hair wet" ></item>
+<item slot="8" original="Put shampoo in hair" ></item>
+<item slot="9" original="Wash thoroughly" ></item>
+<item slot="10" original="Take towel" ></item>
+<item slot="11" original="Wipe using towel" ></item>
+<item slot="12" original="Wear dress" ></item>
+<item slot="13" original="Leave bathroom" ></item>
+</script><script id="88" source="2"><item slot="1" original="Enter shower" ></item>
+<item slot="2" original="Put shampoo in hands" ></item>
+<item slot="3" original="Massage through hair" ></item>
+<item slot="4" original="Rinse with warm water" ></item>
+<item slot="5" original="Put conditioner in hair" ></item>
+<item slot="6" original="Massage through hair" ></item>
+<item slot="7" original="Rinse out with warm water" ></item>
+</script><script id="89" source="2"><item slot="1" original="Get towel ready" ></item>
+<item slot="2" original="Place shampoo and conditioner next to sink" ></item>
+<item slot="3" original="Turn on faucet to heat water" ></item>
+<item slot="4" original="Test temperature of water" ></item>
+<item slot="5" original="Wet hair thorougly" ></item>
+<item slot="6" original="Apply shampoo to hair and lather" ></item>
+<item slot="7" original="Rinse out shampoo" ></item>
+<item slot="8" original="Apply conditioner throughout hair" ></item>
+<item slot="9" original="Rinse" ></item>
+<item slot="10" original="Turn off water" ></item>
+<item slot="11" original="wring out excess water" ></item>
+<item slot="12" original="Wrap hair in towel" ></item>
+</script><script id="90" source="2"><item slot="1" original="Wet your hair in the shower" ></item>
+<item slot="2" original="Apply shampoo on your hair" ></item>
+<item slot="3" original="Massage for one minute" ></item>
+<item slot="4" original="Rinse thoroughly with water" ></item>
+<item slot="5" original="Dry your hair with a towel" ></item>
+</script><script id="91" source="2"><item slot="1" original="wet hair with water" ></item>
+<item slot="2" original="grab bottle of shampoo" ></item>
+<item slot="3" original="put shampoo into hand" ></item>
+<item slot="4" original="lather shampoo into hair" ></item>
+<item slot="5" original="rinse lather out of hair with water" ></item>
+<item slot="6" original="repeat shampoo, lather and rise" ></item>
+<item slot="7" original="grab bottle of conditioner" ></item>
+<item slot="8" original="put conditioner into hand" ></item>
+<item slot="9" original="massage into hair" ></item>
+<item slot="10" original="rinse conditioner out of hair with water" ></item>
+</script><script id="92" source="2"><item slot="1" original="Turn shower water on" ></item>
+<item slot="2" original="Get into shower" ></item>
+<item slot="3" original="Wet hair" ></item>
+<item slot="4" original="Get shampoo bottle" ></item>
+<item slot="5" original="Squirt a small amount of shampoo into your hand" ></item>
+<item slot="6" original="Put shampoo bottle back" ></item>
+<item slot="7" original="Spread shampoo from your hand onto your head" ></item>
+<item slot="8" original="Rub shampoo into hair, creating a lather" ></item>
+<item slot="9" original="Rinse shampoo out under the water" ></item>
+<item slot="10" original="Turn water off" ></item>
+<item slot="11" original="Get out of shower" ></item>
+</script><script id="93" source="2"><item slot="1" original="Turn on the shower and adjust the water temperature." ></item>
+<item slot="2" original="Take shampoo, conditioner and a towel to the shower." ></item>
+<item slot="3" original="Undress and enter the shower." ></item>
+<item slot="4" original="Apply shampoo to the hair." ></item>
+<item slot="5" original="Vigorously scrub the hair and head with your fingers." ></item>
+<item slot="6" original="Rinse the shampoo out of the hair." ></item>
+<item slot="7" original="Apply conditioner to the hair." ></item>
+<item slot="8" original="Let the conditioner stay on the hair for two minutes." ></item>
+<item slot="9" original="Rinse the condition from the hair." ></item>
+<item slot="10" original="Turn off the water." ></item>
+<item slot="11" original="Step out of the shower onto a rug." ></item>
+<item slot="12" original="Dry the hair with the towel." ></item>
+</script><script id="94" source="2"><item slot="1" original="Take off clothes" ></item>
+<item slot="2" original="Remove any hair accessories" ></item>
+<item slot="3" original="Get into the shower" ></item>
+<item slot="4" original="Turn on the water" ></item>
+<item slot="5" original="Wet hair" ></item>
+<item slot="6" original="Add shampoo to hair" ></item>
+<item slot="7" original="Massage shampoo into hair" ></item>
+<item slot="8" original="Massage shampoo into scalp" ></item>
+<item slot="9" original="Rinse shampoo out of hair" ></item>
+<item slot="10" original="Turn off water" ></item>
+<item slot="11" original="Dry hair with a towel" ></item>
+<item slot="12" original="Exit shower" ></item>
+</script><script id="95" source="2"><item slot="1" original="Wet hair under shower." ></item>
+<item slot="2" original="Apply shampoo to hair." ></item>
+<item slot="3" original="Put a little water on hands." ></item>
+<item slot="4" original="Massage shampoo through hair." ></item>
+<item slot="5" original="Let shampoo sit for a minute." ></item>
+<item slot="6" original="Rinse shampoo out." ></item>
+<item slot="7" original="Squeeze excess water from hair." ></item>
+<item slot="8" original="Apply conditioner to hair." ></item>
+<item slot="9" original="Let conditioner sit for a minute." ></item>
+<item slot="10" original="Rinse conditioner out." ></item>
+<item slot="11" original="Squeeze excess water from hair." ></item>
+<item slot="12" original="Wrap hair in a towel to absorb water." ></item>
+<item slot="13" original="Dry hair." ></item>
+</script><script id="96" source="2"><item slot="1" original="get hair washing product" ></item>
+<item slot="2" original="turn on water" ></item>
+<item slot="3" original="lather product with water" ></item>
+<item slot="4" original="mix into hair" ></item>
+<item slot="5" original="wash out of hair" ></item>
+<item slot="6" original="dry hair" ></item>
+</script><script id="97" source="2"><item slot="1" original="Step into shower." ></item>
+<item slot="2" original="Apply small amount of shampoo to hand." ></item>
+<item slot="3" original="Rub shampoo vigorously into hair." ></item>
+<item slot="4" original="Rinse all shampoo out." ></item>
+<item slot="5" original="Repeat steps 2-4 until hair in clean." ></item>
+<item slot="6" original="Task Complete." ></item>
+</script><script id="98" source="2"><item slot="1" original="Go to bathroom" ></item>
+<item slot="2" original="Get shampoo" ></item>
+<item slot="3" original="Get undressed" ></item>
+<item slot="4" original="Brush and comb hair" ></item>
+<item slot="5" original="Turn shower on" ></item>
+<item slot="6" original="Get right temperature" ></item>
+<item slot="7" original="Get in shower" ></item>
+<item slot="8" original="Wet hair" ></item>
+<item slot="9" original="Put shampoo in hair" ></item>
+<item slot="10" original="Lather shampoo" ></item>
+<item slot="11" original="Rinse hair" ></item>
+</script><script id="99" source="2"><item slot="1" original="Get in shower" ></item>
+<item slot="2" original="Wet hair" ></item>
+<item slot="3" original="Open shampoo bottle" ></item>
+<item slot="4" original="Squeeze shampoo into hand" ></item>
+<item slot="5" original="Lather hair" ></item>
+<item slot="6" original="Rinse hair" ></item>
+<item slot="7" original="Get out of shower" ></item>
+<item slot="8" original="Wrap hair in a towel" ></item>
+</script><script id="100" source="2"><item slot="1" original="Get shampoo." ></item>
+<item slot="2" original="Wet hair thoroughly." ></item>
+<item slot="3" original="Pour a quarter sized amount of shampoo onto hand." ></item>
+<item slot="4" original="Lather shampoo into hair." ></item>
+<item slot="5" original="Scrub head thoroughly." ></item>
+<item slot="6" original="Rinse hair and scalp thoroughly." ></item>
+<item slot="7" original="Dry with towel or blow dryer." ></item>
+<item slot="8" original="Style as desired." ></item>
+</script><script id="101" source="2"><item slot="1" original="Go to room containing shower or tub" ></item>
+<item slot="2" original="Disrobe" ></item>
+<item slot="3" original="Turn on water" ></item>
+<item slot="4" original="Turn on shower head" ></item>
+<item slot="5" original="Test water for comfort level with hand" ></item>
+<item slot="6" original="Step into tub" ></item>
+<item slot="7" original="Wet hair thoroughly" ></item>
+<item slot="8" original="Squeeze shampoo into hand" ></item>
+<item slot="9" original="Wash hair thoroughly, making suds from roots to tips" ></item>
+<item slot="10" original="Rinse hair" ></item>
+<item slot="11" original="Squeeze conditioner into hand" ></item>
+<item slot="12" original="Rub conditioner thoroughly into hair" ></item>
+<item slot="13" original="Let stand for five minutes" ></item>
+<item slot="14" original="Rinse" ></item>
+<item slot="15" original="Dry hair" ></item>
+<item slot="16" original="Dress" ></item>
+</script></scripts>

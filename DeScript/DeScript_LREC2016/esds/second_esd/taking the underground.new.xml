@@ -1,0 +1,742 @@
+<scripts><script id="1" source="2"><item slot="1" original="Enter the station" ></item>
+<item slot="2" original="Check the train schedules" ></item>
+<item slot="3" original="Buy a ticket" ></item>
+<item slot="4" original="Wait for the train" ></item>
+<item slot="5" original="Get on the train" ></item>
+<item slot="6" original="Take a seat or stand" ></item>
+<item slot="7" original="Arrive at destination" ></item>
+<item slot="8" original="Get off the train" ></item>
+</script><script id="2" source="2"><item slot="1" original="walking on the street" ></item>
+<item slot="2" original="entering the underground" ></item>
+<item slot="3" original="paying for a ticket" ></item>
+<item slot="4" original="waiting on platform for underground" ></item>
+<item slot="5" original="entering the underground when arrives" ></item>
+</script><script id="3" source="2"><item slot="1" original="Traveling to station" ></item>
+<item slot="2" original="Purchase fare for subway" ></item>
+<item slot="3" original="Enter railcar" ></item>
+<item slot="4" original="Ride to your destination" ></item>
+<item slot="5" original="Exit when you arrive" ></item>
+</script><script id="4" source="2"><item slot="1" original="Drive to the station" ></item>
+<item slot="2" original="Park your car" ></item>
+<item slot="3" original="Walk down the stairs" ></item>
+<item slot="4" original="Buy a ticket" ></item>
+<item slot="5" original="Wait for the train" ></item>
+<item slot="6" original="Board the train" ></item>
+</script><script id="5" source="2"><item slot="1" original="Take a shovel" ></item>
+<item slot="2" original="Take a spade" ></item>
+<item slot="3" original="Dig at the correct spot" ></item>
+<item slot="4" original="Dig more" ></item>
+<item slot="5" original="Remove the earth" ></item>
+<item slot="6" original="Take out any stones" ></item>
+<item slot="7" original="Take the underground" ></item>
+<item slot="8" original="Put back the soil" ></item>
+</script><script id="6" source="2"><item slot="1" original="Go to transit station" ></item>
+<item slot="2" original="Buy subway card" ></item>
+<item slot="3" original="scan card at entrance" ></item>
+<item slot="4" original="walk to subway platform and wait for train" ></item>
+<item slot="5" original="board train when it arrives" ></item>
+<item slot="6" original="find a seat or stand if crowded" ></item>
+<item slot="7" original="exit train at appropriate stop" ></item>
+<item slot="8" original="leave station" ></item>
+</script><script id="7" source="2"><item slot="1" original="Walk down sidewalk to entrance point." ></item>
+<item slot="2" original="Walk down stairs to subway area." ></item>
+<item slot="3" original="Purchase ticket." ></item>
+<item slot="4" original="Pass through turnstyle." ></item>
+<item slot="5" original="Wait for train without crossing the line." ></item>
+<item slot="6" original="Board train.Get off on correct stop." ></item>
+<item slot="7" original="Walk up steps to sidewalk level." ></item>
+</script><script id="8" source="2"><item slot="1" original="Prepare for your trip" ></item>
+<item slot="2" original="when you get there" ></item>
+<item slot="3" original="check travel information at station" ></item>
+<item slot="4" original="buy ticket" ></item>
+<item slot="5" original="get on tube" ></item>
+</script><script id="9" source="2"><item slot="1" original="choose the route you want to take" ></item>
+<item slot="2" original="locate a station" ></item>
+<item slot="3" original="pay for your fare" ></item>
+<item slot="4" original="present your ticket to the agent" ></item>
+<item slot="5" original="wait for train" ></item>
+<item slot="6" original="board train" ></item>
+<item slot="7" original="get off of train at stop" ></item>
+<item slot="8" original="keep fare" ></item>
+</script><script id="10" source="2"><item slot="1" original="Go to underground train station" ></item>
+<item slot="2" original="Buy token at kiosk" ></item>
+<item slot="3" original="Use token to enter train platform" ></item>
+<item slot="4" original="Wait for train" ></item>
+<item slot="5" original="Train arrives" ></item>
+<item slot="6" original="Doors open" ></item>
+<item slot="7" original="Enter train" ></item>
+<item slot="8" original="Travel to destination" ></item>
+<item slot="9" original="Train stops" ></item>
+<item slot="10" original="Exit Train" ></item>
+<item slot="11" original="Exit underground station" ></item>
+</script><script id="11" source="2"><item slot="1" original="Underground is meant for hiding." ></item>
+<item slot="2" original="By taking the underground one can avoid casualties in war." ></item>
+<item slot="3" original="Underground not only prevent in war but also prevent from cyclone." ></item>
+<item slot="4" original="Though wooden house and even concrete house gone in cyclone you are safe in underground." ></item>
+<item slot="5" original="Nowadays ready made underground also available which comes with some important things." ></item>
+<item slot="6" original="Bunker which is known as underground can be used both military and civilians." ></item>
+</script><script id="12" source="2"><item slot="1" original="Walk to the underground entrance" ></item>
+<item slot="2" original="Enter and walk down the steps" ></item>
+<item slot="3" original="Reach the basement" ></item>
+<item slot="4" original="Ensure which direction to go using the sign boards" ></item>
+<item slot="5" original="Walk towards that direction" ></item>
+<item slot="6" original="Reach the exit point" ></item>
+<item slot="7" original="Walk up the stairs" ></item>
+<item slot="8" original="Reach the top of the road" ></item>
+</script><script id="13" source="2"><item slot="1" original="Walk to underground station." ></item>
+<item slot="2" original="Determine which train you need to take." ></item>
+<item slot="3" original="Slide ticket through machine and enter station." ></item>
+<item slot="4" original="Wait for desired train." ></item>
+<item slot="5" original="Board train and sit or stand." ></item>
+<item slot="6" original="Get off train at desired stop." ></item>
+</script><script id="14" source="2"><item slot="1" original="Enter into the subway" ></item>
+<item slot="2" original="Look at map to find destination" ></item>
+<item slot="3" original="Purchase ticket for destination" ></item>
+<item slot="4" original="Go to waiting point" ></item>
+<item slot="5" original="Wait for train to arrive" ></item>
+<item slot="6" original="Board train when available" ></item>
+<item slot="7" original="Sit or stand" ></item>
+<item slot="8" original="Exit train at destination" ></item>
+<item slot="9" original="Exit subway" ></item>
+</script><script id="15" source="2"><item slot="1" original="Notice sign for underground tunnel" ></item>
+<item slot="2" original="Decide to take the underground short cut" ></item>
+<item slot="3" original="Walk down ramp to tunnel" ></item>
+<item slot="4" original="Walk through tunnel to avoid traffic" ></item>
+<item slot="5" original="Walk back up ramp to outside" ></item>
+</script><script id="16" source="2"><item slot="1" original="arrive at subway" ></item>
+<item slot="2" original="buy ticket" ></item>
+<item slot="3" original="wait for train" ></item>
+<item slot="4" original="enter train" ></item>
+<item slot="5" original="arrive destination" ></item>
+<item slot="6" original="exit train" ></item>
+</script><script id="17" source="2"><item slot="1" original="Get dressed." ></item>
+<item slot="2" original="Get wallet" ></item>
+<item slot="3" original="Walk to bus stop." ></item>
+<item slot="4" original="Wait for bus." ></item>
+<item slot="5" original="Get on bus." ></item>
+<item slot="6" original="Ride to the stop." ></item>
+<item slot="7" original="Get off." ></item>
+<item slot="8" original="Walk to subway." ></item>
+<item slot="9" original="Pay the fare." ></item>
+<item slot="10" original="Wait for subway." ></item>
+<item slot="11" original="Get on subway." ></item>
+</script><script id="18" source="2"><item slot="1" original="Walk to subway station" ></item>
+<item slot="2" original="Pay for train ticket" ></item>
+<item slot="3" original="Walk through Roundabout" ></item>
+<item slot="4" original="Walk down the stairs into subway" ></item>
+<item slot="5" original="Wait for train" ></item>
+<item slot="6" original="Get on train" ></item>
+</script><script id="19" source="2"><item slot="1" original="Enter subway station" ></item>
+<item slot="2" original="Pay fare" ></item>
+<item slot="3" original="Find correct platform" ></item>
+<item slot="4" original="Wait for train" ></item>
+<item slot="5" original="Train arrives" ></item>
+<item slot="6" original="Get onto train" ></item>
+<item slot="7" original="Train reaches your destination" ></item>
+<item slot="8" original="Get off of train" ></item>
+<item slot="9" original="Leave subway platform" ></item>
+<item slot="10" original="Leave subway station" ></item>
+</script><script id="20" source="2"><item slot="1" original="enter underground station" ></item>
+<item slot="2" original="buy ticket" ></item>
+<item slot="3" original="check board to see when train arrives" ></item>
+<item slot="4" original="board train" ></item>
+<item slot="5" original="give ticket to conductor" ></item>
+<item slot="6" original="find a seat" ></item>
+<item slot="7" original="arrive at destination" ></item>
+<item slot="8" original="exit underground" ></item>
+</script><script id="21" source="2"><item slot="1" original="Taking a train" ></item>
+<item slot="2" original="Getting on the train" ></item>
+<item slot="3" original="Taking the subway" ></item>
+<item slot="4" original="Getting on the subway" ></item>
+<item slot="5" original="Hopping on the train" ></item>
+</script><script id="22" source="2"><item slot="1" original="Walk to station" ></item>
+<item slot="2" original="Purchase ticket" ></item>
+<item slot="3" original="Wait for correct train/car" ></item>
+<item slot="4" original="Enter train/car" ></item>
+<item slot="5" original="Choose a seat" ></item>
+<item slot="6" original="Sit in seat" ></item>
+<item slot="7" original="Remain seated until destination" ></item>
+</script><script id="23" source="2"><item slot="1" original="Checking the schedule" ></item>
+<item slot="2" original="Getting on the right train" ></item>
+<item slot="3" original="Finding a seat" ></item>
+<item slot="4" original="Enjoying the ride" ></item>
+<item slot="5" original="Getting off at the correct stop" ></item>
+</script><script id="24" source="2"><item slot="1" original="Walk to the underground station" ></item>
+<item slot="2" original="Go to ticket booth" ></item>
+<item slot="3" original="Purchase ticket" ></item>
+<item slot="4" original="Walk through turnstile" ></item>
+<item slot="5" original="Board the car" ></item>
+</script><script id="25" source="2"><item slot="1" original="Arrive at station." ></item>
+<item slot="2" original="Buy tickets at machine or with teller." ></item>
+<item slot="3" original="Wait for train to arrive." ></item>
+<item slot="4" original="Enter train." ></item>
+<item slot="5" original="Find seat." ></item>
+<item slot="6" original="Get off train at correct station." ></item>
+</script><script id="26" source="2"><item slot="1" original="Drive to tunnel" ></item>
+<item slot="2" original="Turn on headlights" ></item>
+<item slot="3" original="Slow down speed when in tunnel" ></item>
+<item slot="4" original="Drive through the tunnel" ></item>
+<item slot="5" original="Exit tunnel" ></item>
+</script><script id="27" source="2"><item slot="1" original="Go to the station" ></item>
+<item slot="2" original="Walk downstairs" ></item>
+<item slot="3" original="Pay the Turnpike" ></item>
+<item slot="4" original="Wait for my train" ></item>
+<item slot="5" original="Get on train" ></item>
+</script><script id="28" source="2"><item slot="1" original="GO TO THE NEAREST UNDERGROUND STATION" ></item>
+<item slot="2" original="SWIPE YOUR OYSTER CARD OR BUY TICKET" ></item>
+<item slot="3" original="GO TO THE CORRECT PLATFORM" ></item>
+<item slot="4" original="WAIT BEHIND THE LINE FOR THE NEXT TRAIN" ></item>
+<item slot="5" original="WHEN IT ARRIVES, BOARD UNDERGROUND TRAIN" ></item>
+<item slot="6" original="TRAVEL ON THE TRAIN TO DESIRED LOCATION" ></item>
+<item slot="7" original="EXIT THE TRAIN PROMPTLY." ></item>
+</script><script id="29" source="2"><item slot="1" original="Enter the station" ></item>
+<item slot="2" original="buy a ticket" ></item>
+<item slot="3" original="go to the platform and wait for the underground" ></item>
+<item slot="4" original="board the underground" ></item>
+<item slot="5" original="find a seat or stand, wait patiently until your stop" ></item>
+<item slot="6" original="exit the underground" ></item>
+<item slot="7" original="leave the station" ></item>
+</script><script id="30" source="2"><item slot="1" original="find a destination" ></item>
+<item slot="2" original="go to subway station" ></item>
+<item slot="3" original="pay for ticket" ></item>
+<item slot="4" original="find proper subway to take" ></item>
+<item slot="5" original="when subway arrived get into subway" ></item>
+<item slot="6" original="get off at desired destination" ></item>
+<item slot="7" original="walk to desired location" ></item>
+</script><script id="31" source="2"><item slot="1" original="Decide where you need to go on the underground." ></item>
+<item slot="2" original="Go to the underground station." ></item>
+<item slot="3" original="Enter the underground station at your point of departure." ></item>
+<item slot="4" original="Purchase tickets fro your journey at the ticket window or machine." ></item>
+<item slot="5" original="Locate and navigate to the proper train platform." ></item>
+<item slot="6" original="Wait for the train." ></item>
+<item slot="7" original="Enter the train when it arrives." ></item>
+<item slot="8" original="Stand or sit down if there is a seat available." ></item>
+<item slot="9" original="Exit the train at your destination." ></item>
+<item slot="10" original="Exit the underground station." ></item>
+<item slot="11" original="Go to where you are headed." ></item>
+</script><script id="32" source="2"><item slot="1" original="Find correct station" ></item>
+<item slot="2" original="Enter station" ></item>
+<item slot="3" original="Buy ticket for correct route" ></item>
+<item slot="4" original="Give ticket to ticket taker" ></item>
+<item slot="5" original="Board train" ></item>
+<item slot="6" original="Ride to destination" ></item>
+</script><script id="33" source="2"><item slot="1" original="Go to underground" ></item>
+<item slot="2" original="Buy ticket" ></item>
+<item slot="3" original="Go to platform" ></item>
+<item slot="4" original="Wait until train arrives" ></item>
+<item slot="5" original="Wait for people to get off train" ></item>
+<item slot="6" original="Get on train" ></item>
+<item slot="7" original="Ride until you reach your destination" ></item>
+<item slot="8" original="Get off train" ></item>
+<item slot="9" original="Exit underground" ></item>
+</script><script id="34" source="2"><item slot="1" original="Go to my shed." ></item>
+<item slot="2" original="Look for a shovel." ></item>
+<item slot="3" original="Go to my yard." ></item>
+<item slot="4" original="Test for rocks." ></item>
+<item slot="5" original="Begin digging." ></item>
+</script><script id="35" source="2"><item slot="1" original="Walk to subway." ></item>
+<item slot="2" original="Go downstairs." ></item>
+<item slot="3" original="Pay tolls at gate." ></item>
+<item slot="4" original="Go through gate." ></item>
+<item slot="5" original="Walk to train." ></item>
+<item slot="6" original="Get on train." ></item>
+<item slot="7" original="Sit down." ></item>
+</script><script id="36" source="2"><item slot="1" original="Buy token or card to purchase ticket" ></item>
+<item slot="2" original="Walk through turn style" ></item>
+<item slot="3" original="When train doors open get onto train" ></item>
+<item slot="4" original="When at your stop wait for doors to open" ></item>
+<item slot="5" original="Get off train" ></item>
+</script><script id="37" source="2"><item slot="1" original="Walk down the stairs to the underground" ></item>
+<item slot="2" original="Buy your subway ticket" ></item>
+<item slot="3" original="Board the subway" ></item>
+<item slot="4" original="Find a seat" ></item>
+<item slot="5" original="Sit down and enjoy the ride" ></item>
+</script><script id="38" source="2"><item slot="1" original="Choose destination" ></item>
+<item slot="2" original="Go to underground station" ></item>
+<item slot="3" original="Look at map" ></item>
+<item slot="4" original="Determine correct route and trains" ></item>
+<item slot="5" original="Buy ticket or fare" ></item>
+<item slot="6" original="Go to platform" ></item>
+<item slot="7" original="Wait for train" ></item>
+<item slot="8" original="Board train when it arrives" ></item>
+<item slot="9" original="Travel" ></item>
+<item slot="10" original="Watch for desired stop" ></item>
+<item slot="11" original="When train stops, get off" ></item>
+<item slot="12" original="(Repeat steps 5-11 if transfers are necessary)" ></item>
+<item slot="13" original="Depart station" ></item>
+</script><script id="39" source="2"><item slot="1" original="Plan the journey" ></item>
+<item slot="2" original="Check travel information" ></item>
+<item slot="3" original="Buy the ticket" ></item>
+<item slot="4" original="Go to the correct platform" ></item>
+<item slot="5" original="Enter the train" ></item>
+<item slot="6" original="Complete the journey" ></item>
+<item slot="7" original="Get down from train" ></item>
+</script><script id="40" source="2"><item slot="1" original="Get to the underground station" ></item>
+<item slot="2" original="Buy tickets for your journey" ></item>
+<item slot="3" original="Wait for the train" ></item>
+<item slot="4" original="Board the train" ></item>
+<item slot="5" original="Get down at your destination" ></item>
+</script><script id="41" source="2"><item slot="1" original="Locate your station on the map" ></item>
+<item slot="2" original="Locate where you want to go" ></item>
+<item slot="3" original="Decided which train you need to take" ></item>
+<item slot="4" original="Buy a ticket" ></item>
+<item slot="5" original="Wait for your train" ></item>
+<item slot="6" original="Get on your train quickly once it arrives" ></item>
+<item slot="7" original="Take a seat" ></item>
+<item slot="8" original="Be aware of where you're going" ></item>
+</script><script id="42" source="2"><item slot="1" original="Go downstairs to underground" ></item>
+<item slot="2" original="Buy your ticket" ></item>
+<item slot="3" original="Put your ticket in machine" ></item>
+<item slot="4" original="Go through turnstile" ></item>
+<item slot="5" original="Wait for train" ></item>
+<item slot="6" original="Board train" ></item>
+<item slot="7" original="Ride train" ></item>
+</script><script id="43" source="2"><item slot="1" original="Enter underground station." ></item>
+<item slot="2" original="Buy ticket." ></item>
+<item slot="3" original="Put ticket into gate." ></item>
+<item slot="4" original="Walk through gate." ></item>
+<item slot="5" original="Retrieve ticket." ></item>
+<item slot="6" original="Walk to appropriate platform." ></item>
+<item slot="7" original="Wait for train." ></item>
+<item slot="8" original="Board train." ></item>
+<item slot="9" original="Ride train to appropriate stop." ></item>
+<item slot="10" original="Disembark train. Walk up to surface level." ></item>
+<item slot="11" original="Put ticket into gate." ></item>
+<item slot="12" original="Walk through gate." ></item>
+<item slot="13" original="Retrieve ticket (if it still has money on it)." ></item>
+<item slot="14" original="Exit underground station." ></item>
+</script><script id="44" source="2"><item slot="1" original="Walk to the station" ></item>
+<item slot="2" original="Descend the escalator" ></item>
+<item slot="3" original="Buy a ticket" ></item>
+<item slot="4" original="Enter through turnstile" ></item>
+<item slot="5" original="Wait for train on platform" ></item>
+<item slot="6" original="Enter subway car" ></item>
+<item slot="7" original="Find a seat or place to stand" ></item>
+<item slot="8" original="Ride to destination" ></item>
+<item slot="9" original="Exit subway car" ></item>
+<item slot="10" original="Take escalator to street level" ></item>
+</script><script id="45" source="2"><item slot="1" original="Determine the line appropriate for the destination" ></item>
+<item slot="2" original="Purchase ticket" ></item>
+<item slot="3" original="Descend stairs to platform inserting ticket into turnstile" ></item>
+<item slot="4" original="Wait for train" ></item>
+<item slot="5" original="Board train" ></item>
+<item slot="6" original="Disembark at destination" ></item>
+</script><script id="46" source="2"><item slot="1" original="Walk to the station" ></item>
+<item slot="2" original="Buy a ticket" ></item>
+<item slot="3" original="Swipe ticket to enter" ></item>
+<item slot="4" original="Board the underground" ></item>
+<item slot="5" original="Sit down if there is room" ></item>
+<item slot="6" original="Get off the underground at destination" ></item>
+</script><script id="47" source="2"><item slot="1" original="Descend the stairs." ></item>
+<item slot="2" original="Purchase ticket." ></item>
+<item slot="3" original="Enter through gates." ></item>
+<item slot="4" original="Find correct train for desired destination." ></item>
+<item slot="5" original="Board train." ></item>
+<item slot="6" original="Find a seat." ></item>
+<item slot="7" original="Get off at correct stop." ></item>
+<item slot="8" original="Leave station." ></item>
+</script><script id="48" source="2"><item slot="1" original="Go down the stairs" ></item>
+<item slot="2" original="Find the right train" ></item>
+<item slot="3" original="Wait for the train" ></item>
+<item slot="4" original="Present Underground pass" ></item>
+<item slot="5" original="Get on the train" ></item>
+<item slot="6" original="Wait for stop" ></item>
+<item slot="7" original="Get off the train" ></item>
+<item slot="8" original="Walk up the stairs" ></item>
+</script><script id="49" source="2"><item slot="1" original="Drive or walk to station" ></item>
+<item slot="2" original="Walk downstairs" ></item>
+<item slot="3" original="Pay for ticket" ></item>
+<item slot="4" original="Use ticket at turnstile and move through" ></item>
+<item slot="5" original="Wait for train" ></item>
+<item slot="6" original="Check timetable if necessary" ></item>
+<item slot="7" original="Step onto train" ></item>
+<item slot="8" original="Take a seat or hold onto strap" ></item>
+<item slot="9" original="Sit through ride" ></item>
+<item slot="10" original="Get off at appropriate stop" ></item>
+<item slot="11" original="Exit turnstile" ></item>
+<item slot="12" original="Climb stairs to outside world" ></item>
+<item slot="13" original="Carry on with life" ></item>
+</script><script id="50" source="2"><item slot="1" original="walk to the subway station" ></item>
+<item slot="2" original="figure out which train you need to board" ></item>
+<item slot="3" original="get on the train" ></item>
+<item slot="4" original="figure out which stop you need to get off at" ></item>
+<item slot="5" original="get off at your stop" ></item>
+</script><script id="51" source="2"><item slot="1" original="Wait on ramp" ></item>
+<item slot="2" original="Wait for passengers to disembark" ></item>
+<item slot="3" original="Board the underground" ></item>
+<item slot="4" original="Find a seat if available" ></item>
+<item slot="5" original="Wait for your stop" ></item>
+<item slot="6" original="Disembark underground" ></item>
+</script><script id="52" source="2"><item slot="1" original="plan your route" ></item>
+<item slot="2" original="check the schedule" ></item>
+<item slot="3" original="prepare your fare" ></item>
+<item slot="4" original="arrive at the station" ></item>
+<item slot="5" original="wait on the platform" ></item>
+</script><script id="53" source="2"><item slot="1" original="Go down the stairs to the underground" ></item>
+<item slot="2" original="Pay as you enter" ></item>
+<item slot="3" original="Wait for the train" ></item>
+<item slot="4" original="Get on the train" ></item>
+<item slot="5" original="Sit down if there's a seat available" ></item>
+<item slot="6" original="Travel to your destination" ></item>
+<item slot="7" original="Get offf" ></item>
+</script><script id="54" source="2"><item slot="1" original="Go to subway depot" ></item>
+<item slot="2" original="Pay fare" ></item>
+<item slot="3" original="Wait for subway" ></item>
+<item slot="4" original="Get on subway" ></item>
+<item slot="5" original="Ride" ></item>
+</script><script id="55" source="2"><item slot="1" original="Talk slowly" ></item>
+<item slot="2" original="Going fast" ></item>
+<item slot="3" original="Awareness" ></item>
+<item slot="4" original="Don't talk much more time" ></item>
+<item slot="5" original="Leave the underground" ></item>
+<item slot="6" original="Safety first" ></item>
+</script><script id="56" source="2"><item slot="1" original="Find your local subway entrance" ></item>
+<item slot="2" original="Go down and buy a ticket" ></item>
+<item slot="3" original="Walk through and into the station" ></item>
+<item slot="4" original="Wait for train" ></item>
+<item slot="5" original="Board train and take it to destination" ></item>
+</script><script id="57" source="2"><item slot="1" original="Go to station" ></item>
+<item slot="2" original="Purchase fare or have token ready" ></item>
+<item slot="3" original="Check schedules for desired destination" ></item>
+<item slot="4" original="Go through turnstile for desired train platform" ></item>
+<item slot="5" original="Wait for train arrival" ></item>
+<item slot="6" original="Wait for arriving passengers to get off" ></item>
+<item slot="7" original="Board the train" ></item>
+<item slot="8" original="Find a seat" ></item>
+<item slot="9" original="Ride until destination reached" ></item>
+</script><script id="58" source="2"><item slot="1" original="walking down the steps" ></item>
+<item slot="2" original="going through the counter" ></item>
+<item slot="3" original="purchasing a ticket" ></item>
+<item slot="4" original="waiting on the platform" ></item>
+<item slot="5" original="walking through the subway doors" ></item>
+<item slot="6" original="selecting a seat" ></item>
+<item slot="7" original="waiting on the subway during the ride" ></item>
+<item slot="8" original="walking off the subway at your destination" ></item>
+</script><script id="59" source="2"><item slot="1" original="walk to the underground station" ></item>
+<item slot="2" original="purchase ticket" ></item>
+<item slot="3" original="walk through the ticketing booth" ></item>
+<item slot="4" original="go to boarding location" ></item>
+<item slot="5" original="wait for the train" ></item>
+<item slot="6" original="enter the train when it stops" ></item>
+</script><script id="60" source="2"><item slot="1" original="Go to the station" ></item>
+<item slot="2" original="Buy a ticket" ></item>
+<item slot="3" original="Wait for the train" ></item>
+<item slot="4" original="Board the train" ></item>
+<item slot="5" original="Reach destination" ></item>
+<item slot="6" original="appear from beneath the sidewalk" ></item>
+</script><script id="61" source="2"><item slot="1" original="map out trip" ></item>
+<item slot="2" original="arrive at station" ></item>
+<item slot="3" original="buy ticket" ></item>
+<item slot="4" original="board train" ></item>
+<item slot="5" original="arrive at destination" ></item>
+</script><script id="62" source="2"><item slot="1" original="Go down the stairs" ></item>
+<item slot="2" original="Go to the kiosk" ></item>
+<item slot="3" original="Buy your metrocard" ></item>
+<item slot="4" original="Swipe your metrocard" ></item>
+<item slot="5" original="Get on the train" ></item>
+<item slot="6" original="Get off at the right stop" ></item>
+<item slot="7" original="Exit the underground" ></item>
+</script><script id="63" source="2"><item slot="1" original="Decide where you want to go." ></item>
+<item slot="2" original="Find the proper train/bus to take." ></item>
+<item slot="3" original="Bring proper fare." ></item>
+<item slot="4" original="Get to the station." ></item>
+<item slot="5" original="Be careful." ></item>
+<item slot="6" original="Get on proper train/bus." ></item>
+</script><script id="64" source="2"><item slot="1" original="Look up map of underground to see where I need to go." ></item>
+<item slot="2" original="Walk down stairs." ></item>
+<item slot="3" original="Buy ticket." ></item>
+<item slot="4" original="Wait for my train to arrive." ></item>
+<item slot="5" original="Board my train." ></item>
+<item slot="6" original="Wait until train arrives at my stop." ></item>
+<item slot="7" original="Get off the train." ></item>
+</script><script id="65" source="2"><item slot="1" original="Walk to the station entrance." ></item>
+<item slot="2" original="Go down the stairs." ></item>
+<item slot="3" original="Purchase your ticket fare." ></item>
+<item slot="4" original="Pay at the turnstile and enter the platform area." ></item>
+<item slot="5" original="Identify which train you need to take." ></item>
+<item slot="6" original="Wait on the platform for the train to come." ></item>
+<item slot="7" original="Board the train when it arrives." ></item>
+<item slot="8" original="When it reaches your destination stop, get off of the train." ></item>
+<item slot="9" original="Go up the stairs and exit the station." ></item>
+</script><script id="66" source="2"><item slot="1" original="Determine destination" ></item>
+<item slot="2" original="Look at schedule online" ></item>
+<item slot="3" original="Go to station" ></item>
+<item slot="4" original="Pay for ticket" ></item>
+<item slot="5" original="Wait for correct train" ></item>
+<item slot="6" original="Board train" ></item>
+<item slot="7" original="Travel to correct stop" ></item>
+<item slot="8" original="Get off train" ></item>
+</script><script id="67" source="2"><item slot="1" original="pay fairs" ></item>
+<item slot="2" original="Wait for train" ></item>
+<item slot="3" original="board train" ></item>
+<item slot="4" original="find empty seat" ></item>
+<item slot="5" original="sit down" ></item>
+<item slot="6" original="wait for destination to be reached" ></item>
+<item slot="7" original="stand up" ></item>
+<item slot="8" original="leave train" ></item>
+</script><script id="68" source="2"><item slot="1" original="View schedule on smart phone ahead of time" ></item>
+<item slot="2" original="Arrive to underground station 5 minutes early" ></item>
+<item slot="3" original="Pay for ticket" ></item>
+<item slot="4" original="Pass through the pay gate" ></item>
+<item slot="5" original="Head to correct terminal" ></item>
+<item slot="6" original="Wait for train to arrive" ></item>
+<item slot="7" original="Walk into the correct train" ></item>
+<item slot="8" original="Arrive at final destination" ></item>
+</script><script id="69" source="2"><item slot="1" original="Look up route" ></item>
+<item slot="2" original="Walk to station" ></item>
+<item slot="3" original="Buy ticket" ></item>
+<item slot="4" original="Board train" ></item>
+<item slot="5" original="Get off at desired stop" ></item>
+</script><script id="70" source="2"><item slot="1" original="get dressed" ></item>
+<item slot="2" original="check the maps to see the times for the underground train" ></item>
+<item slot="3" original="go to the train station" ></item>
+<item slot="4" original="buy a ticket or pay the fee for the train" ></item>
+<item slot="5" original="wait for the correct train to arrive" ></item>
+<item slot="6" original="get on to the train" ></item>
+<item slot="7" original="find a seat" ></item>
+<item slot="8" original="leave when you arrive at your destination" ></item>
+</script><script id="71" source="2"><item slot="1" original="Walk or drive to the nearest station" ></item>
+<item slot="2" original="Pay at the booth for a new card if you don't already have one" ></item>
+<item slot="3" original="Scan your card in" ></item>
+<item slot="4" original="Walk to your desired train" ></item>
+<item slot="5" original="Get in the train" ></item>
+<item slot="6" original="Arrive at your destination" ></item>
+<item slot="7" original="Get off of the train" ></item>
+<item slot="8" original="Walk out of the station" ></item>
+</script><script id="72" source="2"><item slot="1" original="Gather necessary equipment, such as flashlights, ropes, and weapons" ></item>
+<item slot="2" original="Find detailed map of tunnel system" ></item>
+<item slot="3" original="Bring camcorder to video record proof" ></item>
+<item slot="4" original="Enter underground through sewer access point" ></item>
+<item slot="5" original="Avoid mutant turtles and human waste" ></item>
+<item slot="6" original="Descend deeper and deeper, using rope and caution" ></item>
+<item slot="7" original="Battle the cannibalistic underground dwellers" ></item>
+<item slot="8" original="Retrieve their treasure." ></item>
+<item slot="9" original="Quickly ascend to the surface." ></item>
+<item slot="10" original="Celebrate, after a decent shower." ></item>
+</script><script id="73" source="2"><item slot="1" original="Go down tunnel towards train" ></item>
+<item slot="2" original="Obtain a ticket" ></item>
+<item slot="3" original="Swipe the ticket at a turnstyle" ></item>
+<item slot="4" original="Find the correct train platform" ></item>
+<item slot="5" original="Wait for the train" ></item>
+<item slot="6" original="Board the train" ></item>
+<item slot="7" original="Observe how many stops go by" ></item>
+<item slot="8" original="Leave the train at desired stop" ></item>
+</script><script id="74" source="2"><item slot="1" original="Go to subway station" ></item>
+<item slot="2" original="Pay for a subway token" ></item>
+<item slot="3" original="Go through turnstiles" ></item>
+<item slot="4" original="Wait for train" ></item>
+<item slot="5" original="Enter train" ></item>
+</script><script id="75" source="2"><item slot="1" original="catching the train" ></item>
+<item slot="2" original="riding the rapid" ></item>
+<item slot="3" original="working the metro" ></item>
+<item slot="4" original="take the (red,blue,green) line" ></item>
+<item slot="5" original="using the light rail" ></item>
+<item slot="6" original="public line" ></item>
+<item slot="7" original="using the commuter" ></item>
+</script><script id="76" source="2"><item slot="1" original="Enter the underground" ></item>
+<item slot="2" original="See what time the train comes" ></item>
+<item slot="3" original="Pay for your ticket" ></item>
+<item slot="4" original="Wait for the train to arrive at the underground" ></item>
+<item slot="5" original="Board the train" ></item>
+</script><script id="77" source="2"><item slot="1" original="Look up directions for my location" ></item>
+<item slot="2" original="Buy my ticket" ></item>
+<item slot="3" original="Wait at the platform" ></item>
+<item slot="4" original="Board the underground" ></item>
+<item slot="5" original="Find seat" ></item>
+<item slot="6" original="Get off at designated stop" ></item>
+</script><script id="78" source="2"><item slot="1" original="Find entrance" ></item>
+<item slot="2" original="Walk down stairs" ></item>
+<item slot="3" original="Decide which line to take" ></item>
+<item slot="4" original="Wait for train to arrive" ></item>
+<item slot="5" original="Wait for doors to open" ></item>
+<item slot="6" original="Enter train" ></item>
+<item slot="7" original="Find spot to sit or stand" ></item>
+<item slot="8" original="Wait for doors to close" ></item>
+<item slot="9" original="Ride train to stop" ></item>
+<item slot="10" original="Wait for doors to open" ></item>
+<item slot="11" original="Exit train" ></item>
+</script><script id="79" source="2"><item slot="1" original="Find entrance" ></item>
+<item slot="2" original="Walk down stairs" ></item>
+<item slot="3" original="Decide which line to take" ></item>
+<item slot="4" original="Wait for train to arrive" ></item>
+<item slot="5" original="Wait for doors to open" ></item>
+<item slot="6" original="Enter train" ></item>
+<item slot="7" original="Find spot to sit or stand" ></item>
+<item slot="8" original="Wait for doors to close" ></item>
+<item slot="9" original="Ride train to stop" ></item>
+<item slot="10" original="Wait for doors to open" ></item>
+<item slot="11" original="Exit train" ></item>
+</script><script id="80" source="2"><item slot="1" original="Go to the underground station" ></item>
+<item slot="2" original="Buy a ticket" ></item>
+<item slot="3" original="Look at the map of where I'm going" ></item>
+<item slot="4" original="Walk to my train" ></item>
+<item slot="5" original="Get on it" ></item>
+</script><script id="81" source="2"><item slot="1" original="Walk down stairs" ></item>
+<item slot="2" original="Swipe card" ></item>
+<item slot="3" original="Walk to proper train" ></item>
+<item slot="4" original="Get on train" ></item>
+<item slot="5" original="Get off train" ></item>
+<item slot="6" original="Swipe card out" ></item>
+<item slot="7" original="Walk up stairs outside" ></item>
+</script><script id="82" source="2"><item slot="1" original="take Escalators from street level" ></item>
+<item slot="2" original="Find correct bus Bay" ></item>
+<item slot="3" original="Await bus" ></item>
+<item slot="4" original="Get on correct bus" ></item>
+<item slot="5" original="Pay for bus with change" ></item>
+<item slot="6" original="Find seat" ></item>
+<item slot="7" original="Sit quietly and enjoy the ride." ></item>
+</script><script id="83" source="2"><item slot="1" original="Walk to the station." ></item>
+<item slot="2" original="Decide where you want to go." ></item>
+<item slot="3" original="Buy ticket or token." ></item>
+<item slot="4" original="Walk down stairs to where the trains arrive." ></item>
+<item slot="5" original="Wait on platform for train." ></item>
+<item slot="6" original="When train arrives, get on it." ></item>
+<item slot="7" original="Find a seat on train." ></item>
+<item slot="8" original="Sit in seat." ></item>
+<item slot="9" original="Look at other passengers." ></item>
+<item slot="10" original="Look away from other passengers if they see you looking at them." ></item>
+<item slot="11" original="Play some music on your phone to pass the time on your journey." ></item>
+<item slot="12" original="Play a game on your phone to pass the time on your journey." ></item>
+<item slot="13" original="When you get to your destination, exit the train." ></item>
+<item slot="14" original="Follow the signs to the exit." ></item>
+<item slot="15" original="You have arrived at your destination." ></item>
+</script><script id="84" source="2"><item slot="1" original="walk down the stairs into the station" ></item>
+<item slot="2" original="walk towards the turnstile" ></item>
+<item slot="3" original="swipe my transit pass through the turnstile" ></item>
+<item slot="4" original="walk down the stairs from the turnstile level to the platform level" ></item>
+<item slot="5" original="wait on the platform for the subway car to come" ></item>
+<item slot="6" original="when it comes by, get on the car" ></item>
+<item slot="7" original="if there's a seat on the car, sit down,  if no seats available, find a spot to stand" ></item>
+<item slot="8" original="ride the subway car to my stop" ></item>
+<item slot="9" original="at my stop, get out of the car" ></item>
+<item slot="10" original="walk up the stairs to the turnstile level" ></item>
+<item slot="11" original="walk out the subway gate" ></item>
+<item slot="12" original="walk up the stairs to the street level" ></item>
+</script><script id="85" source="2"><item slot="1" original="head out of the house" ></item>
+<item slot="2" original="head the the underground entrance" ></item>
+<item slot="3" original="walk down the stairs" ></item>
+<item slot="4" original="buy a ticket" ></item>
+<item slot="5" original="wait for the next train" ></item>
+<item slot="6" original="get on the train" ></item>
+<item slot="7" original="find a seat" ></item>
+</script><script id="86" source="2"><item slot="1" original="get hiking boots on" ></item>
+<item slot="2" original="Walk outside" ></item>
+<item slot="3" original="get shovel" ></item>
+<item slot="4" original="dig a hole" ></item>
+<item slot="5" original="once hole is dug, take the underground" ></item>
+</script><script id="87" source="2"><item slot="1" original="Decide where you want to go." ></item>
+<item slot="2" original="Find the nearest subway line." ></item>
+<item slot="3" original="Walk down to the subway." ></item>
+<item slot="4" original="Find the correct subway route." ></item>
+<item slot="5" original="Buy your ticket." ></item>
+<item slot="6" original="Go to the correct train" ></item>
+<item slot="7" original="Get on the train." ></item>
+<item slot="8" original="Remember what stop is yours." ></item>
+<item slot="9" original="Get off at the correct stop." ></item>
+</script><script id="88" source="2"><item slot="1" original="talking to discreet people" ></item>
+<item slot="2" original="researching the conventional ways so i can do the opposite" ></item>
+<item slot="3" original="learning about the underground" ></item>
+<item slot="4" original="finding the others who have done so" ></item>
+<item slot="5" original="doing my best to obtain the underground" ></item>
+</script><script id="89" source="2"><item slot="1" original="Check a subway map." ></item>
+<item slot="2" original="Find the nearest subway stop." ></item>
+<item slot="3" original="Walk down the steps into the station." ></item>
+<item slot="4" original="Scan my subway card at the turnstile." ></item>
+<item slot="5" original="Walk to the area to board the train." ></item>
+<item slot="6" original="Wait with other passengers for my train." ></item>
+<item slot="7" original="Climb on board and taking a seat if there is one available." ></item>
+<item slot="8" original="Get off at my stop." ></item>
+<item slot="9" original="Climb the stairs up to the street." ></item>
+</script><script id="90" source="2"><item slot="1" original="Check the map" ></item>
+<item slot="2" original="Walk to the correct platform" ></item>
+<item slot="3" original="Wait back from the yellow line" ></item>
+<item slot="4" original="Wait for the train to completely stop" ></item>
+<item slot="5" original="Enter once the doors are open" ></item>
+<item slot="6" original="Quickly pick a location to stand or sit" ></item>
+<item slot="7" original="Listen and watch the stations for your stop" ></item>
+</script><script id="91" source="2"><item slot="1" original="Walk downtown" ></item>
+<item slot="2" original="Take stairs leading down" ></item>
+<item slot="3" original="Go through ticket entrance" ></item>
+<item slot="4" original="Walk to edge of platform" ></item>
+<item slot="5" original="Find appropriate place to stand" ></item>
+<item slot="6" original="Wait for car to stop" ></item>
+<item slot="7" original="When door opens, step in" ></item>
+<item slot="8" original="Find secure spot to stand" ></item>
+<item slot="9" original="Ride until you reach destination" ></item>
+<item slot="10" original="Wait for car to stop" ></item>
+<item slot="11" original="When door opens step out" ></item>
+<item slot="12" original="Walk through exit" ></item>
+<item slot="13" original="Go up stairs" ></item>
+<item slot="14" original="Exit underground" ></item>
+</script><script id="92" source="2"><item slot="1" original="Riding a Subway" ></item>
+<item slot="2" original="Going through a tunnel" ></item>
+<item slot="3" original="Going to the underground railroad" ></item>
+<item slot="4" original="Purchasing a subway ticket" ></item>
+<item slot="5" original="Riding the Train" ></item>
+</script><script id="93" source="2"><item slot="1" original="Go to the entryway" ></item>
+<item slot="2" original="Purchase ticket if I don't have one" ></item>
+<item slot="3" original="If I have ticket, put it through the machine" ></item>
+<item slot="4" original="Enter" ></item>
+<item slot="5" original="Wait for train" ></item>
+<item slot="6" original="Board train" ></item>
+<item slot="7" original="Wait for my stop" ></item>
+<item slot="8" original="When doors open, get out at stop" ></item>
+<item slot="9" original="Go to destination" ></item>
+</script><script id="94" source="2"><item slot="1" original="determine destination" ></item>
+<item slot="2" original="consult map" ></item>
+<item slot="3" original="walk to underground entrance" ></item>
+<item slot="4" original="descend" ></item>
+<item slot="5" original="read signs to determine platform choice" ></item>
+<item slot="6" original="wait for train to enter station" ></item>
+<item slot="7" original="mind the gap!" ></item>
+<item slot="8" original="enter car when the doors open" ></item>
+<item slot="9" original="enjoy ride" ></item>
+</script><script id="95" source="2"><item slot="1" original=" Dig a hole or find a cave/portal" ></item>
+<item slot="2" original=" gather battle supplies" ></item>
+<item slot="3" original="purify the underground of evil and vanquish the enemy" ></item>
+<item slot="4" original="rebuild what is left or seal it off to ensure safety of all citizens" ></item>
+<item slot="5" original="live in peace knowing the world is safe, at least for today" ></item>
+</script><script id="96" source="2"><item slot="1" original="Purchase a subway ticket" ></item>
+<item slot="2" original="Find the line that you need to take" ></item>
+<item slot="3" original="Wait for the subway to arrive" ></item>
+<item slot="4" original="Take the subway to your destination" ></item>
+<item slot="5" original="Get off at the proper stop" ></item>
+<item slot="6" original="Go through the gates" ></item>
+<item slot="7" original="Climb up the stairs and arrive at your destination" ></item>
+</script><script id="97" source="2"><item slot="1" original="get to the station" ></item>
+<item slot="2" original="find your route" ></item>
+<item slot="3" original="buy a ticket" ></item>
+<item slot="4" original="wait for the train" ></item>
+<item slot="5" original="get on" ></item>
+<item slot="6" original="find a seat" ></item>
+<item slot="7" original="wait for your stop" ></item>
+<item slot="8" original="get off" ></item>
+<item slot="9" original="leave the station" ></item>
+</script><script id="98" source="2"><item slot="1" original="Leave house." ></item>
+<item slot="2" original="Walk to train terminal." ></item>
+<item slot="3" original="Scan pass." ></item>
+<item slot="4" original="Check schedule." ></item>
+<item slot="5" original="Look for stop where my train will be." ></item>
+<item slot="6" original="Walk over to stop where my train will be." ></item>
+<item slot="7" original="Board train." ></item>
+<item slot="8" original="Read book while travelling." ></item>
+<item slot="9" original="Get off at destination." ></item>
+</script><script id="99" source="2"><item slot="1" original="Go to the station." ></item>
+<item slot="2" original="Purchase a ticket." ></item>
+<item slot="3" original="Get on the subway." ></item>
+<item slot="4" original="Sit down." ></item>
+<item slot="5" original="Ride to your destination." ></item>
+</script><script id="100" source="2"><item slot="1" original="find correct train" ></item>
+<item slot="2" original="get ticket or passkey" ></item>
+<item slot="3" original="head down the stairs and wait for train" ></item>
+<item slot="4" original="board train after it stops" ></item>
+<item slot="5" original="find seat " ></item>
+<item slot="6" original="listen to music or read" ></item>
+<item slot="7" original="exit on correct stop" ></item>
+</script><script id="101" source="2"><item slot="1" original="Go to the kiosk and buy your ticket." ></item>
+<item slot="2" original="Go down the escalator into the underground area. " ></item>
+<item slot="3" original="Insert your ticket into the ticket collector." ></item>
+<item slot="4" original="Go through the entrance." ></item>
+<item slot="5" original="Get your ticket on the other side." ></item>
+<item slot="6" original="Get on your train and take your ride." ></item>
+</script></scripts>

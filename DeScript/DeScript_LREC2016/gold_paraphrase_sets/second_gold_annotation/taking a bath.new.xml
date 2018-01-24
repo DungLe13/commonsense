@@ -1,0 +1,321 @@
+<scripts>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item source="2" script="31" slot="3" total_slots="7" original="Light candles if desired."></item>
+
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item source="2" script="36" slot="3" total_slots="11" original="Open the shower"></item>
+<item source="2" script="36" slot="8" total_slots="11" original="Open the shower"></item>
+
+</label>
+<label type="PARAPHRASE" event="enter_bathroom">
+<item source="2" script="15" slot="2" total_slots="16" original="Go inside bathroom"></item>
+<item source="2" script="18" slot="1" total_slots="9" original="Proceed to Bathroom."></item>
+<item source="2" script="20" slot="1" total_slots="10" original="Enter the bathroom"></item>
+<item source="2" script="27" slot="1" total_slots="6" original="Enter bath"></item>
+<item source="2" script="32" slot="2" total_slots="13" original="Go into bathroom and lock the door"></item>
+<item source="2" script="35" slot="1" total_slots="14" original="Go into bathroom"></item>
+<item source="2" script="36" slot="1" total_slots="11" original="Go to the bathroom"></item>
+<item source="2" script="40" slot="1" total_slots="8" original="step into bathroom"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_close_door">
+<item source="2" script="15" slot="3" total_slots="16" original="Lock the door from inside"></item>
+
+</label>
+<label type="PARAPHRASE" event="take_clean_clothes">
+<item source="2" script="15" slot="6" total_slots="16" original="Hang the clothes"></item>
+
+</label>
+<label type="PARAPHRASE" event="prepare_bath">
+<item source="2" script="15" slot="1" total_slots="16" original="Take towel"></item>
+<item source="2" script="15" slot="4" total_slots="16" original="Hang the towel on the hanger"></item>
+<item source="2" script="19" slot="1" total_slots="10" original="Gather towel and body wash"></item>
+<item source="2" script="21" slot="1" total_slots="10" original="Get towel and wash cloth ready and set to the side"></item>
+<item source="2" script="22" slot="4" total_slots="11" original="Gather soap, sponge, razor."></item>
+<item source="2" script="23" slot="3" total_slots="6" original="grab a towel"></item>
+<item source="2" script="23" slot="4" total_slots="6" original="grab a wash cloth"></item>
+<item source="2" script="25" slot="1" total_slots="11" original="Gather towel and soaps, place them within reach of bathtub"></item>
+<item source="2" script="32" slot="1" total_slots="13" original="Gather towels and bubble bath"></item>
+<item source="2" script="39" slot="2" total_slots="7" original="Get towels and washclothes"></item>
+
+</label>
+<label type="PARAPHRASE" event="turn_water_on">
+<item source="2" script="15" slot="8" total_slots="16" original="Open the hot and cold water taps"></item>
+<item source="2" script="17" slot="1" total_slots="10" original="Run warm water"></item>
+<item source="2" script="18" slot="2" total_slots="9" original="Turn on water and adjust temperature."></item>
+<item source="2" script="21" slot="3" total_slots="10" original="Turn on hot and cold faucets to preferred water temperature"></item>
+<item source="2" script="22" slot="1" total_slots="11" original="Run bath faucet."></item>
+<item source="2" script="23" slot="1" total_slots="6" original="fill tub with warm water"></item>
+<item source="2" script="24" slot="2" total_slots="11" original="Start running the bath water"></item>
+<item source="2" script="25" slot="2" total_slots="11" original="Turn on water"></item>
+<item source="2" script="28" slot="2" total_slots="11" original="Turn on water in tub."></item>
+<item source="2" script="29" slot="1" total_slots="7" original="Start running warm water"></item>
+<item source="2" script="30" slot="2" total_slots="5" original="Turn water on to designated temperature and let water fill up tub."></item>
+<item source="2" script="31" slot="1" total_slots="7" original="Turn on bath faucet."></item>
+<item source="2" script="32" slot="3" total_slots="13" original="Turn on water to fill the tub"></item>
+<item source="2" script="33" slot="1" total_slots="9" original="Run water"></item>
+<item source="2" script="34" slot="1" total_slots="10" original="turn on water in bathtub"></item>
+<item source="2" script="35" slot="2" total_slots="14" original="Turn water on in bath tub"></item>
+<item source="2" script="37" slot="2" total_slots="5" original="Turn on water"></item>
+<item source="2" script="38" slot="1" total_slots="10" original="draw warm water in bathtub"></item>
+<item source="2" script="39" slot="1" total_slots="7" original="Run water into the tub"></item>
+
+</label>
+<label type="PARAPHRASE" event="check_temp">
+<item source="2" script="15" slot="10" total_slots="16" original="Check the warmth of the water in the tub"></item>
+<item source="2" script="15" slot="11" total_slots="16" original="Adjust temperature of water by opening or closing hot tap"></item>
+<item source="2" script="22" slot="2" total_slots="11" original="Ensure water is not too hot or too cold."></item>
+<item source="2" script="25" slot="3" total_slots="11" original="Adjust hot and cold water until desired warmth is reached"></item>
+<item source="2" script="26" slot="2" total_slots="8" original="Make sure the water is adjusted to your desired temperature."></item>
+<item source="2" script="28" slot="3" total_slots="11" original="Adjust water to correct temperature."></item>
+<item source="2" script="34" slot="3" total_slots="10" original="make sure water is the right temp"></item>
+<item source="2" script="35" slot="3" total_slots="14" original="Adjust to desired temperature"></item>
+
+</label>
+<label type="PARAPHRASE" event="close_drain">
+<item source="2" script="15" slot="7" total_slots="16" original="Close the bath tub water exit by the valve"></item>
+<item source="2" script="19" slot="2" total_slots="10" original="put drainplug in tub"></item>
+<item source="2" script="21" slot="2" total_slots="10" original="Place stopper in bathtub drain"></item>
+<item source="2" script="22" slot="3" total_slots="11" original="Put plug in drain."></item>
+<item source="2" script="25" slot="4" total_slots="11" original="Plug the drain in the bottom of the bathtub"></item>
+<item source="2" script="27" slot="2" total_slots="6" original="Plug the tub"></item>
+<item source="2" script="28" slot="1" total_slots="11" original="Put stopper in tub."></item>
+<item source="2" script="29" slot="2" total_slots="7" original="Close bath drain"></item>
+<item source="2" script="30" slot="1" total_slots="5" original="Put plug in bath tub."></item>
+<item source="2" script="35" slot="4" total_slots="14" original="Place plug in bath tub drain"></item>
+<item source="2" script="37" slot="1" total_slots="5" original="Plug drain in tub"></item>
+
+</label>
+<label type="PARAPHRASE" event="wait">
+<item source="2" script="15" slot="9" total_slots="16" original="Let the tub fill upto 70% upto the tiny holes below the tap"></item>
+<item source="2" script="18" slot="3" total_slots="9" original="Fill tub to desired level.."></item>
+<item source="2" script="19" slot="3" total_slots="10" original="run bath water until tub is full"></item>
+<item source="2" script="21" slot="4" total_slots="10" original="Fill bathtub to halfway point"></item>
+<item source="2" script="24" slot="3" total_slots="11" original="Wait for the bath to fill up"></item>
+<item source="2" script="25" slot="5" total_slots="11" original="Allow bathtub to fill about half way"></item>
+<item source="2" script="26" slot="1" total_slots="8" original="Fill the bath with water."></item>
+<item source="2" script="27" slot="3" total_slots="6" original="Fill tub with water"></item>
+<item source="2" script="31" slot="4" total_slots="7" original="Let the tub fill with water at a comfortable temperature."></item>
+<item source="2" script="32" slot="5" total_slots="13" original="Sit on toilet and wait for the tub to fill"></item>
+<item source="2" script="37" slot="4" total_slots="5" original="Wait until tub is to desired depth"></item>
+<item source="2" script="40" slot="3" total_slots="8" original="fill up bath tub"></item>
+
+</label>
+<label type="PARAPHRASE" event="turn_water_off">
+<item source="2" script="21" slot="5" total_slots="10" original="Turn off faucets and get into bathtub with wash cloth"></item>
+<item source="2" script="24" slot="4" total_slots="11" original="Stop running the water"></item>
+<item source="2" script="25" slot="6" total_slots="11" original="Turn off water"></item>
+<item source="2" script="28" slot="5" total_slots="11" original="Turn off water."></item>
+<item source="2" script="33" slot="3" total_slots="9" original="Stop water"></item>
+<item source="2" script="35" slot="7" total_slots="14" original="When bath tub is full, turn off water"></item>
+
+</label>
+<label type="PARAPHRASE" event="put_bubble_bath_scent">
+<item source="2" script="15" slot="13" total_slots="16" original="Pour bubble liquid soap"></item>
+<item source="2" script="17" slot="2" total_slots="10" original="Add bubbles"></item>
+<item source="2" script="23" slot="2" total_slots="6" original="put in some bubble bath"></item>
+<item source="2" script="24" slot="5" total_slots="11" original="Put in any bath salts or soap that you want"></item>
+<item source="2" script="26" slot="3" total_slots="8" original="Add soap to the bath."></item>
+<item source="2" script="29" slot="3" total_slots="7" original="Pour soap near running water"></item>
+<item source="2" script="31" slot="2" total_slots="7" original="Add bubble bath, bath salts, or oils if desired."></item>
+<item source="2" script="32" slot="4" total_slots="13" original="Pour in the bubble bath"></item>
+<item source="2" script="34" slot="4" total_slots="10" original="put in bubble bath if you want"></item>
+<item source="2" script="37" slot="3" total_slots="5" original="Add bath bubbles if needed"></item>
+
+</label>
+<label type="PARAPHRASE" event="undress">
+<item source="2" script="15" slot="5" total_slots="16" original="Take out clothes"></item>
+<item source="2" script="17" slot="3" total_slots="10" original="Get undressed"></item>
+<item source="2" script="18" slot="4" total_slots="9" original="Undress."></item>
+<item source="2" script="20" slot="2" total_slots="10" original="Remove the dress, put it in the laundry bag"></item>
+<item source="2" script="22" slot="5" total_slots="11" original="As water fills, undress."></item>
+<item source="2" script="23" slot="5" total_slots="6" original="take off clothes"></item>
+<item source="2" script="24" slot="1" total_slots="11" original="Take off clothes"></item>
+<item source="2" script="25" slot="7" total_slots="11" original="Get undressed and get into bathtub"></item>
+<item source="2" script="27" slot="4" total_slots="6" original="Get undressed"></item>
+<item source="2" script="28" slot="4" total_slots="11" original="Take off clothes."></item>
+<item source="2" script="29" slot="4" total_slots="7" original="Undress"></item>
+<item source="2" script="30" slot="3" total_slots="5" original="Undress."></item>
+<item source="2" script="33" slot="2" total_slots="9" original="Get undressed"></item>
+<item source="2" script="34" slot="2" total_slots="10" original="get undressed"></item>
+<item source="2" script="35" slot="5" total_slots="14" original="Take clothes off"></item>
+<item source="2" script="36" slot="2" total_slots="11" original="Remove the dress"></item>
+<item source="2" script="38" slot="2" total_slots="10" original="remove all your clothing"></item>
+<item source="2" script="39" slot="3" total_slots="7" original="Undress and get in the tub"></item>
+<item source="2" script="40" slot="2" total_slots="8" original="take off clothes"></item>
+
+</label>
+<label type="PARAPHRASE" event="sink_water">
+<item source="2" script="15" slot="12" total_slots="16" original="Step inside the bath tub"></item>
+<item source="2" script="17" slot="4" total_slots="10" original="Get in tub"></item>
+<item source="2" script="18" slot="5" total_slots="9" original="Get into bathtub."></item>
+<item source="2" script="19" slot="4" total_slots="10" original="get in bathtub"></item>
+<item source="2" script="22" slot="6" total_slots="11" original="Step into tub."></item>
+<item source="2" script="23" slot="6" total_slots="6" original="get in tub and scrub your self"></item>
+<item source="2" script="24" slot="6" total_slots="11" original="Get inside the bath"></item>
+<item source="2" script="26" slot="4" total_slots="8" original="Lower yourself into the bath tub."></item>
+<item source="2" script="27" slot="5" total_slots="6" original="Enter tub"></item>
+<item source="2" script="28" slot="6" total_slots="11" original="Step into tub."></item>
+<item source="2" script="29" slot="5" total_slots="7" original="Get into bath tub"></item>
+<item source="2" script="30" slot="4" total_slots="5" original="Get into tub."></item>
+<item source="2" script="31" slot="5" total_slots="7" original="Get into the tub."></item>
+<item source="2" script="32" slot="6" total_slots="13" original="Slowly slide into the tub and lean back"></item>
+<item source="2" script="33" slot="4" total_slots="9" original="Get into bath"></item>
+<item source="2" script="34" slot="5" total_slots="10" original="get into bath"></item>
+<item source="2" script="35" slot="6" total_slots="14" original="Get into bath tub"></item>
+<item source="2" script="37" slot="5" total_slots="5" original="Get in bathtub"></item>
+<item source="2" script="38" slot="3" total_slots="10" original="lower yourself into the water"></item>
+<item source="2" script="40" slot="4" total_slots="8" original="step into bath tub"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_shower">
+<item source="2" script="17" slot="7" total_slots="10" original="Rinse off"></item>
+<item source="2" script="19" slot="7" total_slots="10" original="rinse off"></item>
+<item source="2" script="20" slot="3" total_slots="10" original="Open the overhead shower rinse the body fully"></item>
+<item source="2" script="20" slot="7" total_slots="10" original="Take shower for the whole body"></item>
+<item source="2" script="20" slot="8" total_slots="10" original="Use hand shower for under arms and foot"></item>
+<item source="2" script="21" slot="7" total_slots="10" original="Rinse with bath water"></item>
+<item source="2" script="35" slot="11" total_slots="14" original="Turn on shower to rinse off"></item>
+<item source="2" script="36" slot="4" total_slots="11" original="Get under the shower"></item>
+<item source="2" script="38" slot="5" total_slots="10" original="rinse yourself by taking water from the bath and pouring it over yourself"></item>
+
+</label>
+<label type="PARAPHRASE" event="relax">
+<item source="2" script="15" slot="14" total_slots="16" original="Enjoy the bath"></item>
+<item source="2" script="17" slot="6" total_slots="10" original="Soak in tub"></item>
+<item source="2" script="18" slot="6" total_slots="9" original="Relax and clean yourself."></item>
+<item source="2" script="19" slot="5" total_slots="10" original="lay back and relax"></item>
+<item source="2" script="22" slot="7" total_slots="11" original="Lay back and relax."></item>
+<item source="2" script="24" slot="9" total_slots="11" original="Sit in the bath and just soak and relax for a while"></item>
+<item source="2" script="27" slot="6" total_slots="6" original="Take a bath"></item>
+<item source="2" script="28" slot="7" total_slots="11" original="Enjoy water."></item>
+<item source="2" script="29" slot="6" total_slots="7" original="Relax"></item>
+<item source="2" script="30" slot="5" total_slots="5" original="Relax."></item>
+<item source="2" script="31" slot="6" total_slots="7" original="Soak as long as you like."></item>
+<item source="2" script="32" slot="7" total_slots="13" original="Lay in tub to relax"></item>
+<item source="2" script="34" slot="6" total_slots="10" original="relax"></item>
+<item source="2" script="35" slot="8" total_slots="14" original="Soak in bath tub"></item>
+<item source="2" script="40" slot="6" total_slots="8" original="bath"></item>
+
+</label>
+<label type="PARAPHRASE" event="apply_soap">
+<item source="2" script="17" slot="5" total_slots="10" original="Lather with soap"></item>
+<item source="2" script="20" slot="4" total_slots="10" original="Apply shampoo to the head, lather thoroghly"></item>
+<item source="2" script="20" slot="6" total_slots="10" original="Apply soap to the whole body and rub with sponge"></item>
+<item source="2" script="36" slot="6" total_slots="11" original="Apply the soap"></item>
+<item source="2" script="40" slot="5" total_slots="8" original="grab soap"></item>
+
+</label>
+<label type="PARAPHRASE" event="wash">
+<item source="2" script="19" slot="6" total_slots="10" original="sit up and clean self with bodywash"></item>
+<item source="2" script="20" slot="5" total_slots="10" original="Wash the head fully"></item>
+<item source="2" script="21" slot="6" total_slots="10" original="Use soap and wash cloth to scrub body"></item>
+<item source="2" script="22" slot="8" total_slots="11" original="Wash body."></item>
+<item source="2" script="24" slot="7" total_slots="11" original="Wash yourself with soap"></item>
+<item source="2" script="25" slot="8" total_slots="11" original="Wash self"></item>
+<item source="2" script="26" slot="5" total_slots="8" original="Wash your body and shampoo your hair."></item>
+<item source="2" script="28" slot="8" total_slots="11" original="Wash body and hair."></item>
+<item source="2" script="29" slot="7" total_slots="7" original="Wash hair and body"></item>
+<item source="2" script="32" slot="8" total_slots="13" original="Wash your body"></item>
+<item source="2" script="33" slot="5" total_slots="9" original="Wash self"></item>
+<item source="2" script="34" slot="7" total_slots="10" original="wash body with soap"></item>
+<item source="2" script="35" slot="9" total_slots="14" original="Use soap to wash body"></item>
+<item source="2" script="36" slot="7" total_slots="11" original="Wash your body"></item>
+<item source="2" script="36" slot="9" total_slots="11" original="Clean the body"></item>
+<item source="2" script="38" slot="4" total_slots="10" original="use a washcloth and bar of soap to scrub all of your skin"></item>
+<item source="2" script="39" slot="4" total_slots="7" original="Wash with washcloth"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_shampoo_hair">
+<item source="2" script="24" slot="8" total_slots="11" original="Shampoo your hair if necessary"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_stand">
+<item source="2" script="38" slot="6" total_slots="10" original="stand up"></item>
+
+</label>
+<label type="PARAPHRASE" event="open_drain">
+<item source="2" script="17" slot="9" total_slots="10" original="Drain water"></item>
+<item source="2" script="18" slot="7" total_slots="9" original="Drain tub."></item>
+<item source="2" script="19" slot="8" total_slots="10" original="pull drainplug and let water out of tub"></item>
+<item source="2" script="21" slot="8" total_slots="10" original="Remove stopper from drain"></item>
+<item source="2" script="22" slot="9" total_slots="11" original="Drain tub."></item>
+<item source="2" script="25" slot="9" total_slots="11" original="Drain tub"></item>
+<item source="2" script="26" slot="8" total_slots="8" original="Drain the bath tub."></item>
+<item source="2" script="28" slot="11" total_slots="11" original="Unplug the stopper to drain water."></item>
+<item source="2" script="32" slot="10" total_slots="13" original="Pull the drain plug"></item>
+<item source="2" script="33" slot="6" total_slots="9" original="Drain water"></item>
+<item source="2" script="34" slot="8" total_slots="10" original="drain water from tub"></item>
+<item source="2" script="35" slot="10" total_slots="14" original="Unplug bath tub drain"></item>
+<item source="2" script="38" slot="9" total_slots="10" original="drain bathtub"></item>
+<item source="2" script="39" slot="6" total_slots="7" original="Let water out of the tub"></item>
+
+</label>
+<label type="PARAPHRASE" event="get_out_bath">
+<item source="2" script="15" slot="15" total_slots="16" original="When come out of tub carefully"></item>
+<item source="2" script="17" slot="8" total_slots="10" original="Get out"></item>
+<item source="2" script="18" slot="8" total_slots="9" original="Get out of tub and dry yourself."></item>
+<item source="2" script="19" slot="9" total_slots="10" original="stand up and exit tub"></item>
+<item source="2" script="21" slot="9" total_slots="10" original="Step out of bathtub"></item>
+<item source="2" script="24" slot="10" total_slots="11" original="Get out and drain the bath rub"></item>
+<item source="2" script="26" slot="6" total_slots="8" original="Get out of the bath tub."></item>
+<item source="2" script="28" slot="9" total_slots="11" original="Get out of tub."></item>
+<item source="2" script="31" slot="7" total_slots="7" original="Get out and towel off."></item>
+<item source="2" script="32" slot="9" total_slots="13" original="Get out of tub"></item>
+<item source="2" script="33" slot="7" total_slots="9" original="Get out of bath"></item>
+<item source="2" script="34" slot="9" total_slots="10" original="get out of tub"></item>
+<item source="2" script="35" slot="12" total_slots="14" original="Get out of bath tub"></item>
+<item source="2" script="39" slot="5" total_slots="7" original="When clean get of out tub and dry with towel"></item>
+<item source="2" script="40" slot="7" total_slots="8" original="get out of tub"></item>
+
+</label>
+<label type="PARAPHRASE" event="grab_towel">
+<item source="2" script="38" slot="7" total_slots="10" original="grab a towel"></item>
+
+</label>
+<label type="PARAPHRASE" event="dry">
+<item source="2" script="15" slot="16" total_slots="16" original="Wipe body with towel"></item>
+<item source="2" script="17" slot="10" total_slots="10" original="Dry off with towel"></item>
+<item source="2" script="19" slot="10" total_slots="10" original="dry self off with towels"></item>
+<item source="2" script="21" slot="10" total_slots="10" original="Dry off with towel"></item>
+<item source="2" script="22" slot="10" total_slots="11" original="Dry off."></item>
+<item source="2" script="24" slot="11" total_slots="11" original="Dry off with a towel"></item>
+<item source="2" script="25" slot="10" total_slots="11" original="Dry off"></item>
+<item source="2" script="26" slot="7" total_slots="8" original="Dry yourself off with a towel."></item>
+<item source="2" script="28" slot="10" total_slots="11" original="Dry off with towel."></item>
+<item source="2" script="32" slot="11" total_slots="13" original="Dry off"></item>
+<item source="2" script="33" slot="8" total_slots="9" original="Dry off"></item>
+<item source="2" script="34" slot="10" total_slots="10" original="dry off"></item>
+<item source="2" script="35" slot="13" total_slots="14" original="Use towel to dry off"></item>
+<item source="2" script="38" slot="8" total_slots="10" original="dry yourself with the towel"></item>
+<item source="2" script="40" slot="8" total_slots="8" original="towel dry"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_shut_shower">
+<item source="2" script="36" slot="5" total_slots="11" original="Stop the shower"></item>
+<item source="2" script="36" slot="10" total_slots="11" original="Close the shower"></item>
+
+</label>
+<label type="PARAPHRASE" event="get_dressed">
+<item source="2" script="18" slot="9" total_slots="9" original="Get dressed."></item>
+<item source="2" script="20" slot="9" total_slots="10" original="Wrap-up with a bath robe"></item>
+<item source="2" script="22" slot="11" total_slots="11" original="Dress."></item>
+<item source="2" script="25" slot="11" total_slots="11" original="Get dressed"></item>
+<item source="2" script="32" slot="12" total_slots="13" original="Put on robe"></item>
+<item source="2" script="33" slot="9" total_slots="9" original="Get dressed"></item>
+<item source="2" script="35" slot="14" total_slots="14" original="Get dressed"></item>
+<item source="2" script="38" slot="10" total_slots="10" original="put clothes on"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_clean_tub">
+<item source="2" script="39" slot="7" total_slots="7" original="Clean out tub"></item>
+
+</label>
+<label type="PARAPHRASE" event="leave">
+<item source="2" script="20" slot="10" total_slots="10" original="come out of the bath room"></item>
+<item source="2" script="32" slot="13" total_slots="13" original="Walk out of bathroom"></item>
+<item source="2" script="36" slot="11" total_slots="11" original="Leave the bathroom"></item>
+
+</label>
+</scripts>

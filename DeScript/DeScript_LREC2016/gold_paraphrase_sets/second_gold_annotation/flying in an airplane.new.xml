@@ -1,0 +1,333 @@
+<scripts>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item source="2" script="46" slot="2" total_slots="14" original="Choose the flight"></item>
+
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item source="2" script="32" slot="8" total_slots="9" original="Go through customs"></item>
+
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item source="2" script="45" slot="2" total_slots="8" original="Walk in the airport"></item>
+
+</label>
+<label type="PARAPHRASE" event="get_ticket">
+<item source="2" script="22" slot="1" total_slots="11" original="Obtain ticket."></item>
+<item source="2" script="25" slot="1" total_slots="5" original="Buy your ticket."></item>
+<item source="2" script="26" slot="1" total_slots="15" original="Buy a ticket"></item>
+<item source="2" script="27" slot="4" total_slots="7" original="Buy ticket."></item>
+<item source="2" script="29" slot="1" total_slots="5" original="Obtain tickets for flight"></item>
+<item source="2" script="31" slot="1" total_slots="8" original="buy ticket"></item>
+<item source="2" script="34" slot="1" total_slots="8" original="Buy a ticket."></item>
+<item source="2" script="37" slot="1" total_slots="5" original="Order ticket online"></item>
+<item source="2" script="39" slot="4" total_slots="16" original="Walk to ticket counter"></item>
+<item source="2" script="39" slot="5" total_slots="16" original="Purchase ticket"></item>
+<item source="2" script="44" slot="2" total_slots="6" original="Purchase ticket."></item>
+<item source="2" script="46" slot="3" total_slots="14" original="Purchase plane ticket"></item>
+<item source="2" script="47" slot="1" total_slots="10" original="purchase ticket"></item>
+<item source="2" script="49" slot="2" total_slots="14" original="Get ticket from the counter."></item>
+
+</label>
+<label type="PARAPHRASE" event="pack_luggage">
+<item source="2" script="25" slot="2" total_slots="5" original="Pack your clothes."></item>
+<item source="2" script="26" slot="2" total_slots="15" original="Pack bags"></item>
+<item source="2" script="28" slot="1" total_slots="9" original="Get packed"></item>
+<item source="2" script="34" slot="2" total_slots="8" original="Pack a bag."></item>
+
+</label>
+<label type="PARAPHRASE" event="other_get_in_car">
+<item source="2" script="28" slot="2" total_slots="9" original="Grab keys"></item>
+<item source="2" script="28" slot="3" total_slots="9" original="Go to car"></item>
+
+</label>
+<label type="PARAPHRASE" event="get_airport">
+<item source="2" script="22" slot="2" total_slots="11" original="Go to airport."></item>
+<item source="2" script="25" slot="3" total_slots="5" original="Drive to airport."></item>
+<item source="2" script="26" slot="3" total_slots="15" original="Go to airport"></item>
+<item source="2" script="27" slot="1" total_slots="7" original="Drive to airport."></item>
+<item source="2" script="27" slot="3" total_slots="7" original="Enter airport."></item>
+<item source="2" script="28" slot="4" total_slots="9" original="Drive to airport"></item>
+<item source="2" script="29" slot="2" total_slots="5" original="Go to airport"></item>
+<item source="2" script="31" slot="2" total_slots="8" original="arrive at airport"></item>
+<item source="2" script="32" slot="1" total_slots="9" original="Go to airport"></item>
+<item source="2" script="34" slot="3" total_slots="8" original="Drive to the airport."></item>
+<item source="2" script="35" slot="1" total_slots="15" original="Drive to airport"></item>
+<item source="2" script="35" slot="3" total_slots="15" original="Enter airport"></item>
+<item source="2" script="37" slot="2" total_slots="5" original="Go to airport"></item>
+<item source="2" script="39" slot="1" total_slots="16" original="Drive to airport"></item>
+<item source="2" script="39" slot="3" total_slots="16" original="Enter airport"></item>
+<item source="2" script="42" slot="1" total_slots="12" original="Drive to airport"></item>
+<item source="2" script="43" slot="1" total_slots="9" original="Arrive at airport."></item>
+<item source="2" script="44" slot="1" total_slots="6" original="Go to airport."></item>
+<item source="2" script="45" slot="1" total_slots="8" original="Drive to airport"></item>
+<item source="2" script="46" slot="1" total_slots="14" original="Arrive at airport"></item>
+<item source="2" script="47" slot="2" total_slots="10" original="drive to airport"></item>
+<item source="2" script="48" slot="1" total_slots="7" original="Go to the airport"></item>
+<item source="2" script="49" slot="1" total_slots="14" original="Go to the airport."></item>
+
+</label>
+<label type="PARAPHRASE" event="other_park_car">
+<item source="2" script="27" slot="2" total_slots="7" original="Find parking spot."></item>
+<item source="2" script="28" slot="5" total_slots="9" original="Park"></item>
+<item source="2" script="34" slot="4" total_slots="8" original="Park the car."></item>
+<item source="2" script="39" slot="2" total_slots="16" original="Park at airport"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_get_luggage">
+<item source="2" script="35" slot="2" total_slots="15" original="Get luggage out of car"></item>
+
+</label>
+<label type="PARAPHRASE" event="go_check_in">
+<item source="2" script="39" slot="8" total_slots="16" original="Walk to luggage check in"></item>
+
+</label>
+<label type="PARAPHRASE" event="present_id_ticket">
+<item source="2" script="37" slot="3" total_slots="5" original="Meet with airline worker"></item>
+<item source="2" script="37" slot="4" total_slots="5" original="Give ticket"></item>
+
+</label>
+<label type="PARAPHRASE" event="check_luggage">
+<item source="2" script="34" slot="5" total_slots="8" original="Check your bag."></item>
+<item source="2" script="35" slot="4" total_slots="15" original="Check luggage in"></item>
+<item source="2" script="39" slot="9" total_slots="16" original="Check in luggage"></item>
+<item source="2" script="42" slot="2" total_slots="12" original="Check luggage"></item>
+<item source="2" script="43" slot="2" total_slots="9" original="Check in bags."></item>
+<item source="2" script="46" slot="4" total_slots="14" original="Check in bags"></item>
+<item source="2" script="47" slot="3" total_slots="10" original="check bag"></item>
+
+</label>
+<label type="PARAPHRASE" event="check_in">
+<item source="2" script="22" slot="3" total_slots="11" original="Check in at airline counter."></item>
+<item source="2" script="25" slot="4" total_slots="5" original="Check into your flight."></item>
+<item source="2" script="26" slot="4" total_slots="15" original="Check in"></item>
+<item source="2" script="28" slot="6" total_slots="9" original="Check in"></item>
+<item source="2" script="31" slot="3" total_slots="8" original="check in"></item>
+<item source="2" script="32" slot="2" total_slots="9" original="Check-in and leave luggage"></item>
+<item source="2" script="42" slot="3" total_slots="12" original="Check in"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_confirm_booking">
+<item source="2" script="42" slot="4" total_slots="12" original="Get boarding pass"></item>
+
+</label>
+<label type="PARAPHRASE" event="go_security_checks">
+<item source="2" script="22" slot="4" total_slots="11" original="Go through security checkpoint."></item>
+<item source="2" script="26" slot="5" total_slots="15" original="Go through security"></item>
+<item source="2" script="27" slot="5" total_slots="7" original="Go through security."></item>
+<item source="2" script="31" slot="4" total_slots="8" original="pass security"></item>
+<item source="2" script="32" slot="3" total_slots="9" original="Go through security"></item>
+<item source="2" script="34" slot="6" total_slots="8" original="Go through security."></item>
+<item source="2" script="35" slot="6" total_slots="15" original="Take out all items from pockets"></item>
+<item source="2" script="35" slot="7" total_slots="15" original="Take shoes off"></item>
+<item source="2" script="35" slot="8" total_slots="15" original="Go into scanner"></item>
+<item source="2" script="35" slot="9" total_slots="15" original="Put shoes back on"></item>
+<item source="2" script="35" slot="10" total_slots="15" original="Put items back in pockets"></item>
+<item source="2" script="35" slot="5" total_slots="15" original="Get in security line"></item>
+<item source="2" script="39" slot="6" total_slots="16" original="Enter inspection area"></item>
+<item source="2" script="39" slot="7" total_slots="16" original="Walk through metal detector"></item>
+<item source="2" script="42" slot="5" total_slots="12" original="Enter security line"></item>
+<item source="2" script="49" slot="4" total_slots="14" original="Put luggage and personal belongings on the conveyor belt."></item>
+<item source="2" script="49" slot="5" total_slots="14" original="Take off shoes and jacket and put them on the conveyor belt."></item>
+<item source="2" script="49" slot="6" total_slots="14" original="Walk through x-ray machine."></item>
+<item source="2" script="49" slot="7" total_slots="14" original="Retrieve luggage, shoes, and jacket from conveyor belt."></item>
+<item source="2" script="42" slot="6" total_slots="12" original="go through security"></item>
+<item source="2" script="44" slot="3" total_slots="6" original="Pass security checks."></item>
+<item source="2" script="45" slot="3" total_slots="8" original="Walk through security"></item>
+<item source="2" script="46" slot="5" total_slots="14" original="Go through security"></item>
+<item source="2" script="47" slot="4" total_slots="10" original="go through security"></item>
+<item source="2" script="48" slot="4" total_slots="7" original="Go through security"></item>
+<item source="2" script="49" slot="3" total_slots="14" original="Go to security."></item>
+
+</label>
+<label type="PARAPHRASE" event="find_terminal">
+<item source="2" script="26" slot="6" total_slots="15" original="Find your gate"></item>
+<item source="2" script="35" slot="11" total_slots="15" original="Proceed to gate"></item>
+<item source="2" script="39" slot="10" total_slots="16" original="Walk to correct gate"></item>
+<item source="2" script="42" slot="7" total_slots="12" original="find gate"></item>
+<item source="2" script="43" slot="3" total_slots="9" original="Go to terminal."></item>
+<item source="2" script="47" slot="5" total_slots="10" original="go to gate"></item>
+<item source="2" script="48" slot="2" total_slots="7" original="Go to my gate"></item>
+<item source="2" script="49" slot="8" total_slots="14" original="Walk to gate."></item>
+
+</label>
+<label type="PARAPHRASE" event="wait_boarding">
+<item source="2" script="28" slot="7" total_slots="9" original="Wait for plane"></item>
+<item source="2" script="29" slot="3" total_slots="5" original="Wait in waiting area"></item>
+<item source="2" script="32" slot="4" total_slots="9" original="Wait to board"></item>
+<item source="2" script="42" slot="8" total_slots="12" original="wait for flight to board"></item>
+<item source="2" script="45" slot="4" total_slots="8" original="Sit and wait to board plane"></item>
+<item source="2" script="48" slot="3" total_slots="7" original="Wait in line"></item>
+<item source="2" script="49" slot="9" total_slots="14" original="Wait for boarding time."></item>
+
+</label>
+<label type="PARAPHRASE" event="present_boarding_pass">
+<item source="2" script="39" slot="12" total_slots="16" original="Turn ticket in to airport personnel"></item>
+<item source="2" script="43" slot="4" total_slots="9" original="Show ticket to clerk."></item>
+
+</label>
+<label type="PARAPHRASE" event="other_wait_board_plane">
+<item source="2" script="39" slot="11" total_slots="16" original="Get in line"></item>
+
+</label>
+<label type="PARAPHRASE" event="board_plane">
+<item source="2" script="22" slot="5" total_slots="11" original="Board plane."></item>
+<item source="2" script="25" slot="5" total_slots="5" original="Board plane."></item>
+<item source="2" script="26" slot="7" total_slots="15" original="Board plane"></item>
+<item source="2" script="27" slot="6" total_slots="7" original="Board plane."></item>
+<item source="2" script="28" slot="8" total_slots="9" original="Board plane"></item>
+<item source="2" script="29" slot="4" total_slots="5" original="Board plane"></item>
+<item source="2" script="30" slot="1" total_slots="9" original="Enter airplane"></item>
+<item source="2" script="31" slot="5" total_slots="8" original="board flight"></item>
+<item source="2" script="32" slot="5" total_slots="9" original="Board and take-off"></item>
+<item source="2" script="33" slot="1" total_slots="9" original="Get inside airplane."></item>
+<item source="2" script="34" slot="7" total_slots="8" original="Board the plane."></item>
+<item source="2" script="35" slot="12" total_slots="15" original="Go onto plane"></item>
+<item source="2" script="36" slot="1" total_slots="5" original="Board the airplane before its scheduled departure"></item>
+<item source="2" script="37" slot="5" total_slots="5" original="Enter airplane"></item>
+<item source="2" script="39" slot="13" total_slots="16" original="Walk to plane"></item>
+<item source="2" script="40" slot="1" total_slots="9" original="board airplane"></item>
+<item source="2" script="42" slot="9" total_slots="12" original="board plane"></item>
+<item source="2" script="43" slot="5" total_slots="9" original="Go onto plane when allowed."></item>
+<item source="2" script="44" slot="4" total_slots="6" original="Board plane."></item>
+<item source="2" script="45" slot="5" total_slots="8" original="Walk in and find seat number"></item>
+<item source="2" script="46" slot="6" total_slots="14" original="Step onto plane"></item>
+<item source="2" script="47" slot="6" total_slots="10" original="board plane"></item>
+<item source="2" script="48" slot="5" total_slots="7" original="Board the plane"></item>
+<item source="2" script="49" slot="10" total_slots="14" original="Board the plane."></item>
+<item source="2" script="50" slot="1" total_slots="7" original="board plane"></item>
+
+</label>
+<label type="PARAPHRASE" event="take_seat">
+<item source="2" script="22" slot="6" total_slots="11" original="Sit in assigned seat."></item>
+<item source="2" script="26" slot="9" total_slots="15" original="Find your seat"></item>
+<item source="2" script="26" slot="10" total_slots="15" original="Sit down"></item>
+<item source="2" script="28" slot="9" total_slots="9" original="Sit"></item>
+<item source="2" script="30" slot="2" total_slots="9" original="Find seat"></item>
+<item source="2" script="30" slot="4" total_slots="9" original="Sit down"></item>
+<item source="2" script="31" slot="6" total_slots="8" original="find seat"></item>
+<item source="2" script="33" slot="2" total_slots="9" original="Look for your seat."></item>
+<item source="2" script="33" slot="5" total_slots="9" original="Sit down."></item>
+<item source="2" script="35" slot="13" total_slots="15" original="Find seat"></item>
+<item source="2" script="35" slot="14" total_slots="15" original="Sit down"></item>
+<item source="2" script="36" slot="3" total_slots="5" original="Sit in your seat and buckle the seatbelt"></item>
+<item source="2" script="39" slot="14" total_slots="16" original="Find correct seat"></item>
+<item source="2" script="39" slot="15" total_slots="16" original="Sit in seat"></item>
+<item source="2" script="40" slot="2" total_slots="9" original="locate seat"></item>
+<item source="2" script="40" slot="4" total_slots="9" original="sit down"></item>
+<item source="2" script="42" slot="10" total_slots="12" original="sit in your seat"></item>
+<item source="2" script="43" slot="6" total_slots="9" original="Find seat and sit down."></item>
+<item source="2" script="45" slot="7" total_slots="8" original="Sit in seat"></item>
+<item source="2" script="46" slot="7" total_slots="14" original="Find a seat"></item>
+<item source="2" script="49" slot="11" total_slots="14" original="Find assigned seat and sit down."></item>
+
+</label>
+<label type="PARAPHRASE" event="stow_away_luggage">
+<item source="2" script="26" slot="8" total_slots="15" original="Put bag in overhead bin"></item>
+<item source="2" script="30" slot="3" total_slots="9" original="Put carry on luggage in overhead bin"></item>
+<item source="2" script="33" slot="3" total_slots="9" original="Place baggages in above compartment."></item>
+<item source="2" script="33" slot="4" total_slots="9" original="Place backpacks under chair."></item>
+<item source="2" script="36" slot="2" total_slots="5" original="Stow your luggage"></item>
+<item source="2" script="40" slot="3" total_slots="9" original="place carry-on luggage in overhead storage"></item>
+<item source="2" script="45" slot="6" total_slots="8" original="Place luggage above seats"></item>
+
+</label>
+<label type="PARAPHRASE" event="buckle_seat_belt">
+<item source="2" script="22" slot="7" total_slots="11" original="Apply seat belt."></item>
+<item source="2" script="30" slot="5" total_slots="9" original="Put seatbelt on"></item>
+<item source="2" script="39" slot="16" total_slots="16" original="Buckle seatbelt"></item>
+<item source="2" script="40" slot="5" total_slots="9" original="put on seat belt"></item>
+<item source="2" script="43" slot="7" total_slots="9" original="Put seat belt on."></item>
+<item source="2" script="46" slot="8" total_slots="14" original="Fasten seatbelt"></item>
+<item source="2" script="49" slot="12" total_slots="14" original="Buckle seat belt."></item>
+<item source="2" script="50" slot="2" total_slots="7" original="safety belt"></item>
+
+</label>
+<label type="PARAPHRASE" event="listen_crew">
+<item source="2" script="33" slot="6" total_slots="9" original="Listen to instructions."></item>
+
+</label>
+<label type="PARAPHRASE" event="take_off_preparation">
+<item source="2" script="27" slot="7" total_slots="7" original="Wait for plane to start."></item>
+<item source="2" script="33" slot="7" total_slots="9" original="Turn off electronics."></item>
+<item source="2" script="33" slot="8" total_slots="9" original="Wait for airplane to ascend."></item>
+<item source="2" script="42" slot="11" total_slots="12" original="wait for plane to take off and land"></item>
+<item source="2" script="48" slot="6" total_slots="7" original="Wait for it to take off"></item>
+<item source="2" script="50" slot="3" total_slots="7" original="try to relax for take off"></item>
+
+</label>
+<label type="PARAPHRASE" event="take-off">
+<item source="2" script="31" slot="7" total_slots="8" original="fly off"></item>
+<item source="2" script="34" slot="8" total_slots="8" original="Take off."></item>
+<item source="2" script="40" slot="6" total_slots="9" original="take off"></item>
+
+</label>
+<label type="PARAPHRASE" event="spend_time_flight">
+<item source="2" script="22" slot="8" total_slots="11" original="Fly in plane."></item>
+<item source="2" script="26" slot="11" total_slots="15" original="Wait to arrive at destination"></item>
+<item source="2" script="29" slot="5" total_slots="5" original="Relax while plane is in flight"></item>
+<item source="2" script="30" slot="6" total_slots="9" original="Enjoy flight"></item>
+<item source="2" script="32" slot="6" total_slots="9" original="Fly to destination"></item>
+<item source="2" script="33" slot="9" total_slots="9" original="Take a nap."></item>
+<item source="2" script="35" slot="15" total_slots="15" original="Fly to destination"></item>
+<item source="2" script="36" slot="4" total_slots="5" original="Patiently wait for the plane to arrive at its destination"></item>
+<item source="2" script="40" slot="7" total_slots="9" original="sleep through flight"></item>
+<item source="2" script="43" slot="8" total_slots="9" original="Chew gum."></item>
+<item source="2" script="44" slot="5" total_slots="6" original="Fly in plane."></item>
+<item source="2" script="44" slot="6" total_slots="6" original="nap."></item>
+<item source="2" script="45" slot="8" total_slots="8" original="Fly to destination"></item>
+<item source="2" script="46" slot="9" total_slots="14" original="Enjoy the plane ride"></item>
+<item source="2" script="47" slot="7" total_slots="10" original="fly to destination"></item>
+<item source="2" script="48" slot="7" total_slots="7" original="Fly"></item>
+<item source="2" script="49" slot="13" total_slots="14" original="Enjoy the flight."></item>
+<item source="2" script="50" slot="5" total_slots="7" original="once leveled off listen to some music or keep mind busy for the duration"></item>
+
+</label>
+<label type="PARAPHRASE" event="landing">
+<item source="2" script="31" slot="8" total_slots="8" original="arrive destination"></item>
+<item source="2" script="40" slot="8" total_slots="9" original="land"></item>
+<item source="2" script="46" slot="10" total_slots="14" original="Arrive at destination"></item>
+<item source="2" script="50" slot="6" total_slots="7" original="buckle up heading into landing"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_unfasten_belt">
+<item source="2" script="22" slot="9" total_slots="11" original="Remove seat belt upon landing."></item>
+<item source="2" script="30" slot="7" total_slots="9" original="When landed, remove seatbelt"></item>
+<item source="2" script="46" slot="11" total_slots="14" original="Unbuckle seatbelt"></item>
+<item source="2" script="50" slot="4" total_slots="7" original="remove belt after take off"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_gather_items">
+<item source="2" script="26" slot="13" total_slots="15" original="Retrieve bag"></item>
+<item source="2" script="30" slot="8" total_slots="9" original="Collect carry on luggage"></item>
+
+</label>
+<label type="PARAPHRASE" event="exit_plane">
+<item source="2" script="22" slot="10" total_slots="11" original="get off of plane."></item>
+<item source="2" script="26" slot="12" total_slots="15" original="Get up"></item>
+<item source="2" script="26" slot="14" total_slots="15" original="Leave plane"></item>
+<item source="2" script="30" slot="9" total_slots="9" original="Leave airplane"></item>
+<item source="2" script="32" slot="7" total_slots="9" original="Leave plane at destination"></item>
+<item source="2" script="36" slot="5" total_slots="5" original="Disembark from the plane."></item>
+<item source="2" script="40" slot="9" total_slots="9" original="exit plane"></item>
+<item source="2" script="42" slot="12" total_slots="12" original="exit plane"></item>
+<item source="2" script="43" slot="9" total_slots="9" original="Leave plane when arrived at destination."></item>
+<item source="2" script="46" slot="12" total_slots="14" original="Get off plane"></item>
+<item source="2" script="47" slot="8" total_slots="10" original="de-board plane"></item>
+<item source="2" script="49" slot="14" total_slots="14" original="Exit the plane."></item>
+<item source="2" script="50" slot="7" total_slots="7" original="exit plane after successful land"></item>
+
+</label>
+<label type="PARAPHRASE" event="retrieve_luggage">
+<item source="2" script="22" slot="11" total_slots="11" original="Collect luggage."></item>
+<item source="2" script="32" slot="9" total_slots="9" original="Get luggage"></item>
+<item source="2" script="46" slot="13" total_slots="14" original="Find baggage claim"></item>
+<item source="2" script="47" slot="9" total_slots="10" original="get bag"></item>
+
+</label>
+<label type="PARAPHRASE" event="leave_airport">
+<item source="2" script="26" slot="15" total_slots="15" original="Leave airport"></item>
+<item source="2" script="46" slot="14" total_slots="14" original="Leave airport"></item>
+<item source="2" script="47" slot="10" total_slots="10" original="leave airport"></item>
+
+</label>
+</scripts>

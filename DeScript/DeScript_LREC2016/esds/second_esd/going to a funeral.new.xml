@@ -1,0 +1,786 @@
+<scripts><script id="0" source="2"><item slot="1" original="Select an outfit (normally black)." ></item>
+<item slot="2" original="Select specific attire for specific family" ></item>
+<item slot="3" original="Go to the church" ></item>
+<item slot="4" original="Turn off cell and be calm" ></item>
+<item slot="5" original="Sign the guest book( may differ in other cultures)" ></item>
+<item slot="6" original="Perform some words and offer a hug to whole family" ></item>
+<item slot="7" original="Cry if you can" ></item>
+<item slot="8" original="Go to grave yard" ></item>
+<item slot="9" original="Stay there" ></item>
+<item slot="10" original="Come back saying good bye to his/her family" ></item>
+<item slot="11" original="Don't forget to call back" ></item>
+</script><script id="1" source="2"><item slot="1" original="Get dressed in black clothing." ></item>
+<item slot="2" original="Drive to funeral home." ></item>
+<item slot="3" original="Enter chapel." ></item>
+<item slot="4" original="Sit down." ></item>
+<item slot="5" original="Listen to funeral service." ></item>
+<item slot="6" original="View body." ></item>
+<item slot="7" original="Talk with loved ones." ></item>
+<item slot="8" original="Leave funeral." ></item>
+</script><script id="2" source="2"><item slot="1" original="Dress in black clothes" ></item>
+<item slot="2" original="Drive to location of funeral service" ></item>
+<item slot="3" original="Enter building" ></item>
+<item slot="4" original="Offer condolences to family" ></item>
+<item slot="5" original="View body" ></item>
+<item slot="6" original="Find a seat" ></item>
+<item slot="7" original="Listen quietly until service ends" ></item>
+<item slot="8" original="Follow funeral procession to cemetery" ></item>
+<item slot="9" original="Watch casket be lowered into the ground" ></item>
+<item slot="10" original="Cry" ></item>
+<item slot="11" original="Go home" ></item>
+</script><script id="3" source="2"><item slot="1" original="get directions to funeral home  or church the day before funeral" ></item>
+<item slot="2" original="get dressed in formal clothing" ></item>
+<item slot="3" original="place an umbrella in your car in case of bad weather" ></item>
+<item slot="4" original="plan to arrive at least 15 minutes before start of funeral" ></item>
+<item slot="5" original="drive to funeral home or church" ></item>
+<item slot="6" original="enter the funeral home or church" ></item>
+<item slot="7" original="politely greet the family and friends of the deceased" ></item>
+<item slot="8" original="find a seat and wait for the funeral to begin" ></item>
+</script><script id="4" source="2"><item slot="1" original="Get dressed in black" ></item>
+<item slot="2" original="Find out location of funeral" ></item>
+<item slot="3" original="Go to funeral in mode of transportation" ></item>
+<item slot="4" original="Be quiet during funeral" ></item>
+<item slot="5" original="Give condolences to the family" ></item>
+</script><script id="5" source="2"><item slot="1" original="Drive to funeral." ></item>
+<item slot="2" original="Find parking space." ></item>
+<item slot="3" original="Go inside." ></item>
+<item slot="4" original="Find a seat." ></item>
+<item slot="5" original="Listen to the service." ></item>
+<item slot="6" original="Express condolences to the family." ></item>
+<item slot="7" original="Leave funeral." ></item>
+</script><script id="6" source="2"><item slot="1" original="Wear something black" ></item>
+<item slot="2" original="Drive to the funeral" ></item>
+<item slot="3" original="Go inside" ></item>
+<item slot="4" original="Sign the guest book" ></item>
+<item slot="5" original="Go talk to the family of the one who passed away" ></item>
+<item slot="6" original="Sit in a seat" ></item>
+<item slot="7" original="Listen to the service" ></item>
+<item slot="8" original="Walk by the casket" ></item>
+<item slot="9" original="Talk to the family" ></item>
+<item slot="10" original="Get in your car" ></item>
+</script><script id="7" source="2"><item slot="1" original="Find out the date and time of funeral from relatives, friends, family, or newspaper" ></item>
+<item slot="2" original="Make proper arrangements to allow yourself a couple hours of time for funeral" ></item>
+<item slot="3" original="Gather a proper outfit that is generally dark in color, and formal" ></item>
+<item slot="4" original="Get dressed and drive to funeral home" ></item>
+<item slot="5" original="Go inside and show your respects to the diseased" ></item>
+<item slot="6" original="Pray with the mourners" ></item>
+<item slot="7" original="Offer condolences" ></item>
+</script><script id="8" source="2"><item slot="1" original="Putting on black clothes" ></item>
+<item slot="2" original="going into funeral home" ></item>
+<item slot="3" original="Signing guestbook" ></item>
+<item slot="4" original="Greeting people" ></item>
+<item slot="5" original="Sitting down" ></item>
+<item slot="6" original="Listening to eulogy" ></item>
+<item slot="7" original="Paying respects" ></item>
+</script><script id="9" source="2"><item slot="1" original="Dress respectfully." ></item>
+<item slot="2" original="Select mode of transportation" ></item>
+<item slot="3" original="Arrive at funeral site." ></item>
+<item slot="4" original="Greet family of the deceased." ></item>
+<item slot="5" original="Offer condolences." ></item>
+<item slot="6" original="Sit through service." ></item>
+<item slot="7" original="Pay your respects at casket." ></item>
+<item slot="8" original="Watch casket lowered in ground." ></item>
+<item slot="9" original="Cry." ></item>
+<item slot="10" original="Say goodbye to fellow mourners." ></item>
+</script><script id="10" source="2"><item slot="1" original="get into vehicle" ></item>
+<item slot="2" original="go to funeral home" ></item>
+<item slot="3" original="pay your dues" ></item>
+<item slot="4" original="visit the casket" ></item>
+<item slot="5" original="leave the funeral home" ></item>
+</script><script id="11" source="2"><item slot="1" original="Dress in a black suite and polished shoes" ></item>
+<item slot="2" original="Go to the deceased house one hour before funeral time" ></item>
+<item slot="3" original="Stand calm" ></item>
+<item slot="4" original="Wait for the funeral time" ></item>
+<item slot="5" original="When funeral is finished, convey condolences to the relatives of deceased" ></item>
+<item slot="6" original="Listen to the lecture" ></item>
+<item slot="7" original="Say good bye." ></item>
+</script><script id="12" source="2"><item slot="1" original="First confirm the news is it true or fake." ></item>
+<item slot="2" original="Then convey your deep grievance to the concern person over phone." ></item>
+<item slot="3" original="Get ready in black dress code or stick a black cloth on your coat visible to others." ></item>
+<item slot="4" original="Order for funeral ring." ></item>
+<item slot="5" original="Go to the shop and pay." ></item>
+<item slot="6" original="Get the flowers." ></item>
+<item slot="7" original="Go to the funeral place." ></item>
+<item slot="8" original="Place the flowers on the box." ></item>
+<item slot="9" original="Stand quiet head bowed down." ></item>
+<item slot="10" original="Convey your grievance to the concern people and go home." ></item>
+</script><script id="13" source="2"><item slot="1" original="Select an appropriate outfit" ></item>
+<item slot="2" original="switch off the phone" ></item>
+<item slot="3" original="Enter the funeral place" ></item>
+<item slot="4" original="Sign the guest book as you reach" ></item>
+<item slot="5" original="Offer a hug to the family of the deceased" ></item>
+<item slot="6" original="Share something positive about the person dead" ></item>
+<item slot="7" original="Offer to assist family" ></item>
+<item slot="8" original="Leave the funeral" ></item>
+</script><script id="14" source="2"><item slot="1" original="Buy black clothing" ></item>
+<item slot="2" original="Put on black clothing" ></item>
+<item slot="3" original="Go to funeral parlor" ></item>
+<item slot="4" original="Sit in pew" ></item>
+<item slot="5" original="Listen to speakers" ></item>
+<item slot="6" original="Approach casket" ></item>
+<item slot="7" original="Pay respects to family" ></item>
+<item slot="8" original="Leave" ></item>
+</script><script id="15" source="2"><item slot="1" original="Drive to church" ></item>
+<item slot="2" original="Get out and enter church" ></item>
+<item slot="3" original="Talk to people" ></item>
+<item slot="4" original="Sit down and listen to sermon" ></item>
+<item slot="5" original="Go have refreshments" ></item>
+</script><script id="16" source="2"><item slot="1" original="Select a proper dress" ></item>
+<item slot="2" original="Arrive at the funeral place calmly" ></item>
+<item slot="3" original="Sign the funeral book" ></item>
+<item slot="4" original="Shake hands with the close relative of the deceased" ></item>
+<item slot="5" original="Share the good works of the deceased with fellow attendees." ></item>
+<item slot="6" original="Attend grave side services in a quiet manner" ></item>
+<item slot="7" original="Leave the place" ></item>
+</script><script id="17" source="2"><item slot="1" original="Put on somber black clothing" ></item>
+<item slot="2" original="Go to the funeral" ></item>
+<item slot="3" original="Sit quietly at the funeral" ></item>
+<item slot="4" original="Pay your last respects" ></item>
+<item slot="5" original="Offer your condolences to the family" ></item>
+<item slot="6" original="Go home" ></item>
+</script><script id="18" source="2"><item slot="1" original="Dress in black" ></item>
+<item slot="2" original="Drive to funeral" ></item>
+<item slot="3" original="Hug family members" ></item>
+<item slot="4" original="Sign attendance book" ></item>
+<item slot="5" original="Pay respects to deceased" ></item>
+<item slot="6" original="Pick a seat" ></item>
+<item slot="7" original="Listen eulogy" ></item>
+<item slot="8" original="Say your goodbyes" ></item>
+<item slot="9" original="Go home" ></item>
+</script><script id="19" source="2"><item slot="1" original="Put on black dress" ></item>
+<item slot="2" original="Drive to funeral home" ></item>
+<item slot="3" original="Go inside and sign book" ></item>
+<item slot="4" original="give condolences to relatives" ></item>
+<item slot="5" original="sit in chapel and watch service" ></item>
+<item slot="6" original="cry" ></item>
+<item slot="7" original="leave chapel and drive to cemetery" ></item>
+<item slot="8" original="watch graveside service" ></item>
+<item slot="9" original="drive to wherever the reception is" ></item>
+<item slot="10" original="talk to friends and/or family members" ></item>
+<item slot="11" original="eat" ></item>
+<item slot="12" original="get in car and drive home" ></item>
+<item slot="13" original="take off black dress" ></item>
+</script><script id="20" source="2"><item slot="1" original="Get dressed in black or something nice" ></item>
+<item slot="2" original="get in car drive to funeral" ></item>
+<item slot="3" original="get out go inside" ></item>
+<item slot="4" original="sign your name in the big guest book" ></item>
+<item slot="5" original="greet people you know" ></item>
+<item slot="6" original="comfort those that have lost someone" ></item>
+</script><script id="21" source="2"><item slot="1" original="Get dressed in proper attire" ></item>
+<item slot="2" original="Drive to location of funeral" ></item>
+<item slot="3" original="Quietly pay condolences to the deceased's loved ones" ></item>
+<item slot="4" original="Sit for service" ></item>
+<item slot="5" original="Leave after services" ></item>
+</script><script id="22" source="2"><item slot="1" original="Pick conservative dress or suit." ></item>
+<item slot="2" original="Drive to funeral home." ></item>
+<item slot="3" original="Offer condolences to those closest to lost person." ></item>
+<item slot="4" original="Sign guest book." ></item>
+<item slot="5" original="Follow crowd to cemetery." ></item>
+<item slot="6" original="Listen to sermon, pray when prompted." ></item>
+<item slot="7" original="Walk to grave in line to say goodbye." ></item>
+<item slot="8" original="Head to wherever reception or wake is being held." ></item>
+<item slot="9" original="Share memories of deceased person." ></item>
+<item slot="10" original="Go home." ></item>
+</script><script id="23" source="2"><item slot="1" original="Put on a suit" ></item>
+<item slot="2" original="Drive to the funeral parlor for the visitation" ></item>
+<item slot="3" original="Give my condolences to the ones who lost someone" ></item>
+<item slot="4" original="See the body and pay my respects to the deceased" ></item>
+<item slot="5" original="Go to the church for the service" ></item>
+<item slot="6" original="Sit through the church service" ></item>
+<item slot="7" original="Leave church to where the reception is held" ></item>
+<item slot="8" original="Enter the reception venue" ></item>
+<item slot="9" original="Get food" ></item>
+<item slot="10" original="Take a seat" ></item>
+<item slot="11" original="Eat food" ></item>
+<item slot="12" original="Talk to the people" ></item>
+<item slot="13" original="Leave to go home" ></item>
+</script><script id="24" source="2"><item slot="1" original="Go to the funeral parlor." ></item>
+<item slot="2" original="Be quiet and respectful." ></item>
+<item slot="3" original="If it is the custom, walk up and pay respects to the deceased." ></item>
+<item slot="4" original="Wish condolences to the family of the deceased." ></item>
+<item slot="5" original="Remain to silently pay your respects." ></item>
+<item slot="6" original="Leave before or after the burial." ></item>
+</script><script id="25" source="2"><item slot="1" original="Take a shower." ></item>
+<item slot="2" original="Get dressed." ></item>
+<item slot="3" original="Drive to the funeral home or church" ></item>
+<item slot="4" original="Enter the funeral home or church" ></item>
+<item slot="5" original="Get in the receiving line to greet the family of the deceased" ></item>
+<item slot="6" original="Speak with family members" ></item>
+<item slot="7" original="Find a seat in the chapel" ></item>
+<item slot="8" original="Listen to service" ></item>
+<item slot="9" original="Leave the chapel and go to cemetery" ></item>
+<item slot="10" original="Listen to graveside service" ></item>
+<item slot="11" original="Leave cemetery" ></item>
+</script><script id="26" source="2"><item slot="1" original="Dress to go to the funeral" ></item>
+<item slot="2" original="Get inside the car" ></item>
+<item slot="3" original="Drive to the funeral" ></item>
+<item slot="4" original="Talk to friends and relatives about the person who passed away" ></item>
+<item slot="5" original="Say prayer with everyone for the person who passed away" ></item>
+</script><script id="27" source="2"><item slot="1" original="Get in car" ></item>
+<item slot="2" original="Drive to funeral" ></item>
+<item slot="3" original="Talk to people and express your condolences" ></item>
+<item slot="4" original="Sit down" ></item>
+<item slot="5" original="Listen to eulogy and sing music" ></item>
+<item slot="6" original="Talk to the family" ></item>
+</script><script id="28" source="2"><item slot="1" original="Go to the closet" ></item>
+<item slot="2" original="Find black clothes" ></item>
+<item slot="3" original="Drive to funeral" ></item>
+<item slot="4" original="Listen to eulogy" ></item>
+<item slot="5" original="Express your condolences to family" ></item>
+<item slot="6" original="Leave flowers" ></item>
+</script><script id="29" source="2"><item slot="1" original="Send a card or flowers" ></item>
+<item slot="2" original="Get dressed in nice clothes" ></item>
+<item slot="3" original="Go to funeral home" ></item>
+<item slot="4" original="Say your condolences to family" ></item>
+<item slot="5" original="View photos and or videos about persons life" ></item>
+<item slot="6" original="Listen to funeral" ></item>
+<item slot="7" original="Leave and go to graveyard" ></item>
+<item slot="8" original="Go to after dinner funeral to celebrate life" ></item>
+<item slot="9" original="Say goodbye" ></item>
+</script><script id="30" source="2"><item slot="1" original="Put on appropriate clothing." ></item>
+<item slot="2" original="Drive to church or funeral home." ></item>
+<item slot="3" original="Speak with quiet voice." ></item>
+<item slot="4" original="Exchange small talk with other people." ></item>
+<item slot="5" original="Sit and listen to stories about deceased person." ></item>
+<item slot="6" original="Have kleenex available if needed." ></item>
+<item slot="7" original="After service drive to cemetery." ></item>
+<item slot="8" original="Attend burial service." ></item>
+</script><script id="31" source="2"><item slot="1" original="dress in somber clothing" ></item>
+<item slot="2" original="go to funeral home or church" ></item>
+<item slot="3" original="offer condolences to the family" ></item>
+<item slot="4" original="find a seat" ></item>
+<item slot="5" original="stay somber during the ceremony" ></item>
+<item slot="6" original="say your goodbyes" ></item>
+<item slot="7" original="be reverent" ></item>
+</script><script id="32" source="2"><item slot="1" original="Put on nice clothes" ></item>
+<item slot="2" original="Go to cemetery" ></item>
+<item slot="3" original="Hug family of deceased" ></item>
+<item slot="4" original="Sit or stand near grave" ></item>
+<item slot="5" original="Listen to sermon" ></item>
+<item slot="6" original="Casket is lowered into ground" ></item>
+<item slot="7" original="Leave cemetary" ></item>
+</script><script id="33" source="2"><item slot="1" original="Read obituaries." ></item>
+<item slot="2" original="Inquire about times and arrangements." ></item>
+<item slot="3" original="Dress respectfully." ></item>
+<item slot="4" original="Go to funeral location." ></item>
+<item slot="5" original="Be respectful, show your respects at service." ></item>
+<item slot="6" original="Express condolences to family." ></item>
+<item slot="7" original="Leave funeral home." ></item>
+</script><script id="34" source="2"><item slot="1" original="dress formally" ></item>
+<item slot="2" original="arrive at the location of the funeral" ></item>
+<item slot="3" original="offer condolences to the family and friends of the deceased" ></item>
+<item slot="4" original="view the deceased in the casket" ></item>
+<item slot="5" original="pay last respects" ></item>
+<item slot="6" original="offer any memories of the deceased" ></item>
+<item slot="7" original="listen attentively to the eulogy and the stories told by others" ></item>
+<item slot="8" original="leave the funeral" ></item>
+</script><script id="35" source="2"><item slot="1" original="wear black suit" ></item>
+<item slot="2" original="arrive funeral" ></item>
+<item slot="3" original="sit down" ></item>
+<item slot="4" original="pay condolences" ></item>
+<item slot="5" original="leave" ></item>
+</script><script id="36" source="2"><item slot="1" original="Get dressed in dark clothing" ></item>
+<item slot="2" original="Travel to church" ></item>
+<item slot="3" original="Enter church" ></item>
+<item slot="4" original="Find a seat" ></item>
+<item slot="5" original="Watch funeral" ></item>
+<item slot="6" original="Walk to reception" ></item>
+<item slot="7" original="Give condolences" ></item>
+<item slot="8" original="Leave church" ></item>
+<item slot="9" original="Travel home" ></item>
+</script><script id="37" source="2"><item slot="1" original="Put on black clothes" ></item>
+<item slot="2" original="Drive to the funeral" ></item>
+<item slot="3" original="Sign in at the entrance of the funeral" ></item>
+<item slot="4" original="Pay your respects to the dead" ></item>
+<item slot="5" original="Talk with everyone there" ></item>
+<item slot="6" original="Go home" ></item>
+</script><script id="38" source="2"><item slot="1" original="Picking an outfit that is all black" ></item>
+<item slot="2" original="Driving to the church" ></item>
+<item slot="3" original="Sitting in a pew and listening to the speakers" ></item>
+<item slot="4" original="Following in the funeral procession to the grave" ></item>
+<item slot="5" original="Watching the coffin be lowered into the grave" ></item>
+</script><script id="39" source="2"><item slot="1" original="Get dressed in suit" ></item>
+<item slot="2" original="Get into car" ></item>
+<item slot="3" original="Drive to church" ></item>
+<item slot="4" original="Park car in parking lot" ></item>
+<item slot="5" original="Enter church" ></item>
+<item slot="6" original="Find seat" ></item>
+<item slot="7" original="Sit for the services" ></item>
+<item slot="8" original="Go back to car" ></item>
+<item slot="9" original="Get in car" ></item>
+<item slot="10" original="Drive home" ></item>
+</script><script id="40" source="2"><item slot="1" original="Get dressed." ></item>
+<item slot="2" original="Go to the car" ></item>
+<item slot="3" original="Drive to church" ></item>
+<item slot="4" original="Talk to people there." ></item>
+<item slot="5" original="Give condolences" ></item>
+<item slot="6" original="Sit down" ></item>
+<item slot="7" original="Listen to priest." ></item>
+<item slot="8" original="Eat" ></item>
+<item slot="9" original="Leave." ></item>
+</script><script id="41" source="2"><item slot="1" original="Find black clothes." ></item>
+<item slot="2" original="Dress." ></item>
+<item slot="3" original="Get in the car." ></item>
+<item slot="4" original="Drive to the funeral location." ></item>
+<item slot="5" original="Find a seat." ></item>
+<item slot="6" original="Watch the service." ></item>
+<item slot="7" original="Offer condolences." ></item>
+<item slot="8" original="Get in car." ></item>
+<item slot="9" original="Drive home." ></item>
+</script><script id="42" source="2"><item slot="1" original="dress appropriately" ></item>
+<item slot="2" original="get in the car" ></item>
+<item slot="3" original="drive to the funeral" ></item>
+<item slot="4" original="give condolences" ></item>
+<item slot="5" original="sit quietly" ></item>
+<item slot="6" original="be respectful" ></item>
+<item slot="7" original="mourn" ></item>
+<item slot="8" original="comfort" ></item>
+</script><script id="43" source="2"><item slot="1" original="Put on black clothes" ></item>
+<item slot="2" original="Drive to church" ></item>
+<item slot="3" original="Enter church" ></item>
+<item slot="4" original="Sit" ></item>
+<item slot="5" original="Listen to pastor speak" ></item>
+<item slot="6" original="Give respects to those close to dead person" ></item>
+<item slot="7" original="Leave church" ></item>
+<item slot="8" original="Drive home" ></item>
+</script><script id="44" source="2"><item slot="1" original="Put on some black clothing" ></item>
+<item slot="2" original="Drive to funeral home" ></item>
+<item slot="3" original="Give your praises" ></item>
+<item slot="4" original="Take a seat at funeral home" ></item>
+<item slot="5" original="Drive to cemetery" ></item>
+<item slot="6" original="Wait until ceremony is over" ></item>
+</script><script id="45" source="2"><item slot="1" original="pick out black suit" ></item>
+<item slot="2" original="put on suit" ></item>
+<item slot="3" original="get in car" ></item>
+<item slot="4" original="drive to funeral home" ></item>
+<item slot="5" original="go in funeral home" ></item>
+<item slot="6" original="pay respects to family" ></item>
+<item slot="7" original="sit down for service" ></item>
+<item slot="8" original="leave service" ></item>
+<item slot="9" original="go to cemetery" ></item>
+<item slot="10" original="watch burial" ></item>
+<item slot="11" original="leave cemetery" ></item>
+<item slot="12" original="drive home" ></item>
+</script><script id="46" source="2"><item slot="1" original="arrive at funeral home" ></item>
+<item slot="2" original="greet friends and relatives of deceased" ></item>
+<item slot="3" original="say goodbyes to deceased" ></item>
+<item slot="4" original="talk with others about fond memories of deceased" ></item>
+<item slot="5" original="say good-byes to other attendees" ></item>
+<item slot="6" original="exit funeral home" ></item>
+</script><script id="47" source="2"><item slot="1" original="Enter church" ></item>
+<item slot="2" original="Sit on pew" ></item>
+<item slot="3" original="Listen to eulogy and rest of service" ></item>
+<item slot="4" original="Follow coffin bearers out of church" ></item>
+<item slot="5" original="Go to cemetery" ></item>
+<item slot="6" original="Stand around graveside as words are said" ></item>
+<item slot="7" original="Throw dirt on coffin" ></item>
+<item slot="8" original="Leave cemetery" ></item>
+</script><script id="48" source="2"><item slot="1" original="put on black suit" ></item>
+<item slot="2" original="drive to service" ></item>
+<item slot="3" original="sit" ></item>
+<item slot="4" original="watch service" ></item>
+<item slot="5" original="drive to cemetery" ></item>
+<item slot="6" original="watch burial ceremony" ></item>
+<item slot="7" original="put flower on grave" ></item>
+<item slot="8" original="hug widow" ></item>
+<item slot="9" original="go home" ></item>
+</script><script id="49" source="2"><item slot="1" original="Find appropriate clothes to wear." ></item>
+<item slot="2" original="Arrive at funeral home." ></item>
+<item slot="3" original="Give condolences to family." ></item>
+<item slot="4" original="Attend service." ></item>
+<item slot="5" original="Wipe tears from eyes." ></item>
+<item slot="6" original="Give hugs and condolences again to family." ></item>
+<item slot="7" original="Attend get together and eat food." ></item>
+</script><script id="50" source="2"><item slot="1" original="Find and wear appropriate clothing" ></item>
+<item slot="2" original="Drive to funeral home" ></item>
+<item slot="3" original="Talk to relatives and friends" ></item>
+<item slot="4" original="Go to funeral service" ></item>
+<item slot="5" original="mourn" ></item>
+</script><script id="51" source="2"><item slot="1" original="Get dressed in black." ></item>
+<item slot="2" original="Drive to funeral home." ></item>
+<item slot="3" original="Greet crying friends and family." ></item>
+<item slot="4" original="Listen to stories of the lost person." ></item>
+<item slot="5" original="Drive to cemetery." ></item>
+<item slot="6" original="Say goodbyes." ></item>
+</script><script id="52" source="2"><item slot="1" original="Dress in formal clothing" ></item>
+<item slot="2" original="Drive to funeral location" ></item>
+<item slot="3" original="Walk inside" ></item>
+<item slot="4" original="Quietly greet other guests" ></item>
+<item slot="5" original="Sit down" ></item>
+<item slot="6" original="Listen to funeral service" ></item>
+<item slot="7" original="Drive to grave site" ></item>
+<item slot="8" original="Pay respects to the deceased" ></item>
+<item slot="9" original="Leave the cemetery" ></item>
+</script><script id="53" source="2"><item slot="1" original="get black dress clothing" ></item>
+<item slot="2" original="find time and place of funeral" ></item>
+<item slot="3" original="show up on time or a bit early" ></item>
+<item slot="4" original="sit quietly" ></item>
+<item slot="5" original="leave when it ends" ></item>
+</script><script id="54" source="2"><item slot="1" original="Wear appropriate attire" ></item>
+<item slot="2" original="Arrive at church or synagogue" ></item>
+<item slot="3" original="Sign guest book" ></item>
+<item slot="4" original="Offer condolences to the family" ></item>
+<item slot="5" original="Find a seat" ></item>
+<item slot="6" original="Pay respects to deceased" ></item>
+</script><script id="55" source="2"><item slot="1" original="Put on black dress" ></item>
+<item slot="2" original="Go to funeral home" ></item>
+<item slot="3" original="Greet people there" ></item>
+<item slot="4" original="Cry" ></item>
+<item slot="5" original="Hug other people" ></item>
+<item slot="6" original="Leave funeral home" ></item>
+</script><script id="56" source="2"><item slot="1" original="buy funeral clothes" ></item>
+<item slot="2" original="drive to funeral" ></item>
+<item slot="3" original="open door" ></item>
+<item slot="4" original="go in" ></item>
+<item slot="5" original="pay respects to deceased" ></item>
+<item slot="6" original="open door" ></item>
+<item slot="7" original="leave funeral" ></item>
+</script><script id="57" source="2"><item slot="1" original="Dress in all black" ></item>
+<item slot="2" original="Leave my house" ></item>
+<item slot="3" original="Get in my car" ></item>
+<item slot="4" original="Go to the funeral parlor" ></item>
+<item slot="5" original="Follow the procession to the cemetery" ></item>
+</script><script id="58" source="2"><item slot="1" original="Call family and friends" ></item>
+<item slot="2" original="Get in car" ></item>
+<item slot="3" original="Drive to funeral home" ></item>
+<item slot="4" original="Park car" ></item>
+<item slot="5" original="Find seat inside" ></item>
+<item slot="6" original="View funeral" ></item>
+<item slot="7" original="Give a eulogy" ></item>
+<item slot="8" original="Visit with family and friends" ></item>
+<item slot="9" original="Leave the funeral" ></item>
+</script><script id="59" source="2"><item slot="1" original="GET READY ON THE DAY" ></item>
+<item slot="2" original="GET IN THE CAR AND GO TO THE FUNERAL VENUE" ></item>
+<item slot="3" original="SIT ON A SEAT FOR THE DURATION OF THE FUNERAL" ></item>
+<item slot="4" original="PAY YOUR RESPECTS" ></item>
+<item slot="5" original="ONCE THE FUNERAL IS OVER, LEAVE" ></item>
+</script><script id="60" source="2"><item slot="1" original="Get dressed in suitable clothes" ></item>
+<item slot="2" original="Enter your car" ></item>
+<item slot="3" original="Get to the funeral" ></item>
+<item slot="4" original="Participate in the ceremony" ></item>
+<item slot="5" original="Leave the funeral" ></item>
+</script><script id="61" source="2"><item slot="1" original="Pick out a suit or dress that is funeral appropriate" ></item>
+<item slot="2" original="drive or walk to funeral service" ></item>
+<item slot="3" original="socialize and console family members and friends" ></item>
+<item slot="4" original="pay respects to the deceased" ></item>
+<item slot="5" original="sit and listen to the priest or pastor talk" ></item>
+<item slot="6" original="get up when instructed and pay respects" ></item>
+</script><script id="62" source="2"><item slot="1" original="find date/time/location of funeral" ></item>
+<item slot="2" original="put on funeral appropriate attire" ></item>
+<item slot="3" original="get in car and drive to funeral" ></item>
+<item slot="4" original="arrive to funeral parlor" ></item>
+<item slot="5" original="find a seat" ></item>
+<item slot="6" original="sit down" ></item>
+<item slot="7" original="listen to service" ></item>
+<item slot="8" original="give condolences to family" ></item>
+<item slot="9" original="view body (if applicable)" ></item>
+<item slot="10" original="leave funeral parlor" ></item>
+<item slot="11" original="drive home" ></item>
+</script><script id="63" source="2"><item slot="1" original="Dress appropriately and respectfully for funeral" ></item>
+<item slot="2" original="Arrive at funeral location" ></item>
+<item slot="3" original="Enter funeral location" ></item>
+<item slot="4" original="Find a place to sit" ></item>
+<item slot="5" original="Listen to eulogy" ></item>
+<item slot="6" original="Wait in the receiving line" ></item>
+<item slot="7" original="View body" ></item>
+<item slot="8" original="Express condolences to family and friends of the deceased" ></item>
+<item slot="9" original="Walk out of location" ></item>
+</script><script id="64" source="2"><item slot="1" original="Wear something dark and respectful." ></item>
+<item slot="2" original="Go to the location of the funeral." ></item>
+<item slot="3" original="Empathize with the loved ones of the departed." ></item>
+<item slot="4" original="Pray and partake in the religious rituals performed." ></item>
+<item slot="5" original="Act respectful." ></item>
+<item slot="6" original="Speak kindly of the deceased." ></item>
+</script><script id="65" source="2"><item slot="1" original="Receive invitation" ></item>
+<item slot="2" original="Dress appropriately" ></item>
+<item slot="3" original="Drive to funeral home" ></item>
+<item slot="4" original="Wait through service" ></item>
+<item slot="5" original="Comfort mourners" ></item>
+<item slot="6" original="Pay last respects" ></item>
+<item slot="7" original="Accompany coffin to graveyard" ></item>
+<item slot="8" original="Wait through second service" ></item>
+<item slot="9" original="Return home" ></item>
+</script><script id="66" source="2"><item slot="1" original="Take out somber clothing" ></item>
+<item slot="2" original="Put on somber clothing" ></item>
+<item slot="3" original="Get into car to go to funeral" ></item>
+<item slot="4" original="stand outside and watch ceremony" ></item>
+<item slot="5" original="give hugs to everybody affected by the death" ></item>
+<item slot="6" original="Get back into car and go home." ></item>
+</script><script id="67" source="2"><item slot="1" original="Put on nice, dark clothing" ></item>
+<item slot="2" original="Drive to funeral home" ></item>
+<item slot="3" original="Find an appropriate seat based on how well you knew the person" ></item>
+<item slot="4" original="Pay attention to funeral service" ></item>
+<item slot="5" original="Offer condolences to family" ></item>
+</script><script id="68" source="2"><item slot="1" original="Choose out a black outfit." ></item>
+<item slot="2" original="Double check the time." ></item>
+<item slot="3" original="Drive to the funeral." ></item>
+<item slot="4" original="Attend the funeral." ></item>
+<item slot="5" original="Console the grievers." ></item>
+</script><script id="69" source="2"><item slot="1" original="dress in something nice with no bright colors" ></item>
+<item slot="2" original="go to funeral" ></item>
+<item slot="3" original="tell family you are sorry for loss" ></item>
+<item slot="4" original="sit down" ></item>
+<item slot="5" original="listen to quiet music while waiting to start" ></item>
+<item slot="6" original="quietly listen to minister" ></item>
+<item slot="7" original="grab a tissue" ></item>
+<item slot="8" original="dab eyes" ></item>
+<item slot="9" original="wait for minster to say dismissed" ></item>
+<item slot="10" original="go out to car" ></item>
+<item slot="11" original="get in car" ></item>
+<item slot="12" original="follow hurst to grave site" ></item>
+<item slot="13" original="get out of car" ></item>
+<item slot="14" original="go to grave site" ></item>
+<item slot="15" original="listen to message" ></item>
+<item slot="16" original="wait for family to go" ></item>
+</script><script id="70" source="2"><item slot="1" original="Put on some black clothes." ></item>
+<item slot="2" original="Get in car." ></item>
+<item slot="3" original="Drive to flower shop." ></item>
+<item slot="4" original="Buy flowers." ></item>
+<item slot="5" original="Drive to cemetery." ></item>
+<item slot="6" original="Walk to service on lawn." ></item>
+<item slot="7" original="Put flowers on grave." ></item>
+<item slot="8" original="Sit down." ></item>
+<item slot="9" original="Listen to pastor." ></item>
+<item slot="10" original="Stand up and give people hugs." ></item>
+<item slot="11" original=" Leave cemetery." ></item>
+</script><script id="71" source="2"><item slot="1" original="Express condolences to the family of the deceased person." ></item>
+<item slot="2" original="Find out when and where the funeral is." ></item>
+<item slot="3" original="Select an appropriate outfit to wear to the funeral." ></item>
+<item slot="4" original="Consider sending a gift and/or card to the family of the deceased person." ></item>
+<item slot="5" original="Attend the funeral at the appointed place and time." ></item>
+</script><script id="72" source="2"><item slot="1" original="stop and buy flowers" ></item>
+<item slot="2" original="drive to funeral home" ></item>
+<item slot="3" original="walk up to deceased person" ></item>
+<item slot="4" original="put flower on coffin" ></item>
+<item slot="5" original="say prayers" ></item>
+<item slot="6" original="say goodbye" ></item>
+<item slot="7" original="leave funeral home" ></item>
+</script><script id="73" source="2"><item slot="1" original="Wear the traditional dress" ></item>
+<item slot="2" original="Get a wreath" ></item>
+<item slot="3" original="Go to the dead person's house" ></item>
+<item slot="4" original="Go to the place where the body is displayed" ></item>
+<item slot="5" original="Keep the wreath on the coffin" ></item>
+<item slot="6" original="Pray for the soul" ></item>
+<item slot="7" original="Board the funeral party bus" ></item>
+<item slot="8" original="Go to cemetery" ></item>
+<item slot="9" original="Stand with the funeral party" ></item>
+<item slot="10" original="Pray for the soul of the person till the function is over" ></item>
+<item slot="11" original="Board the bus" ></item>
+<item slot="12" original="Come back" ></item>
+</script><script id="74" source="2"><item slot="1" original="Put on proper attire - usually dark clothes" ></item>
+<item slot="2" original="Grab an umbrella in case of rain" ></item>
+<item slot="3" original="Wait for the car to arrive" ></item>
+<item slot="4" original="Drive to the graveyard" ></item>
+<item slot="5" original="Exit car" ></item>
+<item slot="6" original="Walk to appropriate area" ></item>
+<item slot="7" original="Take a seat" ></item>
+</script><script id="75" source="2"><item slot="1" original="dress in black" ></item>
+<item slot="2" original="get into the car" ></item>
+<item slot="3" original="drive to the funeral location" ></item>
+<item slot="4" original="give your condolences to the close kin" ></item>
+<item slot="5" original="offer your prayers to the deceased" ></item>
+</script><script id="76" source="2"><item slot="1" original="Dress in black" ></item>
+<item slot="2" original="Go to funeral home" ></item>
+<item slot="3" original="Enter" ></item>
+<item slot="4" original="Sign the book" ></item>
+<item slot="5" original="Find a seat" ></item>
+<item slot="6" original="Watch the services" ></item>
+<item slot="7" original="Speak to the family" ></item>
+<item slot="8" original="Leave the funeral home" ></item>
+</script><script id="78" source="2"><item slot="1" original="Order flowers" ></item>
+<item slot="2" original="Put on a black suit" ></item>
+<item slot="3" original="Go to the church" ></item>
+<item slot="4" original="Greet other mourners" ></item>
+<item slot="5" original="Visit the casket" ></item>
+<item slot="6" original="Sit down" ></item>
+<item slot="7" original="Listen to the service" ></item>
+<item slot="8" original="Leave the church" ></item>
+<item slot="9" original="Follow the hearse to the gravesite" ></item>
+<item slot="10" original="Say final farewells" ></item>
+<item slot="11" original="Watch the casket go into the ground" ></item>
+</script><script id="79" source="2"><item slot="1" original="Put on dark clothing" ></item>
+<item slot="2" original="Get in car" ></item>
+<item slot="3" original="Drive to funeral" ></item>
+<item slot="4" original="Sit down" ></item>
+<item slot="5" original="Listen to eulogies" ></item>
+<item slot="6" original="Sing songs" ></item>
+<item slot="7" original="Pay respects" ></item>
+<item slot="8" original="Socialize with people" ></item>
+<item slot="9" original="Drive home from funeral" ></item>
+</script><script id="80" source="2"><item slot="1" original="Dress in appropriate clothing" ></item>
+<item slot="2" original="Drive to funeral location" ></item>
+<item slot="3" original="Enter and be seated" ></item>
+<item slot="4" original="Listen to the speakers and the music" ></item>
+<item slot="5" original="If invited, view the body" ></item>
+<item slot="6" original="Wait for the family to view the body" ></item>
+<item slot="7" original="Follow the procession to the cemetery" ></item>
+<item slot="8" original="Attend the graveside service" ></item>
+<item slot="9" original="Express condolences to the family" ></item>
+<item slot="10" original="Drive away" ></item>
+</script><script id="81" source="2"><item slot="1" original="Put on black clothes" ></item>
+<item slot="2" original="Go to church" ></item>
+<item slot="3" original="Enter church" ></item>
+<item slot="4" original="Greet mourners" ></item>
+<item slot="5" original="Take a seat" ></item>
+<item slot="6" original="Listen to eulogy" ></item>
+<item slot="7" original="Pastor blesses the body" ></item>
+<item slot="8" original="Leave the church" ></item>
+</script><script id="82" source="2"><item slot="1" original="Find out time and place of funeral" ></item>
+<item slot="2" original="Dress in funereal clothing" ></item>
+<item slot="3" original="Drive to funeral" ></item>
+<item slot="4" original="Greet other relatives or friends" ></item>
+<item slot="5" original="Sit through sermon" ></item>
+<item slot="6" original="Sit through actual funeral service" ></item>
+<item slot="7" original="Say goodbye" ></item>
+<item slot="8" original="Chat for some time with friends or relatives" ></item>
+<item slot="9" original="Drive to graveside service for interment" ></item>
+<item slot="10" original="Say goodbye to all" ></item>
+<item slot="11" original="Drive home" ></item>
+<item slot="12" original="Take off funereal clothes and put on regular ones" ></item>
+</script><script id="83" source="2"><item slot="1" original="Get dressed in dark cloths" ></item>
+<item slot="2" original="Get in a car" ></item>
+<item slot="3" original="Drive to the funeral home" ></item>
+<item slot="4" original="Go see the body" ></item>
+<item slot="5" original="Listen to priest" ></item>
+</script><script id="84" source="2"><item slot="1" original="Put on the correct clothes for a funeral." ></item>
+<item slot="2" original="Get in the car and drive to the area." ></item>
+<item slot="3" original="Get out of the car and enter the funeral." ></item>
+<item slot="4" original="Stay for the time allotted for the funeral." ></item>
+<item slot="5" original="Give the family condolences." ></item>
+<item slot="6" original="Leave the funeral." ></item>
+<item slot="7" original="Get in the car and drive away." ></item>
+</script><script id="85" source="2"><item slot="1" original="Put on nice clothes" ></item>
+<item slot="2" original="Drive to the church" ></item>
+<item slot="3" original="Attend the funeral service" ></item>
+<item slot="4" original="Get in your car and wait for the funeral procession to go to the cemetery" ></item>
+<item slot="5" original="Drive in a line behind the hearse" ></item>
+<item slot="6" original="Arrive at the cemetery" ></item>
+<item slot="7" original="Attend the grave side service" ></item>
+<item slot="8" original="Watch the casket being lowered into the ground" ></item>
+<item slot="9" original="Go home" ></item>
+</script><script id="86" source="2"><item slot="1" original="Get dressed into respectable clothes for the funeral" ></item>
+<item slot="2" original="Travel to the funeral" ></item>
+<item slot="3" original="Talk quietly to the other people about the dead person and how wonderful they were" ></item>
+<item slot="4" original="Sit through a church service" ></item>
+<item slot="5" original="After the funeral gather with the others to have refreshments" ></item>
+<item slot="6" original="Talk more with people about the life of the dead person" ></item>
+<item slot="7" original="Leave the funeral" ></item>
+</script><script id="87" source="2"><item slot="1" original="Dress up in black" ></item>
+<item slot="2" original="Put on a sad face" ></item>
+<item slot="3" original="Go to the place where the service is being held" ></item>
+<item slot="4" original="Reflect on the person's life" ></item>
+<item slot="5" original="Reflect on your own mortality" ></item>
+<item slot="6" original="Leave the funeral" ></item>
+</script><script id="88" source="2"><item slot="1" original="Drive to funeral" ></item>
+<item slot="2" original="Get out" ></item>
+<item slot="3" original="Go to grave" ></item>
+<item slot="4" original="Listen to sermon" ></item>
+<item slot="5" original="Watch body be put in ground" ></item>
+<item slot="6" original="Cry" ></item>
+<item slot="7" original="Go home" ></item>
+</script><script id="89" source="2"><item slot="1" original="Dress in respectful clothing." ></item>
+<item slot="2" original="Go to funeral parlor." ></item>
+<item slot="3" original="Find seat." ></item>
+<item slot="4" original="Listen to funeral service." ></item>
+<item slot="5" original="View deceased person if open casket funeral." ></item>
+<item slot="6" original="Comfort other mourners." ></item>
+<item slot="7" original="Go to graveyard." ></item>
+<item slot="8" original="View interment of casket in ground." ></item>
+<item slot="9" original="Go to meal with other mourners." ></item>
+</script><script id="90" source="2"><item slot="1" original="Check the newspaper obituaries for funeral time" ></item>
+<item slot="2" original="Order flowers" ></item>
+<item slot="3" original="Dress nicely in dark colors" ></item>
+<item slot="4" original="Go to funeral home" ></item>
+<item slot="5" original="Greet the family of the deceased and give them condolences" ></item>
+<item slot="6" original="Sit down until services start" ></item>
+<item slot="7" original="Go home after service" ></item>
+</script><script id="91" source="2"><item slot="1" original="Dress appropriately for funeral" ></item>
+<item slot="2" original="Get into car" ></item>
+<item slot="3" original="Drive to funeral home location" ></item>
+<item slot="4" original="Enter funeral home" ></item>
+<item slot="5" original="Sign guest book" ></item>
+<item slot="6" original="Take a seat in the pulpit" ></item>
+<item slot="7" original="Listen to all speakers, singers, etc." ></item>
+<item slot="8" original="Get back into car" ></item>
+<item slot="9" original="Drive to cemetery" ></item>
+<item slot="10" original="Get out of car" ></item>
+<item slot="11" original="Take a seat if available" ></item>
+<item slot="12" original="Listen to any speakers, singers, etc" ></item>
+<item slot="13" original="Give condolences to family" ></item>
+<item slot="14" original="Get back into car" ></item>
+<item slot="15" original="Drive home" ></item>
+</script><script id="92" source="2"><item slot="1" original="Get ready" ></item>
+<item slot="2" original="Dress in black" ></item>
+<item slot="3" original="Go to church/funeral home" ></item>
+<item slot="4" original="Give condolences to the deceased family members" ></item>
+<item slot="5" original="If open casket, go view the deceased and pay your final respects" ></item>
+<item slot="6" original="Visit with others" ></item>
+<item slot="7" original="Find a place to sit" ></item>
+<item slot="8" original="Listen to funeral service" ></item>
+<item slot="9" original="Leave church/funeral home" ></item>
+<item slot="10" original="Follow hearse to cemetery" ></item>
+<item slot="11" original="Gather around casket" ></item>
+<item slot="12" original="Listen to brief prayer" ></item>
+<item slot="13" original="Watch casket get lowered into the ground" ></item>
+<item slot="14" original="Go back to your vehicle" ></item>
+<item slot="15" original="Leave cemetery" ></item>
+</script><script id="93" source="2"><item slot="1" original="Receive notice of the person's death." ></item>
+<item slot="2" original="Look for funeral information in newspaper or online." ></item>
+<item slot="3" original="On day of funeral, dress in appropriate clothing (e.g. dark suit, dark dress.)" ></item>
+<item slot="4" original="Go to funeral home, place of worship, or cemetery, as directed." ></item>
+<item slot="5" original="If a funeral home, look for sign or ask for location of funeral." ></item>
+<item slot="6" original="If there is a receiving line, wait and console the bereaved family/friends." ></item>
+<item slot="7" original="If there is a ceremony, take a seat." ></item>
+<item slot="8" original="Participate in ceremony." ></item>
+<item slot="9" original="Optional: when funeral ends, join procession to cemetery." ></item>
+<item slot="10" original="Depart." ></item>
+</script><script id="94" source="2"><item slot="1" original="Drive to location of funeral" ></item>
+<item slot="2" original="Give sympathies to relatives" ></item>
+<item slot="3" original="Listen to sermon" ></item>
+<item slot="4" original="Participate in a prayer" ></item>
+<item slot="5" original="Drive to cemetery" ></item>
+<item slot="6" original="Listen to another sermon" ></item>
+<item slot="7" original="Observe the deceased being lowered into their grave" ></item>
+</script><script id="95" source="2"><item slot="1" original="find out someone has died" ></item>
+<item slot="2" original="find out date of funeral" ></item>
+<item slot="3" original="make sure suit is clean" ></item>
+<item slot="4" original="get dressed" ></item>
+<item slot="5" original="drive to funeral home" ></item>
+<item slot="6" original="enter funeral home" ></item>
+<item slot="7" original="pay respects to the family" ></item>
+<item slot="8" original="find a seat" ></item>
+<item slot="9" original="take part in the service" ></item>
+</script><script id="96" source="2"><item slot="1" original="Research where and when the funeral will be." ></item>
+<item slot="2" original="Dress in black or dark clothing." ></item>
+<item slot="3" original="Purchase flowers." ></item>
+<item slot="4" original="Bring the flowers to the funeral." ></item>
+<item slot="5" original="Pay your respects to the dead in accordance with the family's customs." ></item>
+<item slot="6" original="Leave the flowers in the designated area." ></item>
+<item slot="7" original="Leave the funeral site." ></item>
+</script><script id="97" source="2"><item slot="1" original="Dress in black" ></item>
+<item slot="2" original="Drive to funeral venue" ></item>
+<item slot="3" original="Listen to eulogy" ></item>
+<item slot="4" original="Bow head during prayer" ></item>
+<item slot="5" original="Watch casket be lowered" ></item>
+<item slot="6" original="Give condolences to family" ></item>
+<item slot="7" original="Leave funeral" ></item>
+</script><script id="98" source="2"><item slot="1" original="Put on appropriate funeral attire" ></item>
+<item slot="2" original="Drive to where funeral is taking place" ></item>
+<item slot="3" original="Go inside and sit" ></item>
+<item slot="4" original="Listen to service" ></item>
+<item slot="5" original="Pay respects to family" ></item>
+<item slot="6" original="Mingle among other guests" ></item>
+<item slot="7" original="Say last goodbye to deceased" ></item>
+<item slot="8" original="Say goodbye to family of deceased" ></item>
+<item slot="9" original="Drive home" ></item>
+</script><script id="99" source="2"><item slot="1" original="Get a suit" ></item>
+<item slot="2" original="Drive to the funeral" ></item>
+<item slot="3" original="Look sad" ></item>
+<item slot="4" original="Be quiet" ></item>
+<item slot="5" original="Pay your respects" ></item>
+</script><script id="101" source="2"><item slot="1" original="Make sure to dress and prepare before hand." ></item>
+<item slot="2" original="Visit the funeral location somehow, either by car, bus, foot, etc." ></item>
+<item slot="3" original="Pay condolences and behave, being fairly quiet and not too noisy." ></item>
+<item slot="4" original="Wait until the ceremony is over, and give a proper goodbye for now." ></item>
+<item slot="5" original="Leave the funeral and after a burial, if so, and continue on,  life goes on." ></item>
+</script></scripts>

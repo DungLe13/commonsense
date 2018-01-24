@@ -1,0 +1,781 @@
+<scripts><script id="1" source="2"><item slot="1" original="Fill coffee pot with water" ></item>
+<item slot="2" original="Dump water into coffee machine" ></item>
+<item slot="3" original="Put coffee grounds in filter" ></item>
+<item slot="4" original="Place pot in coffee machine" ></item>
+<item slot="5" original="Turn on coffee machine to brew" ></item>
+</script><script id="2" source="2"><item slot="1" original="Decide how many cups of coffee you want to make" ></item>
+<item slot="2" original="Gather coffee and coffee filter" ></item>
+<item slot="3" original="Fill coffee urn with desired amount of water" ></item>
+<item slot="4" original="Put water in coffee maker" ></item>
+<item slot="5" original="Put filter in coffee maker" ></item>
+<item slot="6" original="Measure teaspoons of coffee to match amount of water" ></item>
+<item slot="7" original="Put coffee in coffee filter" ></item>
+<item slot="8" original="Turn on coffee maker" ></item>
+<item slot="9" original="Pour brewed coffee into coffee mug" ></item>
+<item slot="10" original="Drink coffee" ></item>
+</script><script id="3" source="2"><item slot="1" original="Fill the coffee maker with water." ></item>
+<item slot="2" original="Put filter in basket." ></item>
+<item slot="3" original="Fill basket with ground coffee." ></item>
+<item slot="4" original="Plug in coffee maker." ></item>
+<item slot="5" original="Wait for coffee maker to finish brewing." ></item>
+<item slot="6" original="Pour a cup of coffee." ></item>
+</script><script id="4" source="2"><item slot="1" original="Fill carafe with water" ></item>
+<item slot="2" original="Pour in top of coffee maker" ></item>
+<item slot="3" original="Put carafe on burner" ></item>
+<item slot="4" original="Throw away old filter" ></item>
+<item slot="5" original="Put new filter in" ></item>
+<item slot="6" original="Measure out coffee into new filter" ></item>
+<item slot="7" original="Close coffee maker" ></item>
+<item slot="8" original="Turn on coffee maker" ></item>
+</script><script id="5" source="2"><item slot="1" original="Locate coffee maker." ></item>
+<item slot="2" original="Remove the filter holder cup." ></item>
+<item slot="3" original="Dispose of old filter if necessary" ></item>
+<item slot="4" original="Replace filter holder cup" ></item>
+<item slot="5" original="Place new filter in filter cup" ></item>
+<item slot="6" original="Obtain coffee" ></item>
+<item slot="7" original="Measure appropriate amount of coffee out and place into filter" ></item>
+<item slot="8" original="Locate water source and container to hold water" ></item>
+<item slot="9" original="Fill container with water." ></item>
+<item slot="10" original="Locate and fill water reservoir on coffee maker" ></item>
+<item slot="11" original="Take care to not overfill water reservoir." ></item>
+<item slot="12" original="Turn coffee maker on" ></item>
+<item slot="13" original="Return water container to proper location" ></item>
+</script><script id="6" source="2"><item slot="1" original="fill coffee pot with water" ></item>
+<item slot="2" original="put filter in coffee pot" ></item>
+<item slot="3" original="add coffee to filter" ></item>
+<item slot="4" original="plug in coffee pot" ></item>
+<item slot="5" original="turn on coffee pot" ></item>
+<item slot="6" original="adjust settings" ></item>
+</script><script id="7" source="2"><item slot="1" original="get coffee bean" ></item>
+<item slot="2" original="fill coffee grinder" ></item>
+<item slot="3" original="Grind them finely" ></item>
+<item slot="4" original="get coffee maker" ></item>
+<item slot="5" original="fill water reservoir" ></item>
+<item slot="6" original="place filter in coffee maker" ></item>
+<item slot="7" original="fill filter with 1 tablespoon of ground coffee per cup of water" ></item>
+<item slot="8" original="turn on coffee maker" ></item>
+<item slot="9" original="grab coffee mug" ></item>
+<item slot="10" original="remove coffee pot and fill coffee mug" ></item>
+</script><script id="8" source="2"><item slot="1" original="Get the coffee from the cabinet" ></item>
+<item slot="2" original="Boil the water" ></item>
+<item slot="3" original="Pour the boiling water into a cup" ></item>
+<item slot="4" original="Spoon some coffee into the cup" ></item>
+<item slot="5" original="Pour sugar into the coffee" ></item>
+<item slot="6" original="Pour cream into the coffee" ></item>
+<item slot="7" original="Drink the coffee" ></item>
+</script><script id="9" source="2"><item slot="1" original="Buy coffee grounds" ></item>
+<item slot="2" original="Buy coffee maker" ></item>
+<item slot="3" original="Buy coffee filters" ></item>
+<item slot="4" original="Put filter in maker" ></item>
+<item slot="5" original="Put grounds in filter" ></item>
+<item slot="6" original="Add water to maker" ></item>
+<item slot="7" original="Put cup under maker" ></item>
+<item slot="8" original="Turn maker on" ></item>
+<item slot="9" original="Wait for coffee to be made" ></item>
+<item slot="10" original="Turn off coffee maker" ></item>
+</script><script id="10" source="2"><item slot="1" original="Get coffee" ></item>
+<item slot="2" original="Get coffee filter" ></item>
+<item slot="3" original="Put filter with coffee into the machine" ></item>
+<item slot="4" original="Add water to the machine" ></item>
+<item slot="5" original="Turn on the coffee machine with pot in holster" ></item>
+<item slot="6" original="When finished, enjoy" ></item>
+</script><script id="11" source="2"><item slot="1" original="Fill coffee pot with water" ></item>
+<item slot="2" original="Put water in reservoir" ></item>
+<item slot="3" original="Place filter in basket" ></item>
+<item slot="4" original="Open coffee can" ></item>
+<item slot="5" original="Scoop grounds into basket" ></item>
+<item slot="6" original="Close coffee can lid" ></item>
+<item slot="7" original="Close coffee reservoir lid" ></item>
+<item slot="8" original="Turn on" ></item>
+<item slot="9" original="Wait for coffee to brew" ></item>
+<item slot="10" original="Pour into cup" ></item>
+</script><script id="12" source="2"><item slot="1" original="Pour the water into a pan." ></item>
+<item slot="2" original="Heat the stove." ></item>
+<item slot="3" original="Open coffee can." ></item>
+<item slot="4" original="Pour a spoonful of coffee power into cup." ></item>
+<item slot="5" original="Rip a pack of sugar." ></item>
+<item slot="6" original="Pour the sugar into cup." ></item>
+<item slot="7" original="Pour hot water into cup." ></item>
+<item slot="8" original="Stir the cup with spoon." ></item>
+</script><script id="13" source="2"><item slot="1" original="Go to kitchen" ></item>
+<item slot="2" original="Switch on the coffee maker" ></item>
+<item slot="3" original="Put Milk, sugar, and coffee in respective compartments" ></item>
+<item slot="4" original="Press the desired settings buttons" ></item>
+<item slot="5" original="Let the coffee brew" ></item>
+<item slot="6" original="Take coffee cups" ></item>
+<item slot="7" original="Put the prepared coffee in the cups" ></item>
+<item slot="8" original="Enjoy the sips" ></item>
+</script><script id="14" source="2"><item slot="1" original="Get coffee." ></item>
+<item slot="2" original="Put coffee in coffee filter." ></item>
+<item slot="3" original="Put water in coffee maker." ></item>
+<item slot="4" original="Put container for coffee in coffee maker under spout." ></item>
+<item slot="5" original="Turn on coffee maker." ></item>
+<item slot="6" original="Pour coffee into mug." ></item>
+<item slot="7" original="Add milk and sugar." ></item>
+</script><script id="15" source="2"><item slot="1" original="Put water in machine" ></item>
+<item slot="2" original="Put coffee grinds in machine" ></item>
+<item slot="3" original="Turn on machine" ></item>
+<item slot="4" original="Wait for coffee to be done" ></item>
+<item slot="5" original="Drink the coffee" ></item>
+</script><script id="16" source="2"><item slot="1" original="Get a mug, grounds, and filter" ></item>
+<item slot="2" original="Place coffee pot in brewer" ></item>
+<item slot="3" original="Fill Coffee pot with water" ></item>
+<item slot="4" original="Place filter in coffee pot." ></item>
+<item slot="5" original="Place a scoop of grounds into the filter" ></item>
+<item slot="6" original="Press the button to start the brewing cycle." ></item>
+<item slot="7" original="once cycle is complete, pour your coffee" ></item>
+<item slot="8" original="sugar and cream to taste" ></item>
+</script><script id="17" source="2"><item slot="1" original="Get some coffee" ></item>
+<item slot="2" original="Get a filter." ></item>
+<item slot="3" original="Place the filter in the coffee maker." ></item>
+<item slot="4" original="Place the coffee into the filter." ></item>
+<item slot="5" original="Pour water into the reservoir." ></item>
+<item slot="6" original="Turn the coffee machine on." ></item>
+<item slot="7" original="Wait until it is finished brewing." ></item>
+<item slot="8" original="Pour the coffee into a cup." ></item>
+<item slot="9" original="Sweeten to taste." ></item>
+<item slot="10" original="Drink the coffee." ></item>
+</script><script id="18" source="2"><item slot="1" original="Pour cup of water in a Bowl" ></item>
+<item slot="2" original="Put into the Gas stove and make that hot" ></item>
+<item slot="3" original="Put one or tow teaspoon of coffee powder in that bowl" ></item>
+<item slot="4" original="Mixed it well" ></item>
+<item slot="5" original="Now taste the coffee, how taste it is" ></item>
+<item slot="6" original="Share to our friend" ></item>
+<item slot="7" original="Wash those glass" ></item>
+</script><script id="19" source="2"><item slot="1" original="Take a dish and wash" ></item>
+<item slot="2" original="Put one cup of milk and little water" ></item>
+<item slot="3" original="Add a teaspoon of sugar" ></item>
+<item slot="4" original="Add required amount of coffee powder" ></item>
+<item slot="5" original="Place the dish on the gas stove and ignite" ></item>
+<item slot="6" original="Let it boil for 5 minutes" ></item>
+<item slot="7" original="put off the stove" ></item>
+<item slot="8" original="Take away the dish" ></item>
+<item slot="9" original="Filter the coffee in a cup" ></item>
+</script><script id="20" source="2"><item slot="1" original="Turn on coffee maker" ></item>
+<item slot="2" original="fill pot with water" ></item>
+<item slot="3" original="put in machine" ></item>
+<item slot="4" original="put in coffee filter" ></item>
+<item slot="5" original="measure and pour ground coffee into machine" ></item>
+<item slot="6" original="allow time to brew" ></item>
+<item slot="7" original="when done pour coffee into cup" ></item>
+<item slot="8" original="drink" ></item>
+</script><script id="21" source="2"><item slot="1" original="Get coffee out" ></item>
+<item slot="2" original="get a filter" ></item>
+<item slot="3" original="place in the basket put one table spoon per 2 cups" ></item>
+<item slot="4" original="fill pot with water" ></item>
+<item slot="5" original="pour water into the top of coffee pot" ></item>
+<item slot="6" original="close lid" ></item>
+<item slot="7" original="turn on" ></item>
+</script><script id="22" source="2"><item slot="1" original="Fill coffee pot with water." ></item>
+<item slot="2" original="Open filter tray, remove old filter and replace." ></item>
+<item slot="3" original="Measure ground coffee into filter." ></item>
+<item slot="4" original="Close filter." ></item>
+<item slot="5" original="Hit brew button." ></item>
+<item slot="6" original="Wait 6 minutes." ></item>
+<item slot="7" original="Fill cup with fresh brewed coffee." ></item>
+<item slot="8" original="Add cream and sugar to cup." ></item>
+<item slot="9" original="Stir." ></item>
+<item slot="10" original="Drink." ></item>
+</script><script id="23" source="2"><item slot="1" original="Pick coffee flavor" ></item>
+<item slot="2" original="Get coffee mug" ></item>
+<item slot="3" original="Put mug under dispenser" ></item>
+<item slot="4" original="Load flavoring" ></item>
+<item slot="5" original="Press start" ></item>
+<item slot="6" original="Let coffee drip in mug" ></item>
+<item slot="7" original="Add creamer" ></item>
+<item slot="8" original="Drink" ></item>
+</script><script id="24" source="2"><item slot="1" original="Grind coffee beans" ></item>
+<item slot="2" original="Boil water" ></item>
+<item slot="3" original="Put grounds in coffee press" ></item>
+<item slot="4" original="Put boiling water in coffee press" ></item>
+<item slot="5" original="wait" ></item>
+<item slot="6" original="Press the filter down" ></item>
+<item slot="7" original="Pour coffee into mug" ></item>
+</script><script id="25" source="2"><item slot="1" original="Get coffee" ></item>
+<item slot="2" original="Put coffee filter into coffee machine" ></item>
+<item slot="3" original="Open container of coffee" ></item>
+<item slot="4" original="Add measured amount of coffee to coffee filter" ></item>
+<item slot="5" original="Add measured amount of water to the carafe" ></item>
+<item slot="6" original="Pour water into coffee pot" ></item>
+<item slot="7" original="Turn on coffee pot" ></item>
+<item slot="8" original="Wait for coffee to finish brewing" ></item>
+<item slot="9" original="Pour into cup and enjoy" ></item>
+</script><script id="26" source="2"><item slot="1" original="Put coffee filter in coffee maker filter basket" ></item>
+<item slot="2" original="Open coffee can" ></item>
+<item slot="3" original="Put desired amount of coffee into filter" ></item>
+<item slot="4" original="Fill coffee carafe with water" ></item>
+<item slot="5" original="Pour water into coffee maker" ></item>
+<item slot="6" original="Turn coffee maker on" ></item>
+<item slot="7" original="Wait for coffee to make" ></item>
+<item slot="8" original="Pour coffee into cup" ></item>
+<item slot="9" original="Drink coffee" ></item>
+</script><script id="27" source="2"><item slot="1" original="To make good coffee first choose good beans." ></item>
+<item slot="2" original="Roast the beans in correct temperature." ></item>
+<item slot="3" original="Smell the good aroma when finished roasting." ></item>
+<item slot="4" original="Now grind the roasted beans into powder and store it in a dry air tight container." ></item>
+<item slot="5" original="When you want to have a nice coffee take the coffee powder from container." ></item>
+<item slot="6" original="Put it in the tumbler add hot water and sugar with milk for your taste." ></item>
+<item slot="7" original="The more you add powder the stronger you get." ></item>
+<item slot="8" original="Now enjoy the sip of coffee." ></item>
+</script><script id="28" source="2"><item slot="1" original="Fill coffee pot with water." ></item>
+<item slot="2" original="Get coffee." ></item>
+<item slot="3" original="Measure coffee carefully and add to coffee pot." ></item>
+<item slot="4" original="Turn coffee pot on." ></item>
+<item slot="5" original="Once coffee is done brewing, pour coffee into cup." ></item>
+</script><script id="29" source="2"><item slot="1" original="Get ingredients" ></item>
+<item slot="2" original="Grind coffee beans" ></item>
+<item slot="3" original="Place filter" ></item>
+<item slot="4" original="Add the grounds" ></item>
+<item slot="5" original="Fill with water" ></item>
+<item slot="6" original="Turn it on" ></item>
+<item slot="7" original="Wait a little" ></item>
+<item slot="8" original="Pour coffee" ></item>
+<item slot="9" original="Drink coffee" ></item>
+</script><script id="30" source="2"><item slot="1" original="Grind coffee beans." ></item>
+<item slot="2" original="Put the filter in the coffee maker." ></item>
+<item slot="3" original="Put the coffee grinds into the filter." ></item>
+<item slot="4" original="Fill the coffee maker with water." ></item>
+<item slot="5" original="Put the coffee pot in the coffee maker." ></item>
+<item slot="6" original="Turn the coffee maker on." ></item>
+</script><script id="31" source="2"><item slot="1" original="Fill the reservoir with water." ></item>
+<item slot="2" original="Put in a filter." ></item>
+<item slot="3" original="Add 1/4 cup coffee to filter." ></item>
+<item slot="4" original="Put the carafe on the pot." ></item>
+<item slot="5" original="Turn the pot on." ></item>
+</script><script id="32" source="2"><item slot="1" original="Grind the coffee beans." ></item>
+<item slot="2" original="Put a filter in the coffee maker." ></item>
+<item slot="3" original="Put the coffee bean grinds into the filter." ></item>
+<item slot="4" original="Fill the coffee maker up with water." ></item>
+<item slot="5" original="Put the coffee pot on the coffee maker." ></item>
+<item slot="6" original="Turn the coffee maker on." ></item>
+</script><script id="33" source="2"><item slot="1" original="Get coffee." ></item>
+<item slot="2" original="Add water to coffee pot." ></item>
+<item slot="3" original="Add desired amount of grounds to pot." ></item>
+<item slot="4" original="Turn pot on." ></item>
+<item slot="5" original="Wait until pot is filling up with coffee." ></item>
+<item slot="6" original="Enjoy." ></item>
+</script><script id="34" source="2"><item slot="1" original="Turn on coffee machine." ></item>
+<item slot="2" original="Add water to water reservoir in coffee maker." ></item>
+<item slot="3" original="Wait for water to heat up." ></item>
+<item slot="4" original="Open lid of coffee machine." ></item>
+<item slot="5" original="Choose coffee pod to make." ></item>
+<item slot="6" original="Put pod into machine." ></item>
+<item slot="7" original="Put empty coffee cup under spout." ></item>
+<item slot="8" original="Close lid and select cup size." ></item>
+<item slot="9" original="Enjoy hot coffee." ></item>
+</script><script id="35" source="2"><item slot="1" original="Pour water into coffee maker" ></item>
+<item slot="2" original="Put coffee filter into coffee maker" ></item>
+<item slot="3" original="Put ground coffee into filter" ></item>
+<item slot="4" original="Put coffee pot into coffee maker" ></item>
+<item slot="5" original="Start coffee maker" ></item>
+<item slot="6" original="Water for coffee to brew" ></item>
+<item slot="7" original="Get a coffee cup" ></item>
+<item slot="8" original="Pour coffee into cup" ></item>
+<item slot="9" original="Put sugar and cream into coffee" ></item>
+<item slot="10" original="Stir" ></item>
+<item slot="11" original="Blow on coffee to cool it off" ></item>
+<item slot="12" original="Drink coffee" ></item>
+</script><script id="36" source="2"><item slot="1" original="Get a coffee filter" ></item>
+<item slot="2" original="Put coffee grounds in filter" ></item>
+<item slot="3" original="Poor water in" ></item>
+<item slot="4" original="Close cover" ></item>
+<item slot="5" original="Put pot on coffee maker" ></item>
+<item slot="6" original="Turn on coffee" ></item>
+<item slot="7" original="Let brew until stopped" ></item>
+<item slot="8" original="Poor coffee" ></item>
+<item slot="9" original="Empty coffee grounds" ></item>
+<item slot="10" original="Turn off coffee maker" ></item>
+</script><script id="37" source="2"><item slot="1" original="fill up coffee pot with water and place water in coffee maker" ></item>
+<item slot="2" original="take a  coffee liner and place in coffee maker" ></item>
+<item slot="3" original="scoop out coffee and place in coffee maker" ></item>
+<item slot="4" original="turn on coffee maker" ></item>
+<item slot="5" original="wait for coffee" ></item>
+<item slot="6" original="once ready pour yourself a cup" ></item>
+</script><script id="38" source="2"><item slot="1" original="Grab instant coffee" ></item>
+<item slot="2" original="Boil water in pot" ></item>
+<item slot="3" original="Grab coffee mug" ></item>
+<item slot="4" original="Gather sugar and cream" ></item>
+<item slot="5" original="Pour instant coffee into mug" ></item>
+<item slot="6" original="Pour hot water into mug" ></item>
+<item slot="7" original="Add sugar and cream to taste" ></item>
+<item slot="8" original="Mix and enjoy" ></item>
+</script><script id="39" source="2"><item slot="1" original="select beans you wish to brew from" ></item>
+<item slot="2" original="if unground, grind beans in grinder" ></item>
+<item slot="3" original="add filter to coffee machine" ></item>
+<item slot="4" original="place grounds in filter" ></item>
+<item slot="5" original="turn on machine" ></item>
+<item slot="6" original="add appropriate amount of water" ></item>
+<item slot="7" original="wait for machine to finish brewing" ></item>
+</script><script id="40" source="2"><item slot="1" original="Go to cabinet" ></item>
+<item slot="2" original="Get coffee out" ></item>
+<item slot="3" original="Open coffee" ></item>
+<item slot="4" original="scoop out some" ></item>
+<item slot="5" original="put it in the maker" ></item>
+<item slot="6" original="turn it on" ></item>
+<item slot="7" original="Wait for it" ></item>
+<item slot="8" original="pour it" ></item>
+<item slot="9" original="Drink it" ></item>
+</script><script id="41" source="2"><item slot="1" original="put coffee beans in machine" ></item>
+<item slot="2" original="add water" ></item>
+<item slot="3" original="put on machine" ></item>
+<item slot="4" original="grab mug" ></item>
+<item slot="5" original="get coffee" ></item>
+<item slot="6" original="add sugar and cream" ></item>
+<item slot="7" original="drink" ></item>
+</script><script id="42" source="2"><item slot="1" original="Put water in pot." ></item>
+<item slot="2" original="Pour in top of coffee maker." ></item>
+<item slot="3" original="Put new filter in." ></item>
+<item slot="4" original="Add coffee grinds." ></item>
+<item slot="5" original="Put filter holder into maker." ></item>
+<item slot="6" original="Put lid down." ></item>
+<item slot="7" original="Brew." ></item>
+</script><script id="43" source="2"><item slot="1" original="Rinse the carafe" ></item>
+<item slot="2" original="get the coffee out of the pantry" ></item>
+<item slot="3" original="get the filter" ></item>
+<item slot="4" original="place the filter in the basket" ></item>
+<item slot="5" original="open the container" ></item>
+<item slot="6" original="measure the coffee" ></item>
+<item slot="7" original="fill the water reservoir" ></item>
+<item slot="8" original="press start" ></item>
+</script><script id="44" source="2"><item slot="1" original="Grind coffee beans" ></item>
+<item slot="2" original="Measure coffee and place it in filter" ></item>
+<item slot="3" original="Fill brewer with water" ></item>
+<item slot="4" original="Filter boiling water through beans" ></item>
+<item slot="5" original="Pour coffee into a mug." ></item>
+</script><script id="45" source="2"><item slot="1" original="Get coffee bag" ></item>
+<item slot="2" original="Measure out coffee beans and put in grinder" ></item>
+<item slot="3" original="Grind coffee beans" ></item>
+<item slot="4" original="Put filter paper in machine" ></item>
+<item slot="5" original="Pour ground coffee into coffee basket" ></item>
+<item slot="6" original="Measure out required amount of water" ></item>
+<item slot="7" original="Pour water into reservoir in machine" ></item>
+<item slot="8" original="Turn on coffee machine" ></item>
+<item slot="9" original="Wait until coffee has finished dripping" ></item>
+<item slot="10" original="Get cup" ></item>
+<item slot="11" original="Pour coffee from jug into cup" ></item>
+</script><script id="46" source="2"><item slot="1" original="Get French press" ></item>
+<item slot="2" original="Get coffee" ></item>
+<item slot="3" original="Fill kettle" ></item>
+<item slot="4" original="Boil water" ></item>
+<item slot="5" original="Put coffee in press" ></item>
+<item slot="6" original="Pour water in press" ></item>
+<item slot="7" original="Press the press down" ></item>
+<item slot="8" original="Wait 5 minutes" ></item>
+<item slot="9" original="Pour coffee from press" ></item>
+<item slot="10" original="Drink" ></item>
+</script><script id="47" source="2"><item slot="1" original="Get coffee grounds" ></item>
+<item slot="2" original="Get water" ></item>
+<item slot="3" original="Fill coffee pot with coffee grounds" ></item>
+<item slot="4" original="Fill coffee pot with water." ></item>
+<item slot="5" original="Start coffee pot." ></item>
+<item slot="6" original="Wait for coffee." ></item>
+</script><script id="48" source="2"><item slot="1" original="Open fridge" ></item>
+<item slot="2" original="Take out coffee" ></item>
+<item slot="3" original="Fill coffee machine with water" ></item>
+<item slot="4" original="Fill coffee filter with fresh coffee" ></item>
+<item slot="5" original="Turn on machine" ></item>
+<item slot="6" original="Wait until brewed" ></item>
+<item slot="7" original="Pour coffee into cup" ></item>
+<item slot="8" original="Add creamer to coffee" ></item>
+</script><script id="49" source="2"><item slot="1" original="Put coffee beans in cup" ></item>
+<item slot="2" original="Pour in some milk" ></item>
+<item slot="3" original="Add some sugar" ></item>
+<item slot="4" original="Add some cream" ></item>
+<item slot="5" original="Pour in hot water" ></item>
+<item slot="6" original="Mix the coffee" ></item>
+<item slot="7" original="Drink the coffee" ></item>
+</script><script id="50" source="2"><item slot="1" original="Taking out coffee beans" ></item>
+<item slot="2" original="Putting beans into grinder" ></item>
+<item slot="3" original="Grinding beans" ></item>
+<item slot="4" original="Putting water on stove" ></item>
+<item slot="5" original="Heating up water" ></item>
+<item slot="6" original="Pressing shot with french press" ></item>
+</script><script id="51" source="2"><item slot="1" original="Put water on stove" ></item>
+<item slot="2" original="Measure coffee beans" ></item>
+<item slot="3" original="Put beans in grinder" ></item>
+<item slot="4" original="Grind beans" ></item>
+<item slot="5" original="Get mug and aeropress" ></item>
+<item slot="6" original="Put ground beans into aeropress" ></item>
+<item slot="7" original="When water boils, fill aeropress" ></item>
+<item slot="8" original="Wait three minutes" ></item>
+<item slot="9" original="Press coffee into mug" ></item>
+<item slot="10" original="Drink coffee" ></item>
+</script><script id="52" source="2"><item slot="1" original="Fill carafe with water" ></item>
+<item slot="2" original="Pour into coffee pot" ></item>
+<item slot="3" original="Add a coffee filter" ></item>
+<item slot="4" original="Add proper amount of coffee" ></item>
+<item slot="5" original="Turn coffee pot on" ></item>
+</script><script id="53" source="2"><item slot="1" original="Put coffee filter in coffee maker." ></item>
+<item slot="2" original="Fill with coffee grounds" ></item>
+<item slot="3" original="Make sure the maker has enough water." ></item>
+<item slot="4" original="Turn on coffee maker" ></item>
+<item slot="5" original="Watch coffee drip into pot" ></item>
+<item slot="6" original="Pour coffee into mug." ></item>
+<item slot="7" original="Drink it" ></item>
+</script><script id="54" source="2"><item slot="1" original="Remove coffee pot from maker" ></item>
+<item slot="2" original="Fill pot with water" ></item>
+<item slot="3" original="pour water into coffee maker" ></item>
+<item slot="4" original="pull out 1 coffee filter and place it into the maker" ></item>
+<item slot="5" original="fill filter with desired amount of coffee" ></item>
+<item slot="6" original="turn on coffee pot" ></item>
+<item slot="7" original="enjoy coffee" ></item>
+</script><script id="55" source="2"><item slot="1" original="Get coffee out of cupboard" ></item>
+<item slot="2" original="Add coffee grounds to coffee maker" ></item>
+<item slot="3" original="Fill carafe with water" ></item>
+<item slot="4" original="Pour water into coffee maker" ></item>
+<item slot="5" original="Turn coffee maker on" ></item>
+<item slot="6" original="Wait for coffee to finish brewing" ></item>
+<item slot="7" original="Drink coffee" ></item>
+</script><script id="56" source="2"><item slot="1" original="brew coffee" ></item>
+<item slot="2" original="put a pot on" ></item>
+<item slot="3" original="make a pot of coffee" ></item>
+<item slot="4" original="brew a pot of coffee" ></item>
+<item slot="5" original="grind some beans" ></item>
+</script><script id="57" source="2"><item slot="1" original="Open coffeemaker." ></item>
+<item slot="2" original="Put filter in basket." ></item>
+<item slot="3" original="Get out coffee." ></item>
+<item slot="4" original="Measure coffee into basket." ></item>
+<item slot="5" original="Get pitcher." ></item>
+<item slot="6" original="Put water in pitcher." ></item>
+<item slot="7" original="Pour water into coffeemaker." ></item>
+<item slot="8" original="Close lid." ></item>
+<item slot="9" original="Push brew button." ></item>
+</script><script id="58" source="2"><item slot="1" original="put new filter in coffee maker" ></item>
+<item slot="2" original="put coffee into filter" ></item>
+<item slot="3" original="put water into machine" ></item>
+<item slot="4" original="turn machine on" ></item>
+<item slot="5" original="wait for coffee to drip" ></item>
+<item slot="6" original="remove pot from machine" ></item>
+<item slot="7" original="pour coffee into a cup" ></item>
+</script><script id="59" source="2"><item slot="1" original="clean out pot" ></item>
+<item slot="2" original="place coffee in in filter" ></item>
+<item slot="3" original="fill pot with water" ></item>
+<item slot="4" original="fill coffee maker with that water in pot" ></item>
+<item slot="5" original="place pot under coffee maker" ></item>
+<item slot="6" original="turn coffee maker on" ></item>
+</script><script id="60" source="2"><item slot="1" original="Go to the kitchen" ></item>
+<item slot="2" original="Plug in the coffee maker" ></item>
+<item slot="3" original="Fill it with water" ></item>
+<item slot="4" original="Get a coffee filter" ></item>
+<item slot="5" original="Pour in the coffee" ></item>
+<item slot="6" original="Start the machine" ></item>
+</script><script id="61" source="2"><item slot="1" original="Open coffee grounds" ></item>
+<item slot="2" original="Fill up coffee filter with grounds" ></item>
+<item slot="3" original="Place filter inside coffee maker" ></item>
+<item slot="4" original="Hit start" ></item>
+<item slot="5" original="Allow coffee maker to drip into pot" ></item>
+<item slot="6" original="Grab a mug from the cupboard" ></item>
+<item slot="7" original="Fill the mug with coffee" ></item>
+<item slot="8" original="Flavor it with cream and sugar" ></item>
+<item slot="9" original="Drink the coffee" ></item>
+</script><script id="62" source="2"><item slot="1" original="Add water to coffee maker" ></item>
+<item slot="2" original="Put in coffee filter" ></item>
+<item slot="3" original="Add coffee grounds to filter" ></item>
+<item slot="4" original="Turn on" ></item>
+<item slot="5" original="Wait for coffee to brew" ></item>
+</script><script id="63" source="2"><item slot="1" original="get coffee beans" ></item>
+<item slot="2" original="turn on coffee pot" ></item>
+<item slot="3" original="get water" ></item>
+<item slot="4" original="pour water in coffee pot" ></item>
+<item slot="5" original="grind coffee beans" ></item>
+<item slot="6" original="put ground coffee beans into coffee pot" ></item>
+<item slot="7" original="switch coffee pot to start pouring water" ></item>
+</script><script id="64" source="2"><item slot="1" original="add water to the coffee pot" ></item>
+<item slot="2" original="insert the filter" ></item>
+<item slot="3" original="measure the amount of coffee" ></item>
+<item slot="4" original="add the coffee inside the filter" ></item>
+<item slot="5" original="choose settings" ></item>
+<item slot="6" original="press start and wait for coffee to brew" ></item>
+</script><script id="65" source="2"><item slot="1" original="PUT INSTANT COFFEE IN A MUG" ></item>
+<item slot="2" original="PUT WATER IN THE KETTLE" ></item>
+<item slot="3" original="BOIL THE KETTLE" ></item>
+<item slot="4" original="ADD SOME SUGAR TO THE COFFEE" ></item>
+<item slot="5" original="WHEN THE KETTLE IS BOILED, ADD WATER TO MUG" ></item>
+<item slot="6" original="ADD MILK TO THE COFFEE" ></item>
+<item slot="7" original="STIR" ></item>
+<item slot="8" original="DRINK COFFEE" ></item>
+</script><script id="66" source="2"><item slot="1" original="Put coffee into the machine" ></item>
+<item slot="2" original="Fill the water compartment with water" ></item>
+<item slot="3" original="Brew the coffee" ></item>
+<item slot="4" original="Pour coffee into a cup" ></item>
+<item slot="5" original="Add cream and sugar." ></item>
+<item slot="6" original="Stir" ></item>
+<item slot="7" original="Drink coffee" ></item>
+</script><script id="67" source="2"><item slot="1" original="Get coffee out" ></item>
+<item slot="2" original="Pull coffee make near sink" ></item>
+<item slot="3" original="Fill coffee maker with water" ></item>
+<item slot="4" original="Put coffee filter in coffee maker" ></item>
+<item slot="5" original="Add measured amount of coffee" ></item>
+<item slot="6" original="Turn on coffee machine" ></item>
+<item slot="7" original="Wait 10 minutes" ></item>
+<item slot="8" original="Drink some coffee" ></item>
+</script><script id="68" source="2"><item slot="1" original="Take out fresh coffee grounds and a filter." ></item>
+<item slot="2" original="Put the filter into the basket of the coffee maker." ></item>
+<item slot="3" original="Add fresh coffee grounds into the filter." ></item>
+<item slot="4" original="Close the basket compartment." ></item>
+<item slot="5" original="Add the desired amount of water to the coffee maker's water chamber." ></item>
+<item slot="6" original="Ensure the coffee carafe is in position in the coffee maker." ></item>
+<item slot="7" original="Turn on the coffee maker to start brewing." ></item>
+<item slot="8" original="Wait the desired amount of time for the coffee to finish brewing." ></item>
+<item slot="9" original="When the coffee is done, pour the coffee into cups." ></item>
+<item slot="10" original="Add cream and/or sugar to the coffee." ></item>
+<item slot="11" original="Enjoy a cup of coffee!" ></item>
+</script><script id="69" source="2"><item slot="1" original="Turn on the Keurig coffee machine" ></item>
+<item slot="2" original="Fill the machine with water" ></item>
+<item slot="3" original="Put the K cup inside the machine" ></item>
+<item slot="4" original="Shut the top over the K cup" ></item>
+<item slot="5" original="Chose the cup size" ></item>
+<item slot="6" original="Watch the coffee cup fill with coffee" ></item>
+<item slot="7" original="Take the K cup out after it's done and throw it away" ></item>
+<item slot="8" original="Put sugar and creamer in the coffee" ></item>
+</script><script id="70" source="2"><item slot="1" original="dump old coffee" ></item>
+<item slot="2" original="fill water dispenser with water" ></item>
+<item slot="3" original="place coffee filter in coffee dispenser" ></item>
+<item slot="4" original="place coffee on coffee filter" ></item>
+<item slot="5" original="turn on coffee pot" ></item>
+<item slot="6" original="await for coffee to brew" ></item>
+</script><script id="71" source="2"><item slot="1" original="Get coffee filter" ></item>
+<item slot="2" original="Place coffee filter in coffee maker" ></item>
+<item slot="3" original="Fill receptacle with desired amount of water" ></item>
+<item slot="4" original="Place desired amount of ground coffee in coffee filter" ></item>
+<item slot="5" original="Close top of coffee maker" ></item>
+<item slot="6" original="Place empty coffee pot in coffee maker" ></item>
+<item slot="7" original="Turn on coffee maker" ></item>
+</script><script id="72" source="2"><item slot="1" original="Get coffee grounds." ></item>
+<item slot="2" original="Get a coffee filter." ></item>
+<item slot="3" original="Open coffee maker." ></item>
+<item slot="4" original="Put in filter." ></item>
+<item slot="5" original="Scoop coffee and put in filter." ></item>
+<item slot="6" original="Close filter top." ></item>
+<item slot="7" original="Add water to water side." ></item>
+<item slot="8" original="Close lid." ></item>
+<item slot="9" original="Plug it in." ></item>
+<item slot="10" original="Put coffee pot under dripper." ></item>
+<item slot="11" original="Turn it on." ></item>
+<item slot="12" original="Pour coffee in cup." ></item>
+<item slot="13" original="Add cream and sugar." ></item>
+<item slot="14" original="Sit down and drink coffee." ></item>
+</script><script id="73" source="2"><item slot="1" original="Put filter into coffee maker" ></item>
+<item slot="2" original="Grind beans in coffee grinder" ></item>
+<item slot="3" original="Put grounds into filter" ></item>
+<item slot="4" original="Fill up pot with water" ></item>
+<item slot="5" original="Pour water into reservoir of coffee maker" ></item>
+<item slot="6" original="Put pot under the dripper" ></item>
+<item slot="7" original="Turn on coffee pot" ></item>
+<item slot="8" original="When pot is filled, pour coffee into mug" ></item>
+<item slot="9" original="Enjoy" ></item>
+</script><script id="74" source="2"><item slot="1" original="Place water in the coffee maker." ></item>
+<item slot="2" original="Change the filter." ></item>
+<item slot="3" original="Measure coffee." ></item>
+<item slot="4" original="Put coffee in the new filter." ></item>
+<item slot="5" original="Start machine." ></item>
+</script><script id="75" source="2"><item slot="1" original="open coffee bag" ></item>
+<item slot="2" original="open top of coffee machine" ></item>
+<item slot="3" original="put filter in coffee machine" ></item>
+<item slot="4" original="place desired amount of coffee grounds into cone" ></item>
+<item slot="5" original="close the cone" ></item>
+<item slot="6" original="put water in the coffee machine" ></item>
+<item slot="7" original="put coffee pot in its spot on the machine" ></item>
+<item slot="8" original="turn on coffee machine" ></item>
+<item slot="9" original="wait to brew" ></item>
+</script><script id="76" source="2"><item slot="1" original="Get out coffee and filters" ></item>
+<item slot="2" original="Open coffee maker basket" ></item>
+<item slot="3" original="Place filter in coffee maker basket" ></item>
+<item slot="4" original="Measure out coffee into basket" ></item>
+<item slot="5" original="Close coffee maker basket" ></item>
+<item slot="6" original="Remove carafe" ></item>
+<item slot="7" original="Fill carafe with desired amount of water" ></item>
+<item slot="8" original="Pour water into coffee maker" ></item>
+<item slot="9" original="Return carafe to coffee maker" ></item>
+<item slot="10" original="Turn coffee maker on" ></item>
+<item slot="11" original="Wait for coffee to brew" ></item>
+<item slot="12" original="Pour coffee into cup" ></item>
+<item slot="13" original="Add cream and sugar if desired" ></item>
+<item slot="14" original="Drink Coffee" ></item>
+</script><script id="77" source="2"><item slot="1" original="Get milk" ></item>
+<item slot="2" original="Get coffee powder" ></item>
+<item slot="3" original="Pour milk into the bowl" ></item>
+<item slot="4" original="Place the bowl in stove" ></item>
+<item slot="5" original="Ignite the stove" ></item>
+<item slot="6" original="Boil the milk" ></item>
+<item slot="7" original="Put sugar" ></item>
+<item slot="8" original="Add coffee powder" ></item>
+<item slot="9" original="Mix it well" ></item>
+<item slot="10" original="Coffe ready" ></item>
+</script><script id="78" source="2"><item slot="1" original="Open coffee maker lid." ></item>
+<item slot="2" original="Get large cup and fill with water." ></item>
+<item slot="3" original="Pour water into coffee maker tank." ></item>
+<item slot="4" original="Get coffee filter and put into basket inside coffee maker." ></item>
+<item slot="5" original="Get coffee can." ></item>
+<item slot="6" original="Open coffee can and scoop two large scoops into coffee filter." ></item>
+<item slot="7" original="Close coffee maker lid and turn power on." ></item>
+<item slot="8" original="Wait for coffee to finish brewing." ></item>
+</script><script id="79" source="2"><item slot="1" original="Add water to coffee pot" ></item>
+<item slot="2" original="Put coffee bag on top" ></item>
+<item slot="3" original="Turn the pot on" ></item>
+<item slot="4" original="Wait for the water to finish" ></item>
+<item slot="5" original="Put coffee in cup" ></item>
+<item slot="6" original="Drink" ></item>
+</script><script id="80" source="2"><item slot="1" original="turn coffee machine on" ></item>
+<item slot="2" original="choose desired coffee" ></item>
+<item slot="3" original="put coffee ground into machine" ></item>
+<item slot="4" original="put water into machine jar" ></item>
+<item slot="5" original="let machine do its cycle" ></item>
+<item slot="6" original="pour coffee into mug/cup" ></item>
+<item slot="7" original="enjoy warm coffee" ></item>
+</script><script id="81" source="2"><item slot="1" original="Put filter into coffee maker." ></item>
+<item slot="2" original="Measure coffee and put into filter." ></item>
+<item slot="3" original="Measure water and set into coffee maker." ></item>
+<item slot="4" original="Put coffee pot in drip location." ></item>
+<item slot="5" original="Turn coffee maker on." ></item>
+<item slot="6" original="Let the coffee drip into pot." ></item>
+<item slot="7" original="Pour a cup when complete." ></item>
+</script><script id="82" source="2"><item slot="1" original="Buy preferred brand of coffee" ></item>
+<item slot="2" original="Open coffee" ></item>
+<item slot="3" original="Get coffee pot" ></item>
+<item slot="4" original="Put coffee in compartment" ></item>
+<item slot="5" original="Add water to pot" ></item>
+<item slot="6" original="Push button to start percolating" ></item>
+<item slot="7" original="Put coffee in cup" ></item>
+<item slot="8" original="Add creamer and sugar" ></item>
+<item slot="9" original="Sip slowly and enjoy" ></item>
+</script><script id="83" source="2"><item slot="1" original="Get coffee filter" ></item>
+<item slot="2" original="Place coffee filter inside coffee maker" ></item>
+<item slot="3" original="Get your favorite coffee" ></item>
+<item slot="4" original="Scoop coffee into coffee filter" ></item>
+<item slot="5" original="Fill coffee pitcher with water" ></item>
+<item slot="6" original="Place the pitcher on the coffee machine" ></item>
+<item slot="7" original="Turn coffee machine on" ></item>
+</script><script id="84" source="2"><item slot="1" original="Take Coffee kettle" ></item>
+<item slot="2" original="Pour some water" ></item>
+<item slot="3" original="Keep kettle on stove" ></item>
+<item slot="4" original="Light the stove" ></item>
+<item slot="5" original="Wait for water to boil" ></item>
+<item slot="6" original="Add coffee powder" ></item>
+<item slot="7" original="Add sugar" ></item>
+<item slot="8" original="Switch off stove" ></item>
+<item slot="9" original="Take out the kettle from flame" ></item>
+<item slot="10" original="Filter the coffee to a mug" ></item>
+<item slot="11" original="Pour the coffee to a Cup" ></item>
+</script><script id="85" source="2"><item slot="1" original="TAKE MILK" ></item>
+<item slot="2" original="SWITCH ON THE STOVE" ></item>
+<item slot="3" original="BOILING THE MILK" ></item>
+<item slot="4" original="FILL THE MILK IN SAUCER" ></item>
+<item slot="5" original="ADD COFFEE POWDER" ></item>
+<item slot="6" original="MIX SUGAR" ></item>
+<item slot="7" original="DRINK COFFEE" ></item>
+</script><script id="86" source="2"><item slot="1" original="Plug in coffee maker" ></item>
+<item slot="2" original="Add coffee beans" ></item>
+<item slot="3" original="Add water" ></item>
+<item slot="4" original="Push buttons on machine" ></item>
+<item slot="5" original="Wait for it to make coffee" ></item>
+<item slot="6" original="Pour into coffee cup" ></item>
+<item slot="7" original="Drink" ></item>
+</script><script id="87" source="2"><item slot="1" original="Get coffee grounds and coffee maker (and filter if necessary)" ></item>
+<item slot="2" original="Plug in coffee maker" ></item>
+<item slot="3" original="Add water to coffee maker reservoir" ></item>
+<item slot="4" original="Add coffee grounds (and filter, depending on type of coffee maker) to basket" ></item>
+<item slot="5" original="Place basket in coffee maker" ></item>
+<item slot="6" original="Turn on coffee maker" ></item>
+<item slot="7" original="Adjust settings if necessary and applicable" ></item>
+<item slot="8" original="Wait for coffee maker to finish" ></item>
+<item slot="9" original="Remove coffee pot" ></item>
+<item slot="10" original="Pour coffee into cups, drink coffee" ></item>
+<item slot="11" original="Dispose of left over coffee" ></item>
+<item slot="12" original="Turn off coffee maker" ></item>
+<item slot="13" original="Discard coffee grounds (and filter)" ></item>
+<item slot="14" original="Clean basket" ></item>
+<item slot="15" original="Rinse out coffee pot" ></item>
+<item slot="16" original="Put coffee pot bake" ></item>
+</script><script id="88" source="2"><item slot="1" original="Turn on Keurig coffee maker" ></item>
+<item slot="2" original="Remove coffee grounds from freezer" ></item>
+<item slot="3" original="Fill coffee filter with grounds" ></item>
+<item slot="4" original="Place filter in appropriate receptacle" ></item>
+<item slot="5" original="Place mug under receptacle" ></item>
+<item slot="6" original="Wait for coffee maker to heat up" ></item>
+<item slot="7" original="Pull down lever to allow water to flow through filter" ></item>
+<item slot="8" original="Remove filter and empty grounds" ></item>
+<item slot="9" original="Add cream and sugar to coffee" ></item>
+</script><script id="89" source="2"><item slot="1" original="Boil water in a pan" ></item>
+<item slot="2" original="Add sugar and milk" ></item>
+<item slot="3" original="Add coffee powder" ></item>
+<item slot="4" original="Stir the mixture and let it boil" ></item>
+<item slot="5" original="Pour and serve" ></item>
+</script><script id="90" source="2"><item slot="1" original="Make fire" ></item>
+<item slot="2" original="Take the milk" ></item>
+<item slot="3" original="Adding sugar" ></item>
+<item slot="4" original="Taste the coffee" ></item>
+<item slot="5" original="Last ready for good filter coffee" ></item>
+</script><script id="91" source="2"><item slot="1" original="grab coffee filter and place in the machine" ></item>
+<item slot="2" original="measure out coffee grinds" ></item>
+<item slot="3" original="fill carafe with water and put water into the coffee machine" ></item>
+<item slot="4" original="put coffee carafe back in position" ></item>
+<item slot="5" original="turn machine on" ></item>
+</script><script id="92" source="2"><item slot="1" original="Measure 4 coffee scoops of whole coffee beans into a grinder." ></item>
+<item slot="2" original="Grinder the beans into a fine ground." ></item>
+<item slot="3" original="Place a paper filter into the proper location of the coffee maker." ></item>
+<item slot="4" original="Fill the filter with the ground coffee." ></item>
+<item slot="5" original="Close the coffee maker." ></item>
+<item slot="6" original="Add water to the coffee maker" ></item>
+<item slot="7" original="Put the coffee pot in the correct place." ></item>
+</script><script id="93" source="2"><item slot="1" original="Plug in coffee-maker" ></item>
+<item slot="2" original="Get filter" ></item>
+<item slot="3" original="Put filter in coffee-maker" ></item>
+<item slot="4" original="Open coffee" ></item>
+<item slot="5" original="Put coffee in filter" ></item>
+<item slot="6" original="Fill coffee-maker with water" ></item>
+<item slot="7" original="Set pot on burner" ></item>
+<item slot="8" original="Turn on coffee-maker" ></item>
+<item slot="9" original="Wait for coffee to percolate" ></item>
+<item slot="10" original="Pour a cup of coffee" ></item>
+</script><script id="94" source="2"><item slot="1" original="Get coffee beans" ></item>
+<item slot="2" original="Get coffee filter" ></item>
+<item slot="3" original="Put in coffee maker" ></item>
+<item slot="4" original="Run the coffee maker" ></item>
+<item slot="5" original="Get coffee mug" ></item>
+<item slot="6" original="Pour coffee into coffee mug" ></item>
+</script><script id="95" source="2"><item slot="1" original="Take out coffee canister" ></item>
+<item slot="2" original="Take out filter" ></item>
+<item slot="3" original="Put filter in coffee maker" ></item>
+<item slot="4" original="Measure out two tablespoons" ></item>
+<item slot="5" original="Pour coffee grounds into filter" ></item>
+<item slot="6" original="Measure out water" ></item>
+<item slot="7" original="Pour water into maker" ></item>
+<item slot="8" original="Replace the pot" ></item>
+<item slot="9" original="Press brew" ></item>
+</script><script id="96" source="2"><item slot="1" original="Get mug" ></item>
+<item slot="2" original="Get instant coffee" ></item>
+<item slot="3" original="Put coffee into mug" ></item>
+<item slot="4" original="Boil water" ></item>
+<item slot="5" original="Pour water into mug" ></item>
+<item slot="6" original="Add sugar" ></item>
+<item slot="7" original="Add milk" ></item>
+<item slot="8" original="Stir" ></item>
+</script><script id="97" source="2"><item slot="1" original="Get a coffee filter." ></item>
+<item slot="2" original="Measure out enough for 8 cups." ></item>
+<item slot="3" original="Put coffee filter into slot." ></item>
+<item slot="4" original="Fill pot with water." ></item>
+<item slot="5" original="Pour water into reservoir." ></item>
+<item slot="6" original="Close lid." ></item>
+<item slot="7" original="Push start button." ></item>
+<item slot="8" original="Drink coffee." ></item>
+</script><script id="98" source="2"><item slot="1" original="Get coffee grounds." ></item>
+<item slot="2" original="Get coffee filter." ></item>
+<item slot="3" original="Pour water into coffee maker." ></item>
+<item slot="4" original="Put filter into coffee maker." ></item>
+<item slot="5" original="Put coffee grounds into coffee maker." ></item>
+<item slot="6" original="Turn on coffee maker." ></item>
+<item slot="7" original="Put up coffee grounds." ></item>
+<item slot="8" original="Wait for coffee to finish brewing." ></item>
+</script><script id="99" source="2"><item slot="1" original="Get in the car." ></item>
+<item slot="2" original="Enter the starbucks." ></item>
+<item slot="3" original="Wait in line." ></item>
+<item slot="4" original="Give my order." ></item>
+<item slot="5" original="Savoir in the mediocre goodness." ></item>
+</script><script id="100" source="2"><item slot="1" original="plug in coffee maker" ></item>
+<item slot="2" original="select flavor of coffee" ></item>
+<item slot="3" original="add water to tank" ></item>
+<item slot="4" original="close lid " ></item>
+<item slot="5" original="press start" ></item>
+<item slot="6" original="wait for cup to fill" ></item>
+</script></scripts>

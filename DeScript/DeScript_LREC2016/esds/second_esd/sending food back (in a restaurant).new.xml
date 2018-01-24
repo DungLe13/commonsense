@@ -1,0 +1,650 @@
+<scripts><script id="1" source="2"><item slot="1" original="be unhappy with your food" ></item>
+<item slot="2" original="call the waiter" ></item>
+<item slot="3" original="explain the problem to the waiter" ></item>
+<item slot="4" original="ask for new food" ></item>
+<item slot="5" original="waiter takes your food" ></item>
+<item slot="6" original="waiter returns with new food" ></item>
+</script><script id="2" source="2"><item slot="1" original="Get the waiter's attention" ></item>
+<item slot="2" original="When waiter comes to table tell him what is wrong with your food" ></item>
+<item slot="3" original="Tell the waiter that you want him to take your dish back and correct it" ></item>
+<item slot="4" original="Wait patiently until he returns with your corrected food item" ></item>
+<item slot="5" original="When presented with your corrected food, inspect it" ></item>
+<item slot="6" original="Thank the waiter for correcting the error" ></item>
+</script><script id="3" source="2"><item slot="1" original="calling over the waiter" ></item>
+<item slot="2" original="telling him that you do not want the food" ></item>
+<item slot="3" original="telling him something is wrong with it" ></item>
+<item slot="4" original="handing the plate over to him" ></item>
+<item slot="5" original="waiting for the waiter to respond" ></item>
+</script><script id="4" source="2"><item slot="1" original="Taste your food." ></item>
+<item slot="2" original="Decide whether the food is to your liking." ></item>
+<item slot="3" original="If you decide you don't like the food, get the attention of the waiter or waitress." ></item>
+<item slot="4" original="Politely explain to your server why the food is not to your liking." ></item>
+<item slot="5" original="Once your server understands, explain precisely what must be done, within reason." ></item>
+<item slot="6" original="Allow your server to take away the unsatisfactory food." ></item>
+<item slot="7" original="Wait for your server to return with your new meal." ></item>
+</script><script id="5" source="2"><item slot="1" original="Call the Waiter or Supervisor" ></item>
+<item slot="2" original="Tell him the wrong about food" ></item>
+<item slot="3" original="Make disappointed face and look continuously at him" ></item>
+<item slot="4" original="Tell him to take the food back" ></item>
+<item slot="5" original="Clean hands and order something else" ></item>
+</script><script id="6" source="2"><item slot="1" original="Enter into the restaurant" ></item>
+<item slot="2" original="Find a place to sit" ></item>
+<item slot="3" original="From the menu card choose your order" ></item>
+<item slot="4" original="Say your order to the waiter" ></item>
+<item slot="5" original="Waiter brings your order" ></item>
+<item slot="6" original="Cancel the order" ></item>
+<item slot="7" original="Send back the food" ></item>
+<item slot="8" original="Leave the restaurant" ></item>
+</script><script id="7" source="2"><item slot="1" original="Decide you don't like it" ></item>
+<item slot="2" original="Call your waiter over" ></item>
+<item slot="3" original="Tell them to take the food back" ></item>
+<item slot="4" original="Wait for new food" ></item>
+<item slot="5" original="Enjoy the new food" ></item>
+</script><script id="8" source="2"><item slot="1" original="Call a waitress" ></item>
+<item slot="2" original="Explain what is wrong with the food" ></item>
+<item slot="3" original="Give her the plate back." ></item>
+<item slot="4" original="Wait for her to bring you something new" ></item>
+<item slot="5" original="Thank her and apologize for the inconvenience" ></item>
+<item slot="6" original="Start eating new food" ></item>
+</script><script id="9" source="2"><item slot="1" original="Order food" ></item>
+<item slot="2" original="Receive cold food" ></item>
+<item slot="3" original="Summons the waiter" ></item>
+<item slot="4" original="Explain discontent with food" ></item>
+<item slot="5" original="Give food back" ></item>
+<item slot="6" original="Receive new order" ></item>
+<item slot="7" original="Get doggy bag" ></item>
+<item slot="8" original="Leave restaurant" ></item>
+</script><script id="10" source="2"><item slot="1" original="Sending food back (in a restaurant) may occur when your waiter serves wrong food." ></item>
+<item slot="2" original="First you see that the food served to you is ordered by you." ></item>
+<item slot="3" original="See that it is well cooked." ></item>
+<item slot="4" original="See that it is served hygienically." ></item>
+<item slot="5" original="See that it is has knowingly or UN knowingly no harmful items." ></item>
+<item slot="6" original="For all the above reason if you feel the answer doesn't satisfy you then send food back." ></item>
+<item slot="7" original="The food you are sending back need not to be paid for you have not touched it." ></item>
+<item slot="8" original="In some cases of un cooked though you may tasted some you have right of health cautious." ></item>
+<item slot="9" original="So don't eat for the above reason and simply send food back to pavilion (restaurant)" ></item>
+</script><script id="11" source="2"><item slot="1" original="Call your waiter over" ></item>
+<item slot="2" original="tell them what is wrong" ></item>
+<item slot="3" original="they will take it" ></item>
+<item slot="4" original="then you wait" ></item>
+<item slot="5" original="they will bring you another or give your money  back" ></item>
+<item slot="6" original="tell them thanks" ></item>
+</script><script id="12" source="2"><item slot="1" original="Get first plate." ></item>
+<item slot="2" original="Find a problem with it." ></item>
+<item slot="3" original="Call waitress over and politely point out problem." ></item>
+<item slot="4" original="Ask if it can be rectified." ></item>
+<item slot="5" original="Thank her when she takes plate away." ></item>
+<item slot="6" original="Wait patiently." ></item>
+<item slot="7" original="When new plate arrives, ensure it is correct." ></item>
+<item slot="8" original="Thank waitress again." ></item>
+<item slot="9" original="Eat." ></item>
+</script><script id="13" source="2"><item slot="1" original="Order food from restaurant" ></item>
+<item slot="2" original="Receive food and make sure it is correct" ></item>
+<item slot="3" original="Politely call over waiter to table" ></item>
+<item slot="4" original="Politely let the waiter know what is wrong with the order" ></item>
+<item slot="5" original="Thank the waiter for having the problem fixed" ></item>
+</script><script id="14" source="2"><item slot="1" original="Determine whether you were served the food you ordered" ></item>
+<item slot="2" original="Ask for the waiter to come to your table" ></item>
+<item slot="3" original="Explain to the waiter what is wrong with the food" ></item>
+<item slot="4" original="Let the waiter take the food back" ></item>
+<item slot="5" original="Wait for the waiter to return with the correct food items" ></item>
+<item slot="6" original="Enjoy your meal" ></item>
+</script><script id="15" source="2"><item slot="1" original="Taste food" ></item>
+<item slot="2" original="Flag down waiter" ></item>
+<item slot="3" original="Explain to them what the problem is" ></item>
+<item slot="4" original="hand them the plate" ></item>
+<item slot="5" original="wait for them to come back with the fixed food" ></item>
+<item slot="6" original="taste food" ></item>
+<item slot="7" original="if it is not to your liking, repeat the process" ></item>
+<item slot="8" original="If it is, eat" ></item>
+</script><script id="16" source="2"><item slot="1" original="receive order" ></item>
+<item slot="2" original="get waiters attention" ></item>
+<item slot="3" original="tell the waiter what the issues" ></item>
+<item slot="4" original="ask polity for a new order" ></item>
+<item slot="5" original="give plate to waiter" ></item>
+<item slot="6" original="wait" ></item>
+<item slot="7" original="receive food" ></item>
+<item slot="8" original="thank waiter." ></item>
+</script><script id="17" source="2"><item slot="1" original="Get waiters attention" ></item>
+<item slot="2" original="Tell waiter your food isn't right" ></item>
+<item slot="3" original="Waiter takes food back to kitchen" ></item>
+<item slot="4" original="Cook remakes food" ></item>
+<item slot="5" original="Waiter brings new food" ></item>
+<item slot="6" original="Eat" ></item>
+</script><script id="18" source="2"><item slot="1" original="Go to restaurant." ></item>
+<item slot="2" original="Sit down." ></item>
+<item slot="3" original="Look at menu." ></item>
+<item slot="4" original="Order food." ></item>
+<item slot="5" original="Get food." ></item>
+<item slot="6" original="Tell waiter/waitress that it isn't what you want/ordered, nicely." ></item>
+<item slot="7" original="Wait for new food to come back to you." ></item>
+</script><script id="19" source="2"><item slot="1" original="Sit down in restaurant." ></item>
+<item slot="2" original="Order food." ></item>
+<item slot="3" original="When food comes, realize that something is wrong." ></item>
+<item slot="4" original="Get waiter's attention." ></item>
+<item slot="5" original="Explain to waiter the problem with the food." ></item>
+<item slot="6" original="Wait for food to be returned to you." ></item>
+<item slot="7" original="Eat new food." ></item>
+<item slot="8" original="Get bill from waiter." ></item>
+<item slot="9" original="Pay bill and leave restaurant." ></item>
+</script><script id="20" source="2"><item slot="1" original="Go to restaurant" ></item>
+<item slot="2" original="Wait to be seated" ></item>
+<item slot="3" original="Order food from waiter" ></item>
+<item slot="4" original="Wait for food" ></item>
+<item slot="5" original="Realize you don't like the food" ></item>
+<item slot="6" original="Summon waiter" ></item>
+<item slot="7" original="Ask waiter to take the unwanted food" ></item>
+</script><script id="21" source="2"><item slot="1" original="Waiter checks back on you after you get your food." ></item>
+<item slot="2" original="Kindly tell them what it wrong." ></item>
+<item slot="3" original="They will apologize and take your food." ></item>
+<item slot="4" original="Thank them." ></item>
+<item slot="5" original="Wait patiently." ></item>
+<item slot="6" original="They will bring your food back." ></item>
+<item slot="7" original="Check to make sure it is correct." ></item>
+<item slot="8" original="Thank her again." ></item>
+<item slot="9" original=" Go on eating your food." ></item>
+</script><script id="22" source="2"><item slot="1" original="Call the waiter" ></item>
+<item slot="2" original="Explain him pizza is under baked" ></item>
+<item slot="3" original="And it is not hot and tasty to eat" ></item>
+<item slot="4" original="Waiter go to the supervisor" ></item>
+<item slot="5" original="He apologizes for the mistake" ></item>
+<item slot="6" original="He orders the waiter to take it back" ></item>
+<item slot="7" original="I wait for replacement and eat" ></item>
+</script><script id="23" source="2"><item slot="1" original="call the waiter to your table" ></item>
+<item slot="2" original="explain the problem with your food clearly" ></item>
+<item slot="3" original="allow the waiter to take the food back to the kitchen" ></item>
+<item slot="4" original="wait for the waiter to return with new food" ></item>
+<item slot="5" original="ensure the food is correct" ></item>
+<item slot="6" original="enjoy" ></item>
+</script><script id="24" source="2"><item slot="1" original="Get the attention of the waitstaff" ></item>
+<item slot="2" original="Talk to the waitstaff" ></item>
+<item slot="3" original="Mention a problem with the food" ></item>
+<item slot="4" original="request that the food be fixed" ></item>
+<item slot="5" original="Send the food back" ></item>
+<item slot="6" original="Wait for another dish to come" ></item>
+</script><script id="25" source="2"><item slot="1" original="Receive food from waiter" ></item>
+<item slot="2" original="Take a few bites" ></item>
+<item slot="3" original="Realize it's not what you wanted or cooked to your liking" ></item>
+<item slot="4" original="Summon the waiter to your table" ></item>
+<item slot="5" original="Tell them about the issues" ></item>
+<item slot="6" original="Request the food be recooked or order a new menu item" ></item>
+<item slot="7" original="Thank the waiter for their help" ></item>
+</script><script id="26" source="2"><item slot="1" original="Order food from menu" ></item>
+<item slot="2" original="Receive food from waiter" ></item>
+<item slot="3" original="Inspect food for quality" ></item>
+<item slot="4" original="Call waiter back and ask to send the meal back" ></item>
+<item slot="5" original="Hand waiter dish to return" ></item>
+<item slot="6" original="Receive new meal" ></item>
+<item slot="7" original="Eat meal" ></item>
+</script><script id="27" source="2"><item slot="1" original="Eat food" ></item>
+<item slot="2" original="Discover something is wrong with food" ></item>
+<item slot="3" original="Wait for waiter to walk near me" ></item>
+<item slot="4" original="Get waiter's attention" ></item>
+<item slot="5" original="Tell waiter what is wrong with my food" ></item>
+<item slot="6" original="Accept waiter's offer to take food back" ></item>
+<item slot="7" original="Ask waiter for something new" ></item>
+<item slot="8" original="Wait for new food to arrive" ></item>
+</script><script id="28" source="2"><item slot="1" original="Get to restaurant" ></item>
+<item slot="2" original="Sit down" ></item>
+<item slot="3" original="Look over menu" ></item>
+<item slot="4" original="Order food" ></item>
+<item slot="5" original="Receive food" ></item>
+<item slot="6" original="Taste food" ></item>
+<item slot="7" original="Call waiter" ></item>
+<item slot="8" original="Tell him its not good" ></item>
+<item slot="9" original="Send it back" ></item>
+</script><script id="29" source="2"><item slot="1" original="Wait for food" ></item>
+<item slot="2" original="Find something wrong with food" ></item>
+<item slot="3" original="Get waiter's attention" ></item>
+<item slot="4" original="Point out problem" ></item>
+<item slot="5" original="Ask for new dish" ></item>
+<item slot="6" original="Give old dish to waiter" ></item>
+<item slot="7" original="Wait for new meal" ></item>
+</script><script id="30" source="2"><item slot="1" original="Get your waiter's attention" ></item>
+<item slot="2" original="Explain to waiter why you don't want your food" ></item>
+<item slot="3" original="Tell waiter what you would order to get instead" ></item>
+<item slot="4" original="Hand your plate to the waiter" ></item>
+<item slot="5" original="Wait for waiter to take back food" ></item>
+</script><script id="31" source="2"><item slot="1" original="Call over waiter" ></item>
+<item slot="2" original="Tell them what is wrong with food" ></item>
+<item slot="3" original="Ask if they can take the food and fix it." ></item>
+<item slot="4" original="Give them the plate." ></item>
+<item slot="5" original="Wait for your next dish" ></item>
+</script><script id="32" source="2"><item slot="1" original="Call waiter" ></item>
+<item slot="2" original="When waiter comes, describe the problem with the food" ></item>
+<item slot="3" original="Tell waiter you want to send food back" ></item>
+<item slot="4" original="Let waiter take food" ></item>
+<item slot="5" original="Wait" ></item>
+<item slot="6" original="When waiter returns with food accept it" ></item>
+</script><script id="33" source="2"><item slot="1" original="Get food" ></item>
+<item slot="2" original="Look at food" ></item>
+<item slot="3" original="See a piece of hair" ></item>
+<item slot="4" original="Call waiter/waitress" ></item>
+<item slot="5" original="Complain about food" ></item>
+<item slot="6" original="Waiter/waitress takes food back" ></item>
+<item slot="7" original="Waiter/waitress brings me a new plate" ></item>
+</script><script id="34" source="2"><item slot="1" original="order food" ></item>
+<item slot="2" original="get wrong order" ></item>
+<item slot="3" original="ask for food to be returned" ></item>
+<item slot="4" original="get correct order" ></item>
+<item slot="5" original="eat food" ></item>
+</script><script id="35" source="2"><item slot="1" original="Receive food" ></item>
+<item slot="2" original="place a portion on the fork" ></item>
+<item slot="3" original="taste food" ></item>
+<item slot="4" original="call waiter" ></item>
+<item slot="5" original="explain complaint" ></item>
+<item slot="6" original="be patient" ></item>
+<item slot="7" original="be kind" ></item>
+<item slot="8" original="ask for a replacement" ></item>
+</script><script id="36" source="2"><item slot="1" original="Inspect the quality of the food when it arrives" ></item>
+<item slot="2" original="If there is a problem, get the waiter's attention" ></item>
+<item slot="3" original="Alert the waiter to your satisfaction, being very specific about the problems" ></item>
+<item slot="4" original="Let the waiter return the food to the kitchen" ></item>
+<item slot="5" original="Wait for the waiter to return with your corrected dish." ></item>
+</script><script id="37" source="2"><item slot="1" original="Receive food" ></item>
+<item slot="2" original="Taste food" ></item>
+<item slot="3" original="Call for waiter/waitress or wait until he/she arrives" ></item>
+<item slot="4" original="Tell waiter of poor food" ></item>
+<item slot="5" original="Hand plate to waiter/waitress" ></item>
+<item slot="6" original="Wait for new plate of food" ></item>
+</script><script id="38" source="2"><item slot="1" original="Order food from menu" ></item>
+<item slot="2" original="Take bite of food" ></item>
+<item slot="3" original="Request waiter" ></item>
+<item slot="4" original="Tell waiter food is undesirable" ></item>
+<item slot="5" original="Give food to waiter" ></item>
+<item slot="6" original="Wait for new plate" ></item>
+</script><script id="39" source="2"><item slot="1" original="find something wrong with the food" ></item>
+<item slot="2" original="call staff over" ></item>
+<item slot="3" original="point out problem" ></item>
+<item slot="4" original="wait for them to take it back for you" ></item>
+<item slot="5" original="enjoy food" ></item>
+</script><script id="40" source="2"><item slot="1" original="Get food." ></item>
+<item slot="2" original="Notice it's not what I ordered." ></item>
+<item slot="3" original="Flag down waiter." ></item>
+<item slot="4" original="Complain to waiter." ></item>
+<item slot="5" original="Wait for fixed meal." ></item>
+<item slot="6" original="Enjoy better meal." ></item>
+</script><script id="41" source="2"><item slot="1" original="waiter brings food to table" ></item>
+<item slot="2" original="taste food" ></item>
+<item slot="3" original="find something wrong with taste" ></item>
+<item slot="4" original="call over waiter" ></item>
+<item slot="5" original="explain the issue" ></item>
+<item slot="6" original="tell waiter you would like a new dish" ></item>
+</script><script id="42" source="2"><item slot="1" original="Call for waiter" ></item>
+<item slot="2" original="Explain that food isn't right" ></item>
+<item slot="3" original="Ask for it to be corrected" ></item>
+<item slot="4" original="Wait for new food" ></item>
+<item slot="5" original="Water brings back new food" ></item>
+<item slot="6" original="Eat new food" ></item>
+<item slot="7" original="Thank waiter" ></item>
+</script><script id="43" source="2"><item slot="1" original="Order food" ></item>
+<item slot="2" original="eat food" ></item>
+<item slot="3" original="get waiter's attention" ></item>
+<item slot="4" original="provide explanation for wanting to send back food" ></item>
+<item slot="5" original="wait for food to arrive" ></item>
+<item slot="6" original="check food for contamination" ></item>
+<item slot="7" original="resume meal" ></item>
+</script><script id="44" source="2"><item slot="1" original="Decide the food is bad." ></item>
+<item slot="2" original="Call a waiter over." ></item>
+<item slot="3" original="Tell them the food issue." ></item>
+<item slot="4" original="Hand the plate to the waiter." ></item>
+<item slot="5" original="Wait for the new dish." ></item>
+</script><script id="45" source="2"><item slot="1" original="Grab the waiter's attention." ></item>
+<item slot="2" original="Politely tell him what is wrong with the food." ></item>
+<item slot="3" original="Ask him if he could please bring it back to the kitchen." ></item>
+<item slot="4" original="Thank the waiter." ></item>
+<item slot="5" original="Wait for food to come back." ></item>
+<item slot="6" original="Enjoy the food." ></item>
+</script><script id="46" source="2"><item slot="1" original="After finding out something is wrong with your order, single the waiter" ></item>
+<item slot="2" original="Tell them your order is wrong" ></item>
+<item slot="3" original="Let the waitress remove food to table" ></item>
+<item slot="4" original="Wait for order to come back" ></item>
+<item slot="5" original="Eat" ></item>
+</script><script id="47" source="2"><item slot="1" original="make a determination that you are not happy with the food" ></item>
+<item slot="2" original="contact waiter" ></item>
+<item slot="3" original="explain to him why you are unhappy with the food" ></item>
+<item slot="4" original="ask him to return it to the kitchen" ></item>
+<item slot="5" original="wait for him to bring a new plate of food" ></item>
+</script><script id="48" source="2"><item slot="1" original="RECEIVE FOOD" ></item>
+<item slot="2" original="IF NOT SATISFACTORY, CALL WAITER OVER" ></item>
+<item slot="3" original="EXPLAIN THE ISSUE" ></item>
+<item slot="4" original="REQUEST FOR THE FOOD TO BE SENT BACK" ></item>
+<item slot="5" original="GIVE FOOD TO WAITER" ></item>
+<item slot="6" original="WAIT FOR ISSUE TO BE RESOLVED BY CHEF" ></item>
+<item slot="7" original="ONCE THE FOOD IS RETURNED, EAT IF SATISFACTORY." ></item>
+</script><script id="49" source="2"><item slot="1" original="Decide that something is not right about the food." ></item>
+<item slot="2" original="Look around to find a waiter or manager." ></item>
+<item slot="3" original="Call the waiter or manager over to the table." ></item>
+<item slot="4" original="Explain to the waiter what you are not happy about." ></item>
+<item slot="5" original="Indicate to the waiter or manager that you would like to send the food back." ></item>
+</script><script id="50" source="2"><item slot="1" original="Call waiter" ></item>
+<item slot="2" original="Request a new dish" ></item>
+<item slot="3" original="Wait eagerly" ></item>
+<item slot="4" original="Examine new dish" ></item>
+<item slot="5" original="Eat new dish" ></item>
+</script><script id="51" source="2"><item slot="1" original="after receiving food check for desired temperature and taste" ></item>
+<item slot="2" original="if unhappy with temperature and tase" ></item>
+<item slot="3" original="find server and notify of unhappiness with food" ></item>
+<item slot="4" original="describe in detail why food does not meet standards" ></item>
+<item slot="5" original="also describe in detail how the food item can be fixed" ></item>
+<item slot="6" original="upon receiving new food item check for desired temperature and taste" ></item>
+<item slot="7" original="notify server if satisfactory" ></item>
+</script><script id="52" source="2"><item slot="1" original="Decide that you do not want the food." ></item>
+<item slot="2" original="Get your waiter's attention to come to your table." ></item>
+<item slot="3" original="Explain to the waiter what is wrong with your food and that it needs to go back" ></item>
+<item slot="4" original="Wait patiently while the order is corrected." ></item>
+<item slot="5" original="Check to make sure the food is correct when the waiter brings it back" ></item>
+<item slot="6" original="Thank the waiter for their good service." ></item>
+</script><script id="53" source="2"><item slot="1" original="Call server over to table" ></item>
+<item slot="2" original="Tell server what is wrong with the food" ></item>
+<item slot="3" original="Request that the server take it back" ></item>
+<item slot="4" original="Request that the server bring food to replace food sent back" ></item>
+<item slot="5" original="Check that new order of food is proper and prepared correctly" ></item>
+<item slot="6" original="Thank server" ></item>
+<item slot="7" original="Eat food" ></item>
+</script><script id="54" source="2"><item slot="1" original="Ask for the waiter/waitress." ></item>
+<item slot="2" original="Explain to the waiter that you do not like the food." ></item>
+<item slot="3" original="Ask that they send the food back." ></item>
+<item slot="4" original="Ask that you get new food or a different type of food." ></item>
+<item slot="5" original="Waiter brings request." ></item>
+<item slot="6" original="Eat what was requested." ></item>
+</script><script id="55" source="2"><item slot="1" original="Ask the waiter to come over." ></item>
+<item slot="2" original="Tell the waiter the problem with your food." ></item>
+<item slot="3" original="Ask the waiter to take the food back" ></item>
+<item slot="4" original="Ask for problem to be corrected or order a new dish" ></item>
+<item slot="5" original="Ask waiter to speak to the manager" ></item>
+<item slot="6" original="Notify the manager of the problem with your dish" ></item>
+<item slot="7" original="Wait for your order to be corrected or for your new dish to come out" ></item>
+</script><script id="56" source="2"><item slot="1" original="Order food" ></item>
+<item slot="2" original="Wait for food" ></item>
+<item slot="3" original="Recieve delivered food" ></item>
+<item slot="4" original="find fault in delivered food" ></item>
+<item slot="5" original="call waiter" ></item>
+<item slot="6" original="describe fault to waiter" ></item>
+<item slot="7" original="request the waiter fix the situation" ></item>
+<item slot="8" original="food is returned to kitchen for improvement" ></item>
+</script><script id="57" source="2"><item slot="1" original="Receive food at restaurant" ></item>
+<item slot="2" original="See that food is not cooked as specified" ></item>
+<item slot="3" original="Find waiter" ></item>
+<item slot="4" original="Explain the situation politely to waiter" ></item>
+<item slot="5" original="Ask waiter to return the food to be cooked properly" ></item>
+<item slot="6" original="Wait" ></item>
+<item slot="7" original="Get food back and check doneness" ></item>
+<item slot="8" original="If incorrect, repeat steps 3-5" ></item>
+<item slot="9" original="If correct, eat food." ></item>
+</script><script id="58" source="2"><item slot="1" original="Flag down the waiter." ></item>
+<item slot="2" original="Apologize." ></item>
+<item slot="3" original="Explain I don't like the food." ></item>
+<item slot="4" original="Ask for another dish." ></item>
+<item slot="5" original="Wait patiently." ></item>
+</script><script id="59" source="2"><item slot="1" original="get servers attention" ></item>
+<item slot="2" original="explain why the food is no good" ></item>
+<item slot="3" original="ask for a different food item" ></item>
+<item slot="4" original="if server is difficult say you won't pay" ></item>
+<item slot="5" original="server will take food back" ></item>
+</script><script id="60" source="2"><item slot="1" original="Grab waiters/waitresses attention." ></item>
+<item slot="2" original="Explain to them the issue with order." ></item>
+<item slot="3" original="Hand waiter/waitress the incorrect item." ></item>
+<item slot="4" original="Discuss how to resolve issue." ></item>
+<item slot="5" original="Wait for response." ></item>
+</script><script id="61" source="2"><item slot="1" original="get food" ></item>
+<item slot="2" original="taste food" ></item>
+<item slot="3" original="see food is raw inside" ></item>
+<item slot="4" original="call waiter over" ></item>
+<item slot="5" original="tell waiter food is raw" ></item>
+<item slot="6" original="send back to kitchen" ></item>
+</script><script id="62" source="2"><item slot="1" original="Taste the food" ></item>
+<item slot="2" original="Politely call waiter over to table" ></item>
+<item slot="3" original="Politely tell waiter that the food is not up to standard" ></item>
+<item slot="4" original="Apologize for making the request" ></item>
+<item slot="5" original="Tell waiter you'd like to try a different dish" ></item>
+<item slot="6" original="Wait until new food is delivered" ></item>
+</script><script id="63" source="2"><item slot="1" original="Tell waiter to come here." ></item>
+<item slot="2" original="Tell waiter whats wrong with food." ></item>
+<item slot="3" original="Waiter takes food back." ></item>
+<item slot="4" original="You wait." ></item>
+<item slot="5" original="Waiter comes back with more foo." ></item>
+<item slot="6" original="You eat." ></item>
+</script><script id="64" source="2"><item slot="1" original="Eat your food" ></item>
+<item slot="2" original="Decide something is wrong with it" ></item>
+<item slot="3" original="Flag down waiter" ></item>
+<item slot="4" original="Inform them what is wrong with your food" ></item>
+<item slot="5" original="Give them the plate of food" ></item>
+<item slot="6" original="Ask for a new plate of food" ></item>
+</script><script id="65" source="2"><item slot="1" original="Signal waiter" ></item>
+<item slot="2" original="Explain problem" ></item>
+<item slot="3" original="Wait for new food to arrive" ></item>
+<item slot="4" original="Test for approval" ></item>
+<item slot="5" original="Finish eating" ></item>
+<item slot="6" original="Waiter brings bill" ></item>
+<item slot="7" original="Pay bill" ></item>
+<item slot="8" original="Waiter brings receipt" ></item>
+<item slot="9" original="Tip the waiter" ></item>
+<item slot="10" original="Leave" ></item>
+</script><script id="66" source="2"><item slot="1" original="See the food" ></item>
+<item slot="2" original="Understand the reason for sending it back" ></item>
+<item slot="3" original="Call the waiter" ></item>
+<item slot="4" original="Explain the reason for rejecting the food" ></item>
+<item slot="5" original="Ask the waiter to take back the food" ></item>
+<item slot="6" original="Order for another food" ></item>
+</script><script id="67" source="2"><item slot="1" original="Look at food" ></item>
+<item slot="2" original="Decide you do not want it" ></item>
+<item slot="3" original="Signal for waiter/waitress" ></item>
+<item slot="4" original="Tell them you do not want dish" ></item>
+<item slot="5" original="Say if you want replacement or new dish" ></item>
+<item slot="6" original="Hand dish to waiter" ></item>
+<item slot="7" original="Wait for new dish to arrive" ></item>
+</script><script id="68" source="2"><item slot="1" original="call the waiter" ></item>
+<item slot="2" original="tell him about the problem" ></item>
+<item slot="3" original="show him the bad food" ></item>
+<item slot="4" original="ask him to take it back" ></item>
+<item slot="5" original="waiter takes back the food" ></item>
+</script><script id="69" source="2"><item slot="1" original="Try your food when it arrives" ></item>
+<item slot="2" original="When it doesn't taste right, call over waiter" ></item>
+<item slot="3" original="Tell them what is wrong with the food" ></item>
+<item slot="4" original="They take it back to kitchen" ></item>
+<item slot="5" original="Your food comes back fixed" ></item>
+</script><script id="70" source="2"><item slot="1" original="Determine food is undesired or incorrect" ></item>
+<item slot="2" original="Wait for waiter/waitress to return to table or flag him or her down" ></item>
+<item slot="3" original="Explain what was wrong with the dish and ask to send it back" ></item>
+<item slot="4" original="Let waiter/waitress known what compensation you'd like" ></item>
+<item slot="5" original="Get confirmation from waiter/waitress and wait until he or she returns" ></item>
+<item slot="6" original="Collect compensation" ></item>
+</script><script id="71" source="2"><item slot="1" original="Order food" ></item>
+<item slot="2" original="Get food" ></item>
+<item slot="3" original="Taste food" ></item>
+<item slot="4" original="Get server's attention" ></item>
+<item slot="5" original="Explain to server why food not to liking" ></item>
+<item slot="6" original="Wait while new food is prepared" ></item>
+<item slot="7" original="Taste and approve or send back again" ></item>
+<item slot="8" original="Eat food if to liking" ></item>
+</script><script id="72" source="2"><item slot="1" original="Call waiter to table." ></item>
+<item slot="2" original="Explain what is wrong with food." ></item>
+<item slot="3" original="Ask the waiter to take the food back to the kitchen." ></item>
+<item slot="4" original="Ask the waiter to take the charge for the food off of the bill." ></item>
+<item slot="5" original="Thank the waiter." ></item>
+</script><script id="73" source="2"><item slot="1" original="Find food unacceptable" ></item>
+<item slot="2" original="Call waiter or waitress" ></item>
+<item slot="3" original="Give complaint" ></item>
+<item slot="4" original="Ask for another plate of food" ></item>
+<item slot="5" original="Try food" ></item>
+<item slot="6" original="If acceptable, I eat" ></item>
+<item slot="7" original="If unacceptable, I'll ask for refund or no charge" ></item>
+</script><script id="74" source="2"><item slot="1" original="Call over the waiter or waitress." ></item>
+<item slot="2" original="Politely explain the problem with the food." ></item>
+<item slot="3" original="Ask if you could have it properly prepared or have it substited." ></item>
+<item slot="4" original="Your server will most probably be happy to honor your wishes." ></item>
+<item slot="5" original="Wait for replacement meal." ></item>
+<item slot="6" original="Eat." ></item>
+</script><script id="75" source="2"><item slot="1" original="Taste food." ></item>
+<item slot="2" original="Call server over." ></item>
+<item slot="3" original="Tell server what is wrong with food." ></item>
+<item slot="4" original="Ask server to take plate of food to get it fixed." ></item>
+<item slot="5" original="Thank server." ></item>
+<item slot="6" original="When new food is ready, have server wait while checking it to make sure it's OK." ></item>
+</script><script id="76" source="2"><item slot="1" original="Call the waiter over" ></item>
+<item slot="2" original="Explain the problem with the food" ></item>
+<item slot="3" original="Explain that you would like a new dish" ></item>
+<item slot="4" original="Give plate to the waiter" ></item>
+<item slot="5" original="Wait for new food to come" ></item>
+<item slot="6" original="Let waiter know if food has been corrected when it comes" ></item>
+<item slot="7" original="Say thank you" ></item>
+</script><script id="77" source="2"><item slot="1" original="Enter restaurant" ></item>
+<item slot="2" original="Find seating" ></item>
+<item slot="3" original="Wait for the waiter to bring menu" ></item>
+<item slot="4" original="Find food you want to order" ></item>
+<item slot="5" original="Order food" ></item>
+<item slot="6" original="When food arrives examine or taste the food" ></item>
+<item slot="7" original="If food is not good, signal for the waiter to return" ></item>
+<item slot="8" original="Tell the waiter you don't want this food" ></item>
+<item slot="9" original="Ask the waiter to send the food back" ></item>
+<item slot="10" original="Ask for a replacement dish" ></item>
+</script><script id="78" source="2"><item slot="1" original="Decide that food is unsatisfactory" ></item>
+<item slot="2" original="Call waiter to table" ></item>
+<item slot="3" original="Explain the problem to waiter" ></item>
+<item slot="4" original="Show waiter the item on menu" ></item>
+<item slot="5" original="Ask waiter for proper order" ></item>
+<item slot="6" original="Hand the plate to waiter" ></item>
+<item slot="7" original="Wait for food or check to return" ></item>
+</script><script id="79" source="2"><item slot="1" original="Taste food" ></item>
+<item slot="2" original="Determine that the food was not made to your liking" ></item>
+<item slot="3" original="Get the attention of a waiter" ></item>
+<item slot="4" original="Ask the waiter to send the food back" ></item>
+<item slot="5" original="Wait for new food" ></item>
+</script><script id="80" source="2"><item slot="1" original="Enter restaurant" ></item>
+<item slot="2" original="Be seated" ></item>
+<item slot="3" original="Look at the menu" ></item>
+<item slot="4" original="Choose food items from menu" ></item>
+<item slot="5" original="Order food from waiter" ></item>
+<item slot="6" original="Taste food or look at food" ></item>
+<item slot="7" original="Find problem" ></item>
+<item slot="8" original="Inform waiter that the food is wrong" ></item>
+<item slot="9" original="Wait for replacement" ></item>
+<item slot="10" original="Eat replacement food" ></item>
+</script><script id="81" source="2"><item slot="1" original="Summon waiter." ></item>
+<item slot="2" original="Politely describe the problem to the waiter." ></item>
+<item slot="3" original="Return plate to waiter." ></item>
+<item slot="4" original="Receive the recooked food." ></item>
+<item slot="5" original="examine to make sure problem is solved." ></item>
+<item slot="6" original="Enjoy meal." ></item>
+<item slot="7" original="Tip appropriately." ></item>
+</script><script id="82" source="2"><item slot="1" original="Dislike food" ></item>
+<item slot="2" original="Call waiter over" ></item>
+<item slot="3" original="Waiter comes to table" ></item>
+<item slot="4" original="Explain the problem" ></item>
+<item slot="5" original="Waiter apologizes" ></item>
+<item slot="6" original="Ask to send food back" ></item>
+<item slot="7" original="Waiter takes plates" ></item>
+<item slot="8" original="Waiter brings food back" ></item>
+</script><script id="83" source="2"><item slot="1" original="Receive your food." ></item>
+<item slot="2" original="Decide that you do not want the food." ></item>
+<item slot="3" original="When you see the waiter you call for them." ></item>
+<item slot="4" original="Explain to the waiter why you will not accept the food." ></item>
+<item slot="5" original="Give the food to the waiter." ></item>
+<item slot="6" original="Receive new food." ></item>
+</script><script id="84" source="2"><item slot="1" original="Call waitress over to your table." ></item>
+<item slot="2" original="Show waitress the problem with your food." ></item>
+<item slot="3" original="Complain in a nice way about the food." ></item>
+<item slot="4" original="Allow waitress to take food away." ></item>
+<item slot="5" original="Wait on new food to arrive." ></item>
+<item slot="6" original="Eat when new food arrives." ></item>
+<item slot="7" original="Thank waitress." ></item>
+</script><script id="85" source="2"><item slot="1" original="Politely inform your waiter you wood like to change your order" ></item>
+<item slot="2" original="Give reason why" ></item>
+<item slot="3" original="Wait patiently" ></item>
+<item slot="4" original="When food arrives, continue to be polite" ></item>
+<item slot="5" original="enjoy new meal" ></item>
+</script><script id="86" source="2"><item slot="1" original="Get your food" ></item>
+<item slot="2" original="Find something wrong with it" ></item>
+<item slot="3" original="Flag down your waiter" ></item>
+<item slot="4" original="Tell him what is wrong with your food" ></item>
+<item slot="5" original="Have the waiter take it to the cooks to make it again" ></item>
+<item slot="6" original="Tell the manager about it" ></item>
+<item slot="7" original="Get your food back right" ></item>
+<item slot="8" original="Eat your food" ></item>
+</script><script id="87" source="2"><item slot="1" original="Getting food" ></item>
+<item slot="2" original="Decide I don't want (like) food" ></item>
+<item slot="3" original="Call waiter" ></item>
+<item slot="4" original="Tell him I don't like it" ></item>
+<item slot="5" original="Watch it go" ></item>
+</script><script id="88" source="2"><item slot="1" original="Decide what is wrong with the food." ></item>
+<item slot="2" original="Get the attention of the server." ></item>
+<item slot="3" original="Explain what is wrong with the food, politely." ></item>
+<item slot="4" original="Tell the server how you would like them to take care of it." ></item>
+<item slot="5" original="Wait for your new plate." ></item>
+<item slot="6" original="Eat your meal." ></item>
+</script><script id="89" source="2"><item slot="1" original="Call the waiter" ></item>
+<item slot="2" original="This not my order" ></item>
+<item slot="3" original="Order cancelled" ></item>
+<item slot="4" original="Get it food back" ></item>
+<item slot="5" original="Return my money" ></item>
+<item slot="6" original="Leave the restaurant" ></item>
+</script><script id="90" source="2"><item slot="1" original="Call server" ></item>
+<item slot="2" original="Explain what is unsatisfactory" ></item>
+<item slot="3" original="Explain what would be acceptable" ></item>
+<item slot="4" original="Pick up plate" ></item>
+<item slot="5" original="Hand plate to server" ></item>
+<item slot="6" original="Thank server" ></item>
+</script><script id="91" source="2"><item slot="1" original="Determine what is wrong with the food" ></item>
+<item slot="2" original="Get the attention of a waiter/waitress" ></item>
+<item slot="3" original="Explain to waiter/waitress what the problem is" ></item>
+<item slot="4" original="Ask waiter/waitress to have problem corrected" ></item>
+<item slot="5" original="Send food back to the kitchen via the waiter/waitress" ></item>
+<item slot="6" original="Wait for new plate of food to be returned" ></item>
+<item slot="7" original="Thank waiter/waitress" ></item>
+<item slot="8" original="Enjoy food" ></item>
+</script><script id="92" source="2"><item slot="1" original="Order food" ></item>
+<item slot="2" original="Receive food" ></item>
+<item slot="3" original="Look at food: is it the correct food, and correctly prepared?" ></item>
+<item slot="4" original="If it is, go to step five. If not, go to step 7." ></item>
+<item slot="5" original="Taste food: does it taste satisfactory?" ></item>
+<item slot="6" original="If yes, enjoy your meal. If not, go to step 7." ></item>
+<item slot="7" original="Politely get your server's attention." ></item>
+<item slot="8" original="Tell your server what is wrong with your food." ></item>
+<item slot="9" original="Ask you server to have it remade correctly." ></item>
+<item slot="10" original="Receive and eat new meal." ></item>
+</script><script id="93" source="2"><item slot="1" original="Get waiter's attention" ></item>
+<item slot="2" original="Explain that food was not as expected" ></item>
+<item slot="3" original="Express desire to have different food brought out" ></item>
+<item slot="4" original="Tell waiter that you do not wish to eat the food that you have" ></item>
+<item slot="5" original="Hand plate to waiter" ></item>
+<item slot="6" original="Agree for waiter to walk back into the kitchen with the plate." ></item>
+</script><script id="94" source="2"><item slot="1" original="Order food from a restaurant" ></item>
+<item slot="2" original="Decide food is not what you wanted/how you wanted it" ></item>
+<item slot="3" original="Tell waiter food is not to expectation" ></item>
+<item slot="4" original="Explain what problem is" ></item>
+<item slot="5" original="Explain what you want to be done" ></item>
+<item slot="6" original="Wait for problem to be resolved" ></item>
+<item slot="7" original="Finish eating meal" ></item>
+<item slot="8" original="Pay and leave tip" ></item>
+<item slot="9" original="Go home" ></item>
+</script><script id="95" source="2"><item slot="1" original="asses the food" ></item>
+<item slot="2" original="call over the server" ></item>
+<item slot="3" original="politely ask the them fix the issue with your food order" ></item>
+<item slot="4" original="respond to any more questions politely" ></item>
+<item slot="5" original="hand over the food if necessary" ></item>
+<item slot="6" original="wait for your order to come back" ></item>
+</script><script id="96" source="2"><item slot="1" original="Ask waiter to come over" ></item>
+<item slot="2" original="Politely tell waiter what is wrong with food ordered" ></item>
+<item slot="3" original="Ask that food be sent back" ></item>
+<item slot="4" original="Wait for right order of food to return" ></item>
+<item slot="5" original="thank the waiter" ></item>
+<item slot="6" original="enjoy new food" ></item>
+</script><script id="97" source="2"><item slot="1" original="Discover what is wrong." ></item>
+<item slot="2" original="Ask for a manager." ></item>
+<item slot="3" original="Excuse yourself." ></item>
+<item slot="4" original="Ask for it to be remade." ></item>
+<item slot="5" original="Let them know you appreciate their understanding." ></item>
+</script><script id="98" source="2"><item slot="1" original="Ask yourself what is wrong with the food." ></item>
+<item slot="2" original="Get the waiters attention." ></item>
+<item slot="3" original="Explain to the waiter your problem with the food" ></item>
+<item slot="4" original="Ask for a new meal" ></item>
+<item slot="5" original="Give the waiter your plate of food" ></item>
+<item slot="6" original="Wait for the new meal" ></item>
+</script><script id="99" source="2"><item slot="1" original="try food" ></item>
+<item slot="2" original="call for waiter" ></item>
+<item slot="3" original="explain to waiter the issue" ></item>
+<item slot="4" original="pray cook doesnt spit in food" ></item>
+<item slot="5" original="wait for food" ></item>
+<item slot="6" original="try food" ></item>
+</script></scripts>

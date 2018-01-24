@@ -1,0 +1,637 @@
+<scripts><script id="0" source="2"><item slot="1" original="Pick up alarm clock and look for where batteries are located" ></item>
+<item slot="2" original="Remove cover from alarm clock where batteries are located" ></item>
+<item slot="3" original="Remove batteries" ></item>
+<item slot="4" original="Buy replacement batteries of the same size" ></item>
+<item slot="5" original="Put new batteries in alarm clock" ></item>
+<item slot="6" original="Replace battery cover on alarm clock" ></item>
+</script><script id="1" source="2"><item slot="1" original="Go to the store and get batteries." ></item>
+<item slot="2" original="Unplug clock." ></item>
+<item slot="3" original="Open area where batteries area." ></item>
+<item slot="4" original="Remove old batteries." ></item>
+<item slot="5" original="Insert new batteries." ></item>
+<item slot="6" original="Plug alarm clock back in." ></item>
+</script><script id="2" source="2"><item slot="1" original="Open battery compartment" ></item>
+<item slot="2" original="Take out old batteries" ></item>
+<item slot="3" original="Get new batteries" ></item>
+<item slot="4" original="Put new batteries in" ></item>
+<item slot="5" original="Close battery compartment" ></item>
+</script><script id="3" source="2"><item slot="1" original="Take alarm clock off nightstand" ></item>
+<item slot="2" original="Open up cover" ></item>
+<item slot="3" original="Take out old batteries" ></item>
+<item slot="4" original="See what kind you need" ></item>
+<item slot="5" original="Throw away old batteries" ></item>
+<item slot="6" original="Get new batteries" ></item>
+<item slot="7" original="Put them in clock" ></item>
+<item slot="8" original="Close cover" ></item>
+<item slot="9" original="Test out alarm clock" ></item>
+<item slot="10" original="Throw away battery packaging" ></item>
+</script><script id="4" source="2"><item slot="1" original="Get new batteries" ></item>
+<item slot="2" original="Open back cover of alarm clock" ></item>
+<item slot="3" original="Remove old batteries" ></item>
+<item slot="4" original="Put new batteries in" ></item>
+<item slot="5" original="Make sure batteries are pointed right" ></item>
+<item slot="6" original="Put back cover on alarm clock" ></item>
+<item slot="7" original="Test alarm clock" ></item>
+</script><script id="5" source="2"><item slot="1" original="Locate the battery compartment" ></item>
+<item slot="2" original="Obtain tool, if necessary to open compartment" ></item>
+<item slot="3" original="Open the battery compartment" ></item>
+<item slot="4" original="Remove battery" ></item>
+<item slot="5" original="Obtain new battery" ></item>
+<item slot="6" original="Put new batteries in" ></item>
+<item slot="7" original="Close battery compartment" ></item>
+<item slot="8" original="Return tool to proper place." ></item>
+</script><script id="6" source="2"><item slot="1" original="Find battery compartment on bottom or back of clock" ></item>
+<item slot="2" original="Open compartment" ></item>
+<item slot="3" original="Take out used batteries, taking note of how they were placed inside" ></item>
+<item slot="4" original="Open new package of correct size batteries" ></item>
+<item slot="5" original="Install proper size and amount of batteries, making sure they are in correctly" ></item>
+<item slot="6" original="Close battery compartment" ></item>
+<item slot="7" original="Discard of old batteries in proper receptacle" ></item>
+</script><script id="7" source="2"><item slot="1" original="picking up the alarm clock" ></item>
+<item slot="2" original="opening battery compartment" ></item>
+<item slot="3" original="taking out old batteries" ></item>
+<item slot="4" original="put in new batteries" ></item>
+<item slot="5" original="close battery compartment" ></item>
+<item slot="6" original="place alarm clock down" ></item>
+</script><script id="8" source="2"><item slot="1" original="Go to the store" ></item>
+<item slot="2" original="Select batteries" ></item>
+<item slot="3" original="Purchase the batteries" ></item>
+<item slot="4" original="Take the old batteries out of the alarm clock" ></item>
+<item slot="5" original="Put in the new batteries inside the alarm clock" ></item>
+<item slot="6" original="Set the correct time" ></item>
+</script><script id="9" source="2"><item slot="1" original="Buy batteries" ></item>
+<item slot="2" original="Take batteries out of alarm clock" ></item>
+<item slot="3" original="Throw old batteries away" ></item>
+<item slot="4" original="Put new batteries in" ></item>
+<item slot="5" original="Reset time" ></item>
+</script><script id="10" source="2"><item slot="1" original="Unplug alarm clock if it's plugged in (if available)" ></item>
+<item slot="2" original="Open the cover to the battery (if available)" ></item>
+<item slot="3" original="Take out old batteries" ></item>
+<item slot="4" original="Replace old batteries with new batteries of same size" ></item>
+<item slot="5" original="Replace cover" ></item>
+<item slot="6" original="Plug back alarm clock (if available)" ></item>
+</script><script id="11" source="2"><item slot="1" original="Buy appropriate batteries" ></item>
+<item slot="2" original="Open the battery cover" ></item>
+<item slot="3" original="Remove used batteries" ></item>
+<item slot="4" original="Replace them with new batteries" ></item>
+<item slot="5" original="Fit the cover back" ></item>
+<item slot="6" original="Dispose off the old batteries in safe place" ></item>
+<item slot="7" original="Adjust the current time of the alarm clock" ></item>
+<item slot="8" original="Place the clock back in its place" ></item>
+</script><script id="12" source="2"><item slot="1" original="Turn alarm clock over" ></item>
+<item slot="2" original="Locate battery compartment" ></item>
+<item slot="3" original="Open compartment" ></item>
+<item slot="4" original="Extract old battery" ></item>
+<item slot="5" original="Get new battery" ></item>
+<item slot="6" original="Remove from packaging" ></item>
+<item slot="7" original="Insert in compartment" ></item>
+<item slot="8" original="Close compartment" ></item>
+<item slot="9" original="Turn alarm clock right side up" ></item>
+</script><script id="13" source="2"><item slot="1" original="Grab alarm clock" ></item>
+<item slot="2" original="Take latch off the back" ></item>
+<item slot="3" original="Remove old batteries" ></item>
+<item slot="4" original="Put in new batteries" ></item>
+<item slot="5" original="Reset your settings" ></item>
+</script><script id="14" source="2"><item slot="1" original="Take out old batteries" ></item>
+<item slot="2" original="Put in new batteries" ></item>
+<item slot="3" original="Check the time on another clock" ></item>
+<item slot="4" original="Set the time on the alarm clock" ></item>
+<item slot="5" original="Set any alarms you had before" ></item>
+</script><script id="15" source="2"><item slot="1" original="Remove old batteries." ></item>
+<item slot="2" original="Obtain replacement batteries." ></item>
+<item slot="3" original="Place new batteries into clock." ></item>
+<item slot="4" original="Secure holder." ></item>
+<item slot="5" original="Test to assure function." ></item>
+</script><script id="17" source="2"><item slot="1" original="Pick up alarm clock." ></item>
+<item slot="2" original="Turn over." ></item>
+<item slot="3" original="Use small screwdriver to unscrew tiny screws." ></item>
+<item slot="4" original="Pull battery cover off." ></item>
+<item slot="5" original="Pull out old battery and disconnect from wires." ></item>
+<item slot="6" original="Take new battery and snap into place." ></item>
+<item slot="7" original="Recover." ></item>
+<item slot="8" original="Screw screws back in." ></item>
+<item slot="9" original="Place clock on dresser." ></item>
+</script><script id="18" source="2"><item slot="1" original="Get batteries" ></item>
+<item slot="2" original="take the old batteries out" ></item>
+<item slot="3" original="put the new ones in" ></item>
+<item slot="4" original="put the back on the clock" ></item>
+<item slot="5" original="dispose of the old batteries" ></item>
+</script><script id="19" source="2"><item slot="1" original="Buy the proper sized batteries for clock" ></item>
+<item slot="2" original="Turn clock over" ></item>
+<item slot="3" original="Remove small plate covering batteries in clock" ></item>
+<item slot="4" original="Remove old batteries and dispose of properly" ></item>
+<item slot="5" original="Insert new batteries, matching the + symbol to the +, and the - symbol to the - in clock" ></item>
+<item slot="6" original="Put plate covering back on clock" ></item>
+<item slot="7" original="Reset clock to the right time" ></item>
+</script><script id="20" source="2"><item slot="1" original="Turn the alarm clock so that you can see the battery compartment" ></item>
+<item slot="2" original="Open the battery compartment" ></item>
+<item slot="3" original="Remove old batteries" ></item>
+<item slot="4" original="Place new batteries in the battery compartment" ></item>
+<item slot="5" original="Close battery compartment" ></item>
+<item slot="6" original="Place alarm clock back in useful position" ></item>
+</script><script id="21" source="2"><item slot="1" original="Grab clock" ></item>
+<item slot="2" original="Unscrew/open back" ></item>
+<item slot="3" original="Remove batteries" ></item>
+<item slot="4" original="Throw away" ></item>
+<item slot="5" original="Replace with new batteries" ></item>
+<item slot="6" original="Close back" ></item>
+<item slot="7" original="Set clock" ></item>
+</script><script id="22" source="2"><item slot="1" original="Check old batteries for correct size." ></item>
+<item slot="2" original="Get new batteries of same size and type." ></item>
+<item slot="3" original="Remove old batteries." ></item>
+<item slot="4" original="Put new batteries in the correct position." ></item>
+<item slot="5" original="Make sure battery cover is in place." ></item>
+<item slot="6" original="Reset time if necessary." ></item>
+<item slot="7" original="Reset alarm." ></item>
+</script><script id="23" source="2"><item slot="1" original="Take out old one old battery" ></item>
+<item slot="2" original="replace with new battery'" ></item>
+<item slot="3" original="see if that provides enough charge for clock to run" ></item>
+<item slot="4" original="if not replace next battery and repeat process" ></item>
+<item slot="5" original="set date and time" ></item>
+<item slot="6" original="set alarm" ></item>
+</script><script id="25" source="2"><item slot="1" original="Remove the back from the alarm clock." ></item>
+<item slot="2" original="Take out the old batteries." ></item>
+<item slot="3" original="View where the plus and minus are." ></item>
+<item slot="4" original="Insert the new batteries." ></item>
+<item slot="5" original="Put the cover back on." ></item>
+</script><script id="26" source="2"><item slot="1" original="Take batteries off" ></item>
+<item slot="2" original="Look at type of batteries" ></item>
+<item slot="3" original="Go to convenience store" ></item>
+<item slot="4" original="Buy batteries" ></item>
+<item slot="5" original="Return home" ></item>
+<item slot="6" original="Change batteries" ></item>
+<item slot="7" original="Set the alarm" ></item>
+</script><script id="27" source="2"><item slot="1" original="locate where batteries are" ></item>
+<item slot="2" original="remove back" ></item>
+<item slot="3" original="take out old batteries" ></item>
+<item slot="4" original="put in fresh batteries" ></item>
+<item slot="5" original="replace back" ></item>
+<item slot="6" original="look at alarm clock" ></item>
+<item slot="7" original="check time" ></item>
+</script><script id="28" source="2"><item slot="1" original="Turn alarm clock over." ></item>
+<item slot="2" original="Take battery cover off of alarm clock." ></item>
+<item slot="3" original="Remove old batteries." ></item>
+<item slot="4" original="Get replacement batteries." ></item>
+<item slot="5" original="Put new batteries into alarm clock." ></item>
+<item slot="6" original="Replace battery cover on clock." ></item>
+<item slot="7" original="Set clock down." ></item>
+</script><script id="29" source="2"><item slot="1" original="Get new batteries" ></item>
+<item slot="2" original="Take cover off of battery compartment" ></item>
+<item slot="3" original="Take old batteries out of alarm clock" ></item>
+<item slot="4" original="Place new batteries into alarm clock" ></item>
+<item slot="5" original="Place cover back onto battery compartment" ></item>
+<item slot="6" original="Set time on alarm clock" ></item>
+<item slot="7" original="Set alarm" ></item>
+</script><script id="30" source="2"><item slot="1" original="Get new batteries" ></item>
+<item slot="2" original="Take the alarm clock" ></item>
+<item slot="3" original="Open the battery lid" ></item>
+<item slot="4" original="Remove the previous batteries" ></item>
+<item slot="5" original="Replace the new batteries" ></item>
+<item slot="6" original="Close the battery lid" ></item>
+<item slot="7" original="Replace the alarm clock" ></item>
+</script><script id="31" source="2"><item slot="1" original="Open up alarm clock" ></item>
+<item slot="2" original="Remove old batteries" ></item>
+<item slot="3" original="Put new batteries in + and - in perspective areas" ></item>
+<item slot="4" original="Put cover back on alarm clock" ></item>
+<item slot="5" original="Turn on" ></item>
+</script><script id="32" source="2"><item slot="1" original="Grab alarm clock" ></item>
+<item slot="2" original="Grab correct batteries for alarm clock" ></item>
+<item slot="3" original="Find battery compartment on alarm clock" ></item>
+<item slot="4" original="Remove old batteries" ></item>
+<item slot="5" original="Insert new batteries" ></item>
+</script><script id="33" source="2"><item slot="1" original="Take appropriate batteries to change the old battery in an alarm clock." ></item>
+<item slot="2" original="Open the box where the batteries are fixed." ></item>
+<item slot="3" original="Take away old batteries and replace with new ones." ></item>
+<item slot="4" original="Close the cover and reset the clock to current timing." ></item>
+<item slot="5" original="Stick a small sticker in side mentioning the date of changed for future use." ></item>
+<item slot="6" original="Hang or stand erect the clock." ></item>
+</script><script id="34" source="2"><item slot="1" original="Get batteries from drawer" ></item>
+<item slot="2" original="close drawer" ></item>
+<item slot="3" original="remove batteries from package" ></item>
+<item slot="4" original="remove battery cover from alarm clock" ></item>
+<item slot="5" original="remove old batteries" ></item>
+<item slot="6" original="place new batteries into clock" ></item>
+<item slot="7" original="replace battery cover" ></item>
+<item slot="8" original="dispose of old batteries" ></item>
+<item slot="9" original="return remaining new batteries to drawer" ></item>
+</script><script id="35" source="2"><item slot="1" original="Buy and bring home new batteries from store" ></item>
+<item slot="2" original="Take the alarm clock" ></item>
+<item slot="3" original="Open the battery cover in the back panel" ></item>
+<item slot="4" original="Remove old batteries" ></item>
+<item slot="5" original="Wipe the battery slot with a dry cloth" ></item>
+<item slot="6" original="Insert the new batteries ensuring correct position of +ve and -ve points" ></item>
+</script><script id="36" source="2"><item slot="1" original="pick up the clock" ></item>
+<item slot="2" original="flip it over" ></item>
+<item slot="3" original="find the battery compartment" ></item>
+<item slot="4" original="remove the cover" ></item>
+<item slot="5" original="remove the old batteries" ></item>
+<item slot="6" original="insert the new batteries" ></item>
+<item slot="7" original="replace the cover" ></item>
+<item slot="8" original="place the clock where you'd like it to be" ></item>
+</script><script id="37" source="2"><item slot="1" original="grab new batteries" ></item>
+<item slot="2" original="grab clock" ></item>
+<item slot="3" original="open battery compartment" ></item>
+<item slot="4" original="remove old batteries" ></item>
+<item slot="5" original="insert new batteries" ></item>
+<item slot="6" original="close battery compartment" ></item>
+</script><script id="38" source="2"><item slot="1" original="open the battery slot on the clock" ></item>
+<item slot="2" original="check what the batteries are" ></item>
+<item slot="3" original=" replace by following the diagram of positive negative sides" ></item>
+<item slot="4" original="put the clip back on to hold the batteries in place" ></item>
+<item slot="5" original="turn on clock to make sure you put them in correctly" ></item>
+</script><script id="39" source="2"><item slot="1" original="Get batteries" ></item>
+<item slot="2" original="Open back of the alarm clock" ></item>
+<item slot="3" original="Take old batteries out" ></item>
+<item slot="4" original="Check to see what direction to put new batteries in" ></item>
+<item slot="5" original="Put new batteries in" ></item>
+<item slot="6" original="Close the back of the alarm clock" ></item>
+</script><script id="40" source="2"><item slot="1" original="Grab alarm" ></item>
+<item slot="2" original="Turn it over" ></item>
+<item slot="3" original="Take out batteries" ></item>
+<item slot="4" original="Grab new ones" ></item>
+<item slot="5" original="Put those in" ></item>
+<item slot="6" original="Throw old ones away" ></item>
+</script><script id="41" source="2"><item slot="1" original="Flip clock upside down." ></item>
+<item slot="2" original="Open the battery case." ></item>
+<item slot="3" original="Remove old batteries." ></item>
+<item slot="4" original="Place new batteries in battery case according directions on battery case." ></item>
+<item slot="5" original="Close battery case." ></item>
+<item slot="6" original="Flip clock the right side up." ></item>
+</script><script id="42" source="2"><item slot="1" original="Securing new batteries" ></item>
+<item slot="2" original="Opening up alarm clock" ></item>
+<item slot="3" original="Removing old batteries" ></item>
+<item slot="4" original="Installing new batteries" ></item>
+<item slot="5" original="Ensure that clock works" ></item>
+<item slot="6" original="Reset time on clock" ></item>
+<item slot="7" original="Recycle old batteries" ></item>
+</script><script id="43" source="2"><item slot="1" original="Take the back off the alarm clock." ></item>
+<item slot="2" original="Take out the batteries." ></item>
+<item slot="3" original="Get new batteries." ></item>
+<item slot="4" original="Put batteries in the alarm clock." ></item>
+<item slot="5" original="Put the back on the alarm clock." ></item>
+<item slot="6" original="Reset the clock." ></item>
+</script><script id="44" source="2"><item slot="1" original="Get replacement batteries" ></item>
+<item slot="2" original="Get screwdriver" ></item>
+<item slot="3" original="Flip alarm clock over" ></item>
+<item slot="4" original="Unscrew battery cover" ></item>
+<item slot="5" original="Remove battery cover" ></item>
+<item slot="6" original="Remove batteries" ></item>
+<item slot="7" original="Put in replacement batteries" ></item>
+<item slot="8" original="Put on battery cover" ></item>
+<item slot="9" original="Secure cover with screw" ></item>
+<item slot="10" original="Check alarm clock" ></item>
+<item slot="11" original="Set clock on dresser" ></item>
+</script><script id="45" source="2"><item slot="1" original="Get alarm clock" ></item>
+<item slot="2" original="Find some new baterries" ></item>
+<item slot="3" original="Open alarm clock" ></item>
+<item slot="4" original="Take out old batteries" ></item>
+<item slot="5" original="Put in new batteries" ></item>
+<item slot="6" original="Close the battery lid on alarm clock" ></item>
+</script><script id="46" source="2"><item slot="1" original="take the back off the alarm clock" ></item>
+<item slot="2" original="look for the right size batteries" ></item>
+<item slot="3" original="take old batteries out." ></item>
+<item slot="4" original="put new batteries in the alarm clock" ></item>
+<item slot="5" original="put the back of the alarm clock back on" ></item>
+</script><script id="47" source="2"><item slot="1" original="Pick up alarm clock" ></item>
+<item slot="2" original="Remove the battery opening" ></item>
+<item slot="3" original="Take out the batteries" ></item>
+<item slot="4" original="Find new batteries" ></item>
+<item slot="5" original="Add new batteries to the alarm clock" ></item>
+<item slot="6" original="Put the back on" ></item>
+<item slot="7" original="Set alarm clock down" ></item>
+</script><script id="48" source="2"><item slot="1" original="Open battery compartment." ></item>
+<item slot="2" original="Check number and size of batteries required." ></item>
+<item slot="3" original="Get appropriate number of correctly-sized batteries." ></item>
+<item slot="4" original="Remove old batteries." ></item>
+<item slot="5" original="Check polarity indicators." ></item>
+<item slot="6" original="Put in new batteries." ></item>
+<item slot="7" original="Reset time and alarms if needed" ></item>
+</script><script id="49" source="2"><item slot="1" original="Get new batteries" ></item>
+<item slot="2" original="Remove battery panel from clock" ></item>
+<item slot="3" original="Remove old batteries" ></item>
+<item slot="4" original="Replace old batteries with fresh batteries" ></item>
+<item slot="5" original="Replace battery panel" ></item>
+<item slot="6" original="Reset clock to correct time" ></item>
+</script><script id="50" source="2"><item slot="1" original="Open alarm clock" ></item>
+<item slot="2" original="Find battery size" ></item>
+<item slot="3" original="Get batteries from drawer" ></item>
+<item slot="4" original="Take old batteries out of alarm clock" ></item>
+<item slot="5" original="Insert new batteries" ></item>
+<item slot="6" original="Replace cover" ></item>
+</script><script id="51" source="2"><item slot="1" original="Pick up alarm clock" ></item>
+<item slot="2" original="Open battery compartment" ></item>
+<item slot="3" original="Remove batteries" ></item>
+<item slot="4" original="Get fresh batteries of the correct type" ></item>
+<item slot="5" original="Put new batteries in alarm clock" ></item>
+<item slot="6" original="Close battery compartment" ></item>
+<item slot="7" original="Reset correct time" ></item>
+<item slot="8" original="Put down alarm clock" ></item>
+</script><script id="52" source="2"><item slot="1" original="Pick up the clock." ></item>
+<item slot="2" original="Open battery compartment." ></item>
+<item slot="3" original="Take out old batteries." ></item>
+<item slot="4" original="Find new batteries." ></item>
+<item slot="5" original="Put them in the clock." ></item>
+<item slot="6" original="Close battery compartment." ></item>
+<item slot="7" original="Put down clock." ></item>
+</script><script id="53" source="2"><item slot="1" original="make sure it is not plugged in" ></item>
+<item slot="2" original="open batteries case" ></item>
+<item slot="3" original="remove old batteries" ></item>
+<item slot="4" original="place new batteries in" ></item>
+<item slot="5" original="replace case" ></item>
+<item slot="6" original="toss out old batteries" ></item>
+</script><script id="54" source="2"><item slot="1" original="Notice dead alarm clock" ></item>
+<item slot="2" original="Remove battery cover" ></item>
+<item slot="3" original="Remove dead batteries" ></item>
+<item slot="4" original="Place new batteries in clock" ></item>
+<item slot="5" original="Replace battery cover" ></item>
+<item slot="6" original="Set clock time" ></item>
+</script><script id="55" source="2"><item slot="1" original="Check to see what size battery you need" ></item>
+<item slot="2" original="Find the correct size battery" ></item>
+<item slot="3" original="Take the cover off" ></item>
+<item slot="4" original="Remove the old battery" ></item>
+<item slot="5" original="Put the new battery in" ></item>
+<item slot="6" original="Replace the cover" ></item>
+</script><script id="56" source="2"><item slot="1" original="take back off of clock" ></item>
+<item slot="2" original="remove old batteries" ></item>
+<item slot="3" original="get new batteries" ></item>
+<item slot="4" original="place in clock" ></item>
+<item slot="5" original="replace back" ></item>
+</script><script id="57" source="2"><item slot="1" original="notice clock no longer works" ></item>
+<item slot="2" original="unscrew battery compartment" ></item>
+<item slot="3" original="remove old batteries" ></item>
+<item slot="4" original="take new batteries out of package" ></item>
+<item slot="5" original="replace old batteries with new one" ></item>
+<item slot="6" original="screw battery compartment back on" ></item>
+<item slot="7" original="turn on clock" ></item>
+<item slot="8" original="reset the time on the clock" ></item>
+</script><script id="58" source="2"><item slot="1" original="Buy the batteries you are in need of" ></item>
+<item slot="2" original="Take apart the alarm clock" ></item>
+<item slot="3" original="Take out the old batteries" ></item>
+<item slot="4" original="Put in the new batteries" ></item>
+<item slot="5" original="Put the alarm clock back together" ></item>
+<item slot="6" original="Turn on alarm clock" ></item>
+</script><script id="59" source="2"><item slot="1" original="Figure out what type of batteries the clock needs" ></item>
+<item slot="2" original="Buy the required batteries" ></item>
+<item slot="3" original="Remove the battery compartment plate" ></item>
+<item slot="4" original="Remove old batteries" ></item>
+<item slot="5" original="Place in new batteries" ></item>
+<item slot="6" original="Close the the battery compartment plate" ></item>
+<item slot="7" original="Set time on alarm clock" ></item>
+<item slot="8" original="Recycle old batteries" ></item>
+</script><script id="60" source="2"><item slot="1" original="Remove cover to battery." ></item>
+<item slot="2" original="Take out battery." ></item>
+<item slot="3" original="Find new battery from battery drawer." ></item>
+<item slot="4" original="Replace battery." ></item>
+<item slot="5" original="Put battery cover back on alarm clock." ></item>
+</script><script id="61" source="2"><item slot="1" original="Open battery compartment" ></item>
+<item slot="2" original="Remove old batteries" ></item>
+<item slot="3" original="Throw away old batteries" ></item>
+<item slot="4" original="Add new batteries" ></item>
+<item slot="5" original="Close battery compartment" ></item>
+</script><script id="62" source="2"><item slot="1" original="pick up alarm clock." ></item>
+<item slot="2" original="unplug clock." ></item>
+<item slot="3" original="take off battery cover on clock." ></item>
+<item slot="4" original="Remove bad batteries." ></item>
+<item slot="5" original="Replace with new batteries." ></item>
+<item slot="6" original="Replace battery cover." ></item>
+<item slot="7" original="Set correct time on clock." ></item>
+</script><script id="63" source="2"><item slot="1" original="turn clock upside-down" ></item>
+<item slot="2" original="remove battery cover" ></item>
+<item slot="3" original="remove old batteries" ></item>
+<item slot="4" original="put in new batteries" ></item>
+<item slot="5" original="replace battery cover" ></item>
+<item slot="6" original="set time and alarm" ></item>
+</script><script id="64" source="2"><item slot="1" original="Unplug alarm clock" ></item>
+<item slot="2" original="remove back cover which houses the batteries" ></item>
+<item slot="3" original="remove batteries" ></item>
+<item slot="4" original="inspect the housing unit to ensure no corrosion" ></item>
+<item slot="5" original="open packet of new batteries" ></item>
+<item slot="6" original="replace batteries" ></item>
+<item slot="7" original="replace back cover" ></item>
+<item slot="8" original="plug in alarm clock to ensure it works" ></item>
+<item slot="9" original="properly dispose of old batteries" ></item>
+</script><script id="65" source="2"><item slot="1" original="REMOVE THE BACK FROM THE ALARM CLOCK" ></item>
+<item slot="2" original="REMOVE THE BATTERIES THAT HAVE EXPIRED" ></item>
+<item slot="3" original="DISCARD OF THEM" ></item>
+<item slot="4" original="PUT THE NEW BATTERIES IN" ></item>
+<item slot="5" original="REPLACE THE BACK OF THE ALARM CLOCK" ></item>
+</script><script id="66" source="2"><item slot="1" original="Pick up clock." ></item>
+<item slot="2" original="Open battery door on bottom." ></item>
+<item slot="3" original="Remove old batteries." ></item>
+<item slot="4" original="Put in new batteries." ></item>
+<item slot="5" original="Close battery door." ></item>
+<item slot="6" original="Reset time on clock." ></item>
+<item slot="7" original="Reset alarm on clock." ></item>
+<item slot="8" original="Set clock down." ></item>
+</script><script id="67" source="2"><item slot="1" original="Get the clock." ></item>
+<item slot="2" original="Find the latch where the batteries are." ></item>
+<item slot="3" original="Open the clock." ></item>
+<item slot="4" original="Take out the old batteries." ></item>
+<item slot="5" original="Place new batteries in the clock." ></item>
+<item slot="6" original="Put the clock back." ></item>
+</script><script id="68" source="2"><item slot="1" original="Purchase new batteries" ></item>
+<item slot="2" original="Open the alarm clock's battery hatch" ></item>
+<item slot="3" original="remove batteries" ></item>
+<item slot="4" original="replace old batteries with new batteries" ></item>
+<item slot="5" original="close hatch" ></item>
+<item slot="6" original="test alarm clock" ></item>
+</script><script id="69" source="2"><item slot="1" original="Buy new batteries" ></item>
+<item slot="2" original="Remove old batteries from the clock" ></item>
+<item slot="3" original="Install new batteries properly" ></item>
+<item slot="4" original="Adjust the time to make it accurate" ></item>
+<item slot="5" original="Place the clock at its desired location" ></item>
+</script><script id="70" source="2"><item slot="1" original="remove old batteries from alarm clock" ></item>
+<item slot="2" original="obtain new batteries" ></item>
+<item slot="3" original="place new batteries in alarm clock" ></item>
+<item slot="4" original="assure alarm clock turns on" ></item>
+<item slot="5" original="dispose of old batteries properly" ></item>
+<item slot="6" original="place alarm clock in original location" ></item>
+</script><script id="71" source="2"><item slot="1" original="Locate the battery compartment on the alarm clock." ></item>
+<item slot="2" original="Remove the battery compartment cover." ></item>
+<item slot="3" original="Remove the old batteries." ></item>
+<item slot="4" original="Insert new fresh batteries." ></item>
+<item slot="5" original="Replace the battery compartment cover." ></item>
+<item slot="6" original="Set the clock for the proper time." ></item>
+<item slot="7" original="Throw away the old batteries." ></item>
+</script><script id="72" source="2"><item slot="1" original="Open back of alarm clock." ></item>
+<item slot="2" original="Take out bad batteries." ></item>
+<item slot="3" original="Throw away bad batteries." ></item>
+<item slot="4" original="Put in new batteries." ></item>
+<item slot="5" original="Close back of alarm clock." ></item>
+</script><script id="73" source="2"><item slot="1" original="Get new batteries." ></item>
+<item slot="2" original="Take alarm clock to an area with good lighting." ></item>
+<item slot="3" original="Slide battery cover off using the small tab." ></item>
+<item slot="4" original="Remember which way the batteries are facing before removing them." ></item>
+<item slot="5" original="Remove old batteries one by one." ></item>
+<item slot="6" original="Put new batteries in one by one as you remove old ones." ></item>
+<item slot="7" original="Replace battery cover by sliding it back onto the clock back." ></item>
+<item slot="8" original="Put the old batteries in the battery recycling container." ></item>
+<item slot="9" original="Put alarm clock back on night table." ></item>
+</script><script id="74" source="2"><item slot="1" original="Get new batteries" ></item>
+<item slot="2" original="Open battery case on alarm clock" ></item>
+<item slot="3" original="Check proper alignment of batteries" ></item>
+<item slot="4" original="Place batteries in battery case" ></item>
+<item slot="5" original="Close battery case" ></item>
+<item slot="6" original="Check that alarm clock is working properly" ></item>
+</script><script id="75" source="2"><item slot="1" original="Open up battery compartment." ></item>
+<item slot="2" original="Take out old batteries." ></item>
+<item slot="3" original="Put new batteries in." ></item>
+<item slot="4" original="Close compartment." ></item>
+<item slot="5" original="Set alarm." ></item>
+<item slot="6" original="Put on table." ></item>
+</script><script id="76" source="2"><item slot="1" original="Check which kind of batteries your clock takes" ></item>
+<item slot="2" original="Get new batteries from the store" ></item>
+<item slot="3" original="Get your alarm clock" ></item>
+<item slot="4" original="Turn your clock over" ></item>
+<item slot="5" original="Open battery compartment" ></item>
+<item slot="6" original="Remove old batteries" ></item>
+<item slot="7" original="Throw old batteries out" ></item>
+<item slot="8" original="Put in first new battery" ></item>
+<item slot="9" original="Make sure plus side goes where the plus is on your clock" ></item>
+<item slot="10" original="Put in the rest of your batteries making sure pluses are with pluses" ></item>
+<item slot="11" original="Make sure minuses side is with minus side" ></item>
+</script><script id="77" source="2"><item slot="1" original="Open battery case" ></item>
+<item slot="2" original="Take dead batteries out of alarm clock." ></item>
+<item slot="3" original="Open pack of batteries" ></item>
+<item slot="4" original="Put new batteries in alarm clock." ></item>
+<item slot="5" original="Close battery case." ></item>
+<item slot="6" original="Reset time on alarm clock." ></item>
+<item slot="7" original="Safely dispose of old batteries." ></item>
+</script><script id="78" source="2"><item slot="1" original="Get batteries ready" ></item>
+<item slot="2" original="Find the alarm clock" ></item>
+<item slot="3" original="Remove the cover that's hiding the batteries" ></item>
+<item slot="4" original="Take out the old batteries" ></item>
+<item slot="5" original="Put in the new batteries" ></item>
+<item slot="6" original="Replace the cover" ></item>
+<item slot="7" original="Put the old batteries in the garbage" ></item>
+</script><script id="79" source="2"><item slot="1" original="Get new batteries." ></item>
+<item slot="2" original="Take the old batteries out of an alarm clock." ></item>
+<item slot="3" original="Put the new batteries in." ></item>
+<item slot="4" original="Test and see if it will work." ></item>
+<item slot="5" original="Recycle the old batteries." ></item>
+</script><script id="80" source="2"><item slot="1" original="Find some new batteries." ></item>
+<item slot="2" original="Grab the alarm clock." ></item>
+<item slot="3" original="Open the battery slot." ></item>
+<item slot="4" original="Check the negative and positive ends." ></item>
+<item slot="5" original="Place in the batteries." ></item>
+<item slot="6" original="Close the battery slot." ></item>
+</script><script id="81" source="2"><item slot="1" original="get batteries" ></item>
+<item slot="2" original="pick up clock" ></item>
+<item slot="3" original="open the back of the clock" ></item>
+<item slot="4" original="take out old batteries" ></item>
+<item slot="5" original="look and see which way the batteries go in" ></item>
+<item slot="6" original="place batteries into clock" ></item>
+<item slot="7" original="place back onto clock" ></item>
+<item slot="8" original="set time" ></item>
+</script><script id="82" source="2"><item slot="1" original="Remove battery cover from clock." ></item>
+<item slot="2" original="Check battery size." ></item>
+<item slot="3" original="Remove old batteries." ></item>
+<item slot="4" original="Dispose of old batteries properly." ></item>
+<item slot="5" original="Place new batteries into clock." ></item>
+<item slot="6" original="Replace battery cover." ></item>
+</script><script id="83" source="2"><item slot="1" original="Open battery compartment face-plate" ></item>
+<item slot="2" original="Remove old batteries" ></item>
+<item slot="3" original="Get new batteries" ></item>
+<item slot="4" original="Put new batteries into compartment" ></item>
+<item slot="5" original="Replace compartment face-plate" ></item>
+</script><script id="84" source="2"><item slot="1" original="Get new battery" ></item>
+<item slot="2" original="Check expiry date" ></item>
+<item slot="3" original="Remove battery cover" ></item>
+<item slot="4" original="Throw away cover" ></item>
+<item slot="5" original="Take alarm clock" ></item>
+<item slot="6" original="Remove old battery" ></item>
+<item slot="7" original="Put new battery" ></item>
+<item slot="8" original="Check clock runs" ></item>
+<item slot="9" original="Reset time" ></item>
+</script><script id="85" source="2"><item slot="1" original="Remove battery cover from the alarm clock." ></item>
+<item slot="2" original="Determine what type of batteries that you are going to need." ></item>
+<item slot="3" original="Replace battery cover." ></item>
+<item slot="4" original="Get batteries." ></item>
+<item slot="5" original="Remove battery cover from the alarm clock." ></item>
+<item slot="6" original="Remove old batteries and dispose of properly (recycling, if possible)." ></item>
+<item slot="7" original="Insert new batteries in place of old batteries." ></item>
+<item slot="8" original="Replace battery cover." ></item>
+</script><script id="86" source="2"><item slot="1" original="have new batteries available" ></item>
+<item slot="2" original="grab alarm clock" ></item>
+<item slot="3" original="take old batteries out of alarm clock" ></item>
+<item slot="4" original="put new batteries in alarm clock" ></item>
+<item slot="5" original="close alarm clock" ></item>
+<item slot="6" original="turn on alarm clock and set desired time" ></item>
+</script><script id="87" source="2"><item slot="1" original="Take the new batteries" ></item>
+<item slot="2" original="Open the back cover of the alarm clock" ></item>
+<item slot="3" original="Take out the exhausted batteries" ></item>
+<item slot="4" original="Take out the batteries from their covers" ></item>
+<item slot="5" original="Insert new batteries in the alarm clock maintaining the correct polarity" ></item>
+<item slot="6" original="Close the battery cover" ></item>
+<item slot="7" original="Set the correct time" ></item>
+<item slot="8" original="keep the alarm clock on its place" ></item>
+</script><script id="88" source="2"><item slot="1" original="Open the battery compartment." ></item>
+<item slot="2" original="Check to see what type and how many batteries you need." ></item>
+<item slot="3" original="Get what batteries you need." ></item>
+<item slot="4" original="Install batteries." ></item>
+<item slot="5" original="When installing batteries check to see which way they go in." ></item>
+<item slot="6" original="Close battery compartment." ></item>
+<item slot="7" original="Set the time." ></item>
+</script><script id="89" source="2"><item slot="1" original="Remove battery cover" ></item>
+<item slot="2" original="Remove old batteries" ></item>
+<item slot="3" original="Insert new batteries" ></item>
+<item slot="4" original="Replace battery cover" ></item>
+<item slot="5" original="Set the time" ></item>
+<item slot="6" original="Set the alarm" ></item>
+<item slot="7" original="Throw old batteries away" ></item>
+</script><script id="90" source="2"><item slot="1" original="take the alarm clock" ></item>
+<item slot="2" original="take out the old batteries" ></item>
+<item slot="3" original="open the new batteries" ></item>
+<item slot="4" original="insert the new batteries into the alarm clock" ></item>
+<item slot="5" original="switch on the alarm clock" ></item>
+<item slot="6" original="set the alarm" ></item>
+</script><script id="91" source="2"><item slot="1" original="Take back off of alarm clock" ></item>
+<item slot="2" original="Remove old batteries" ></item>
+<item slot="3" original="Place the new batteries into the clock" ></item>
+<item slot="4" original="Replace cover" ></item>
+<item slot="5" original="Update the time" ></item>
+</script><script id="92" source="2"><item slot="1" original="Get new batteries of correct size" ></item>
+<item slot="2" original="Remove alarm clock battery cover" ></item>
+<item slot="3" original="Take out old batteries" ></item>
+<item slot="4" original="Discard old batteries" ></item>
+<item slot="5" original="Insert new batteries" ></item>
+<item slot="6" original="Replace clock cover" ></item>
+<item slot="7" original="Test clock for power to determine if batteries work" ></item>
+</script><script id="93" source="2"><item slot="1" original="Get alarm clock" ></item>
+<item slot="2" original="Remove battery compartment hatch" ></item>
+<item slot="3" original="Remove old batteries" ></item>
+<item slot="4" original="Discard old batteries" ></item>
+<item slot="5" original="Put new batteries in" ></item>
+<item slot="6" original="Replace battery compartment hatch" ></item>
+<item slot="7" original="Put clock back" ></item>
+</script><script id="94" source="2"><item slot="1" original="Get clock" ></item>
+<item slot="2" original="Open battery cover" ></item>
+<item slot="3" original="Take out old batteries" ></item>
+<item slot="4" original="Get new batteries" ></item>
+<item slot="5" original="Take them out of package" ></item>
+<item slot="6" original="Put batteries into clock" ></item>
+<item slot="7" original="Put cover over batteries" ></item>
+</script><script id="95" source="2"><item slot="1" original="Determine the battery size that is used by the alarm clock." ></item>
+<item slot="2" original="Get the appropriate number of correctly sized batteries from your storage location." ></item>
+<item slot="3" original="Open the battery compartment on the alarm clock." ></item>
+<item slot="4" original="Note in which direction the existing batteries are installed." ></item>
+<item slot="5" original="Remove the existing batteries." ></item>
+<item slot="6" original="Install the new batteries facing the same direction as the old batteries." ></item>
+<item slot="7" original="Close the battery compartment." ></item>
+<item slot="8" original="Discard the old batteries." ></item>
+<item slot="9" original="Set the clock to the correct time." ></item>
+</script><script id="96" source="2"><item slot="1" original="Grab a screw driver" ></item>
+<item slot="2" original="Grab some new batteries" ></item>
+<item slot="3" original="Take cover off of battery holder" ></item>
+<item slot="4" original="Take out old batteries" ></item>
+<item slot="5" original="Put in new batteries" ></item>
+<item slot="6" original="Put cover back on" ></item>
+<item slot="7" original="Dispose of old batteries" ></item>
+</script><script id="97" source="2"><item slot="1" original="Open battery compartment" ></item>
+<item slot="2" original="Take out old batteries" ></item>
+<item slot="3" original="Dispose of old batteries" ></item>
+<item slot="4" original="Open new battery back" ></item>
+<item slot="5" original="Put new batteries in compartment" ></item>
+<item slot="6" original="Close battery compartment" ></item>
+<item slot="7" original="Test alarm clock" ></item>
+</script></scripts>

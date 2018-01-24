@@ -1,0 +1,255 @@
+<scripts>
+<label type="PARAPHRASE" event="get_tools">
+<item source="2" script="33" slot="1" total_slots="7" original="Get air pump"></item>
+<item source="2" script="36" slot="2" total_slots="6" original="Get air pump."></item>
+<item source="2" script="38" slot="1" total_slots="6" original="getting an air pump"></item>
+<item source="2" script="39" slot="2" total_slots="6" original="Buy a tire repair kit from store."></item>
+<item source="2" script="41" slot="1" total_slots="15" original="purchase tire repair kit"></item>
+<item source="2" script="45" slot="2" total_slots="5" original="Find a pump."></item>
+<item source="2" script="47" slot="2" total_slots="6" original="go to the store to buy a repair kit"></item>
+<item source="2" script="49" slot="4" total_slots="8" original="Get flat fixing compound"></item>
+<item source="2" script="52" slot="2" total_slots="10" original="Locate an air pump"></item>
+<item source="2" script="52" slot="3" total_slots="10" original="Locate tire patches"></item>
+<item source="2" script="53" slot="1" total_slots="5" original="Buy bike tire sealer"></item>
+<item source="2" script="55" slot="10" total_slots="16" original="Take one adhesive puncture patch"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_get_bicycle">
+<item source="2" script="41" slot="2" total_slots="15" original="locate bike"></item>
+
+</label>
+<label type="PARAPHRASE" event="lay_bike_down">
+<item source="2" script="41" slot="3" total_slots="15" original="turn bike upside down"></item>
+<item source="2" script="43" slot="1" total_slots="9" original="lay bike on side"></item>
+<item source="2" script="45" slot="1" total_slots="5" original="Stand the bike somewhere."></item>
+<item source="2" script="48" slot="1" total_slots="6" original="turn bicycle upside down"></item>
+<item source="2" script="52" slot="1" total_slots="10" original="Stand the bicycle up"></item>
+<item source="2" script="55" slot="1" total_slots="16" original="Lay the bicycle on ground"></item>
+
+</label>
+<label type="PARAPHRASE" event="loose_nut">
+<item source="2" script="43" slot="2" total_slots="9" original="remove screws so you can remove the entire tire and rim."></item>
+<item source="2" script="55" slot="2" total_slots="16" original="Open the valve tube nut"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_unhook_chains">
+<item source="2" script="35" slot="2" total_slots="5" original="release brakes from bike"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_throw_tire">
+<item source="2" script="36" slot="6" total_slots="6" original="Throw away the old tire."></item>
+
+</label>
+<label type="PARAPHRASE" event="take_tire_off">
+<item source="2" script="30" slot="1" total_slots="6" original="Remove the tire from your bike"></item>
+<item source="2" script="31" slot="3" total_slots="7" original="Take tire off wheel"></item>
+<item source="2" script="32" slot="1" total_slots="5" original="Remove tire from bike"></item>
+<item source="2" script="32" slot="2" total_slots="5" original="remove tube from tire"></item>
+<item source="2" script="34" slot="1" total_slots="9" original="Remove tire from wheel rim"></item>
+<item source="2" script="34" slot="2" total_slots="9" original="Remove inner tube"></item>
+<item source="2" script="35" slot="3" total_slots="5" original="remove tire from bike"></item>
+<item source="2" script="36" slot="3" total_slots="6" original="Take old tire off."></item>
+<item source="2" script="39" slot="3" total_slots="6" original="Remove tire from bike frame."></item>
+<item source="2" script="40" slot="1" total_slots="7" original="remove tire"></item>
+<item source="2" script="41" slot="5" total_slots="15" original="take tire off"></item>
+<item source="2" script="42" slot="2" total_slots="5" original="remove tire"></item>
+<item source="2" script="43" slot="3" total_slots="9" original="use screwdriver to pry off old tire"></item>
+<item source="2" script="44" slot="1" total_slots="6" original="Take the tire off the bike"></item>
+<item source="2" script="44" slot="2" total_slots="6" original="Pull the tire off the wheel"></item>
+<item source="2" script="48" slot="2" total_slots="6" original="remove old tire"></item>
+<item source="2" script="49" slot="1" total_slots="8" original="Remove tire and rim from bicycle"></item>
+<item source="2" script="49" slot="2" total_slots="8" original="Remove tire from rim"></item>
+<item source="2" script="51" slot="1" total_slots="10" original="You take tire off bike."></item>
+<item source="2" script="51" slot="2" total_slots="10" original="You take out tube."></item>
+<item source="2" script="55" slot="3" total_slots="16" original="Open the tire from rim"></item>
+<item source="2" script="55" slot="4" total_slots="16" original="Take out the tube from tire"></item>
+
+</label>
+<label type="PARAPHRASE" event="refill_tire_air">
+<item source="2" script="30" slot="6" total_slots="6" original="Re-inflate the tire."></item>
+<item source="2" script="31" slot="6" total_slots="7" original="Inflate tire"></item>
+<item source="2" script="33" slot="3" total_slots="7" original="Place hose end into the tire"></item>
+<item source="2" script="33" slot="4" total_slots="7" original="Fasten the hose"></item>
+<item source="2" script="33" slot="5" total_slots="7" original="Pump air into tire"></item>
+<item source="2" script="33" slot="6" total_slots="7" original="Unfasten the hose"></item>
+<item source="2" script="34" slot="9" total_slots="9" original="Pump up tire"></item>
+<item source="2" script="36" slot="5" total_slots="6" original="Inflate the new tire."></item>
+<item source="2" script="37" slot="2" total_slots="6" original="Attach pump to tire"></item>
+<item source="2" script="37" slot="3" total_slots="6" original="Start pumping air into tire"></item>
+<item source="2" script="38" slot="3" total_slots="6" original="turn the air pump on"></item>
+<item source="2" script="38" slot="4" total_slots="6" original="refill the tire"></item>
+<item source="2" script="38" slot="5" total_slots="6" original="turn off air pump"></item>
+<item source="2" script="39" slot="5" total_slots="6" original="Air up tire using a air pump."></item>
+<item source="2" script="40" slot="3" total_slots="7" original="attach pump to air valve"></item>
+<item source="2" script="40" slot="4" total_slots="7" original="pump tire"></item>
+<item source="2" script="41" slot="6" total_slots="15" original="inflate tube"></item>
+<item source="2" script="41" slot="12" total_slots="15" original="inflate tube"></item>
+<item source="2" script="42" slot="5" total_slots="5" original="pump full of air"></item>
+<item source="2" script="43" slot="8" total_slots="9" original="air up tire"></item>
+<item source="2" script="45" slot="3" total_slots="5" original="Attach air pump to tire."></item>
+<item source="2" script="45" slot="4" total_slots="5" original="Pump air."></item>
+<item source="2" script="47" slot="5" total_slots="6" original="put air in the tire."></item>
+<item source="2" script="48" slot="5" total_slots="6" original="pump up tire with air"></item>
+<item source="2" script="49" slot="7" total_slots="8" original="Air up tire"></item>
+<item source="2" script="50" slot="4" total_slots="5" original="Add air to the tire."></item>
+<item source="2" script="51" slot="8" total_slots="10" original="You air up tire."></item>
+<item source="2" script="52" slot="5" total_slots="10" original="Connect the pump to the tire"></item>
+<item source="2" script="52" slot="6" total_slots="10" original="Pump the tire back up"></item>
+<item source="2" script="52" slot="7" total_slots="10" original="Remove the pump"></item>
+<item source="2" script="53" slot="4" total_slots="5" original="Refill tire with air"></item>
+<item source="2" script="55" slot="5" total_slots="16" original="Fill air in the flat tire"></item>
+<item source="2" script="55" slot="16" total_slots="16" original="Fill the air"></item>
+
+</label>
+<label type="PARAPHRASE" event="examine_tire">
+<item source="2" script="34" slot="3" total_slots="9" original="Pump inner tube with air to locate puncture"></item>
+<item source="2" script="39" slot="1" total_slots="6" original="Locate where the hole is in bike tire."></item>
+<item source="2" script="41" slot="7" total_slots="15" original="put tube in water to find leak"></item>
+<item source="2" script="41" slot="13" total_slots="15" original="inspect for leaks"></item>
+<item source="2" script="43" slot="4" total_slots="9" original="find hole in tire"></item>
+<item source="2" script="46" slot="1" total_slots="5" original="LOCATE THE PUNCTURE ON THE TIRE"></item>
+<item source="2" script="47" slot="1" total_slots="6" original="determine what caused the flat"></item>
+<item source="2" script="49" slot="3" total_slots="8" original="Locate leak on tire"></item>
+<item source="2" script="50" slot="1" total_slots="5" original="Find the source of the air leaking from the tire."></item>
+<item source="2" script="51" slot="3" total_slots="10" original="You put tube in water to find the hole."></item>
+<item source="2" script="52" slot="4" total_slots="10" original="Find the hole"></item>
+<item source="2" script="53" slot="2" total_slots="5" original="Find hole in bicycle tire"></item>
+<item source="2" script="55" slot="6" total_slots="16" original="Immerse one portion of the tube in water"></item>
+<item source="2" script="55" slot="7" total_slots="16" original="Watch out for air bubbles to locate the punctured area"></item>
+<item source="2" script="55" slot="8" total_slots="16" original="Change the portion of the tube immersed in water by rotating the tube till finding the punctured area"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_dry">
+<item source="2" script="41" slot="8" total_slots="15" original="dry tube"></item>
+<item source="2" script="55" slot="11" total_slots="16" original="Clean the punctured area"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_remove_air">
+<item source="2" script="30" slot="2" total_slots="6" original="Deflate any remaining air"></item>
+
+</label>
+<label type="PARAPHRASE" event="get_tire">
+<item source="2" script="32" slot="3" total_slots="5" original="purchase new bike tube from store"></item>
+<item source="2" script="35" slot="1" total_slots="5" original="get replacement tire tube"></item>
+<item source="2" script="36" slot="1" total_slots="6" original="Get new tire."></item>
+<item source="2" script="42" slot="1" total_slots="5" original="get a new tube"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_mark_holes">
+<item source="2" script="55" slot="9" total_slots="16" original="Mark the punctured area"></item>
+
+</label>
+<label type="PARAPHRASE" event="put_patch/seal">
+<item source="2" script="30" slot="3" total_slots="6" original="Patch up any holes in the tire with a tire patching adhesive"></item>
+<item source="2" script="31" slot="4" total_slots="7" original="Put tire patch on leak"></item>
+<item source="2" script="34" slot="4" total_slots="9" original="Apply glue around puncture"></item>
+<item source="2" script="34" slot="5" total_slots="9" original="Apply patch to puncture"></item>
+<item source="2" script="35" slot="4" total_slots="5" original="patch damaged area from tire"></item>
+<item source="2" script="39" slot="4" total_slots="6" original="Follow directions and plug the hole."></item>
+<item source="2" script="41" slot="9" total_slots="15" original="repair tube"></item>
+<item source="2" script="43" slot="5" total_slots="9" original="use patch to repair tire from the inside"></item>
+<item source="2" script="44" slot="3" total_slots="6" original="Patch the innertube"></item>
+<item source="2" script="46" slot="2" total_slots="5" original="USING A TIRE REPAIR KIT, COVER THE HOLE"></item>
+<item source="2" script="47" slot="3" total_slots="6" original="use the repair kit to fix the tire"></item>
+<item source="2" script="49" slot="5" total_slots="8" original="Apply flat fixing compound to tire"></item>
+<item source="2" script="50" slot="2" total_slots="5" original="Apply a patch over the hole that is causing air to leak."></item>
+<item source="2" script="51" slot="4" total_slots="10" original="You put glue on hole."></item>
+<item source="2" script="51" slot="5" total_slots="10" original="Then put a patch on glue."></item>
+<item source="2" script="52" slot="8" total_slots="10" original="Place patch over the hole"></item>
+<item source="2" script="53" slot="3" total_slots="5" original="Use bike tire sealer on hole"></item>
+<item source="2" script="55" slot="12" total_slots="16" original="Open the protective sticker and paste it to close the puncture"></item>
+<item source="2" script="55" slot="13" total_slots="16" original="Press gently"></item>
+
+</label>
+<label type="PARAPHRASE" event="put_new_tire">
+<item source="2" script="30" slot="5" total_slots="6" original="Place the tire back on your bike"></item>
+<item source="2" script="31" slot="5" total_slots="7" original="Put tire back on wheel"></item>
+<item source="2" script="31" slot="7" total_slots="7" original="Put wheel back on bike"></item>
+<item source="2" script="32" slot="4" total_slots="5" original="fit tube into tire"></item>
+<item source="2" script="32" slot="5" total_slots="5" original="attach tire back on to the bike"></item>
+<item source="2" script="34" slot="7" total_slots="9" original="Replace inner tube"></item>
+<item source="2" script="34" slot="8" total_slots="9" original="Replace tire"></item>
+<item source="2" script="35" slot="5" total_slots="5" original="put tire back on bike"></item>
+<item source="2" script="36" slot="4" total_slots="6" original="Put new tire on bicycle."></item>
+<item source="2" script="40" slot="6" total_slots="7" original="re-attach tire"></item>
+<item source="2" script="41" slot="10" total_slots="15" original="put tube back on wheel"></item>
+<item source="2" script="41" slot="11" total_slots="15" original="put tire back on"></item>
+<item source="2" script="41" slot="14" total_slots="15" original="put wheel back on bike"></item>
+<item source="2" script="42" slot="3" total_slots="5" original="place new tube inside tube"></item>
+<item source="2" script="42" slot="4" total_slots="5" original="replace tire"></item>
+<item source="2" script="43" slot="7" total_slots="9" original="replace tire on rim"></item>
+<item source="2" script="43" slot="9" total_slots="9" original="replace tire and rim onto bicycle"></item>
+<item source="2" script="44" slot="4" total_slots="6" original="Put the innertube back inside the tire"></item>
+<item source="2" script="44" slot="5" total_slots="6" original="Put the tire back on the wheel"></item>
+<item source="2" script="44" slot="6" total_slots="6" original="Put it back on the bike"></item>
+<item source="2" script="46" slot="4" total_slots="5" original="WHEN SATISFIED, PUT TIRE BACK ON BIKE"></item>
+<item source="2" script="48" slot="3" total_slots="6" original="place new rubber tire"></item>
+<item source="2" script="48" slot="4" total_slots="6" original="put outer portion of tire back on tire rim"></item>
+<item source="2" script="49" slot="6" total_slots="8" original="Place tire on rim"></item>
+<item source="2" script="51" slot="7" total_slots="10" original="You put tube back in tire."></item>
+<item source="2" script="51" slot="9" total_slots="10" original="Put tire back on bike."></item>
+<item source="2" script="55" slot="14" total_slots="16" original="Put the tube back to the tire"></item>
+<item source="2" script="55" slot="15" total_slots="16" original="Fit the tire in rim"></item>
+
+</label>
+<label type="PARAPHRASE" event="pull_air_pin">
+<item source="2" script="33" slot="2" total_slots="7" original="Unscrew cap on tire"></item>
+<item source="2" script="38" slot="2" total_slots="6" original="take the cap off the tire"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_replace_cap">
+<item source="2" script="33" slot="7" total_slots="7" original="Screw cap back on tire"></item>
+<item source="2" script="38" slot="6" total_slots="6" original="replace the cap"></item>
+<item source="2" script="45" slot="5" total_slots="5" original="Seal tire and ride away."></item>
+
+</label>
+<label type="PARAPHRASE" event="other_put_away_tools">
+<item source="2" script="37" slot="5" total_slots="6" original="Store pump"></item>
+<item source="2" script="52" slot="9" total_slots="10" original="Put the pump back"></item>
+<item source="2" script="52" slot="10" total_slots="10" original="Put extra patches back"></item>
+
+</label>
+<label type="PARAPHRASE" event="check_new_tire">
+<item source="2" script="37" slot="4" total_slots="6" original="Push on tire with thumb and feel pressure"></item>
+<item source="2" script="39" slot="6" total_slots="6" original="Check for any remaining leaks."></item>
+<item source="2" script="40" slot="5" total_slots="7" original="check psi with gauge"></item>
+<item source="2" script="46" slot="3" total_slots="5" original="WHEN COVERED, CHECK THAT NO AIR ESCAPES"></item>
+<item source="2" script="47" slot="4" total_slots="6" original="double check to make sure the tire is repaired properly"></item>
+<item source="2" script="47" slot="6" total_slots="6" original="inspect the tire to make sure it doesn't leak"></item>
+<item source="2" script="49" slot="8" total_slots="8" original="Ensure that tire holds air"></item>
+<item source="2" script="50" slot="5" total_slots="5" original="Test the fix but riding a short distance."></item>
+<item source="2" script="53" slot="5" total_slots="5" original="Test bike to make sure it holds"></item>
+
+</label>
+<label type="PARAPHRASE" event="ride_bike">
+<item source="2" script="37" slot="6" total_slots="6" original="Ride bike"></item>
+<item source="2" script="40" slot="7" total_slots="7" original="ride bike"></item>
+<item source="2" script="41" slot="15" total_slots="15" original="ride bike"></item>
+<item source="2" script="46" slot="5" total_slots="5" original="USE BIKE AS NORMAL"></item>
+<item source="2" script="48" slot="6" total_slots="6" original="ride bicycle"></item>
+<item source="2" script="51" slot="10" total_slots="10" original="Ride away."></item>
+
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item source="2" script="37" slot="1" total_slots="6" original="Locate spot to insert air into tire"></item>
+<item source="2" script="40" slot="2" total_slots="7" original="find air valve"></item>
+
+</label>
+<label type="PARAPHRASE" event="notice_problem">
+<item source="2" script="31" slot="1" total_slots="7" original="Notice flat tire"></item>
+
+</label>
+<label type="PARAPHRASE" event="free_wheel">
+<item source="2" script="31" slot="2" total_slots="7" original="Take wheel off bike"></item>
+<item source="2" script="41" slot="4" total_slots="15" original="take wheel off"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_dry_patch">
+<item source="2" script="30" slot="4" total_slots="6" original="Wait for it to dry"></item>
+<item source="2" script="34" slot="6" total_slots="9" original="Allow to dry"></item>
+<item source="2" script="43" slot="6" total_slots="9" original="wait for patch to dry"></item>
+<item source="2" script="50" slot="3" total_slots="5" original="Wait until the glued patch is dry."></item>
+<item source="2" script="51" slot="6" total_slots="10" original="You wait for it to dry."></item>
+
+</label>
+</scripts>

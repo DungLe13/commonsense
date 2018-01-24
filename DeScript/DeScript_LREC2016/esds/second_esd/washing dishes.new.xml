@@ -1,0 +1,787 @@
+<scripts><script id="1" source="2"><item slot="1" original="Scrape off any large chunks of food from the plate." ></item>
+<item slot="2" original="Submerge the dishes in warm water." ></item>
+<item slot="3" original="Add dish soap to the warm water." ></item>
+<item slot="4" original="Let the dishes soak for about 15-30 mins." ></item>
+<item slot="5" original="Scrub the dishes to make sure no food is sticking to them." ></item>
+<item slot="6" original="Rinse the dishes under water to clean off the soap and any other food particles." ></item>
+<item slot="7" original="Gently dry the dishes with a dish cloth." ></item>
+<item slot="8" original="Leave the dishes on the counter on top of the cloth (or on a dish rack) to dry" ></item>
+</script><script id="2" source="2"><item slot="1" original="Get dirty dishes" ></item>
+<item slot="2" original="Put dishes in the sink" ></item>
+<item slot="3" original="Plug the drain of sink" ></item>
+<item slot="4" original="Fill sink with water and dish soap" ></item>
+<item slot="5" original="Use sponge to wash dishes" ></item>
+<item slot="6" original="Rinse dishes off" ></item>
+<item slot="7" original="Place dishes in rack to dry" ></item>
+</script><script id="3" source="2"><item slot="1" original="Scrape dishes" ></item>
+<item slot="2" original="Fill the sink with water and soap" ></item>
+<item slot="3" original="Get a washcloth" ></item>
+<item slot="4" original="Wash each dish" ></item>
+<item slot="5" original="Rinse each dish" ></item>
+<item slot="6" original="Let dry" ></item>
+<item slot="7" original="Put dishes away when dry" ></item>
+</script><script id="4" source="2"><item slot="1" original="take dirty dishes to sink" ></item>
+<item slot="2" original="run warm water into sink" ></item>
+<item slot="3" original="add soap" ></item>
+<item slot="4" original="scrub dishes with scrubber to remove food stains" ></item>
+<item slot="5" original="rinse dishes" ></item>
+<item slot="6" original="place clean dishes in rack to air dry" ></item>
+</script><script id="5" source="2"><item slot="1" original="Turn on water" ></item>
+<item slot="2" original="Add soap to water" ></item>
+<item slot="3" original="Wet sponge" ></item>
+<item slot="4" original="Pick up dirty dish" ></item>
+<item slot="5" original="Scrub dish with soapy sponge" ></item>
+<item slot="6" original="Rinse soap off dish" ></item>
+<item slot="7" original="Place dish in holder to dry" ></item>
+<item slot="8" original="Repeat for all dishes" ></item>
+</script><script id="6" source="2"><item slot="1" original="Put dirty dishes in sink" ></item>
+<item slot="2" original="Turn on water" ></item>
+<item slot="3" original="Fill sink with water" ></item>
+<item slot="4" original="Put soap on dishes" ></item>
+<item slot="5" original="Scrub dishes" ></item>
+<item slot="6" original="Drain sink" ></item>
+<item slot="7" original="Rinse dishes" ></item>
+<item slot="8" original="Get towel" ></item>
+<item slot="9" original="Dry dishes" ></item>
+<item slot="10" original="Put dishes away" ></item>
+</script><script id="7" source="2"><item slot="1" original="Get a scouring pad" ></item>
+<item slot="2" original="Get the dish-washing liquid" ></item>
+<item slot="3" original="Pour the dish-washing liquid into the scouring pad" ></item>
+<item slot="4" original="Use the scouring pad too clean the plates" ></item>
+<item slot="5" original="Clean all the dishes in the sink" ></item>
+</script><script id="8" source="2"><item slot="1" original="Go to sink" ></item>
+<item slot="2" original="Get soap" ></item>
+<item slot="3" original="Get rag" ></item>
+<item slot="4" original="Turn on water to fill sink" ></item>
+<item slot="5" original="Add soap" ></item>
+<item slot="6" original="Wash all of the dishes" ></item>
+<item slot="7" original="Drain water" ></item>
+<item slot="8" original="Rinse and wipe" ></item>
+<item slot="9" original="Let dry" ></item>
+</script><script id="9" source="2"><item slot="1" original="Put the oiled dishes in the sink" ></item>
+<item slot="2" original="Fill the other sink with water" ></item>
+<item slot="3" original="Take dish washer" ></item>
+<item slot="4" original="Take the dish washing sponge" ></item>
+<item slot="5" original="Soak it with dish washer" ></item>
+<item slot="6" original="Rub the oiled dishes" ></item>
+<item slot="7" original="Rinse the dishes" ></item>
+<item slot="8" original="Put the washed dishes in drying rack" ></item>
+<item slot="9" original="Clean the sinks and surrounding area" ></item>
+<item slot="10" original="Wipe the dishes with clean cloth" ></item>
+</script><script id="10" source="2"><item slot="1" original="draw warm water" ></item>
+<item slot="2" original="add dish soap" ></item>
+<item slot="3" original="for each dish, dip in soapy water" ></item>
+<item slot="4" original="scrub with sponge" ></item>
+<item slot="5" original="rinse under running water" ></item>
+<item slot="6" original="towel dry" ></item>
+</script><script id="11" source="2"><item slot="1" original="Put dirty dishes in sink" ></item>
+<item slot="2" original="Retrieve sponge" ></item>
+<item slot="3" original="Squirt dish soap on sponge" ></item>
+<item slot="4" original="Turn on water" ></item>
+<item slot="5" original="Moisten sponge" ></item>
+<item slot="6" original="Scrub dishes" ></item>
+<item slot="7" original="Rinse dishes off with clean water" ></item>
+<item slot="8" original="Rinse sponge" ></item>
+</script><script id="12" source="2"><item slot="1" original="Grab dirty dishes" ></item>
+<item slot="2" original="Place dishes in sink" ></item>
+<item slot="3" original="Turn on water" ></item>
+<item slot="4" original="Put soap on dishes" ></item>
+<item slot="5" original="Scrub dishes with a sponge" ></item>
+<item slot="6" original="Dry dishes with a towel" ></item>
+</script><script id="13" source="2"><item slot="1" original="Get a container large enough for dishes of hot water" ></item>
+<item slot="2" original="Add soap" ></item>
+<item slot="3" original="Put all dishes in the container" ></item>
+<item slot="4" original="Scrub all the stuck on stuff off dishes" ></item>
+<item slot="5" original="Rinse off soap" ></item>
+<item slot="6" original="Put dishes in drying rack" ></item>
+</script><script id="14" source="2"><item slot="1" original="Please help me to give the dishwasher" ></item>
+<item slot="2" original="Fill the sink with the hot water" ></item>
+<item slot="3" original="Sock pots and pans" ></item>
+<item slot="4" original="Please come and help me to dry the dishes" ></item>
+<item slot="5" original="We clean all the dirtier items" ></item>
+<item slot="6" original="Pour more water to clean all the dishes" ></item>
+</script><script id="15" source="2"><item slot="1" original="Get dish soap" ></item>
+<item slot="2" original="Get dish towels" ></item>
+<item slot="3" original="Run hot water" ></item>
+<item slot="4" original="Add dish soap" ></item>
+<item slot="5" original="Place dishes in hot water" ></item>
+<item slot="6" original="Use towels to clean dishes" ></item>
+<item slot="7" original="Rinse with water from faucet" ></item>
+<item slot="8" original=" Place on dry rack" ></item>
+<item slot="9" original="Dry off with towel" ></item>
+</script><script id="16" source="2"><item slot="1" original="Washing dishes is a major work done in houses, restaurant and all eatable place." ></item>
+<item slot="2" original="First take cleaning liquid in a bowl." ></item>
+<item slot="3" original="On account of the dishes to be cleaned take enough liquid." ></item>
+<item slot="4" original="First pour some water on the dishes so that food particles etc., will run off." ></item>
+<item slot="5" original="Then take each and every dish clean with spongy filled with cleaning liquid." ></item>
+<item slot="6" original="Wash the dish till cleaning liquid goes." ></item>
+<item slot="7" original="Wipe the dishes for dry with a dry cloth." ></item>
+<item slot="8" original="Arrange all the dishes in the stand or preferred place" ></item>
+</script><script id="17" source="2"><item slot="1" original="put dishes in sink" ></item>
+<item slot="2" original="scrap off any food" ></item>
+<item slot="3" original="rinse any grease or sticky stuff" ></item>
+<item slot="4" original="put dishes in dishwasher" ></item>
+<item slot="5" original="add dish soap" ></item>
+<item slot="6" original="run dishwasher" ></item>
+<item slot="7" original="take clean dishes out and put away in cabinet" ></item>
+</script><script id="18" source="2"><item slot="1" original="Fill the sink with hot water" ></item>
+<item slot="2" original="Add dish soap while water is sill running" ></item>
+<item slot="3" original="rinse and food off dishes" ></item>
+<item slot="4" original="turn off water" ></item>
+<item slot="5" original="place dishes in soapy water" ></item>
+<item slot="6" original="scrub with a dish rag" ></item>
+<item slot="7" original="rinse in cold water" ></item>
+<item slot="8" original="place in dish drainer" ></item>
+</script><script id="19" source="2"><item slot="1" original="Fill kitchen sink with dish soap and warm water" ></item>
+<item slot="2" original="Put dirty dishes in soapy water" ></item>
+<item slot="3" original="Let soak for 10-15 minutes" ></item>
+<item slot="4" original="Scrub dishes with sponge" ></item>
+<item slot="5" original="Set into empty side of sink" ></item>
+<item slot="6" original="Rinse dishes with warm water" ></item>
+<item slot="7" original="Put dishes in rack to dry" ></item>
+</script><script id="20" source="2"><item slot="1" original="Run hot water in sink." ></item>
+<item slot="2" original="Add dish soap." ></item>
+<item slot="3" original="Place dirty dishes in water." ></item>
+<item slot="4" original="Use sponge to scrub dishes." ></item>
+<item slot="5" original="Rinse off with hot water." ></item>
+<item slot="6" original="Place in draining rack." ></item>
+<item slot="7" original="Put away when dry." ></item>
+</script><script id="21" source="2"><item slot="1" original="Open diswasher" ></item>
+<item slot="2" original="Use the sink to rInse excess food off of any dishes" ></item>
+<item slot="3" original="Place dishes in dishwasher" ></item>
+<item slot="4" original="Put detergent into detergent compartment" ></item>
+<item slot="5" original="Close dishwasher" ></item>
+<item slot="7" original="When dishwasher is done, remove dishes and put them away" ></item>
+</script><script id="22" source="2"><item slot="1" original="Gather all dishes" ></item>
+<item slot="2" original="Put dishes into sink of warm soapy water" ></item>
+<item slot="3" original="Wash dishes with a sponge or rag" ></item>
+<item slot="4" original="Rinse dishes with clean water" ></item>
+<item slot="5" original="Set dishes in dish drain or drying mat" ></item>
+<item slot="6" original="When dishes are dry put them away" ></item>
+</script><script id="23" source="2"><item slot="1" original="Gather dirty dishes." ></item>
+<item slot="2" original="Put dishes in the sink." ></item>
+<item slot="3" original="Plug sink's drain." ></item>
+<item slot="4" original="Pour a small amount of dish liquid over dishes." ></item>
+<item slot="5" original="Run hot water over dishes." ></item>
+<item slot="6" original="Turn off water." ></item>
+<item slot="7" original="Allow dishes to soak." ></item>
+<item slot="8" original="Grab a towel." ></item>
+<item slot="9" original="Rub towel around the dishes to get food off dishes." ></item>
+<item slot="10" original="Rinse soap and water off cleaned dishes." ></item>
+<item slot="11" original="Set dishes in rack to allow to dry." ></item>
+</script><script id="24" source="2"><item slot="1" original="Bring dirty dishes to sink." ></item>
+<item slot="2" original="Put stopper in sink." ></item>
+<item slot="3" original="Fill sink with warm water." ></item>
+<item slot="4" original="Add dishsoap as water is running." ></item>
+<item slot="5" original="Place dishes in sink." ></item>
+<item slot="6" original="Use rag to scrub dishes." ></item>
+<item slot="7" original="Rinse dishes in cool water." ></item>
+<item slot="8" original="Set dishes in dishrack to dry." ></item>
+</script><script id="25" source="2"><item slot="1" original="Place dirty dishes into sink" ></item>
+<item slot="2" original="Close sink drain" ></item>
+<item slot="3" original="Fill sink with hot water" ></item>
+<item slot="4" original="Pour dish soap into the water" ></item>
+<item slot="5" original="Let dishes sit for 10 minutes" ></item>
+<item slot="6" original="Get sponge" ></item>
+<item slot="7" original="Thoroughly wipe dishes with sponge" ></item>
+<item slot="8" original="Rinse dishes" ></item>
+<item slot="9" original="Place dishes into dish rack to dry" ></item>
+</script><script id="26" source="2"><item slot="1" original="Fill sink with sudsy water." ></item>
+<item slot="2" original="Put dirty dishes in water." ></item>
+<item slot="3" original="Get two clean towels." ></item>
+<item slot="4" original="Wash each dish." ></item>
+<item slot="5" original="Rinse each dish." ></item>
+<item slot="6" original="Put in dish drainer." ></item>
+<item slot="7" original="Dry dishes." ></item>
+<item slot="8" original="Put away dishes." ></item>
+</script><script id="27" source="2"><item slot="1" original="Run water" ></item>
+<item slot="2" original="Add dish soap" ></item>
+<item slot="3" original="Put dirty dishes in water" ></item>
+<item slot="4" original="Wash with sponge" ></item>
+<item slot="5" original="Rinse" ></item>
+<item slot="6" original="Put on rack to dry or dry with towel" ></item>
+<item slot="7" original="Stop water" ></item>
+<item slot="8" original="Drain water" ></item>
+<item slot="9" original="Rinse sink" ></item>
+</script><script id="28" source="2"><item slot="1" original="Turn the water to the hottest your hands can handle." ></item>
+<item slot="2" original="Get soap on the sponge." ></item>
+<item slot="3" original="Wash a dish." ></item>
+<item slot="4" original="Rinse it in the second sink." ></item>
+<item slot="5" original="Set it in the drain rack." ></item>
+<item slot="6" original="Repeat for every dirty dish." ></item>
+</script><script id="29" source="2"><item slot="1" original="Wear gloves" ></item>
+<item slot="2" original="Fill sink with hot water" ></item>
+<item slot="3" original="Leave dishes in sink" ></item>
+<item slot="4" original="Wait for ten minutes" ></item>
+<item slot="5" original="Start scrubing" ></item>
+<item slot="6" original="Put dishes in place" ></item>
+<item slot="7" original="Wash sink" ></item>
+</script><script id="30" source="2"><item slot="1" original="Scrape any bits of food off the plates and into the trash or disposal." ></item>
+<item slot="2" original="Fill the sink with hot water and add dish detergent." ></item>
+<item slot="3" original="Place the dishes in the sink one at a time and scrub them." ></item>
+<item slot="4" original="Rinse the soap off and place the dishes in the dish drainer." ></item>
+<item slot="5" original="Heavily soiled dishes may require soaking." ></item>
+</script><script id="31" source="2"><item slot="1" original="Fill sink with hot water" ></item>
+<item slot="2" original="Put dish soap into hot water" ></item>
+<item slot="3" original="Place dishes in hot water" ></item>
+<item slot="4" original="Let dishes soak for a couple of minutes" ></item>
+<item slot="5" original="Get rag" ></item>
+<item slot="6" original="Put dish soap on rag" ></item>
+<item slot="7" original="Rub dishes with soapy rag until clean" ></item>
+<item slot="8" original="Drain soapy water from sink" ></item>
+<item slot="9" original="Turn on water" ></item>
+<item slot="10" original="Rinse soap from clean dishes" ></item>
+<item slot="11" original="Put clean dishes in dish drain" ></item>
+<item slot="12" original="Wait for dishes to dry" ></item>
+<item slot="13" original="Put dishes away" ></item>
+</script><script id="32" source="2"><item slot="1" original="start hot water" ></item>
+<item slot="2" original="dunk dirty dish in hot water" ></item>
+<item slot="3" original="pour dish soap in hot water" ></item>
+<item slot="4" original="scrub dish" ></item>
+<item slot="5" original="rinse dish" ></item>
+<item slot="6" original="remove from water" ></item>
+<item slot="7" original="dry" ></item>
+<item slot="8" original="put away" ></item>
+</script><script id="33" source="2"><item slot="1" original="Gather dirty dishes into sink" ></item>
+<item slot="2" original="Turn on water" ></item>
+<item slot="3" original="Put dish soap onto sponge" ></item>
+<item slot="4" original="Begin to clean dirty dishes with sponge" ></item>
+<item slot="5" original="Put away dishes" ></item>
+</script><script id="34" source="2"><item slot="1" original="Fill sink with warm water." ></item>
+<item slot="2" original="Add liquid detergent." ></item>
+<item slot="3" original="Put dishes in sudsy water." ></item>
+<item slot="4" original="Take wash cloth and wash each dish." ></item>
+<item slot="5" original="Rinse each dish in clear running water." ></item>
+<item slot="6" original="Place each dish on towel or dish rack to dry." ></item>
+<item slot="7" original="Put away dishes once they have dried." ></item>
+</script><script id="35" source="2"><item slot="1" original="Fill sink with soap and water." ></item>
+<item slot="2" original="Take a dish as wash it with a sponge." ></item>
+<item slot="3" original="Continue to wash all of the dishes." ></item>
+<item slot="4" original="After washing them rinse each dish off with water." ></item>
+<item slot="5" original="All the dishes will then be clean." ></item>
+<item slot="6" original="Take each dish and dry it with a towel." ></item>
+<item slot="7" original=" After all dishes are dry put the dishes back." ></item>
+</script><script id="36" source="2"><item slot="1" original="Put the dishes in the sink." ></item>
+<item slot="2" original="Put on kitchen gloves." ></item>
+<item slot="3" original="Get a sponge." ></item>
+<item slot="4" original="Start the water." ></item>
+<item slot="5" original="Apply dish soap on dirty dishes." ></item>
+<item slot="6" original="Start to wash." ></item>
+<item slot="7" original="Rinse the dishes." ></item>
+<item slot="8" original="Wipe the dishes." ></item>
+<item slot="9" original="Put the dishes away." ></item>
+<item slot="10" original="Clean up." ></item>
+</script><script id="37" source="2"><item slot="1" original="Retrieve dirty dish" ></item>
+<item slot="2" original="Rinse dirty dish" ></item>
+<item slot="3" original="Soap the sponge" ></item>
+<item slot="4" original="Soap the dirty dish with sponge" ></item>
+<item slot="5" original="Rinse the soapy dish" ></item>
+<item slot="6" original="Rack the wet dish on drying rack" ></item>
+<item slot="7" original="Repeat steps 1-6 as needed for all dirty dishes" ></item>
+</script><script id="38" source="2"><item slot="1" original="scrape leftover food into trash" ></item>
+<item slot="2" original="rinse dish" ></item>
+<item slot="3" original="grab sponge" ></item>
+<item slot="4" original="place dish soap on sponge" ></item>
+<item slot="5" original="scrub dish with soapy sponge" ></item>
+<item slot="6" original="rinse dish with clean water" ></item>
+<item slot="7" original="set dish in dish rack to air dry" ></item>
+</script><script id="39" source="2"><item slot="1" original="Place a big size bowl in the kitchen sink" ></item>
+<item slot="2" original="Fill water to the half" ></item>
+<item slot="3" original="Add dish washing powder and mix well" ></item>
+<item slot="4" original="Put greasy dishes first into the bowl" ></item>
+<item slot="5" original="Then put delicate dishes" ></item>
+<item slot="6" original="Wear thin rubber gloves" ></item>
+<item slot="7" original="Clean the delicate dishes with sponge one by one" ></item>
+<item slot="8" original="Place them into another bowl" ></item>
+<item slot="9" original="Then clean the greasy dishes with a scrubber" ></item>
+<item slot="10" original="Start rinsing the dishes one by one in running tap water" ></item>
+<item slot="11" original="Store the washed dishes in a dry bowl" ></item>
+</script><script id="40" source="2"><item slot="1" original="Get dirty dishes." ></item>
+<item slot="2" original="Turn on the dishwashing machine." ></item>
+<item slot="3" original="Place dishes on a rack." ></item>
+<item slot="4" original="Put the dirty dishes in the machine." ></item>
+<item slot="5" original="Turn on machine." ></item>
+<item slot="6" original="Put it on the correct settings." ></item>
+<item slot="7" original="Wait until it's done." ></item>
+<item slot="8" original="Get dishes." ></item>
+<item slot="9" original="Put them back in the cabinet." ></item>
+</script><script id="41" source="2"><item slot="1" original="Run hot water in the sink." ></item>
+<item slot="2" original="Add soap to the water." ></item>
+<item slot="3" original="Put dishes in the water." ></item>
+<item slot="4" original="Scrub them with a cloth." ></item>
+<item slot="5" original="Rinse the dishes." ></item>
+<item slot="6" original="Dry the dishes." ></item>
+</script><script id="42" source="2"><item slot="1" original="Stack dirty dishes next to sink" ></item>
+<item slot="2" original="Put dish soap in bottom of sink" ></item>
+<item slot="3" original="Fill sink with warm water" ></item>
+<item slot="4" original="Get sponge" ></item>
+<item slot="5" original="Wash dishes" ></item>
+<item slot="6" original="Rinse dishes" ></item>
+<item slot="7" original="Place dishes in dish drainer" ></item>
+<item slot="8" original="When dishes are dry, put them away." ></item>
+<item slot="9" original="Drain sink." ></item>
+<item slot="10" original="Wash sink." ></item>
+</script><script id="43" source="2"><item slot="1" original="Fill sink with water." ></item>
+<item slot="2" original="Put dirty dishes in water." ></item>
+<item slot="3" original="Add soap." ></item>
+<item slot="4" original="Scrup dishes with brush." ></item>
+<item slot="5" original="Rinse with clean water." ></item>
+<item slot="6" original="Dry dishes." ></item>
+</script><script id="44" source="2"><item slot="1" original="Go to kitchen" ></item>
+<item slot="2" original="Put on gloves" ></item>
+<item slot="3" original="Grab soap" ></item>
+<item slot="4" original="Put soap on dishes" ></item>
+<item slot="5" original="Scrub the dishes" ></item>
+<item slot="6" original="Rinse them" ></item>
+<item slot="7" original="Put in dishwasher" ></item>
+<item slot="8" original="Turn it on" ></item>
+</script><script id="45" source="2"><item slot="1" original="Stack dishes according to size" ></item>
+<item slot="2" original="Put in dishwashing basin" ></item>
+<item slot="3" original="Fill basin with hot water" ></item>
+<item slot="4" original="Add dishwashing detergent" ></item>
+<item slot="5" original="Turn off water" ></item>
+<item slot="6" original="Take dish" ></item>
+<item slot="7" original="Scrub dish with sponge" ></item>
+<item slot="8" original="Rinse dish under faucet" ></item>
+<item slot="9" original="Stack dish on dishrack" ></item>
+<item slot="10" original="Repeat 6-9 until finished" ></item>
+</script><script id="46" source="2"><item slot="1" original="Putting dishes into dishwasher" ></item>
+<item slot="2" original="When dishwasher is full, add soap" ></item>
+<item slot="3" original="Turn on dishwasher" ></item>
+<item slot="4" original="Wait until cycle is finished" ></item>
+<item slot="5" original="Open dishwasher" ></item>
+<item slot="6" original="Put away clean dishes" ></item>
+</script><script id="47" source="2"><item slot="1" original="grab dish detergent" ></item>
+<item slot="2" original="turn on faucet" ></item>
+<item slot="3" original="grab sponge" ></item>
+<item slot="4" original="scrub dishes with sponge and detergent" ></item>
+<item slot="5" original="rinse" ></item>
+</script><script id="48" source="2"><item slot="1" original="Turn on the water in the sink" ></item>
+<item slot="2" original="Add dish soap" ></item>
+<item slot="3" original="Let the sink fill" ></item>
+<item slot="4" original="Add dishes to the water" ></item>
+<item slot="5" original="Use a rag to wash them" ></item>
+<item slot="6" original="Rinse them with clean water" ></item>
+<item slot="7" original="Put on a counter to dry" ></item>
+</script><script id="49" source="2"><item slot="1" original="Bring dirty dishes to sink" ></item>
+<item slot="2" original="fill sink with warm water" ></item>
+<item slot="3" original="put dish soap into water" ></item>
+<item slot="4" original="put dirty dishes into water" ></item>
+<item slot="5" original="wash each dish with sponge" ></item>
+<item slot="6" original="place clean dishes on drying rack" ></item>
+</script><script id="50" source="2"><item slot="1" original="open dishwasher" ></item>
+<item slot="2" original="load large items in the bottom of the washer" ></item>
+<item slot="3" original="load smaller items on the top rock of washer" ></item>
+<item slot="4" original="add soap" ></item>
+<item slot="5" original="close dishwasher door" ></item>
+<item slot="6" original="start dishwasher" ></item>
+</script><script id="51" source="2"><item slot="1" original="Fill sink with very warm water" ></item>
+<item slot="2" original="Add dishwashing soap to water" ></item>
+<item slot="3" original="Put dirty dishes into water" ></item>
+<item slot="4" original="Wash dishes" ></item>
+<item slot="5" original="Rinse dishes" ></item>
+<item slot="6" original="Put dishes in strainer" ></item>
+<item slot="7" original="Dry dishes" ></item>
+<item slot="8" original="Put away dishes" ></item>
+</script><script id="52" source="2"><item slot="1" original="Place all dirty dishes in one spot." ></item>
+<item slot="2" original="Put dish soap on rag or scrubbie." ></item>
+<item slot="3" original="Take dish and use scrubbie or rag to clean." ></item>
+<item slot="4" original="Rinse soap off with water." ></item>
+<item slot="5" original="Let dish air dry." ></item>
+<item slot="6" original="Continue until all dishes are clean." ></item>
+</script><script id="53" source="2"><item slot="1" original="Gather dirty dishes" ></item>
+<item slot="2" original="Place dishes into dish washer" ></item>
+<item slot="3" original="Put soap in dish washer" ></item>
+<item slot="4" original="Turn dish washer on" ></item>
+<item slot="5" original="Wait for dish washer to finish" ></item>
+<item slot="6" original="Place dishes back in cupboard" ></item>
+</script><script id="54" source="2"><item slot="1" original="Gather up all dirty dishes" ></item>
+<item slot="2" original="Open the dishwasher" ></item>
+<item slot="3" original="Place them into the dishwasher" ></item>
+<item slot="4" original="Put the detergent into the dishwasher" ></item>
+<item slot="5" original="Close the dishwasher" ></item>
+<item slot="6" original="Select the type of wash" ></item>
+<item slot="7" original="Turn the dishwasher on" ></item>
+</script><script id="55" source="2"><item slot="1" original="gather dirty dishes" ></item>
+<item slot="2" original="put dishes in dishwasher" ></item>
+<item slot="3" original="get dishwasher pack" ></item>
+<item slot="4" original="put dishwasher pack in dishwasher" ></item>
+<item slot="5" original="close door" ></item>
+<item slot="6" original="turn dishwasher on" ></item>
+<item slot="7" original="wait for dishes to be done" ></item>
+</script><script id="56" source="2"><item slot="1" original="fill sink with water" ></item>
+<item slot="2" original="add soap" ></item>
+<item slot="3" original="add dishes a few at a time" ></item>
+<item slot="4" original="clean off dishes" ></item>
+<item slot="5" original="place clean dishes in dry rack" ></item>
+</script><script id="57" source="2"><item slot="1" original="stack dishes" ></item>
+<item slot="2" original="rinse top dish" ></item>
+<item slot="3" original="scrub dish" ></item>
+<item slot="4" original="dry dish" ></item>
+<item slot="5" original="place dish in drying rack" ></item>
+<item slot="6" original="repeat" ></item>
+</script><script id="58" source="2"><item slot="1" original="fill sink with water" ></item>
+<item slot="2" original="place dishes in water" ></item>
+<item slot="3" original="add soap" ></item>
+<item slot="4" original="run rag over dishes" ></item>
+<item slot="5" original="rinse off dishes" ></item>
+<item slot="6" original="dry off finished dishes" ></item>
+</script><script id="59" source="2"><item slot="1" original="Fill one sink with hot water and soap" ></item>
+<item slot="2" original="Pile dirty dishes into water-filled sink" ></item>
+<item slot="3" original="Let soak for at least 20 minutes" ></item>
+<item slot="4" original="Scrub one dish with Brillo pad" ></item>
+<item slot="5" original="Rinse dish with water in the empty sink" ></item>
+<item slot="6" original="Let dish dry on dish rack" ></item>
+<item slot="7" original="Repeat steps 4-6 until all dishes are clean" ></item>
+<item slot="8" original="Put dry dishes in appropriate cabinets" ></item>
+<item slot="9" original="Scrub and rinse sink of any residue" ></item>
+</script><script id="60" source="2"><item slot="1" original="Go into the kitchen" ></item>
+<item slot="2" original="Fill the sink with hot water and soap" ></item>
+<item slot="3" original="Add the dishes" ></item>
+<item slot="4" original="Get a sponge" ></item>
+<item slot="5" original="Wash and rinse each dish" ></item>
+<item slot="6" original="Put the dishes onto the drying rack" ></item>
+<item slot="7" original="Drain the dishwater" ></item>
+<item slot="8" original="Rinse out sponge" ></item>
+<item slot="9" original="Get a drying cloth" ></item>
+<item slot="10" original="Dry each dish" ></item>
+<item slot="11" original="Place each dish into cupboard" ></item>
+</script><script id="61" source="2"><item slot="1" original="Plug sink drain" ></item>
+<item slot="2" original="Turn on warm water in kitchen sink" ></item>
+<item slot="3" original="Add soap to water" ></item>
+<item slot="4" original="Put dishes in soapy water" ></item>
+<item slot="5" original="Pick dish up and scrub with brush or sponge" ></item>
+<item slot="6" original="Rinse soap off the dish" ></item>
+<item slot="7" original="Dry dish with towel and set aside" ></item>
+<item slot="8" original="Continue with each dish" ></item>
+<item slot="9" original="Turn water off" ></item>
+<item slot="10" original="Unplug drain" ></item>
+</script><script id="62" source="2"><item slot="1" original="Go to the kitchen" ></item>
+<item slot="2" original="Go to the sink" ></item>
+<item slot="3" original="Turn on the water" ></item>
+<item slot="4" original="Grab a dirty dish" ></item>
+<item slot="5" original="Grab a dish rag" ></item>
+<item slot="6" original="Put dish washing detergent on it" ></item>
+<item slot="7" original="Wash the dish" ></item>
+</script><script id="63" source="2"><item slot="1" original="Fill sink with water" ></item>
+<item slot="2" original="Soap up the water" ></item>
+<item slot="3" original="Get sponge" ></item>
+<item slot="4" original="Soak dishes in water" ></item>
+<item slot="5" original="Scrub the dishes" ></item>
+<item slot="6" original="Wash the water off the dishes" ></item>
+<item slot="7" original="Place the dishes in try to dry" ></item>
+</script><script id="64" source="2"><item slot="1" original="Fill up the sink with water" ></item>
+<item slot="2" original="Add dish soap" ></item>
+<item slot="3" original="Wash dishes in soapy water" ></item>
+<item slot="4" original="Rinse with clean water" ></item>
+<item slot="5" original="Add dishes to dish rack to dry" ></item>
+</script><script id="65" source="2"><item slot="1" original="FILL BOWL WITH WASHING UP LIQUID AND HOT WATER" ></item>
+<item slot="2" original="SUBMERGE DIRTY DISHES IN THE WATER" ></item>
+<item slot="3" original="USE WASHING UTENSIL TO SCRUB CLEAN" ></item>
+<item slot="4" original="RINSE SUDS OFF CLEAN DISHES" ></item>
+<item slot="5" original="DRY DISHES" ></item>
+<item slot="6" original="PUT IN THE CUPBOARDS." ></item>
+</script><script id="66" source="2"><item slot="1" original="Collect dirty dishes" ></item>
+<item slot="2" original="Rinse the dishes in water" ></item>
+<item slot="3" original="Use dish-washing liquid on a scrub" ></item>
+<item slot="4" original="Clean the dishes thoroughly" ></item>
+<item slot="5" original=" Rinse again to remove soap from the dishes" ></item>
+</script><script id="67" source="2"><item slot="1" original="Put dirty dishes in the sink." ></item>
+<item slot="2" original="Take out a sponge." ></item>
+<item slot="3" original="Put dish detergent on sponge." ></item>
+<item slot="4" original="Wet the sponge with water." ></item>
+<item slot="5" original="Wet the plate with water." ></item>
+<item slot="6" original="Rub sponge with the detergent on the plate to remove all residue." ></item>
+<item slot="7" original="Rinse off soap and water and residue from plate." ></item>
+<item slot="8" original="Place plate on dish rack/drain board." ></item>
+<item slot="9" original="Wait about half an hour to help drain and dry plate." ></item>
+<item slot="10" original="Remove plate from dish rack." ></item>
+<item slot="11" original="Wipe and dry further with dish towel." ></item>
+<item slot="12" original="Put dishes away." ></item>
+</script><script id="68" source="2"><item slot="1" original="Put dishes in sink" ></item>
+<item slot="2" original="Put drain clog in sink" ></item>
+<item slot="3" original="Fill sink with soapy water" ></item>
+<item slot="4" original="Soak dishes" ></item>
+<item slot="5" original="Start scrubbing dishes with a rag, sponge, or brillo pad" ></item>
+<item slot="6" original="Put dishes away in dish rack" ></item>
+<item slot="7" original="Repeat" ></item>
+</script><script id="69" source="2"><item slot="1" original="Gather dirty dishes." ></item>
+<item slot="2" original="Fill sink with soapy water." ></item>
+<item slot="3" original="Rinse solid food from heavily soiled dished." ></item>
+<item slot="4" original="Wash dishes one by one in soapy water." ></item>
+<item slot="5" original="Rinse dished one by one." ></item>
+<item slot="6" original="Place rinsed dishes on a drying rack." ></item>
+<item slot="7" original="Empty dishwater from sink when all dishes are done." ></item>
+<item slot="8" original="Put dishes away when dry." ></item>
+</script><script id="70" source="2"><item slot="1" original="collect all dirty dishes" ></item>
+<item slot="2" original="place plug in sink drain" ></item>
+<item slot="3" original="fill sink with warm water" ></item>
+<item slot="4" original="pour soap in water" ></item>
+<item slot="5" original="place dirty dishes in sink" ></item>
+<item slot="6" original="apply soap to sponge" ></item>
+<item slot="7" original="wash dishes manually using sponge to remove grime" ></item>
+<item slot="8" original="place washed dishes in separate clean sink" ></item>
+<item slot="9" original="rinse dishes with clean water" ></item>
+<item slot="10" original="place rinsed dishes in dish rack" ></item>
+</script><script id="71" source="2"><item slot="1" original="Turn on hot water." ></item>
+<item slot="2" original="Put dish soap on dish sponge." ></item>
+<item slot="3" original="Rub sponge on dirty dish until all food is gone." ></item>
+<item slot="4" original="Rinse dish." ></item>
+<item slot="5" original="Put dish on drying rack." ></item>
+<item slot="6" original="Repeat staps 3-5 until all dishes are cleaned." ></item>
+</script><script id="72" source="2"><item slot="1" original="Place dirty dishes in sink" ></item>
+<item slot="2" original="Get dish soap" ></item>
+<item slot="3" original="Fill sink with hot water" ></item>
+<item slot="4" original="Let dishes soak" ></item>
+<item slot="5" original="Scrub dishes until clean" ></item>
+<item slot="6" original="Rinse dishes and place in dish rack to dry" ></item>
+</script><script id="73" source="2"><item slot="1" original="Fill sink with soap and water." ></item>
+<item slot="2" original="Collect dirty dishes around house." ></item>
+<item slot="3" original="Put dishes in sink." ></item>
+<item slot="4" original="Get scrub pad." ></item>
+<item slot="5" original="Wash dishes." ></item>
+<item slot="6" original="Rinse dishes." ></item>
+<item slot="7" original="Put dishes in dish drainer." ></item>
+<item slot="8" original="Empty sink." ></item>
+<item slot="9" original="Get a towel." ></item>
+<item slot="10" original="Dry dishes." ></item>
+<item slot="11" original="Put dishes in cupboards." ></item>
+<item slot="12" original="Wash counter tops." ></item>
+</script><script id="74" source="2"><item slot="1" original="Fill sink with hot water" ></item>
+<item slot="2" original="Fill sink with dish soap" ></item>
+<item slot="3" original="Put on your rubber gloves" ></item>
+<item slot="4" original="Place all dirty dishes in the dish water" ></item>
+<item slot="5" original="Grab a sponge" ></item>
+<item slot="6" original="Scrub each dish thoroughly" ></item>
+<item slot="7" original="Rinse each dish with clean water to get soap off" ></item>
+<item slot="8" original="Place dishes on rack to dry" ></item>
+</script><script id="75" source="2"><item slot="1" original="Put stopper in the sink" ></item>
+<item slot="2" original="Turn the hot water on" ></item>
+<item slot="3" original="Wait for the water to partially fill the sink bowl" ></item>
+<item slot="4" original="Turn water off" ></item>
+<item slot="5" original="Add dishwashing liquid" ></item>
+<item slot="6" original="Put dishes in sink" ></item>
+<item slot="7" original="Grab dishcloth" ></item>
+<item slot="8" original="Use cloth to scrub dish" ></item>
+<item slot="9" original="Use faucet to rinse dishes" ></item>
+<item slot="10" original="Put dishes in dryer rack" ></item>
+<item slot="11" original="Remove the stopper" ></item>
+<item slot="12" original="Put dish cloth in laundry basket" ></item>
+</script><script id="76" source="2"><item slot="1" original="Pick up a dirty dish." ></item>
+<item slot="2" original="Rinse the dish." ></item>
+<item slot="3" original="Place in soapy water." ></item>
+<item slot="4" original="Scrub the dish clean." ></item>
+<item slot="5" original="Rinse the dish." ></item>
+</script><script id="77" source="2"><item slot="1" original="Empty dish-washing machine" ></item>
+<item slot="2" original="Rinse cups and put them into top rack of dishwasher." ></item>
+<item slot="3" original="Rinse plates and put them in bottom rack of dishwasher." ></item>
+<item slot="4" original="Rinse bowls and put them in bottom rack of dishwasher." ></item>
+<item slot="5" original="Rinse silverware and place into silverware basket." ></item>
+<item slot="6" original="Add dishwasher detergent to soap receptacle." ></item>
+<item slot="7" original="Close dishwasher door." ></item>
+<item slot="8" original="Start dishwasher." ></item>
+<item slot="9" original="Wait until dishwasher is finished." ></item>
+<item slot="10" original="Open dishwasher." ></item>
+<item slot="11" original="Put away clean dishes." ></item>
+</script><script id="78" source="2"><item slot="1" original="turn on kitchen faucet" ></item>
+<item slot="2" original="wait for water to warm" ></item>
+<item slot="3" original="rinse plates" ></item>
+<item slot="4" original="open dishwasher" ></item>
+<item slot="5" original="place plates in dishwasher" ></item>
+<item slot="6" original="rinse bowls" ></item>
+<item slot="7" original="place bowls in dishwasher" ></item>
+<item slot="8" original="rinse and place cups in dishwasher" ></item>
+<item slot="9" original="same for silverware" ></item>
+<item slot="10" original="turn off water" ></item>
+<item slot="11" original="put dish washing soap in dishwasher" ></item>
+<item slot="12" original="close dishwasher" ></item>
+<item slot="13" original="turn dishwasher on" ></item>
+<item slot="14" original="wait to finish" ></item>
+<item slot="15" original="unload dishwasher" ></item>
+</script><script id="79" source="2"><item slot="1" original="Turn on the  sink." ></item>
+<item slot="2" original="Let the water get warm or hot." ></item>
+<item slot="3" original="Wet the sponge." ></item>
+<item slot="4" original="Put soap on the sponge." ></item>
+<item slot="5" original="Rub the soap into the sponge." ></item>
+<item slot="6" original="Pick up a dish." ></item>
+<item slot="7" original="Wet the dish." ></item>
+<item slot="8" original="Rub the sponge on the dish to remove all dirt and grime." ></item>
+<item slot="9" original="Wet the dish again to remove the soap." ></item>
+<item slot="10" original="Put the dish on a drying rack." ></item>
+<item slot="11" original="Once dry, remove the dish and place it where it belongs." ></item>
+</script><script id="80" source="2"><item slot="1" original="Turn on water faucet" ></item>
+<item slot="2" original="Make water desired temperature" ></item>
+<item slot="3" original="Put plug in drain" ></item>
+<item slot="4" original="Add dish washing soap" ></item>
+<item slot="5" original="Add dirty dishes" ></item>
+<item slot="6" original="Allow sink to fill to desired level" ></item>
+<item slot="7" original="Turn off water" ></item>
+<item slot="8" original="Use dish cloth to remove food from dish" ></item>
+<item slot="9" original="Rinse dish and dry with towel or place in drainer" ></item>
+<item slot="10" original="Repeat until all dishes are clean" ></item>
+<item slot="11" original="Remove plug from sink" ></item>
+<item slot="12" original="Allow water to drain" ></item>
+<item slot="13" original="Rinse sink" ></item>
+<item slot="14" original="Put away dishes when dry" ></item>
+</script><script id="81" source="2"><item slot="1" original="Turn hot water on" ></item>
+<item slot="2" original="Put on gloves if desired" ></item>
+<item slot="3" original="Wet sponge" ></item>
+<item slot="4" original="Put soap on sponge" ></item>
+<item slot="5" original="Rinse water over dirty dish" ></item>
+<item slot="6" original="Wipe dirty dish with soapy sponge until clean" ></item>
+<item slot="7" original="Rinse soapy water off now clean dish" ></item>
+<item slot="8" original="Put clean dish on drying rack" ></item>
+<item slot="9" original="Continue until all dishes are clean" ></item>
+</script><script id="82" source="2"><item slot="1" original="Place dirty dishes in sink." ></item>
+<item slot="2" original="Fill sink with hot water and dish detergent" ></item>
+<item slot="3" original="Let soak" ></item>
+<item slot="4" original="Use sponge to wipe off plates, utensils, bowls, and glasses." ></item>
+<item slot="5" original="Empty dirty water." ></item>
+<item slot="6" original="Rinse dishes with clean water" ></item>
+<item slot="7" original="Place dishes on drying rack" ></item>
+</script><script id="83" source="2"><item slot="1" original="use plastic gloves" ></item>
+<item slot="2" original="put dirty dishes into sink" ></item>
+<item slot="3" original="rinse dishes with warm water" ></item>
+<item slot="4" original="apply soap to sponge" ></item>
+<item slot="5" original="wipe dishes with sponge" ></item>
+<item slot="6" original="rinse soap off dishes" ></item>
+<item slot="7" original="store onto tray to dry off" ></item>
+</script><script id="84" source="2"><item slot="1" original="Clear the dishes off any food remains" ></item>
+<item slot="2" original="Open the dish washer door" ></item>
+<item slot="3" original="Arrange dishes in dish washer" ></item>
+<item slot="4" original="Add Dish washing liquid" ></item>
+<item slot="5" original="Switch on the dish washer" ></item>
+<item slot="6" original="Select the mode" ></item>
+<item slot="7" original="Press Start button" ></item>
+<item slot="8" original="Wait till a completion beep comes from the dish washer" ></item>
+<item slot="9" original="Open the dish washer door" ></item>
+<item slot="10" original="Take out dishes" ></item>
+<item slot="11" original="Wipe the dishes" ></item>
+<item slot="12" original="Arrange the dishes in their places" ></item>
+<item slot="13" original="Close the dish washer door" ></item>
+<item slot="14" original="Switch off the dish washer" ></item>
+</script><script id="85" source="2"><item slot="1" original="Fill up sink with water and soap" ></item>
+<item slot="2" original="Put dirty dishes into water" ></item>
+<item slot="3" original="Soak dishes for a few moments" ></item>
+<item slot="4" original="Pick up a dish and clean with sponge" ></item>
+<item slot="5" original="Then rinse dish with water" ></item>
+<item slot="6" original="Put cleaned dish in dish rack" ></item>
+<item slot="7" original="Repeat with all dishes" ></item>
+</script><script id="86" source="2"><item slot="1" original="Gather all dirty dishes in kitchen in one area" ></item>
+<item slot="2" original="Turn on kitchen faucet and run warm to hot water" ></item>
+<item slot="3" original="Using a sponge, place each individual dish one at a time under water and wipe off dishes" ></item>
+<item slot="4" original="Place prewashed dishes carefully into dishwasher" ></item>
+<item slot="5" original="Add detergent to dishwasher" ></item>
+<item slot="6" original="Close dishwasher door and set time/cycle" ></item>
+<item slot="7" original="Wait until dishwasher's cycle is finished" ></item>
+<item slot="8" original="Open door of dishwasher to verify cleanlines" ></item>
+</script><script id="87" source="2"><item slot="1" original="Gather dishes to be washed" ></item>
+<item slot="2" original="Place dishes in sink" ></item>
+<item slot="3" original="Fill sink with hot water with dish soap" ></item>
+<item slot="4" original="Fill another sink with plain hot water" ></item>
+<item slot="5" original="Wash dishes with dish cloth in soapy water" ></item>
+<item slot="6" original="Rinse dishes in clear water" ></item>
+<item slot="7" original="Place washed and rinsed dishes in drain tray" ></item>
+<item slot="8" original="Drain and rinse both sinks" ></item>
+<item slot="9" original="Dry dishes with dish towel or let air dry" ></item>
+<item slot="10" original="Put dishes away" ></item>
+</script><script id="88" source="2"><item slot="1" original="Open door of dishwasher" ></item>
+<item slot="2" original="Take clean dishes out of dishwasher" ></item>
+<item slot="3" original="Put dirty dishes into dishwasher" ></item>
+<item slot="4" original="Put dish washing detergent into dishwasher" ></item>
+<item slot="5" original="Close door of dishwasher" ></item>
+<item slot="6" original="Select how long to wash dishes" ></item>
+<item slot="7" original="Turn on dish washer" ></item>
+<item slot="8" original="Wait for dishwasher to finish" ></item>
+</script><script id="89" source="2"><item slot="1" original="Turn on water to desired temperature" ></item>
+<item slot="2" original="Apply dish soap to sponge" ></item>
+<item slot="3" original="Use sponge to remove and clean dishes" ></item>
+<item slot="4" original="Rinse soap off dishes" ></item>
+<item slot="5" original="Place rinsed dishes in drying rack" ></item>
+<item slot="6" original="Turn off water" ></item>
+<item slot="7" original="Dry hands" ></item>
+</script><script id="90" source="2"><item slot="1" original="Get sponge" ></item>
+<item slot="2" original="Wet sponge" ></item>
+<item slot="3" original="Put a few drops of dish soap on the sponge" ></item>
+<item slot="4" original="Use sponge to scrub dirty dishes" ></item>
+<item slot="5" original="Turn on faucet" ></item>
+<item slot="6" original="Rinse soapy dishes until no longer soapy" ></item>
+<item slot="7" original="Put rinsed dishes in dish rack to dry" ></item>
+</script><script id="91" source="2"><item slot="1" original="Rinse the dishes to remove large morsels of food." ></item>
+<item slot="2" original="Run the garbage disposal while the water runs." ></item>
+<item slot="3" original="Place the dishes into the dishwasher." ></item>
+<item slot="4" original="Add dishwasher soap to the dishwasher." ></item>
+<item slot="5" original="Close the door to the dishwasher." ></item>
+</script><script id="92" source="2"><item slot="1" original="Soak dishes in sink of water, if necessary." ></item>
+<item slot="2" original="Wipe any food off dishes." ></item>
+<item slot="3" original="Put dishes into dishwasher." ></item>
+<item slot="4" original="Put soap into dishwasher dispenser." ></item>
+<item slot="5" original="Close dishwasher door." ></item>
+<item slot="6" original="Select correct cycle." ></item>
+<item slot="7" original="Turn on dishwasher." ></item>
+</script><script id="93" source="2"><item slot="1" original="Gather dirty dishes" ></item>
+<item slot="2" original="Put them in sink" ></item>
+<item slot="3" original="Turn on hot water" ></item>
+<item slot="4" original="Pick up sponge" ></item>
+<item slot="5" original="Put detergent on it" ></item>
+<item slot="6" original="Pick up dirty dish" ></item>
+<item slot="7" original="Wash dish with water and sponge" ></item>
+<item slot="8" original="Rinse soap off dish" ></item>
+<item slot="9" original="Set dish in dishrack" ></item>
+<item slot="10" original="Pick up next dish" ></item>
+<item slot="11" original="Dry dishes when done" ></item>
+<item slot="12" original="Put dishes in cabinet" ></item>
+</script><script id="94" source="2"><item slot="1" original="Put all of the dirty dishes in the sink" ></item>
+<item slot="2" original="Get a sponge and dish soap" ></item>
+<item slot="3" original="Put some dish soap on the sponge" ></item>
+<item slot="4" original="Wet the sponge and get it bubbly" ></item>
+<item slot="5" original="Run water and wash  food off of plates" ></item>
+<item slot="6" original="Wash with sponge" ></item>
+<item slot="7" original="Dry cleaned dishes with towel" ></item>
+<item slot="8" original="Put dishes on rack to dry" ></item>
+</script><script id="95" source="2"><item slot="1" original="Turn on the water" ></item>
+<item slot="2" original="Let the water get hot" ></item>
+<item slot="3" original="Put soap on the sponge" ></item>
+<item slot="4" original="Use the sponge to wash food off dishes" ></item>
+<item slot="5" original="Rinse the soap off dishes" ></item>
+<item slot="6" original="Put dishes in drying rack" ></item>
+</script><script id="96" source="2"><item slot="1" original="Place plug in sink drain" ></item>
+<item slot="2" original="Place dirty dishes in sink" ></item>
+<item slot="3" original="Run hot water to fill the sink" ></item>
+<item slot="4" original="Add washing-up liquid" ></item>
+<item slot="5" original="Add bleach" ></item>
+<item slot="6" original="Allow dishes to soak for five minutes" ></item>
+<item slot="7" original="Scrub dishes with pot scrubber or washcloth" ></item>
+<item slot="8" original="Pull the sink plug and allow dishes to drain" ></item>
+<item slot="9" original="Rinse soap and bleach from dishes" ></item>
+<item slot="10" original="Place dishes in drainer" ></item>
+<item slot="11" original="Allow dishes to dry" ></item>
+<item slot="12" original="Put dishes away in cabinet" ></item>
+</script><script id="97" source="2"><item slot="1" original="Put stopper in sink" ></item>
+<item slot="2" original="Fill sink with hot water" ></item>
+<item slot="3" original="Add detergent" ></item>
+<item slot="4" original="When sink is filled, turn water off" ></item>
+<item slot="5" original="Put glasses into water" ></item>
+<item slot="6" original="Wash glasses" ></item>
+<item slot="7" original="Put glasses in dish rack" ></item>
+<item slot="8" original="Put plates in water" ></item>
+<item slot="9" original="Wash plates" ></item>
+<item slot="10" original="Put plates in dish rack" ></item>
+<item slot="11" original="Put silverware into water" ></item>
+<item slot="12" original="Wash silverware" ></item>
+<item slot="13" original="Put silverware into dish rack" ></item>
+<item slot="14" original="Take stopper out" ></item>
+<item slot="15" original="Let sink drain" ></item>
+<item slot="16" original="Clean sink" ></item>
+</script><script id="98" source="2"><item slot="1" original="Plug sink" ></item>
+<item slot="2" original="Fill sink with soapy water" ></item>
+<item slot="3" original="scrub dishes in water" ></item>
+<item slot="4" original="Rinse the dishes" ></item>
+<item slot="5" original="Set them up to dry or towel them down" ></item>
+</script><script id="99" source="2"><item slot="1" original="Gather dirty dishes" ></item>
+<item slot="2" original="Place dishes into dish washer" ></item>
+<item slot="3" original="Put soap in dish washer" ></item>
+<item slot="4" original="Turn dish washer on" ></item>
+<item slot="5" original="Wait for dish washer to finish" ></item>
+<item slot="6" original="Place dishes back in cupboard" ></item>
+</script></scripts>

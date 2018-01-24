@@ -1,0 +1,857 @@
+<scripts><script id="0" source="2"><item slot="1" original="Buy meat and other food for barbecue" ></item>
+<item slot="2" original="Invite friends over" ></item>
+<item slot="3" original="Set up a picnic table" ></item>
+<item slot="4" original="Cook meat on the grill" ></item>
+<item slot="5" original="Make food to go with the meat" ></item>
+<item slot="6" original="Put everything on the table" ></item>
+<item slot="7" original="Sit down and eat" ></item>
+</script><script id="1" source="2"><item slot="1" original="buying food for the grill" ></item>
+<item slot="2" original="preparing food for the grill" ></item>
+<item slot="3" original="inviting people over" ></item>
+<item slot="4" original="grilling food" ></item>
+<item slot="5" original="serving food" ></item>
+</script><script id="2" source="2"><item slot="1" original="Tell friends about barbecue" ></item>
+<item slot="2" original="Buy meat" ></item>
+<item slot="3" original="Go outside" ></item>
+<item slot="4" original="Barbecue meat" ></item>
+<item slot="5" original="Eat meat with friends" ></item>
+</script><script id="3" source="2"><item slot="1" original="Go to grocery store" ></item>
+<item slot="2" original="Buy food from store" ></item>
+<item slot="3" original="Take food home" ></item>
+<item slot="4" original="Turn on grill" ></item>
+<item slot="5" original="Prepare food" ></item>
+<item slot="6" original="Cook food" ></item>
+<item slot="7" original="Serve food when finished" ></item>
+<item slot="8" original="Eat" ></item>
+</script><script id="4" source="2"><item slot="1" original="buy meats" ></item>
+<item slot="2" original="marinate/season meats" ></item>
+<item slot="3" original="put meats on grill" ></item>
+<item slot="4" original="wait for meats to be cooked to taste" ></item>
+<item slot="5" original="remove from grill" ></item>
+<item slot="6" original="turn off grill" ></item>
+<item slot="7" original="eat" ></item>
+</script><script id="5" source="2"><item slot="1" original="First slice 3 big potatoes thin." ></item>
+<item slot="2" original="Secondly slice 2 big onions thin" ></item>
+<item slot="3" original="Layer the potatoes and onions in heavy duty tin foil" ></item>
+<item slot="4" original="dot with butter sprinkle with salt and pepper" ></item>
+<item slot="5" original="close up the tin foil and cook on the grill" ></item>
+<item slot="6" original="Wait till cooked smell comes" ></item>
+<item slot="7" original="Take out carefully after well cooked" ></item>
+<item slot="8" original="Serve on the plate" ></item>
+<item slot="9" original="Eat it with tummy full. Also goes very well with friends / your love share with you" ></item>
+</script><script id="6" source="2"><item slot="1" original="Take woods, matchbox, newspaper to the BBQ stand" ></item>
+<item slot="2" original="Bring the and marinated chicken drumsticks" ></item>
+<item slot="3" original="Light the wood" ></item>
+<item slot="4" original="Let the bbq maker heat up" ></item>
+<item slot="5" original="Put the drumsticks on the net" ></item>
+<item slot="6" original="Let it cook" ></item>
+<item slot="7" original="Put some spices and salt on top of drumsticks" ></item>
+<item slot="8" original="Keep on rotating the meat until cooked" ></item>
+<item slot="9" original="Serve with sauce" ></item>
+</script><script id="7" source="2"><item slot="1" original="Buy food" ></item>
+<item slot="2" original="Bring food home" ></item>
+<item slot="3" original="Start up the barbecue" ></item>
+<item slot="4" original="Place food on grill" ></item>
+<item slot="5" original="Cook until it's done" ></item>
+<item slot="6" original="Serve the food" ></item>
+</script><script id="8" source="2"><item slot="1" original="Invite people" ></item>
+<item slot="2" original="Buy food" ></item>
+<item slot="3" original="Buy charcoal" ></item>
+<item slot="4" original="Light grill" ></item>
+<item slot="5" original="Cook food on grill" ></item>
+<item slot="6" original="Let people start eating" ></item>
+</script><script id="10" source="2"><item slot="1" original="Prepare meats and sauce" ></item>
+<item slot="2" original="Set up chairs" ></item>
+<item slot="3" original="Start cooking foods" ></item>
+<item slot="4" original="Invite friends and family" ></item>
+<item slot="5" original="Start barbecuing meat" ></item>
+<item slot="6" original="Talk with family" ></item>
+<item slot="7" original="Eat foods" ></item>
+<item slot="8" original="Drink together" ></item>
+<item slot="9" original="Family leaves" ></item>
+<item slot="10" original="Clean up" ></item>
+</script><script id="11" source="2"><item slot="1" original="Invite friends and family." ></item>
+<item slot="2" original="Prepare venue with tables and chairs." ></item>
+<item slot="3" original="Get food and drinks." ></item>
+<item slot="4" original="Once guests arrive prepare food over barbecue." ></item>
+<item slot="5" original="Eat food and drinks." ></item>
+<item slot="6" original="Thank guests for attending." ></item>
+<item slot="7" original="Clean up." ></item>
+</script><script id="12" source="2"><item slot="1" original="Invite friends and family" ></item>
+<item slot="2" original="Purchase food and drinks" ></item>
+<item slot="3" original="Set up grill outside" ></item>
+<item slot="4" original="Turn on grill" ></item>
+<item slot="5" original="Place food on grill to cook" ></item>
+<item slot="6" original="Set up tables and chairs for guests" ></item>
+<item slot="7" original="Remove food from grill when finished cooking" ></item>
+<item slot="8" original="Turn off grill" ></item>
+<item slot="9" original="Place food on tables" ></item>
+<item slot="10" original="Enjoy!" ></item>
+</script><script id="13" source="2"><item slot="1" original="Invite people over." ></item>
+<item slot="2" original="Shop for meats, salads, buns, chips." ></item>
+<item slot="3" original="On barbecue day, heat up grill." ></item>
+<item slot="4" original="Marinate meats." ></item>
+<item slot="5" original="Prepare salads." ></item>
+<item slot="6" original="Welcome guests." ></item>
+<item slot="7" original="Cook food on hot grill." ></item>
+<item slot="8" original="Drink beer." ></item>
+<item slot="9" original="Plate food." ></item>
+<item slot="10" original="Eat." ></item>
+</script><script id="14" source="2"><item slot="1" original="invite friends over" ></item>
+<item slot="2" original="shop for food" ></item>
+<item slot="3" original="Light up barbecue" ></item>
+<item slot="4" original="Put meat on bbq" ></item>
+<item slot="5" original="flip over meat with spatula" ></item>
+<item slot="6" original="when cooked, take meat off bbq and serve" ></item>
+<item slot="7" original="turn off/douse bbq" ></item>
+<item slot="8" original="eat" ></item>
+<item slot="9" original="clean up" ></item>
+</script><script id="15" source="2"><item slot="1" original="Buy meat for the barbecue at the store" ></item>
+<item slot="2" original="Buy any sides like coleslaw, chips and dip, and drinks" ></item>
+<item slot="3" original="Invite guests to come over" ></item>
+<item slot="4" original="Guests arrive" ></item>
+<item slot="5" original="Put on any oven mitts to protect from heat" ></item>
+<item slot="6" original="Start the grill" ></item>
+<item slot="7" original="Place meat on the grill" ></item>
+<item slot="8" original="Attend to the meat to make sure it's being cooked properly" ></item>
+<item slot="9" original="Season the meat with any spices or herbs" ></item>
+<item slot="10" original="Take meat off the grill" ></item>
+<item slot="11" original="Slather meat with sauce" ></item>
+<item slot="12" original="Serve the food" ></item>
+<item slot="13" original="Eat with everybody and enjoy the company of friends" ></item>
+</script><script id="16" source="2"><item slot="1" original="Invite friends for barbecue" ></item>
+<item slot="2" original="Marinate the chicken" ></item>
+<item slot="3" original="Heat up the grill" ></item>
+<item slot="4" original="Cook the chicken in the grill" ></item>
+<item slot="5" original="Serve the chicken on plates" ></item>
+<item slot="6" original="Eat the barbecue" ></item>
+</script><script id="17" source="2"><item slot="1" original="Set picnic tables" ></item>
+<item slot="2" original="Fill coolers with ice and drinks" ></item>
+<item slot="3" original="Light up the grill" ></item>
+<item slot="4" original="Place hot dogs and hamburgers on grill" ></item>
+<item slot="5" original="Put hot dogs and hamburgers on plate when cooked" ></item>
+<item slot="6" original="Set out hot dogs and hamburgers for guests" ></item>
+</script><script id="18" source="2"><item slot="1" original="Invite friends over." ></item>
+<item slot="2" original="Select meats and vegetables to cook." ></item>
+<item slot="3" original="Marinate meats and vegetables as desired." ></item>
+<item slot="4" original="Prepare side dishes such as cole slaw or potato salad." ></item>
+<item slot="5" original="Light grill." ></item>
+<item slot="6" original="Prepare meats as needed, whether inside foil packets or on skewers." ></item>
+<item slot="7" original="Cook meat and vegetables on grill." ></item>
+<item slot="8" original="Serve food." ></item>
+<item slot="9" original="Sit back and enjoy." ></item>
+</script><script id="19" source="2"><item slot="1" original="Call friends" ></item>
+<item slot="2" original="Organize a barbecue" ></item>
+<item slot="3" original="Light charcoal" ></item>
+<item slot="4" original="Put ribs on grill" ></item>
+<item slot="5" original="Baste with sauce" ></item>
+<item slot="6" original="Put ribs on on plates" ></item>
+<item slot="7" original="Eat ribs with friends" ></item>
+</script><script id="20" source="2"><item slot="1" original="Go to store." ></item>
+<item slot="2" original="Buy meat to put on grill." ></item>
+<item slot="3" original="At home, turn on grill." ></item>
+<item slot="4" original="Put meat on grill." ></item>
+<item slot="5" original="Put barbecue sauce on meat." ></item>
+<item slot="6" original="Cook it at low temperature for long time." ></item>
+<item slot="7" original="Carefully take meat off of grill." ></item>
+<item slot="8" original="Enjoy the barbecue meat." ></item>
+</script><script id="21" source="2"><item slot="1" original="invite friends to come over" ></item>
+<item slot="2" original="decide the meat you want to cook" ></item>
+<item slot="3" original="make sure you have supplies like food and drink" ></item>
+<item slot="4" original="fire up the barbecue when friends arrive" ></item>
+<item slot="5" original="put meat on BBQ" ></item>
+<item slot="6" original="cook meat" ></item>
+<item slot="7" original="serve meat" ></item>
+<item slot="8" original="visit with friends." ></item>
+</script><script id="22" source="2"><item slot="1" original="Invite people over" ></item>
+<item slot="2" original="Place charcoal into barbecue pit" ></item>
+<item slot="3" original="Light charcoal with a lighter" ></item>
+<item slot="4" original="Wait for charcoal to turn white" ></item>
+<item slot="5" original="Place meat onto barbecue grill" ></item>
+<item slot="6" original="Watch meat cook" ></item>
+<item slot="7" original="Flip meat onto other side" ></item>
+<item slot="8" original="Watch meat cook" ></item>
+<item slot="9" original="Take meat off of grill when cooked" ></item>
+<item slot="10" original="Place meat on plate" ></item>
+<item slot="11" original="Everyone eats" ></item>
+</script><script id="23" source="2"><item slot="1" original="Gather foods to grill" ></item>
+<item slot="2" original="Grab charcoal" ></item>
+<item slot="3" original="Pour charcoal into grill" ></item>
+<item slot="4" original="Light charcoal on fire" ></item>
+<item slot="5" original="Wait for charcoal to ash over" ></item>
+<item slot="6" original="Cook food on grill" ></item>
+</script><script id="24" source="2"><item slot="1" original="Prepare chicken and marinate with spices chilly powder and salt" ></item>
+<item slot="2" original="Place the barbecue grill at a proper place in the backyard" ></item>
+<item slot="3" original="Place charcoal in the grill" ></item>
+<item slot="4" original="Pour little kerosene on the charcoal and ignite" ></item>
+<item slot="5" original="Insert the chicken pieces in the skewers" ></item>
+<item slot="6" original="Once the charcoal starts burning, keep the skewers on the grill" ></item>
+<item slot="7" original="Keep on turning the skewers to get the chicken cooked" ></item>
+<item slot="8" original="Repeat the process until all chicken is complete" ></item>
+<item slot="9" original="Sprinkle fresh lemon and have the barbecue chicken with green salad" ></item>
+</script><script id="26" source="2"><item slot="1" original="Go outside" ></item>
+<item slot="2" original="Turn the propane valve" ></item>
+<item slot="3" original="Turn on barbecue" ></item>
+<item slot="4" original="Prepare food while grill preheats" ></item>
+<item slot="5" original="Place food on grill" ></item>
+<item slot="6" original="Cook food" ></item>
+<item slot="7" original="Season food" ></item>
+<item slot="8" original="Make sure meats are properly cooked" ></item>
+<item slot="9" original="Remove cooked foods" ></item>
+<item slot="10" original="Turn off barbecue" ></item>
+<item slot="11" original="Turn off the propane valve" ></item>
+<item slot="12" original="Set food at table" ></item>
+<item slot="13" original="Eat and drink" ></item>
+</script><script id="27" source="2"><item slot="1" original="decide on meal" ></item>
+<item slot="2" original="get ingredients for meal" ></item>
+<item slot="3" original="prepare items to be grilled" ></item>
+<item slot="4" original="turn on grill to heat up" ></item>
+<item slot="5" original="place food on grill" ></item>
+<item slot="6" original="cook appropriate length of time until done" ></item>
+<item slot="7" original="remove from grill to a plate" ></item>
+<item slot="8" original="enjoy" ></item>
+</script><script id="28" source="2"><item slot="1" original="Go to grocery store" ></item>
+<item slot="2" original="Pick out meats to buy" ></item>
+<item slot="3" original="Check out" ></item>
+<item slot="4" original="Go home" ></item>
+<item slot="5" original="Prepare everything in kitchen" ></item>
+<item slot="6" original="Go outside" ></item>
+<item slot="7" original="Set up grill and tables" ></item>
+<item slot="8" original="Wait for company" ></item>
+<item slot="9" original="Start grilling" ></item>
+<item slot="10" original="Eat" ></item>
+</script><script id="29" source="2"><item slot="1" original="Buy meat at store." ></item>
+<item slot="2" original="Come home." ></item>
+<item slot="3" original="Start grill." ></item>
+<item slot="4" original="Place meat on grill." ></item>
+<item slot="5" original="Wait for meat to cook." ></item>
+<item slot="6" original="Take meat off grill." ></item>
+<item slot="7" original="Serve meat." ></item>
+</script><script id="30" source="2"><item slot="1" original="buy all foods" ></item>
+<item slot="2" original="buy drinks" ></item>
+<item slot="3" original="make sure grill has fuel" ></item>
+<item slot="4" original="turn on grill and let it get hot" ></item>
+<item slot="5" original="put food on grill" ></item>
+<item slot="6" original="1/4 when it's half way cooked" ></item>
+<item slot="7" original="flip over" ></item>
+<item slot="8" original="1/4 turn again" ></item>
+<item slot="9" original="take food off grill and baste it with sauce" ></item>
+<item slot="10" original="serve" ></item>
+</script><script id="31" source="2"><item slot="1" original="Marinate meat and vegetables" ></item>
+<item slot="2" original="Wait several hours" ></item>
+<item slot="3" original="Call friends and invite to dinner" ></item>
+<item slot="4" original="Make salads" ></item>
+<item slot="5" original="Put meat and vegetables onto skewers" ></item>
+<item slot="6" original="Fill grill with charcoal and lighter fluid" ></item>
+<item slot="7" original="Light grill" ></item>
+<item slot="8" original="Wait for coals to be ready" ></item>
+<item slot="9" original="Grill skewers" ></item>
+<item slot="10" original="Put skewers and salads on table" ></item>
+<item slot="11" original="Eat dinner with friends" ></item>
+</script><script id="32" source="2"><item slot="1" original="Buy hamburger and hotdogs" ></item>
+<item slot="2" original="Buy soda and potato chips" ></item>
+<item slot="3" original="Invite family" ></item>
+<item slot="4" original="Set up the grill" ></item>
+<item slot="5" original="Place food on grill" ></item>
+<item slot="6" original="Wait for food to finish cooking" ></item>
+<item slot="7" original="Serve family food" ></item>
+<item slot="8" original="Play some games" ></item>
+</script><script id="33" source="2"><item slot="1" original="invite guests" ></item>
+<item slot="2" original="go shopping" ></item>
+<item slot="3" original="prepare meats" ></item>
+<item slot="4" original="chill condiments" ></item>
+<item slot="5" original="clean the grill" ></item>
+<item slot="6" original="stack the charcoal" ></item>
+<item slot="7" original="oil the grill" ></item>
+<item slot="8" original="soak the wood chips" ></item>
+<item slot="9" original="clean the house" ></item>
+<item slot="10" original="set out tables and chairs" ></item>
+<item slot="11" original="chill the beverages" ></item>
+</script><script id="34" source="2"><item slot="1" original="fire up grill" ></item>
+<item slot="2" original="place beef patty on grill" ></item>
+<item slot="3" original="people arrive" ></item>
+<item slot="4" original="open the drinks" ></item>
+<item slot="5" original="consume barbecue and drinks" ></item>
+</script><script id="35" source="2"><item slot="1" original="Place charcoal in grill" ></item>
+<item slot="2" original="Ignite charcoal" ></item>
+<item slot="3" original="Wait for charcoal to be ready" ></item>
+<item slot="4" original="Gather meat to grill" ></item>
+<item slot="5" original="Place meat on grill" ></item>
+<item slot="6" original="Cook meat until done" ></item>
+<item slot="7" original="Remove meat from grill" ></item>
+<item slot="8" original="Eat meat" ></item>
+</script><script id="36" source="2"><item slot="1" original="Invite friends over" ></item>
+<item slot="2" original="Smoke meat ahead of time" ></item>
+<item slot="3" original="Fire up the barbecue pit by lighting charcoal and wood" ></item>
+<item slot="4" original="Slowly roast or cook the meat over the open heat and flame" ></item>
+<item slot="5" original="Serve the meat to friends along with sides and drinks" ></item>
+</script><script id="37" source="2"><item slot="1" original="turn on grill" ></item>
+<item slot="2" original="bring hamburgers and hot dogs to grill" ></item>
+<item slot="3" original="put meat on the grill" ></item>
+<item slot="4" original="flip burgers and dogs" ></item>
+<item slot="5" original="remove burgers and dogs from grill" ></item>
+<item slot="6" original="put burgers and dogs into buns" ></item>
+<item slot="7" original="bring burgers and dogs to guests" ></item>
+<item slot="8" original="talk with guests" ></item>
+<item slot="9" original="clean up after guests leave." ></item>
+</script><script id="38" source="2"><item slot="1" original="Purchase barbecue food items" ></item>
+<item slot="2" original="Pre-heat grill" ></item>
+<item slot="3" original="Prepare food for grill" ></item>
+<item slot="4" original="Cook food on grill until done" ></item>
+<item slot="5" original="Remove food from grill" ></item>
+<item slot="6" original="Turn grill off" ></item>
+<item slot="7" original="Eat food" ></item>
+</script><script id="39" source="2"><item slot="1" original="Purchase meats" ></item>
+<item slot="2" original="Rinse meats" ></item>
+<item slot="3" original="Place in bowl with sauce if desired" ></item>
+<item slot="4" original="Start fire with coals in barbecue grill" ></item>
+<item slot="5" original="When steady fire is available, place meat on grill" ></item>
+<item slot="6" original="Turn occasionally until meat is cooked" ></item>
+</script><script id="40" source="2"><item slot="1" original="Get charcoal" ></item>
+<item slot="2" original="Get meats" ></item>
+<item slot="3" original="Place charcoal in grill" ></item>
+<item slot="4" original="Light charcoal and wait for a while" ></item>
+<item slot="5" original="Place meat on the grill" ></item>
+<item slot="6" original="Cook" ></item>
+<item slot="7" original="Serve food" ></item>
+</script><script id="41" source="2"><item slot="1" original="Purchase food items needed." ></item>
+<item slot="2" original="Prepare ahead any salad items." ></item>
+<item slot="3" original="Make sure there is gas for the grill." ></item>
+<item slot="4" original="Invite friends and family over." ></item>
+<item slot="5" original="Bring out all the food." ></item>
+<item slot="6" original="Put meat on the grill." ></item>
+<item slot="7" original="Serve to guests." ></item>
+<item slot="8" original="When guests leave, clean up the mess." ></item>
+</script><script id="42" source="2"><item slot="1" original="Get meat" ></item>
+<item slot="2" original="Season meat and put on a plate" ></item>
+<item slot="3" original="Gather cooking utensils" ></item>
+<item slot="4" original="Carry meat and utensils outside to the grill" ></item>
+<item slot="5" original="Set meat and utensils onto grill table" ></item>
+<item slot="6" original="Turn on the grill" ></item>
+<item slot="7" original="Place meat onto the grill" ></item>
+<item slot="8" original="Turn the meat with the utensils" ></item>
+<item slot="9" original="Place cooked meat onto plate" ></item>
+<item slot="10" original="Serve meat" ></item>
+</script><script id="44" source="2"><item slot="1" original="Put charcoal in chimney" ></item>
+<item slot="2" original="Put paper in bottom of chimney" ></item>
+<item slot="3" original="Light paper" ></item>
+<item slot="4" original="Put chimney on grill until charcoal is hot enough" ></item>
+<item slot="5" original="Pour charcoal in grill" ></item>
+<item slot="6" original="Put grid over coals" ></item>
+<item slot="7" original="Put food on grill" ></item>
+<item slot="8" original="When one side is done, turn food over" ></item>
+<item slot="9" original="When food is completely done, remove food and put it on plate." ></item>
+<item slot="10" original="Hand out food" ></item>
+</script><script id="45" source="2"><item slot="1" original="invite friends" ></item>
+<item slot="2" original="get meat" ></item>
+<item slot="3" original="fire up grill" ></item>
+<item slot="4" original="cook meat" ></item>
+<item slot="5" original="serve meat to friends" ></item>
+</script><script id="46" source="2"><item slot="1" original="Determine how many people will be attending the barbecue." ></item>
+<item slot="2" original="Be sure you have gas for your grill or charcoal if you're using a charcoal grill." ></item>
+<item slot="3" original="Decide how much meat you need to accommodate your guests." ></item>
+<item slot="4" original="Decide what side items you want to have as well and how much you need." ></item>
+<item slot="5" original="Go to the store and purchase your food." ></item>
+<item slot="6" original="On the day of the barbecue, invite your friends and family over." ></item>
+<item slot="7" original="Season your meat and prepare your side items." ></item>
+<item slot="8" original="Everyone will want to be outside, so have some games for the kids and music playing." ></item>
+<item slot="9" original="Place your food on your grill." ></item>
+<item slot="10" original="When all of the food is done, allow everyone to get a plate." ></item>
+<item slot="11" original="Enjoy with a cool beverage, music and conversation with your friends and family." ></item>
+</script><script id="47" source="2"><item slot="1" original="PURCHASE THE COAL AND FOOD FOR THE BARBECUE" ></item>
+<item slot="2" original="PUT THE COAL IN THE BARBECUE AND LIGHT" ></item>
+<item slot="3" original="ONCE READY, PLACE THE FOOD ON THE GRILL" ></item>
+<item slot="4" original="ONCE THE FOOD IS COOKED, REMOVE FROM THE GRILL" ></item>
+<item slot="5" original="EAT THE FOOD WITH FAMILY AND FRIENDS." ></item>
+</script><script id="48" source="2"><item slot="1" original="invite friends" ></item>
+<item slot="2" original="buy ingredients" ></item>
+<item slot="3" original="prepare ingredients" ></item>
+<item slot="4" original="light grill" ></item>
+<item slot="5" original="put food on hot grill" ></item>
+<item slot="6" original="remove cooked food from grill" ></item>
+<item slot="7" original="serve food to guests" ></item>
+<item slot="8" original="turn off grill" ></item>
+<item slot="9" original="eat" ></item>
+<item slot="10" original="clean up" ></item>
+</script><script id="49" source="2"><item slot="1" original="Clean off grill/fire pit" ></item>
+<item slot="2" original="Collect charcoal/mesquite wood" ></item>
+<item slot="3" original="Place charcoal in grill" ></item>
+<item slot="4" original="Pour lighter fluid on charcoal" ></item>
+<item slot="5" original="Light charcoal" ></item>
+<item slot="6" original="When coals have turned gray, add food" ></item>
+<item slot="7" original="cook food on grill" ></item>
+<item slot="8" original="Serve on place" ></item>
+<item slot="9" original="eat food" ></item>
+</script><script id="50" source="2"><item slot="1" original="Purchase food for the barbecue." ></item>
+<item slot="2" original="Do any preparation of the food for the barbecue." ></item>
+<item slot="3" original="Place charcoal in the grill." ></item>
+<item slot="4" original="Light the charcoal." ></item>
+<item slot="5" original="Allow the charcoal to heat up." ></item>
+<item slot="6" original="Place food on grill top to cook." ></item>
+<item slot="7" original="Cook food on grill until desired doneness is reached." ></item>
+<item slot="8" original="Remove food from grill." ></item>
+<item slot="9" original="Enjoy the barbecued food." ></item>
+<item slot="10" original="Allow grill to cool." ></item>
+<item slot="11" original="Dispose of charcoal ash." ></item>
+</script><script id="51" source="2"><item slot="1" original="Plan menu for barbecue" ></item>
+<item slot="2" original="Go to the store and buy ingredients for menu" ></item>
+<item slot="3" original="Go to the store and buy charcoal for barbecue" ></item>
+<item slot="4" original="Invite friends to come" ></item>
+<item slot="5" original="Clean and prepare grill for barbecue" ></item>
+<item slot="6" original="Gather silverware and dishes for guests to eat off of" ></item>
+<item slot="7" original="Turn on barbecue" ></item>
+<item slot="8" original="Cook menu items on barbecue" ></item>
+<item slot="9" original="Gather cooked items on plates, trays, and in bowls" ></item>
+<item slot="10" original="Set table for guests to eat at" ></item>
+<item slot="11" original="Greet guests as they arrive" ></item>
+<item slot="12" original="Serve food to guests" ></item>
+<item slot="13" original="Eat food with guests" ></item>
+<item slot="14" original="Say goodbye to guests" ></item>
+<item slot="15" original="Clean up table and grill after barbecue" ></item>
+</script><script id="52" source="2"><item slot="1" original="Prepare your foods" ></item>
+<item slot="2" original="Put charcoal into the grill" ></item>
+<item slot="3" original="Use a lighter or match to light the charcoal" ></item>
+<item slot="4" original="Give the charcoal time to smolder and get hot" ></item>
+<item slot="5" original="place your food onto the grill" ></item>
+<item slot="6" original="enjoy your food" ></item>
+</script><script id="53" source="2"><item slot="1" original="Decide what you want to serve" ></item>
+<item slot="2" original="Write it down" ></item>
+<item slot="3" original="Gather all your ingredients" ></item>
+<item slot="4" original="Invite your friends and family" ></item>
+<item slot="5" original="Prepare the grill for use" ></item>
+<item slot="6" original="Prepare food" ></item>
+<item slot="7" original="Turn on music" ></item>
+<item slot="8" original="Have fun" ></item>
+</script><script id="54" source="2"><item slot="1" original="Buy meat and sides" ></item>
+<item slot="2" original="Invite friends over" ></item>
+<item slot="3" original="Start the grill" ></item>
+<item slot="4" original="Enjoy drinks with friends" ></item>
+<item slot="5" original="Put meat onto grill" ></item>
+<item slot="6" original="Continue to enjoy drinks with friends while meat cooks" ></item>
+<item slot="7" original="Set out sides" ></item>
+<item slot="8" original="Take meat off the grill" ></item>
+<item slot="9" original="Serve to friends" ></item>
+<item slot="10" original="Eat food with company" ></item>
+<item slot="11" original="Clean up" ></item>
+<item slot="12" original="Wait for everybody to leave" ></item>
+</script><script id="55" source="2"><item slot="1" original="Locate the grill" ></item>
+<item slot="2" original="Turn on the gas for the grill" ></item>
+<item slot="3" original="Put food on the grill" ></item>
+<item slot="4" original="Let food cook" ></item>
+<item slot="5" original="Turn food over" ></item>
+<item slot="6" original="Let food cook more" ></item>
+<item slot="7" original="Place food on a plate" ></item>
+<item slot="8" original="Turn off the gas" ></item>
+<item slot="9" original="Get drinks" ></item>
+<item slot="10" original="Eat the food" ></item>
+<item slot="11" original="Throw away the trash" ></item>
+<item slot="12" original="Put the grill back" ></item>
+</script><script id="56" source="2"><item slot="1" original="Pull out meats." ></item>
+<item slot="2" original="Marinade the meats." ></item>
+<item slot="3" original="Chop veggies." ></item>
+<item slot="4" original="Place meats and veggies on grill." ></item>
+<item slot="5" original="Serve food." ></item>
+</script><script id="57" source="2"><item slot="1" original="invite friends over" ></item>
+<item slot="2" original="get food together" ></item>
+<item slot="3" original="start grill" ></item>
+<item slot="4" original="wait for grill to warm up" ></item>
+<item slot="5" original="place food on grill" ></item>
+<item slot="6" original="wait to cook" ></item>
+<item slot="7" original="place food on plates" ></item>
+<item slot="8" original="tell people it's ready" ></item>
+<item slot="9" original="serve yourself" ></item>
+</script><script id="58" source="2"><item slot="1" original="Marinate the chicken pieces" ></item>
+<item slot="2" original="Prepare the grill" ></item>
+<item slot="3" original="Keep the chicken pieces on grill" ></item>
+<item slot="4" original="Cook till done" ></item>
+<item slot="5" original="Take out cooked barbecue" ></item>
+<item slot="6" original="Keep barbecue chicken in a plate" ></item>
+<item slot="7" original="Start eating" ></item>
+</script><script id="59" source="2"><item slot="1" original="Gather needed grocery/snack items." ></item>
+<item slot="2" original="Gather charcoal/wood and starter fluids." ></item>
+<item slot="3" original="Invite friends." ></item>
+<item slot="4" original="Prepare grill." ></item>
+<item slot="5" original="Light charcoal using starter fluid." ></item>
+<item slot="6" original="Wait for flame to die down." ></item>
+<item slot="7" original="Place food on grill." ></item>
+<item slot="8" original="Watch closely until done." ></item>
+<item slot="9" original="Take food of grill." ></item>
+<item slot="10" original="Enjoy." ></item>
+</script><script id="60" source="2"><item slot="1" original="Take out barbecue." ></item>
+<item slot="2" original="Put charcoal in." ></item>
+<item slot="3" original="Pour fluid on it." ></item>
+<item slot="4" original="Light it." ></item>
+<item slot="5" original="Go to kitchen and grab steaks." ></item>
+<item slot="6" original="Put steaks on grill." ></item>
+<item slot="7" original="Put sauce on steaks." ></item>
+<item slot="8" original="Let cook." ></item>
+<item slot="9" original="Turn steaks over." ></item>
+<item slot="10" original="Put steaks on plate." ></item>
+<item slot="11" original="Take plate to table." ></item>
+<item slot="12" original="Sit down." ></item>
+<item slot="13" original="Eat steaks." ></item>
+</script><script id="61" source="2"><item slot="1" original="Have desired choice of meat" ></item>
+<item slot="2" original="turn grill on" ></item>
+<item slot="3" original="have sauces available" ></item>
+<item slot="4" original="put meat onto grill" ></item>
+<item slot="5" original="let it cook properly" ></item>
+<item slot="6" original="let it cool down inside or outside grill" ></item>
+<item slot="7" original="add extra sauces if needed" ></item>
+<item slot="8" original="enjoy the barbecue" ></item>
+</script><script id="62" source="2"><item slot="1" original="start the barbecue" ></item>
+<item slot="2" original="plan the menu" ></item>
+<item slot="3" original="get the ingredients" ></item>
+<item slot="4" original="invite guests over" ></item>
+<item slot="5" original="start the barbecue" ></item>
+<item slot="6" original="grill food on barbecue" ></item>
+<item slot="7" original="serve it hot" ></item>
+</script><script id="63" source="2"><item slot="1" original="Go shopping for bbq foods" ></item>
+<item slot="2" original="Invite friends over" ></item>
+<item slot="3" original="Fire up the grill" ></item>
+<item slot="4" original="Have husband prepare meats on the grill" ></item>
+<item slot="5" original="Make other food inside" ></item>
+<item slot="6" original="Set table" ></item>
+<item slot="7" original="Enjoy food" ></item>
+<item slot="8" original="Clean up" ></item>
+</script><script id="64" source="2"><item slot="1" original="Invite people to barbecue" ></item>
+<item slot="2" original="Shop for ingredients: meat, side dishes, and condiments" ></item>
+<item slot="3" original="Assemble ingredients for side dishes" ></item>
+<item slot="4" original="Prepare side dishes (refrigerate if necessary)" ></item>
+<item slot="5" original="Season meat" ></item>
+<item slot="6" original="Preheat grill or smoker" ></item>
+<item slot="7" original="Smoke and/or cook meat" ></item>
+<item slot="8" original="Remove meat from heat" ></item>
+<item slot="9" original="Turn off grill or smoker" ></item>
+<item slot="10" original="Serve meat, side dishes and condiments" ></item>
+<item slot="11" original="Eat" ></item>
+<item slot="12" original="Clean up" ></item>
+</script><script id="65" source="2"><item slot="1" original="Select a good spot for the barbecue" ></item>
+<item slot="2" original="Set up the required equipment" ></item>
+<item slot="3" original="Invite guests" ></item>
+<item slot="4" original="Start the barbecue and roast food" ></item>
+<item slot="5" original="Serve and enjoy" ></item>
+</script><script id="66" source="2"><item slot="1" original="Prepare the meat for cooking." ></item>
+<item slot="2" original="Clean the grill of the barbecue." ></item>
+<item slot="3" original="Turn on the gas while holding a lit lighter near the burner of the grill." ></item>
+<item slot="4" original="Allow the grill to get hot." ></item>
+<item slot="5" original="Apply the meat to the grill." ></item>
+<item slot="6" original="Turn the meat over when one side is appropriately cooked." ></item>
+<item slot="7" original="Remove the meat when it is finished." ></item>
+<item slot="8" original="Place the meat on a serving dish" ></item>
+<item slot="9" original="Turn off the grill." ></item>
+<item slot="10" original="Eat." ></item>
+</script><script id="67" source="2"><item slot="1" original="Buy meat at the store" ></item>
+<item slot="2" original="Buy charcoal for the grill" ></item>
+<item slot="3" original="Marinate the meat" ></item>
+<item slot="4" original="Buy ice and beer" ></item>
+<item slot="5" original="Gather grilling tools" ></item>
+<item slot="6" original="Light the grill" ></item>
+<item slot="7" original="Wait for grill to heat" ></item>
+<item slot="8" original="Put the meat on the grill" ></item>
+<item slot="9" original="Watch it cook" ></item>
+<item slot="10" original="Turn over meat" ></item>
+<item slot="11" original="Test the temperature" ></item>
+<item slot="12" original="Remove meat from grill" ></item>
+<item slot="13" original="Serve meat and drinks" ></item>
+</script><script id="68" source="2"><item slot="1" original="Invite guests." ></item>
+<item slot="2" original="Buy food." ></item>
+<item slot="3" original="Prepare salads ahead of time." ></item>
+<item slot="4" original="Welcome guests." ></item>
+<item slot="5" original="Get drinks for guests." ></item>
+<item slot="6" original="Heat up grill." ></item>
+<item slot="7" original="Cook food." ></item>
+<item slot="8" original="Serve food." ></item>
+<item slot="9" original="Eat food." ></item>
+<item slot="10" original="Talk with guests." ></item>
+</script><script id="69" source="2"><item slot="1" original="Get barbeque grill" ></item>
+<item slot="2" original="Get barbeque coals" ></item>
+<item slot="3" original="Get meat" ></item>
+<item slot="4" original="Get barbeque sauce" ></item>
+<item slot="5" original="Put coals in grill" ></item>
+<item slot="6" original="Light coals" ></item>
+<item slot="7" original="Let grill get hot" ></item>
+<item slot="8" original="Place meat on grill" ></item>
+<item slot="9" original="Cook meat" ></item>
+<item slot="10" original="Put barbeque sauce on meat" ></item>
+</script><script id="70" source="2"><item slot="1" original="Invite friends" ></item>
+<item slot="2" original="Buy all of the ingredients" ></item>
+<item slot="3" original="Cook the barbecue food" ></item>
+<item slot="4" original="Eat the barbecue food" ></item>
+<item slot="5" original="Enjoy company of friends" ></item>
+</script><script id="71" source="2"><item slot="1" original="Call friends" ></item>
+<item slot="2" original="Invite them to barbecue" ></item>
+<item slot="3" original="Put chairs outside" ></item>
+<item slot="4" original="Turn the grill on" ></item>
+<item slot="5" original="Marinate meat" ></item>
+<item slot="6" original="Take meat out of marinade" ></item>
+<item slot="7" original="Put meat on grill" ></item>
+<item slot="8" original="Drink a beer" ></item>
+<item slot="9" original="Socialize" ></item>
+<item slot="10" original="Serve the meat" ></item>
+</script><script id="72" source="2"><item slot="1" original="Decide on time/date/place for barbecue" ></item>
+<item slot="2" original="Invite friends/neighbors" ></item>
+<item slot="3" original="Go to the grocery store and buy items to serve at barbecue" ></item>
+<item slot="4" original="On day of barbecue, prepare some items before guests arrive" ></item>
+<item slot="5" original="Greet guests as they arrive and be friendly" ></item>
+<item slot="6" original="Converse with guests and be a good host" ></item>
+<item slot="7" original="Grill up food and serve to guests" ></item>
+<item slot="8" original="Eat food" ></item>
+<item slot="9" original="Converse more with guests" ></item>
+<item slot="10" original="Say goodbye to guests and thank for coming" ></item>
+<item slot="11" original="Clean up any items from barbecue" ></item>
+<item slot="12" original="Rest" ></item>
+</script><script id="73" source="2"><item slot="1" original="Buy food from store" ></item>
+<item slot="2" original="Go home" ></item>
+<item slot="3" original="Start up the grill" ></item>
+<item slot="4" original="Set up the outside for eating" ></item>
+<item slot="5" original="Cook food" ></item>
+<item slot="6" original="Serve and eat" ></item>
+</script><script id="74" source="2"><item slot="1" original="Invite friends to barbecue" ></item>
+<item slot="2" original="Purchase necessary items" ></item>
+<item slot="3" original="Marinate meat in marinade of your choice" ></item>
+<item slot="4" original="Prepare corn and other vegetables in foil packets" ></item>
+<item slot="5" original="Dump old ashes from grill" ></item>
+<item slot="6" original="Fill grill with charcoal and wood chips" ></item>
+<item slot="7" original="start fire" ></item>
+<item slot="8" original="Once flame has died down, place grill rack on grill" ></item>
+<item slot="9" original="Place meat on rack" ></item>
+<item slot="10" original="Turn from time to time, brushing meat" ></item>
+<item slot="11" original="Offer chilled drinks to guests" ></item>
+<item slot="12" original="Finish cooking" ></item>
+<item slot="13" original="Eat with friends" ></item>
+</script><script id="75" source="2"><item slot="1" original="Set up grill" ></item>
+<item slot="2" original="Gather meat" ></item>
+<item slot="3" original="Start grill" ></item>
+<item slot="4" original="Put meat on grill" ></item>
+<item slot="5" original="Grill meat until desired" ></item>
+<item slot="6" original="Set up tables" ></item>
+<item slot="7" original="Set out side dishes" ></item>
+<item slot="8" original="Serve meat" ></item>
+<item slot="9" original="Have everyone eat" ></item>
+</script><script id="76" source="2"><item slot="1" original="Decide to cook hot dogs on grill." ></item>
+<item slot="2" original="Get wieners out of fridge." ></item>
+<item slot="3" original="Open grill." ></item>
+<item slot="4" original="Put charcoal in bottom of grill area." ></item>
+<item slot="5" original="Pour lighter fluid onto charcoal." ></item>
+<item slot="6" original="Wait for 20 minutes or so." ></item>
+<item slot="7" original="Wait for charcoal to turn red." ></item>
+<item slot="8" original="Put aluminum foil onto grill part." ></item>
+<item slot="9" original="Punch holes in foil." ></item>
+<item slot="10" original="Place wieners on aluminum foil." ></item>
+<item slot="11" original="Turn wieners often." ></item>
+<item slot="12" original="Remove when wieners are slightly browned." ></item>
+<item slot="13" original="Serve on bun with chili and other condiments." ></item>
+</script><script id="77" source="2"><item slot="1" original="Buying the food" ></item>
+<item slot="2" original="Buying the drinks" ></item>
+<item slot="3" original="Warming up the grill" ></item>
+<item slot="4" original="Putting food on the grill" ></item>
+<item slot="5" original="Eating food" ></item>
+<item slot="6" original="Drinking drinks" ></item>
+<item slot="7" original="Turn off the grill" ></item>
+</script><script id="78" source="2"><item slot="1" original="Go to the store and get food" ></item>
+<item slot="2" original="Go home" ></item>
+<item slot="3" original="Light the grill" ></item>
+<item slot="4" original="Wait for the grill to heat up" ></item>
+<item slot="5" original="Put chicken and burgers on the grill" ></item>
+<item slot="6" original="Cook the food until it is done" ></item>
+<item slot="7" original="Remove food from the grill" ></item>
+<item slot="8" original="Take the plate of food to the table with condiments" ></item>
+<item slot="9" original="Make a plate of food" ></item>
+<item slot="10" original="Eat the food" ></item>
+</script><script id="79" source="2"><item slot="1" original="Get food" ></item>
+<item slot="2" original="Go outside" ></item>
+<item slot="3" original="Pour in charcoal" ></item>
+<item slot="4" original="Light charcoal" ></item>
+<item slot="5" original="Put food on grill" ></item>
+<item slot="6" original="Wait for it to cook" ></item>
+<item slot="7" original="Eat food" ></item>
+</script><script id="81" source="2"><item slot="1" original="Tell your friends that you will have a barbeque" ></item>
+<item slot="2" original="Go to store and get a large amount of meat, buns, beer, and barbeque sauce" ></item>
+<item slot="3" original="Marinate the meat : sauce and vinegar and meat in a dish and keep in refrigerator" ></item>
+<item slot="4" original="When friends come over, serve beer" ></item>
+<item slot="5" original="Turn the gas on in your grill" ></item>
+<item slot="6" original="Light grill" ></item>
+<item slot="7" original="Close grill to let it warm up" ></item>
+<item slot="8" original="Make hamburger patties from ground beef" ></item>
+<item slot="9" original="Put BBQ sauce on chicken pieces" ></item>
+<item slot="10" original="When grill is warmed up, open lid" ></item>
+<item slot="11" original="Put hot dogs, hamburger patties, and chicken on the grill" ></item>
+<item slot="12" original="Cook meat" ></item>
+<item slot="13" original="Halfway through cooking, put cheese on hamburger buns, and rotate hot dogs" ></item>
+<item slot="14" original="When meat is done, take it out and serve" ></item>
+<item slot="15" original="Enjoy your barbecue." ></item>
+</script><script id="82" source="2"><item slot="1" original="Invite friends and family to barbecue" ></item>
+<item slot="2" original="Go to the grocery store" ></item>
+<item slot="3" original="Purchase items for barbecue" ></item>
+<item slot="4" original="Return home with items" ></item>
+<item slot="5" original="Prepare meat for cooking" ></item>
+<item slot="6" original="Prepare other side dishes" ></item>
+<item slot="7" original="Wait for guests to arrive" ></item>
+<item slot="8" original="Add charcoal to barbecue pit" ></item>
+<item slot="9" original="Obtain proper temperature for cooking" ></item>
+<item slot="10" original="Add meat to pit" ></item>
+<item slot="11" original="Cook fully" ></item>
+<item slot="12" original="Remove meat from pit" ></item>
+<item slot="13" original="Spread all food out for guests to make their plates" ></item>
+<item slot="14" original="Enjoy" ></item>
+</script><script id="83" source="2"><item slot="1" original="Go to the grocery store" ></item>
+<item slot="2" original="Buy food items and meat for the barbecue" ></item>
+<item slot="3" original="Invite friends and family" ></item>
+<item slot="4" original="Prepare the meat for grilling" ></item>
+<item slot="5" original="Turn the grill on" ></item>
+<item slot="6" original="Place the meat on the grill" ></item>
+<item slot="7" original="Cook meat to specification" ></item>
+<item slot="8" original="Enjoy the food and company" ></item>
+</script><script id="84" source="2"><item slot="1" original="pick a date of event" ></item>
+<item slot="2" original="invite friends" ></item>
+<item slot="3" original="buy charcoal" ></item>
+<item slot="4" original="buy meat" ></item>
+<item slot="5" original="put charcoal in grill" ></item>
+<item slot="6" original="allow charcoal to get hot" ></item>
+<item slot="7" original="place meat on grill" ></item>
+<item slot="8" original="cook until done" ></item>
+<item slot="9" original="remove from grill" ></item>
+<item slot="10" original="serve to friends" ></item>
+</script><script id="85" source="2"><item slot="1" original="Buy food and supplies" ></item>
+<item slot="2" original="Set up table" ></item>
+<item slot="3" original="fire up grill with charcoal" ></item>
+<item slot="4" original="cook food" ></item>
+<item slot="5" original="enjoy food with friends and family" ></item>
+</script><script id="86" source="2"><item slot="1" original="Get food to cook on the grill" ></item>
+<item slot="2" original="Put coals in the grill" ></item>
+<item slot="3" original="Pour lighter fluid on the coals" ></item>
+<item slot="4" original="Light the coals with a match or lighter" ></item>
+<item slot="5" original="Open the food packages" ></item>
+<item slot="6" original="Put the food on the grill" ></item>
+<item slot="7" original="Turn the food occasionally so that it doesn't burn" ></item>
+<item slot="8" original="Put food on the plates" ></item>
+<item slot="9" original="Give food and drinks to everyone" ></item>
+<item slot="10" original="Eat the food" ></item>
+</script><script id="87" source="2"><item slot="1" original="buy meat from a store" ></item>
+<item slot="2" original="season the meat" ></item>
+<item slot="3" original="call friends to come over" ></item>
+<item slot="4" original="heat up the grill" ></item>
+<item slot="5" original="throw meat on the grill" ></item>
+<item slot="6" original="cook the meat for an amount of time" ></item>
+<item slot="7" original="take meat off the grill and serve to friends" ></item>
+</script><script id="88" source="2"><item slot="1" original="Plan a date and time for the barbecue" ></item>
+<item slot="2" original="Invite friends and family" ></item>
+<item slot="3" original="Go the store" ></item>
+<item slot="4" original="Buy the food for the barbecue" ></item>
+<item slot="5" original="prepare the food for cooking" ></item>
+<item slot="6" original="cook the food during the barbecue" ></item>
+<item slot="7" original="serve the food" ></item>
+</script><script id="89" source="2"><item slot="1" original="Buy meat, sides, and drinks at the grocery store." ></item>
+<item slot="2" original="Get coal and a lighter for the grill. If it is a gas grill, check the tank." ></item>
+<item slot="3" original="Marinate and season the meat." ></item>
+<item slot="4" original="Throw drinks in a cooler." ></item>
+<item slot="5" original="Turn on the grill by lighting it." ></item>
+<item slot="6" original="Let the grill heat up." ></item>
+<item slot="7" original="When the grill is hot enough, throw the food onto it." ></item>
+<item slot="8" original="Flip over the meat when necessary." ></item>
+<item slot="9" original="Place cooked meat on plates and serve." ></item>
+<item slot="10" original="Eat it and enjoy each other's company." ></item>
+</script><script id="90" source="2"><item slot="1" original="Buy charcoal." ></item>
+<item slot="2" original="Throw charcoal in the grill and light up with lighter fluid." ></item>
+<item slot="3" original="While barbecue is heating, prepare seasoned foods." ></item>
+<item slot="4" original="When barbecue is ready, apply foods on the grill and cover." ></item>
+<item slot="5" original="After the right time has passed, serve and enjoy." ></item>
+</script><script id="91" source="2"><item slot="1" original="Invite people over." ></item>
+<item slot="2" original="Confirm the number of guests." ></item>
+<item slot="3" original="Buy enough food/beverages." ></item>
+<item slot="4" original="Cook the food." ></item>
+<item slot="5" original="Serve the food." ></item>
+<item slot="6" original="Have fun!" ></item>
+</script><script id="92" source="2"><item slot="1" original="Go to the grocery store" ></item>
+<item slot="2" original="Buy charcoal" ></item>
+<item slot="3" original="Buy meats and veggies that you want to grill" ></item>
+<item slot="4" original="Have a date, or invite friends or family" ></item>
+<item slot="5" original="Grill your foods of choice" ></item>
+<item slot="6" original="Eat and enjoy the food and company" ></item>
+</script><script id="93" source="2"><item slot="1" original="set a date and time" ></item>
+<item slot="2" original="invite friends" ></item>
+<item slot="3" original="obtain food" ></item>
+<item slot="4" original="obtain alcohol" ></item>
+<item slot="5" original="put coals into chimney" ></item>
+<item slot="6" original="light chimney" ></item>
+<item slot="7" original="wait for coals to be ready" ></item>
+<item slot="8" original="put coals onto grill" ></item>
+<item slot="9" original="clean grill" ></item>
+<item slot="10" original="add food" ></item>
+<item slot="11" original="grill to completion" ></item>
+<item slot="12" original="serve food" ></item>
+<item slot="13" original="serve beer" ></item>
+<item slot="14" original="have fun" ></item>
+</script><script id="94" source="2"><item slot="1" original="Invite friends" ></item>
+<item slot="2" original="Purchase groceries" ></item>
+<item slot="3" original="Turn on barbecue" ></item>
+<item slot="4" original="Place items on barbecue" ></item>
+<item slot="5" original="Let food cook" ></item>
+<item slot="6" original="Take food off once ready" ></item>
+<item slot="7" original="Serve food to friends" ></item>
+</script><script id="95" source="2"><item slot="1" original="Get charcoal" ></item>
+<item slot="2" original="buy meat" ></item>
+<item slot="3" original="soak coal in light fluid" ></item>
+<item slot="4" original="light coals" ></item>
+<item slot="5" original="put meat on grill" ></item>
+<item slot="6" original="cook" ></item>
+<item slot="7" original="serve" ></item>
+<item slot="8" original="eat" ></item>
+<item slot="9" original="enjoy" ></item>
+</script><script id="96" source="2"><item slot="1" original="Invite over friends and family" ></item>
+<item slot="2" original="Go to the grocery store and buy several meats and sides" ></item>
+<item slot="3" original="Go home and organize groceries for cooking" ></item>
+<item slot="4" original="Light grill when guests show up" ></item>
+<item slot="5" original="Cook food on grill while socializing with guests" ></item>
+<item slot="6" original="Eat food together" ></item>
+</script><script id="97" source="2"><item slot="1" original="Go to the store and purchase food and charcoal." ></item>
+<item slot="2" original="Drive home." ></item>
+<item slot="3" original="Pull out the grill and set it up with charcoal." ></item>
+<item slot="4" original="Light the grill on fire and allow it to sit and settle in." ></item>
+<item slot="5" original="Prepare the food that you will cook." ></item>
+<item slot="6" original="Place the food onto the grill." ></item>
+<item slot="7" original="Flip the food over halfway through cooking." ></item>
+<item slot="8" original="Take the food off the grill." ></item>
+<item slot="9" original="Serve the food." ></item>
+</script><script id="98" source="2"><item slot="1" original="Go to the grocery store." ></item>
+<item slot="2" original="Get charcoal or gas." ></item>
+<item slot="3" original="Get buns." ></item>
+<item slot="4" original="Get hot dogs." ></item>
+<item slot="5" original="Get hamburgers." ></item>
+<item slot="6" original="Get baked beans." ></item>
+<item slot="7" original="Go home." ></item>
+<item slot="8" original="Start grill." ></item>
+<item slot="9" original="Cook hot dogs and hamburgers." ></item>
+<item slot="10" original="Cook baked beans." ></item>
+<item slot="11" original="Set table outdoors." ></item>
+<item slot="12" original="Serve food on a tray." ></item>
+<item slot="13" original="Serve sweet tea." ></item>
+<item slot="14" original="Eat food." ></item>
+<item slot="15" original="Enjoy the company of friends and family." ></item>
+</script><script id="99" source="2"><item slot="1" original="Decide where and when to have the barbecue" ></item>
+<item slot="2" original="Choose who you want to invite" ></item>
+<item slot="3" original="Plan what foods you would like to serve" ></item>
+<item slot="4" original="Invite your guests" ></item>
+<item slot="5" original="Shop for supplies" ></item>
+<item slot="6" original="Begin making all the side dishes" ></item>
+<item slot="7" original="Decorate for the barbecue" ></item>
+<item slot="8" original="Get dressed for the barbecue" ></item>
+<item slot="9" original="Put out snacks and appetizers" ></item>
+<item slot="10" original="Welcome your guests" ></item>
+<item slot="11" original="Barbecue your main dishes" ></item>
+<item slot="12" original="Eat and drink" ></item>
+<item slot="13" original="Talk to your guests" ></item>
+<item slot="14" original="Clean up when the barbecue is over" ></item>
+</script><script id="100" source="2"><item slot="1" original="Invite family or friends" ></item>
+<item slot="2" original="Make a list" ></item>
+<item slot="3" original="Grocery shop" ></item>
+<item slot="4" original="Chill drinks" ></item>
+<item slot="5" original="Prepare side dishes" ></item>
+<item slot="6" original="Prep meat" ></item>
+<item slot="7" original="Heat grill" ></item>
+<item slot="8" original="Cook meat" ></item>
+<item slot="9" original="Set table" ></item>
+<item slot="10" original="Let guests in" ></item>
+<item slot="11" original="Enjoy meal" ></item>
+<item slot="12" original="Clean up" ></item>
+</script></scripts>

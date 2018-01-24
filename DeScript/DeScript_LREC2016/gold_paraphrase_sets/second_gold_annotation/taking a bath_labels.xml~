@@ -1,0 +1,1127 @@
+<scripts>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item head="light" original="Light candles if desired." script="31" slot="3" text="light" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="candles" text="candles" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item head="open" original="Open the shower" script="36" slot="3" text="open" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="shower" text="the shower" />
+		</item>
+<item head="open" original="Open the shower" script="36" slot="8" text="open" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="shower" text="the shower" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="enter_bathroom">
+<item head="go" original="Go inside bathroom" script="15" slot="2" text="go" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bathroom" text="inside bathroom" />
+		</item>
+<item head="proceed" original="Proceed to Bathroom." script="18" slot="1" text="proceed to" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bathroom" text="bathroom" />
+		</item>
+<item head="enter" original="Enter the bathroom" script="20" slot="1" text="enter" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bathroom" text="the bathroom" />
+		</item>
+<item head="enter" original="Enter bath" script="27" slot="1" text="enter" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bath" text="bath" />
+		</item>
+<item head="go" original="Go into bathroom and lock the door" script="32" slot="2" text="go into" total-slots="13">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bathroom" text="bathroom" />
+			<ptcp head="door" text="the door" />
+		</item>
+<item head="go" original="Go into bathroom" script="35" slot="1" text="go into" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bathroom" text="bathroom" />
+		</item>
+<item head="go" original="Go to the bathroom" script="36" slot="1" text="go to" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bathroom" text="the bathroom" />
+		</item>
+<item head="step" original="step into bathroom" script="40" slot="1" text="step into" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bathroom" text="bathroom" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="other_close_door">
+<item head="lock" original="Lock the door from inside" script="15" slot="3" text="lock from" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="door" text="the door" />
+			<ptcp head="inside" text="inside" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="take_clean_clothes">
+		<item head="hang" original="Hang the clothes" script="15" slot="6" text="hang" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="clothes" text="the clothes" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="prepare_bath">
+<item head="take" original="Take towel" script="15" slot="1" text="take" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="towel" text="towel" />
+		</item>
+<item head="hang" original="Hang the towel on the hanger" script="15" slot="4" text="hang on" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="towel" text="the towel" />
+			<ptcp head="hanger" text="the hanger" />
+		</item>
+<item head="gather" original="Gather towel and body wash" script="19" slot="1" text="gather" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="towel" text="towel and body" />
+		</item>
+<item head="get" original="Get towel and wash cloth ready and set to the side" script="21" slot="1" text="get to" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="towel" text="towel" />
+			<ptcp head="cloth" text="cloth" />
+			<ptcp head="side" text="the side" />
+		</item>
+<item head="gather" original="Gather soap, sponge, razor." script="22" slot="4" text="gather" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="razor" text="soap , sponge , razor" />
+		</item>
+<item head="grab" original="grab a towel" script="23" slot="3" text="grab" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="towel" text="a towel" />
+		</item>
+		<item head="grab" original="grab a wash cloth" script="23" slot="4" text="grab" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="cloth" text="a wash cloth" />
+		</item>
+<item head="gather" original="Gather towel and soaps, place them within reach of bathtub" script="25" slot="1" text="gather within of" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="towel" text="towel and soaps" />
+			<ptcp head="them" text="them" />
+			<ptcp head="reach" text="reach" />
+			<ptcp head="bathtub" text="bathtub" />
+		</item>
+<item head="gather" original="Gather towels and bubble bath" script="32" slot="1" text="gather" total-slots="13">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="towels" text="towels" />
+			<ptcp head="bath" text="bubble bath" />
+		</item>
+<item head="get" original="Get towels and washclothes" script="39" slot="2" text="get" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="towels" text="towels and washclothes" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="other_got_to_tub">
+
+</label>
+<label type="PARAPHRASE" event="turn_water_on">
+<item head="open" original="Open the hot and cold water taps" script="15" slot="8" text="open" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="hot" text="the hot and cold water taps" />
+			<ptcp head="taps" text="cold water taps" />
+		</item>
+<item head="run" original="Run warm water" script="17" slot="1" text="run" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="warm water" />
+		</item>
+<item head="turn" original="Turn on water and adjust temperature." script="18" slot="2" text="turn on" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="water" />
+			<ptcp head="temperature" text="temperature" />
+		</item>
+<item head="turn" original="Turn on hot and cold faucets to preferred water temperature" script="21" slot="3" text="turn on to" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="faucets" text="hot and cold faucets" />
+			<ptcp head="temperature" text="preferred water temperature" />
+		</item>
+<item head="run" original="Run bath faucet." script="22" slot="1" text="run" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="faucet" text="bath faucet" />
+		</item>
+<item head="fill" original="fill tub with warm water" script="23" slot="1" text="fill with" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="tub" />
+			<ptcp head="water" text="warm water" />
+		</item>
+<item head="start" original="Start running the bath water" script="24" slot="2" text="start" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="the bath water" />
+		</item>
+<item head="turn" original="Turn on water" script="25" slot="2" text="turn on" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="water" />
+		</item>
+<item head="turn" original="Turn on water in tub." script="28" slot="2" text="turn on in" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="water" />
+			<ptcp head="tub" text="tub" />
+		</item>
+<item head="start" original="Start running warm water" script="29" slot="1" text="start" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="warm water" />
+		</item>
+<item head="turn" original="Turn water on to designated temperature and let water fill up tub." script="30" slot="2" text="turn to" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="water" />
+			<ptcp head="temperature" text="designated temperature" />
+			<ptcp head="water" text="water" />
+			<ptcp head="tub" text="tub" />
+		</item>
+<item head="turn" original="Turn on bath faucet." script="31" slot="1" text="turn on" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="faucet" text="bath faucet" />
+		</item>
+<item head="turn" original="Turn on water to fill the tub" script="32" slot="3" text="turn on" total-slots="13">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="water" />
+			<ptcp head="tub" text="the tub" />
+		</item>
+<item head="run" original="Run water" script="33" slot="1" text="run" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="water" />
+		</item>
+<item head="turn" original="turn on water in bathtub" script="34" slot="1" text="turn on in" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="water" />
+			<ptcp head="bathtub" text="bathtub" />
+		</item>
+<item head="turn" original="Turn water on in bath tub" script="35" slot="2" text="turn in" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="water" />
+			<ptcp head="tub" text="bath tub" />
+		</item>
+<item head="turn" original="Turn on water" script="37" slot="2" text="turn on" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="water" />
+		</item>
+<item head="draw" original="draw warm water in bathtub" script="38" slot="1" text="draw in" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="warm water" />
+			<ptcp head="bathtub" text="bathtub" />
+		</item>
+<item head="run" original="Run water into the tub" script="39" slot="1" text="run into" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="water" />
+			<ptcp head="tub" text="the tub" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="check_temp">
+<item head="check" original="Check the warmth of the water in the tub" script="15" slot="10" text="check of in" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="warmth" text="the warmth" />
+			<ptcp head="water" text="the water" />
+			<ptcp head="tub" text="the tub" />
+		</item>
+<item head="adjust" original="Adjust temperature of water by opening or closing hot tap" script="15" slot="11" text="adjust of by" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="temperature" text="temperature of water" />
+			<ptcp head="water" text="water" />
+			<ptcp head="tap" text="hot tap" />
+		</item>
+<item head="ensure" original="Ensure water is not too hot or too cold." script="22" slot="2" text="ensure" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="water" />
+		</item>
+<item head="adjust" original="Adjust hot and cold water until desired warmth is reached" script="25" slot="3" text="adjust" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="hot and cold water" />
+			<ptcp head="warmth" text="desired warmth" />
+		</item>
+<item head="make" original="Make sure the water is adjusted to your desired temperature." script="26" slot="2" text="make to" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="the water" />
+			<ptcp head="temperature" text="your desired temperature" />
+		</item>
+<item head="adjust" original="Adjust water to correct temperature." script="28" slot="3" text="adjust" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="water" />
+			<ptcp head="temperature" text="temperature" />
+		</item>
+<item head="make" original="make sure water is the right temp" script="34" slot="3" text="make" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="water" />
+			<ptcp head="temp" text="the right temp" />
+		</item>
+<item head="adjust" original="Adjust to desired temperature" script="35" slot="3" text="adjust to" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="temperature" text="desired temperature" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="other_wash_cloth">
+
+</label>
+<label type="PARAPHRASE" event="close_drain">
+<item head="close" original="Close the bath tub water exit by the valve" script="15" slot="7" text="close by" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="exit" text="the bath tub water exit" />
+			<ptcp head="valve" text="the valve" />
+		</item>
+<item head="put" original="put drainplug in tub" script="19" slot="2" text="put in" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="drainplug" text="drainplug" />
+			<ptcp head="tub" text="tub" />
+		</item>
+<item head="place" original="Place stopper in bathtub drain" script="21" slot="2" text="place in" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stopper" text="stopper" />
+			<ptcp head="drain" text="bathtub drain" />
+		</item>
+<item head="put" original="Put plug in drain." script="22" slot="3" text="put in" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plug" text="plug" />
+			<ptcp head="drain" text="drain" />
+		</item>
+<item head="plug" original="Plug the drain in the bottom of the bathtub" script="25" slot="4" text="plug in of" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="drain" text="the drain" />
+			<ptcp head="bottom" text="the bottom" />
+			<ptcp head="bathtub" text="the bathtub" />
+		</item>
+<item head="plug" original="Plug the tub" script="27" slot="2" text="plug" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="the tub" />
+		</item>
+<item head="put" original="Put stopper in tub." script="28" slot="1" text="put in" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stopper" text="stopper" />
+			<ptcp head="tub" text="tub" />
+		</item>
+<item head="close" original="Close bath drain" script="29" slot="2" text="close" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="drain" text="bath drain" />
+		</item>
+<item head="put" original="Put plug in bath tub." script="30" slot="1" text="put in" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plug" text="plug" />
+			<ptcp head="tub" text="bath tub" />
+		</item>
+<item head="place" original="Place plug in bath tub drain" script="35" slot="4" text="place in" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plug" text="plug" />
+			<ptcp head="drain" text="bath tub drain" />
+		</item>
+<item head="plug" original="Plug drain in tub" script="37" slot="1" text="plug in" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="drain" text="drain" />
+			<ptcp head="tub" text="tub" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="wait">
+<item head="let" original="Let the tub fill upto 70% upto the tiny holes below the tap" script="15" slot="9" text="let below" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="the tub" />
+			<ptcp head="upto" text="upto 70 % upto" />
+			<ptcp head="holes" text="the tiny holes" />
+			<ptcp head="tap" text="the tap" />
+		</item>
+<item head="fill" original="Fill tub to desired level.." script="18" slot="3" text="fill to" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="tub" />
+			<ptcp head="level" text="desired level" />
+		</item>
+<item head="run" original="run bath water until tub is full" script="19" slot="3" text="run" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="bath water" />
+			<ptcp head="tub" text="tub" />
+		</item>
+<item head="fill" original="Fill bathtub to halfway point" script="21" slot="4" text="fill to" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bathtub" text="bathtub" />
+			<ptcp head="point" text="halfway point" />
+		</item>
+<item head="wait" original="Wait for the bath to fill up" script="24" slot="3" text="wait for" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bath" text="the bath" />
+		</item>
+<item head="allow" original="Allow bathtub to fill about half way" script="25" slot="5" text="allow" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bathtub" text="bathtub to fill about half way" />
+			<ptcp head="way" text="about half way" />
+		</item>
+<item head="fill" original="Fill the bath with water." script="26" slot="1" text="fill with" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bath" text="the bath" />
+			<ptcp head="water" text="water" />
+		</item>
+<item head="fill" original="Fill tub with water" script="27" slot="3" text="fill with" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="tub" />
+			<ptcp head="water" text="water" />
+		</item>
+<item head="let" original="Let the tub fill with water at a comfortable temperature." script="31" slot="4" text="let with at" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="the tub" />
+			<ptcp head="water" text="water" />
+			<ptcp head="temperature" text="a comfortable temperature" />
+		</item>
+<item head="sit" original="Sit on toilet and wait for the tub to fill" script="32" slot="5" text="sit on for" total-slots="13">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="toilet" text="toilet" />
+			<ptcp head="tub" text="the tub" />
+		</item>
+<item head="wait" original="Wait until tub is to desired depth" script="37" slot="4" text="wait to" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="tub" />
+			<ptcp head="depth" text="desired depth" />
+		</item>
+<item head="fill" original="fill up bath tub" script="40" slot="3" text="fill" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="bath tub" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="turn_water_off">
+<item head="turn" original="Turn off faucets and get into bathtub with wash cloth" script="21" slot="5" text="turn into with" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="faucets" text="faucets" />
+			<ptcp head="bathtub" text="bathtub" />
+			<ptcp head="cloth" text="wash cloth" />
+		</item>
+<item head="stop" original="Stop running the water" script="24" slot="4" text="stop" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="the water" />
+		</item>
+<item head="turn" original="Turn off water" script="25" slot="6" text="turn" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="water" />
+		</item>
+<item head="turn" original="Turn off water." script="28" slot="5" text="turn" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="water" />
+		</item>
+<item head="stop" original="Stop water" script="33" slot="3" text="stop" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="water" />
+		</item>
+<item head="turn" original="When bath tub is full, turn off water" script="35" slot="7" text="turn" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="turn" text="when bath tub is full , turn off water" />
+			<ptcp head="tub" text="bath tub" />
+			<ptcp head="water" text="water" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="put_bubble_bath_scent">
+<item head="pour" original="Pour bubble liquid soap" script="15" slot="13" text="pour" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="soap" text="bubble liquid soap" />
+		</item>
+<item head="add" original="Add bubbles" script="17" slot="2" text="add" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bubbles" text="bubbles" />
+		</item>
+<item head="put" original="put in some bubble bath" script="23" slot="2" text="put in" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bath" text="some bubble bath" />
+		</item>
+<item head="put" original="Put in any bath salts or soap that you want" script="24" slot="5" text="put in" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="salts" text="any bath salts" />
+			<ptcp head="soap" text="soap" />
+			<ptcp head="you" text="you" />
+		</item>
+<item head="add" original="Add soap to the bath." script="26" slot="3" text="add to" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="soap" text="soap" />
+			<ptcp head="bath" text="the bath" />
+		</item>
+<item head="pour" original="Pour soap near running water" script="29" slot="3" text="pour near" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="soap" text="soap" />
+			<ptcp head="water" text="water" />
+		</item>
+<item head="add" original="Add bubble bath, bath salts, or oils if desired." script="31" slot="2" text="add" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bath" text="bubble bath" />
+			<ptcp head="salts" text="bath salts" />
+			<ptcp head="oils" text="oils" />
+		</item>
+<item head="pour" original="Pour in the bubble bath" script="32" slot="4" text="pour in" total-slots="13">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bath" text="the bubble bath" />
+		</item>
+<item head="put" original="put in bubble bath if you want" script="34" slot="4" text="put in" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bath" text="bubble bath" />
+			<ptcp head="you" text="you" />
+		</item>
+<item head="add" original="Add bath bubbles if needed" script="37" slot="3" text="add" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bubbles" text="bath bubbles" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="undress">
+<item head="take" original="Take out clothes" script="15" slot="5" text="take" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="clothes" text="clothes" />
+		</item>
+<item head="get" original="Get undressed" script="17" slot="3" text="get" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="undress" original="Undress." script="18" slot="4" text="." total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="undress" text="undress ." />
+		</item>
+<item head="remove" original="Remove the dress, put it in the laundry bag" script="20" slot="2" text="remove in" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="dress" text="the dress" />
+			<ptcp head="it" text="it" />
+			<ptcp head="bag" text="the laundry bag" />
+		</item>
+<item head="fills" original="As water fills, undress." script="22" slot="5" text="fills" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="water" />
+			<ptcp head="undress" text="undress" />
+		</item>
+<item head="take" original="take off clothes" script="23" slot="5" text="take" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="clothes" text="clothes" />
+		</item>
+<item head="take" original="Take off clothes" script="24" slot="1" text="take" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="clothes" text="clothes" />
+		</item>
+<item head="get" original="Get undressed and get into bathtub" script="25" slot="7" text="get into" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bathtub" text="bathtub" />
+		</item>
+<item head="get" original="Get undressed" script="27" slot="4" text="get" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="take" original="Take off clothes." script="28" slot="4" text="take" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="clothes" text="clothes" />
+		</item>
+<item head="undress" original="Undress" script="29" slot="4" text="" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="undress" text="undress" />
+		</item>
+<item head="undress" original="Undress." script="30" slot="3" text="." total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="undress" text="undress ." />
+		</item>
+<item head="get" original="Get undressed" script="33" slot="2" text="get" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="get" original="get undressed" script="34" slot="2" text="get" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="take" original="Take clothes off" script="35" slot="5" text="take" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="clothes" text="clothes" />
+		</item>
+<item head="remove" original="Remove the dress" script="36" slot="2" text="remove" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="dress" text="the dress" />
+		</item>
+<item head="remove" original="remove all your clothing" script="38" slot="2" text="remove" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="clothing" text="all your clothing" />
+		</item>
+<item head="get" original="Undress and get in the tub" script="39" slot="3" text="get in" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="undress" text="undress" />
+			<ptcp head="tub" text="the tub" />
+		</item>
+<item head="take" original="take off clothes" script="40" slot="2" text="take" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="clothes" text="clothes" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="sink_water">
+<item head="step" original="Step inside the bath tub" script="15" slot="12" text="step inside" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="the bath tub" />
+		</item>
+<item head="get" original="Get in tub" script="17" slot="4" text="get in" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="tub" />
+		</item>
+<item head="get" original="Get into bathtub." script="18" slot="5" text="get into" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bathtub" text="bathtub" />
+		</item>
+<item head="get" original="get in bathtub" script="19" slot="4" text="get in" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bathtub" text="bathtub" />
+		</item>
+<item head="step" original="Step into tub." script="22" slot="6" text="step into" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="tub" />
+		</item>
+<item head="get" original="get in tub and scrub your self" script="23" slot="6" text="get in" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="tub and scrub" />
+			<ptcp head="self" text="your self" />
+		</item>
+<item head="get" original="Get inside the bath" script="24" slot="6" text="get inside" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bath" text="the bath" />
+		</item>
+<item head="lower" original="Lower yourself into the bath tub." script="26" slot="4" text="lower into" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="yourself" text="yourself" />
+			<ptcp head="tub" text="the bath tub" />
+		</item>
+<item head="enter" original="Enter tub" script="27" slot="5" text="enter" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="tub" />
+		</item>
+<item head="step" original="Step into tub." script="28" slot="6" text="step into" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="tub" />
+		</item>
+<item head="get" original="Get into bath tub" script="29" slot="5" text="get into" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="bath tub" />
+		</item>
+<item head="get" original="Get into tub." script="30" slot="4" text="get into" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="tub" />
+		</item>
+<item head="get" original="Get into the tub." script="31" slot="5" text="get into" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="the tub" />
+		</item>
+<item head="slide" original="Slowly slide into the tub and lean back" script="32" slot="6" text="slide into" total-slots="13">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="the tub" />
+		</item>
+<item head="get" original="Get into bath" script="33" slot="4" text="get into" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bath" text="bath" />
+		</item>
+<item head="get" original="get into bath" script="34" slot="5" text="get into" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bath" text="bath" />
+		</item>
+<item head="get" original="Get into bath tub" script="35" slot="6" text="get into" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="bath tub" />
+		</item>
+<item head="get" original="Get in bathtub" script="37" slot="5" text="get in" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bathtub" text="bathtub" />
+		</item>
+<item head="lower" original="lower yourself into the water" script="38" slot="3" text="lower into" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="yourself" text="yourself" />
+			<ptcp head="water" text="the water" />
+		</item>
+<item head="step" original="step into bath tub" script="40" slot="4" text="step into" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="bath tub" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="other_shower">
+<item head="rinse" original="Rinse off" script="17" slot="7" text="rinse" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="rinse" original="rinse off" script="19" slot="7" text="rinse" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="open" original="Open the overhead shower rinse the body fully" script="20" slot="3" text="open" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="overhead" text="the overhead" />
+			<ptcp head="body" text="rinse the body" />
+		</item>
+<item head="take" original="Take shower for the whole body" script="20" slot="7" text="take for" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="shower" text="shower" />
+			<ptcp head="body" text="the whole body" />
+		</item>
+		<item head="use" original="Use hand shower for under arms and foot" script="20" slot="8" text="use for under" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="shower" text="hand shower" />
+			<ptcp head="arms" text="arms and foot" />
+		</item>
+<item head="rinse" original="Rinse with bath water" script="21" slot="7" text="rinse with" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="bath water" />
+		</item>
+<item head="turn" original="Turn on shower to rinse off" script="35" slot="11" text="turn on" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="shower" text="shower" />
+		</item>
+<item head="get" original="Get under the shower" script="36" slot="4" text="get under" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="shower" text="the shower" />
+		</item>
+<item head="rinse" original="rinse yourself by taking water from the bath and pouring it over yourself" script="38" slot="5" text="rinse by from over" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="yourself" text="yourself" />
+			<ptcp head="water" text="water" />
+			<ptcp head="bath" text="the bath" />
+			<ptcp head="it" text="it" />
+			<ptcp head="yourself" text="yourself" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="relax">
+<item head="enjoy" original="Enjoy the bath" script="15" slot="14" text="enjoy" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bath" text="the bath" />
+		</item>
+<item head="soak" original="Soak in tub" script="17" slot="6" text="soak in" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="tub" />
+		</item>
+<item head="relax" original="Relax and clean yourself." script="18" slot="6" text="relax" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="yourself" text="yourself" />
+		</item>
+<item head="lay" original="lay back and relax" script="19" slot="5" text="lay" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="lay" original="Lay back and relax." script="22" slot="7" text="lay" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="sit" original="Sit in the bath and just soak and relax for a while" script="24" slot="9" text="sit in for" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bath" text="the bath" />
+			<ptcp head="while" text="a while" />
+		</item>
+<item head="take" original="Take a bath" script="27" slot="6" text="take" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bath" text="a bath" />
+		</item>
+<item head="enjoy" original="Enjoy water." script="28" slot="7" text="enjoy" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="water" />
+		</item>
+<item head="relax" original="Relax" script="29" slot="6" text="relax" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="relax" original="Relax." script="30" slot="5" text="relax" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="soak" original="Soak as long as you like." script="31" slot="6" text="soak" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="you" text="you" />
+		</item>
+<item head="lay" original="Lay in tub to relax" script="32" slot="7" text="lay in" total-slots="13">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="tub" />
+		</item>
+<item head="relax" original="relax" script="34" slot="6" text="relax" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="soak" original="Soak in bath tub" script="35" slot="8" text="soak in" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="bath tub" />
+		</item>
+<item head="bath" original="bath" script="40" slot="6" text="" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bath" text="bath" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="apply_soap">
+<item head="lather" original="Lather with soap" script="17" slot="5" text="lather with" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="soap" text="soap" />
+		</item>
+<item head="apply" original="Apply shampoo to the head, lather thoroghly" script="20" slot="4" text="apply to" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="shampoo" text="shampoo" />
+			<ptcp head="head" text="the head" />
+			<ptcp head="thoroghly" text="lather thoroghly" />
+		</item>
+<item head="apply" original="Apply soap to the whole body and rub with sponge" script="20" slot="6" text="apply to with" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="soap" text="soap" />
+			<ptcp head="body" text="the whole body and rub" />
+			<ptcp head="sponge" text="sponge" />
+		</item>
+<item head="apply" original="Apply the soap" script="36" slot="6" text="apply" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="soap" text="the soap" />
+		</item>
+<item head="grab" original="grab soap" script="40" slot="5" text="grab" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="soap" text="soap" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="wash">
+<item head="sit" original="sit up and clean self with bodywash" script="19" slot="6" text="sit with" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="self" text="self" />
+			<ptcp head="bodywash" text="bodywash" />
+		</item>
+<item head="wash" original="Wash the head fully" script="20" slot="5" text="wash" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="head" text="the head" />
+		</item>
+<item head="use" original="Use soap and wash cloth to scrub body" script="21" slot="6" text="use to" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="soap" text="soap" />
+			<ptcp head="cloth" text="cloth" />
+			<ptcp head="body" text="scrub body" />
+		</item>
+<item head="wash" original="Wash body." script="22" slot="8" text="wash" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="body" text="body" />
+		</item>
+<item head="wash" original="Wash yourself with soap" script="24" slot="7" text="wash with" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="yourself" text="yourself" />
+			<ptcp head="soap" text="soap" />
+		</item>
+<item head="wash" original="Wash self" script="25" slot="8" text="wash" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="self" text="self" />
+		</item>
+<item head="wash" original="Wash your body and shampoo your hair." script="26" slot="5" text="wash" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="body" text="your body and shampoo" />
+			<ptcp head="hair" text="your hair" />
+		</item>
+<item head="wash" original="Wash body and hair." script="28" slot="8" text="wash" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="body" text="body and hair" />
+		</item>
+<item head="wash" original="Wash hair and body" script="29" slot="7" text="wash" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="hair" text="hair and body" />
+		</item>
+<item head="wash" original="Wash your body" script="32" slot="8" text="wash" total-slots="13">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="body" text="your body" />
+		</item>
+<item head="wash" original="Wash self" script="33" slot="5" text="wash" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="self" text="self" />
+		</item>
+<item head="wash" original="wash body with soap" script="34" slot="7" text="wash with" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="body" text="body" />
+			<ptcp head="soap" text="soap" />
+		</item>
+<item head="use" original="Use soap to wash body" script="35" slot="9" text="use" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="soap" text="soap" />
+			<ptcp head="body" text="body" />
+		</item>
+<item head="wash" original="Wash your body" script="36" slot="7" text="wash" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="body" text="your body" />
+		</item>
+<item head="clean" original="Clean the body" script="36" slot="9" text="clean" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="body" text="the body" />
+		</item>
+<item head="use" original="use a washcloth and bar of soap to scrub all of your skin" script="38" slot="4" text="use of to of" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="washcloth" text="a washcloth and bar" />
+			<ptcp head="soap" text="soap" />
+			<ptcp head="scrub" text="scrub" />
+			<ptcp head="all" text="all" />
+			<ptcp head="skin" text="your skin" />
+		</item>
+<item head="wash" original="Wash with washcloth" script="39" slot="4" text="wash with" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="washcloth" text="washcloth" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="other_shampoo_hair">
+<item head="shampoo" original="Shampoo your hair if necessary" script="24" slot="8" text="your hair if necessary" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="shampoo" text="shampoo" />
+			<ptcp head="hair" text="your hair" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="other_stand">
+<item head="stand" original="stand up" script="38" slot="6" text="stand" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="open_drain">
+<item head="drain" original="Drain water" script="17" slot="9" text="drain" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="water" />
+		</item>
+<item head="drain" original="Drain tub." script="18" slot="7" text="drain" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="tub" />
+		</item>
+<item head="pull" original="pull drainplug and let water out of tub" script="19" slot="8" text="pull of" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="drainplug" text="drainplug" />
+			<ptcp head="water" text="water" />
+			<ptcp head="tub" text="tub" />
+		</item>
+<item head="remove" original="Remove stopper from drain" script="21" slot="8" text="remove from" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stopper" text="stopper" />
+			<ptcp head="drain" text="drain" />
+		</item>
+<item head="drain" original="Drain tub." script="22" slot="9" text="drain" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="tub" />
+		</item>
+<item head="drain" original="Drain tub" script="25" slot="9" text="drain" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="tub" />
+		</item>
+<item head="drain" original="Drain the bath tub." script="26" slot="8" text="drain" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="the bath tub" />
+		</item>
+<item head="unplug" original="Unplug the stopper to drain water." script="28" slot="11" text="unplug" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stopper" text="the stopper to drain water" />
+			<ptcp head="water" text="water" />
+		</item>
+<item head="pull" original="Pull the drain plug" script="32" slot="10" text="pull" total-slots="13">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="plug" text="the drain plug" />
+		</item>
+<item head="drain" original="Drain water" script="33" slot="6" text="drain" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="water" />
+		</item>
+<item head="drain" original="drain water from tub" script="34" slot="8" text="drain from" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="water" />
+			<ptcp head="tub" text="tub" />
+		</item>
+<item head="unplug" original="Unplug bath tub drain" script="35" slot="10" text="unplug" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="drain" text="bath tub drain" />
+		</item>
+<item head="drain" original="drain bathtub" script="38" slot="9" text="drain" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bathtub" text="bathtub" />
+		</item>
+<item head="let" original="Let water out of the tub" script="39" slot="6" text="let out of" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="water" text="water" />
+			<ptcp head="tub" text="the tub" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="get_out_bath">
+<item head="come" original="When come out of tub carefully" script="15" slot="15" text="come of" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="tub" />
+		</item>
+<item head="get" original="Get out" script="17" slot="8" text="get" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="get" original="Get out of tub and dry yourself." script="18" slot="8" text="get of" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="tub" />
+			<ptcp head="yourself" text="yourself" />
+		</item>
+<item head="stand" original="stand up and exit tub" script="19" slot="9" text="stand" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="tub" />
+		</item>
+<item head="step" original="Step out of bathtub" script="21" slot="9" text="step of" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bathtub" text="bathtub" />
+		</item>
+<item head="get" original="Get out and drain the bath rub" script="24" slot="10" text="get" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="rub" text="the bath rub" />
+		</item>
+<item head="get" original="Get out of the bath tub." script="26" slot="6" text="get of" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="the bath tub" />
+		</item>
+<item head="get" original="Get out of tub." script="28" slot="9" text="get of" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="tub" />
+		</item>
+<item head="get" original="Get out and towel off." script="31" slot="7" text="get towel" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="towel" text="towel" />
+		</item>
+<item head="get" original="Get out of tub" script="32" slot="9" text="get out of" total-slots="13">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="tub" />
+		</item>
+<item head="get" original="Get out of bath" script="33" slot="7" text="get out of" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bath" text="bath" />
+		</item>
+<item head="get" original="get out of tub" script="34" slot="9" text="get out of" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="tub" />
+		</item>
+<item head="get" original="Get out of bath tub" script="35" slot="12" text="get out of" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="bath tub" />
+		</item>
+<item head="clean" original="When clean get of out tub and dry with towel" script="39" slot="5" text="clean out with" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="tub" />
+			<ptcp head="towel" text="towel" />
+		</item>
+<item head="get" original="get out of tub" script="40" slot="7" text="get out of" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="tub" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="grab_towel">
+<item head="grab" original="grab a towel" script="38" slot="7" text="grab" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="towel" text="a towel" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="dry">
+<item head="wipe" original="Wipe body with towel" script="15" slot="16" text="wipe with" total-slots="16">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="body" text="body" />
+			<ptcp head="towel" text="towel" />
+		</item>
+<item head="dry" original="Dry off with towel" script="17" slot="10" text="dry with" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="towel" text="towel" />
+		</item>
+<item head="dry" original="dry self off with towels" script="19" slot="10" text="dry with" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="self" text="self" />
+			<ptcp head="towels" text="towels" />
+		</item>
+<item head="dry" original="Dry off with towel" script="21" slot="10" text="dry with" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="towel" text="towel" />
+		</item>
+<item head="dry" original="Dry off." script="22" slot="10" text="dry" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="dry" original="Dry off with a towel" script="24" slot="11" text="dry with" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="towel" text="a towel" />
+		</item>
+<item head="dry" original="Dry off" script="25" slot="10" text="dry" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="dry" original="Dry yourself off with a towel." script="26" slot="7" text="dry with" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="yourself" text="yourself" />
+			<ptcp head="towel" text="a towel" />
+		</item>
+<item head="dry" original="Dry off with towel." script="28" slot="10" text="dry with" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="towel" text="towel" />
+		</item>
+<item head="dry" original="Dry off" script="32" slot="11" text="dry" total-slots="13">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="dry" original="Dry off" script="33" slot="8" text="dry" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="dry" original="dry off" script="34" slot="10" text="dry" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="use" original="Use towel to dry off" script="35" slot="13" text="use" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="towel" text="towel" />
+		</item>
+<item head="dry" original="dry yourself with the towel" script="38" slot="8" text="dry with" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="yourself" text="yourself" />
+			<ptcp head="towel" text="the towel" />
+		</item>
+<item head="dry" original="towel dry" script="40" slot="8" text="dry" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="other_wash_towel">
+
+</label>
+<label type="PARAPHRASE" event="other_shut_shower">
+<item head="stop" original="Stop the shower" script="36" slot="5" text="stop" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="shower" text="the shower" />
+		</item>
+<item head="close" original="Close the shower" script="36" slot="10" text="close" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="shower" text="the shower" />
+		</item>
+
+
+</label>
+<label type="PARAPHRASE" event="UnRelEv">
+
+</label>
+<label type="PARAPHRASE" event="get_dressed">
+<item head="get" original="Get dressed." script="18" slot="9" text="get" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="wrap-up" original="Wrap-up with a bath robe" script="20" slot="9" text="wrap-up with" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="robe" text="a bath robe" />
+		</item>
+<item head="dress" original="Dress." script="22" slot="11" text="dress" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="get" original="Get dressed" script="25" slot="11" text="get" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="put" original="Put on robe" script="32" slot="12" text="put on" total-slots="13">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="robe" text="robe" />
+		</item>
+<item head="get" original="Get dressed" script="33" slot="9" text="get" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="get" original="Get dressed" script="35" slot="14" text="get" total-slots="14">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="put" original="put clothes on" script="38" slot="10" text="put on" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="clothes" text="clothes" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="other_turn_off_heat">
+
+</label>
+<label type="PARAPHRASE" event="other_clean_tub">
+<item head="clean" original="Clean out tub" script="39" slot="7" text="clean" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tub" text="tub" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="leave">
+<item head="come" original="come out of the bath room" script="20" slot="10" text="come out of" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="room" text="the bath room" />
+		</item>
+<item head="walk" original="Walk out of bathroom" script="32" slot="13" text="walk out of" total-slots="13">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bathroom" text="bathroom" />
+		</item>
+<item head="leave" original="Leave the bathroom" script="36" slot="11" text="leave" total-slots="11">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bathroom" text="the bathroom" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="UnRelEv">
+
+</label>
+</scripts>

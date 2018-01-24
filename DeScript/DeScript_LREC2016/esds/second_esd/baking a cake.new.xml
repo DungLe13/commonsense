@@ -1,0 +1,1042 @@
+<scripts><script id="1" source="2"><item slot="1" original="Look up a recipe" ></item>
+<item slot="2" original="Purchase ingredients" ></item>
+<item slot="3" original="Set out ingredients" ></item>
+<item slot="4" original="Preheat oven" ></item>
+<item slot="5" original="Being adding ingredients" ></item>
+<item slot="6" original="Mix" ></item>
+<item slot="7" original="Pour batter into pan" ></item>
+<item slot="8" original="Place pan into oven" ></item>
+<item slot="9" original="Set a timer" ></item>
+<item slot="10" original="Remove cake" ></item>
+<item slot="11" original="Frost cake" ></item>
+<item slot="12" original="Set cake to cool" ></item>
+<item slot="13" original="Enjoy a slice of cake" ></item>
+<item slot="14" original="Enjoy another slice of cake" ></item>
+<item slot="15" original="Place remainder in microwave (to store, not to cook)" ></item>
+</script><script id="2" source="2"><item slot="1" original="Find a recipe." ></item>
+<item slot="2" original="Preheat the oven." ></item>
+<item slot="3" original="Add ingredients to bowl." ></item>
+<item slot="4" original="Stir ingredients." ></item>
+<item slot="5" original="Grease pan." ></item>
+<item slot="6" original="Add cake batter to pan." ></item>
+<item slot="7" original="Put pan in oven." ></item>
+<item slot="8" original="Set timer." ></item>
+<item slot="9" original="Remove cake from oven." ></item>
+<item slot="10" original="Turn off oven." ></item>
+<item slot="11" original="Make frosting." ></item>
+<item slot="12" original="Frost cake when it is cool." ></item>
+</script><script id="3" source="2"><item slot="1" original="Read the recipe" ></item>
+<item slot="2" original="Get the ingredients and materials you need" ></item>
+<item slot="3" original="Measure each ingredient according to the recipe" ></item>
+<item slot="4" original="Preheat the oven" ></item>
+<item slot="5" original="Grease the pan" ></item>
+<item slot="6" original="Mix all the wet ingredients together in one bowl" ></item>
+<item slot="7" original="Mix the dry ingredients in another bowl" ></item>
+<item slot="8" original="Add the dry mixture to the wet mixture." ></item>
+<item slot="9" original="Beat the mixture on low until the batter comes together and no white bits of flour remain." ></item>
+<item slot="10" original="Pour the batter into the cake pan" ></item>
+<item slot="11" original="Put the pan in the oven and bake the cake according to the recipe" ></item>
+<item slot="12" original="Check if the cake is ready" ></item>
+<item slot="13" original="Take the cake from the oven and let it cool." ></item>
+</script><script id="4" source="2"><item slot="1" original="Get out cake mix" ></item>
+<item slot="2" original="Preheat oven" ></item>
+<item slot="3" original="Get out eggs" ></item>
+<item slot="4" original="Get out vegetable oil" ></item>
+<item slot="5" original="Get out measuring cups" ></item>
+<item slot="6" original="Pour cake mix in a bowl" ></item>
+<item slot="7" original="Add eggs" ></item>
+<item slot="8" original="Add vegetable oil" ></item>
+<item slot="9" original="Mix" ></item>
+<item slot="10" original="Grease pan" ></item>
+<item slot="11" original="Pour in pan" ></item>
+<item slot="12" original="Bake in oven until done" ></item>
+<item slot="13" original="Let cool" ></item>
+<item slot="14" original="Frost it" ></item>
+<item slot="15" original="Eat it" ></item>
+</script><script id="5" source="2"><item slot="1" original="Buy proper ingredients" ></item>
+<item slot="2" original="Set oven to correct temperature according to box directions" ></item>
+<item slot="3" original="Gather all ingredients" ></item>
+<item slot="4" original="Mix ingredients according to directions on box" ></item>
+<item slot="5" original="Pour cake batter into desired pan shape or size" ></item>
+<item slot="6" original="Set timer and bake for time directed according to pan size" ></item>
+<item slot="7" original="When time is up check if cake is cooked by inserting toothpick, it should come out clean" ></item>
+<item slot="8" original="Place cake on rack to cool completely" ></item>
+<item slot="9" original="Ice cake or decorate" ></item>
+</script><script id="6" source="2"><item slot="1" original="pre heat oven" ></item>
+<item slot="2" original="cake pans" ></item>
+<item slot="3" original="take out eggs" ></item>
+<item slot="4" original="milk" ></item>
+<item slot="5" original="measuring cup" ></item>
+<item slot="6" original="measuring spoons" ></item>
+<item slot="7" original="other ingredients" ></item>
+<item slot="8" original="mix all the ingredients" ></item>
+<item slot="9" original="grease the pans" ></item>
+<item slot="10" original="add  the cake" ></item>
+<item slot="11" original="put the cake in the oven" ></item>
+<item slot="12" original="set the timer" ></item>
+<item slot="13" original="clean up the mess" ></item>
+<item slot="14" original="take cake out the oven" ></item>
+<item slot="15" original="let cake cool" ></item>
+<item slot="16" original="ice the cake" ></item>
+</script><script id="7" source="2"><item slot="1" original="getting ingredients ready" ></item>
+<item slot="2" original="put all ingredients in bowl" ></item>
+<item slot="3" original="Stir all ingredients until well mixed" ></item>
+<item slot="4" original="Pour mixture into a greased pan" ></item>
+<item slot="5" original="Put greased pan into preheated stove" ></item>
+<item slot="6" original="Set timer" ></item>
+<item slot="7" original="Bake cake" ></item>
+</script><script id="8" source="2"><item slot="1" original="Get cake mix" ></item>
+<item slot="2" original="Get eggs" ></item>
+<item slot="3" original="Get water" ></item>
+<item slot="4" original="Get oil" ></item>
+<item slot="5" original="Combine in bowl" ></item>
+<item slot="6" original="Pour in pan" ></item>
+<item slot="7" original="Bake in oven" ></item>
+</script><script id="9" source="2"><item slot="1" original="Get flour" ></item>
+<item slot="2" original="Get sugar" ></item>
+<item slot="3" original="Get baking powder, milk, eggs, vanilla, oil" ></item>
+<item slot="4" original="Place dry ingredients in bowl" ></item>
+<item slot="5" original="Mix dry ingredients well" ></item>
+<item slot="6" original="Place wet ingredients in separate bowl" ></item>
+<item slot="7" original="Mix wet ingredients together" ></item>
+<item slot="8" original="Preheat oven" ></item>
+<item slot="9" original="Grease and flour cake pans" ></item>
+<item slot="10" original="Pour wet mixture into dry mixture" ></item>
+<item slot="11" original="Use electric mixer to mix well" ></item>
+<item slot="12" original="Pour batter into cake pans" ></item>
+<item slot="13" original="Bake until cake is ready" ></item>
+</script><script id="10" source="2"><item slot="1" original="Gather your cooking materials for baking a cake" ></item>
+<item slot="2" original="Get you cooking supplies" ></item>
+<item slot="3" original="Get your recipe" ></item>
+<item slot="4" original="Begin the process of making your cake" ></item>
+<item slot="5" original="When finished cut and eat" ></item>
+<item slot="6" original="Store any leftovers in the fridge" ></item>
+</script><script id="11" source="2"><item slot="1" original="First heat oven" ></item>
+<item slot="2" original="Take cake mixture of any kind." ></item>
+<item slot="3" original="Put it inside cake ring which is greased with butter." ></item>
+<item slot="4" original="Cover it and put it on a oven plate." ></item>
+<item slot="5" original="Set the oven to required temperature." ></item>
+<item slot="6" original="Put the prepared oven plate inside oven." ></item>
+<item slot="7" original="After the required minutes take off the plate." ></item>
+<item slot="8" original="Test if it cooked by inserting a toothpick - when it comes clean out it is cooked." ></item>
+<item slot="9" original="Now Invert the plate on the cake table." ></item>
+<item slot="10" original="Design it with cream on borders and write name with cone if desired." ></item>
+<item slot="11" original="Enjoyment doubles when the cake is made by you and it is shared with friends." ></item>
+</script><script id="12" source="2"><item slot="1" original="Find a recipe" ></item>
+<item slot="2" original="Get all the ingredients together" ></item>
+<item slot="3" original="Preheat oven" ></item>
+<item slot="4" original="Mix all the dry ingredient together" ></item>
+<item slot="5" original="Put eggs in dry ingredient and mix them in" ></item>
+<item slot="6" original="Mix wet ingredients together" ></item>
+<item slot="7" original="Mix wet and dry ingredients together" ></item>
+<item slot="8" original="Put cake in oven" ></item>
+<item slot="9" original="Take cake out of oven" ></item>
+</script><script id="13" source="2"><item slot="1" original="Find a cake recipe" ></item>
+<item slot="2" original="Go to store" ></item>
+<item slot="3" original="Buy ingredients" ></item>
+<item slot="4" original="Go home" ></item>
+<item slot="5" original="Follow recipe to make the batter" ></item>
+<item slot="6" original="Place batter in a pan" ></item>
+<item slot="7" original="Place pan in overn" ></item>
+<item slot="8" original="Bake as indicated on recipe" ></item>
+</script><script id="14" source="2"><item slot="1" original="prepare the microwave oven and required utensils." ></item>
+<item slot="2" original="Preheat the oven to 180 degree C" ></item>
+<item slot="3" original="make the chocolate mixture" ></item>
+<item slot="4" original="Then make the chocolate batter" ></item>
+<item slot="5" original="Mix well with vanilla with an electric beater" ></item>
+<item slot="6" original="Bake for about 40 min and test with a skewer" ></item>
+<item slot="7" original="Add frosting, sprinkles for decoration" ></item>
+</script><script id="16" source="2"><item slot="1" original="gather ingredients" ></item>
+<item slot="2" original="mix cake mix, eggs and water in bowl" ></item>
+<item slot="3" original="pour into pan" ></item>
+<item slot="4" original="turn on oven" ></item>
+<item slot="5" original="put in oven and bake at specified temperature" ></item>
+<item slot="6" original="remove cake from oven to cool" ></item>
+<item slot="7" original="turn off oven" ></item>
+<item slot="8" original="mix frosting" ></item>
+<item slot="9" original="frost cake" ></item>
+<item slot="10" original="serve cake" ></item>
+<item slot="11" original="refrigerate any leftovers" ></item>
+</script><script id="17" source="2"><item slot="1" original="Get all ingredients" ></item>
+<item slot="2" original="get out your recipe" ></item>
+<item slot="3" original="next get out a big bowl" ></item>
+<item slot="4" original="mix your ingredients" ></item>
+<item slot="5" original="turn on oven" ></item>
+<item slot="6" original="get a pan" ></item>
+<item slot="7" original="pour batter in pan" ></item>
+<item slot="8" original="place in oven" ></item>
+<item slot="9" original="Set timer" ></item>
+</script><script id="18" source="2"><item slot="1" original="Buy cake mix." ></item>
+<item slot="2" original="Once home, pour dry mix into bowl." ></item>
+<item slot="3" original="Add eggs, oil, water." ></item>
+<item slot="4" original="Preheat oven to 350 degrees." ></item>
+<item slot="5" original="Grease and flour a cake pan." ></item>
+<item slot="6" original="Pour batter into pan." ></item>
+<item slot="7" original="Place pan in oven." ></item>
+<item slot="8" original="Bake 35 minutes or until toothpick inserted comes out dry." ></item>
+<item slot="9" original="Use pot holder to remove from oven." ></item>
+<item slot="10" original="Turn off oven." ></item>
+<item slot="11" original="Cool cake in pan on cooling rack." ></item>
+</script><script id="19" source="2"><item slot="1" original="Get a box of cake mix" ></item>
+<item slot="2" original="Get eggs, water and oil out of the pantry" ></item>
+<item slot="3" original="Get a cake pan, mixing bowl and a whisk" ></item>
+<item slot="4" original="Turn the oven on to the appropriate temperature and let it preheat" ></item>
+<item slot="5" original="Open the box and pour the mix into the bowl" ></item>
+<item slot="6" original="Add the egg, water and oil to the mix" ></item>
+<item slot="7" original="Whisk it all together in the bowl until it is smooth" ></item>
+<item slot="8" original="Pour the batter into the cake pan" ></item>
+<item slot="9" original="Put the pan in the oven" ></item>
+<item slot="10" original="Set the timer on the oven according to directions on the box" ></item>
+<item slot="11" original="Wait for the timer to go off" ></item>
+<item slot="12" original="Use oven mitts to carefully remove the cake from the oven" ></item>
+</script><script id="20" source="2"><item slot="1" original="Buy cake mix" ></item>
+<item slot="2" original="Put eggs, milk, and cake mix into a mixing bowl" ></item>
+<item slot="3" original="Include any other necessary ingredients" ></item>
+<item slot="4" original="Stir ingredients together" ></item>
+<item slot="5" original="Pour resulting batter into a cake dish" ></item>
+<item slot="6" original="Put dish in the oven" ></item>
+<item slot="7" original="Set the oven to bake" ></item>
+<item slot="8" original="Take cake out of oven when it is done" ></item>
+<item slot="9" original="Put any frosting or toppings on it" ></item>
+</script><script id="21" source="2"><item slot="1" original="Get ingredients" ></item>
+<item slot="2" original="Get bowls" ></item>
+<item slot="3" original="Add cake mix to bowl" ></item>
+<item slot="4" original="Add ingredients" ></item>
+<item slot="5" original="Stir well" ></item>
+<item slot="6" original="Set oven temp" ></item>
+<item slot="7" original="Put in oven" ></item>
+<item slot="8" original="Bake" ></item>
+<item slot="9" original="Pull out oven when ready" ></item>
+<item slot="10" original="Let cool and cut slices" ></item>
+</script><script id="22" source="2"><item slot="1" original="Look up cake recipe" ></item>
+<item slot="2" original="Get the cake ingredients" ></item>
+<item slot="3" original="Mix the cake ingredients" ></item>
+<item slot="4" original="Turn on the oven and place the cake dough inside" ></item>
+<item slot="5" original="Bake the cake" ></item>
+</script><script id="23" source="2"><item slot="1" original="Get ingredients." ></item>
+<item slot="2" original="Open all ingredients." ></item>
+<item slot="3" original="Measure ingredients in designated measuring cups." ></item>
+<item slot="4" original="Preheat oven to degree amount needed." ></item>
+<item slot="5" original="Mix ingredients together." ></item>
+<item slot="6" original="Pour mixed ingredients into baking pan." ></item>
+<item slot="7" original="Place in the oven for set amount of time." ></item>
+<item slot="8" original="When done, take out to cool." ></item>
+<item slot="9" original="Once cool, decorate it as you want to." ></item>
+<item slot="10" original="Serve and enjoy!" ></item>
+</script><script id="24" source="2"><item slot="1" original="gather ingredients" ></item>
+<item slot="2" original="turn on oven" ></item>
+<item slot="3" original="combine ingredients into a bowl" ></item>
+<item slot="4" original="put batter into a pan" ></item>
+<item slot="5" original="put pan into oven" ></item>
+<item slot="6" original="bake" ></item>
+<item slot="7" original="remove from oven" ></item>
+</script><script id="25" source="2"><item slot="1" original="Turn on oven." ></item>
+<item slot="2" original="Open up cake box." ></item>
+<item slot="3" original="Mix cake mix, eggs, oil and water in bowl." ></item>
+<item slot="4" original="Stir until well mixed." ></item>
+<item slot="5" original="Grease cake pan." ></item>
+<item slot="6" original="Pour mix into cake pan." ></item>
+<item slot="7" original="Put cake pan into oven." ></item>
+<item slot="8" original="Take cake out when done." ></item>
+<item slot="9" original="After cake cools, put frosting on cake." ></item>
+<item slot="10" original="Eat the cake." ></item>
+</script><script id="26" source="2"><item slot="1" original="Get cake mix" ></item>
+<item slot="2" original="Mix cake and other ingredients" ></item>
+<item slot="3" original="Put cake batter on pan" ></item>
+<item slot="4" original="Preheat oven" ></item>
+<item slot="5" original="Put cake in" ></item>
+<item slot="6" original="Set timer" ></item>
+<item slot="7" original="Take cake out" ></item>
+<item slot="8" original="Let cake cool" ></item>
+<item slot="9" original="Frost cake" ></item>
+<item slot="10" original="Cut cake" ></item>
+<item slot="11" original="Serve and enjoy" ></item>
+</script><script id="27" source="2"><item slot="1" original="Find a recipe" ></item>
+<item slot="2" original="Gather ingredients" ></item>
+<item slot="3" original="Prepare your cake" ></item>
+<item slot="4" original="Put into oven" ></item>
+<item slot="5" original="Wait for appropriate time" ></item>
+<item slot="6" original="Take cake out" ></item>
+<item slot="7" original="Taste cake" ></item>
+</script><script id="28" source="2"><item slot="1" original="Preheat oven" ></item>
+<item slot="2" original="Get bowl" ></item>
+<item slot="3" original="Get cake mix" ></item>
+<item slot="4" original="Follow directions on back of cake mix" ></item>
+<item slot="5" original="Mix ingredients together" ></item>
+<item slot="6" original="Pour batter into baking dish" ></item>
+<item slot="7" original="Put dish in oven" ></item>
+<item slot="8" original="Wait for cake to bake" ></item>
+<item slot="9" original="Take cake out of oven" ></item>
+<item slot="10" original="Turn oven off" ></item>
+<item slot="11" original="Wait for cake to cool" ></item>
+<item slot="12" original="Put frosting on cake" ></item>
+</script><script id="29" source="2"><item slot="1" original="Go to store and buy cake mix." ></item>
+<item slot="2" original="At home, preheat oven to 375." ></item>
+<item slot="3" original="Empty contents of cake mix into a bowl." ></item>
+<item slot="4" original="Add 3 eggs, 1 cup of water, and 1/4 cup of oil to cake mix." ></item>
+<item slot="5" original="Use fork to stir mixture rapidly until cake mixture is blended." ></item>
+<item slot="6" original="Take out cake pan and lightly grease inside of pan." ></item>
+<item slot="7" original="Pour cake mixture into pan." ></item>
+<item slot="8" original="Place pan in oven and bake for 45 minutes." ></item>
+<item slot="9" original="Take pan out of oven and let cake cool down for 1 hour." ></item>
+<item slot="10" original="Frost cake and eat." ></item>
+</script><script id="30" source="2"><item slot="1" original="buy cake mix" ></item>
+<item slot="2" original="mix cake mix in mixing bowl" ></item>
+<item slot="3" original="preheat oven as directed by cake mix" ></item>
+<item slot="4" original="pour cake mix into pan" ></item>
+<item slot="5" original="place pan with cake mix into oven for allotted time" ></item>
+<item slot="6" original="remove from oven after allotted time" ></item>
+<item slot="7" original="carefully remove cake from pan" ></item>
+<item slot="8" original="apply frosting" ></item>
+</script><script id="31" source="2"><item slot="1" original="Assemble ingredients" ></item>
+<item slot="2" original="Mix together" ></item>
+<item slot="3" original="Pour into a baking pan" ></item>
+<item slot="4" original="Put in oven at the designated temperature" ></item>
+<item slot="5" original="Bake for approx. 30 minutes" ></item>
+<item slot="6" original="Take out of oven" ></item>
+<item slot="7" original="Let cool then frost" ></item>
+</script><script id="32" source="2"><item slot="1" original="Get cake instructions." ></item>
+<item slot="2" original="Buy cake ingredients." ></item>
+<item slot="3" original="Carefully follow instructions step by step." ></item>
+<item slot="4" original="Put cake in oven." ></item>
+<item slot="5" original="Wait until cake is baked." ></item>
+<item slot="6" original="Take cake out to cool." ></item>
+</script><script id="33" source="2"><item slot="1" original="Go to kitchen" ></item>
+<item slot="2" original="Open cabinet" ></item>
+<item slot="3" original="Take out cake supplies" ></item>
+<item slot="4" original="Mix them together" ></item>
+<item slot="5" original="Add them to a pan" ></item>
+<item slot="6" original="Preheat oven" ></item>
+<item slot="7" original="Put pan in oven" ></item>
+<item slot="8" original="Wait for 45 minutes" ></item>
+<item slot="9" original="Take it out." ></item>
+</script><script id="34" source="2"><item slot="1" original="Get cake mix" ></item>
+<item slot="2" original="Turn on oven" ></item>
+<item slot="3" original="Set oven temperature" ></item>
+<item slot="4" original="Mix cake according to instructions" ></item>
+<item slot="5" original="Grease pan" ></item>
+<item slot="6" original="Put cake batter into pan" ></item>
+<item slot="7" original="Put pan into oven" ></item>
+<item slot="8" original="Set timer" ></item>
+<item slot="9" original="Wait" ></item>
+<item slot="10" original="Take cake out of oven" ></item>
+<item slot="11" original="Let cool" ></item>
+<item slot="12" original="Ice cake" ></item>
+</script><script id="35" source="2"><item slot="1" original="Purchase the ingredients." ></item>
+<item slot="2" original="Combine dry ingredients." ></item>
+<item slot="3" original="Beat eggs." ></item>
+<item slot="4" original="Add the rest of the ingredients." ></item>
+<item slot="5" original="Combine all ingredients." ></item>
+<item slot="6" original="Pour into cake pans." ></item>
+<item slot="7" original="Bake in preheated oven." ></item>
+<item slot="8" original="Use cake tester to check for doneness." ></item>
+<item slot="9" original="Take cake out of oven." ></item>
+<item slot="10" original="After ten minutes flip cake out onto cooling rack." ></item>
+</script><script id="36" source="2"><item slot="1" original="Preheat oven to temperature on box" ></item>
+<item slot="2" original="Fill bowl with ingredients" ></item>
+<item slot="3" original="Mix cake batter" ></item>
+<item slot="4" original="Fill cake pan with batter" ></item>
+<item slot="5" original="Place in oven" ></item>
+<item slot="6" original="Set timer" ></item>
+<item slot="7" original="Hear timer go off" ></item>
+<item slot="8" original="Remove from oven" ></item>
+<item slot="9" original="Let cool" ></item>
+<item slot="10" original="Add frosting" ></item>
+</script><script id="37" source="2"><item slot="1" original="Gather the cake ingredients" ></item>
+<item slot="2" original="Mix the wet ingredients in a bowl" ></item>
+<item slot="3" original="Mix the dry ingredients in a bowl" ></item>
+<item slot="4" original="Mix the wet ingredients into the dry slowly" ></item>
+<item slot="5" original="Pour the cake into a baking tin" ></item>
+<item slot="6" original="Place the tin into the oven to bake" ></item>
+<item slot="7" original="Remove the tin" ></item>
+<item slot="8" original="Let the cake cool" ></item>
+<item slot="9" original="Frost the cake" ></item>
+<item slot="10" original="Serve the cake" ></item>
+</script><script id="38" source="2"><item slot="1" original="Buy cake mix, milk, butter, eggs" ></item>
+<item slot="2" original="Preheat oven to 350" ></item>
+<item slot="3" original="Get baking pan" ></item>
+<item slot="4" original="Get sauce pan" ></item>
+<item slot="5" original="Turn stove to low heat" ></item>
+<item slot="6" original="Mix butter, milk, eggs into sauce pan" ></item>
+<item slot="7" original="Add cake mix" ></item>
+<item slot="8" original="Stir" ></item>
+<item slot="9" original="Put mixture into baking pan" ></item>
+<item slot="10" original="Bake for 1 hour" ></item>
+<item slot="11" original="Remove from oven" ></item>
+<item slot="12" original="Turn oven off" ></item>
+<item slot="13" original="Let cake cool" ></item>
+<item slot="14" original="Serve" ></item>
+</script><script id="39" source="2"><item slot="1" original="turn on oven" ></item>
+<item slot="2" original="mix cake mix with eggs as called for by box" ></item>
+<item slot="3" original="put mix in cake pan" ></item>
+<item slot="4" original="bake for as long as box says" ></item>
+<item slot="5" original="take out and frost cake" ></item>
+</script><script id="40" source="2"><item slot="1" original="Get recipe" ></item>
+<item slot="2" original="Get ingredients" ></item>
+<item slot="3" original="Mix ingredients in a bowl" ></item>
+<item slot="4" original="Pour bowl into baking tin" ></item>
+<item slot="5" original="Preheat oven" ></item>
+<item slot="6" original="Put baking tin into oven" ></item>
+<item slot="7" original="Wait how long the recipe says to" ></item>
+<item slot="8" original="Turn off oven" ></item>
+<item slot="9" original="Wait for cake to cool" ></item>
+<item slot="10" original="Put icing on cake" ></item>
+<item slot="11" original="Eat" ></item>
+</script><script id="41" source="2"><item slot="1" original="Find and read recipe." ></item>
+<item slot="2" original="Assemble ingredients." ></item>
+<item slot="3" original="Preheat oven." ></item>
+<item slot="4" original="Mix wet ingredients." ></item>
+<item slot="5" original="Mix dry ingredients." ></item>
+<item slot="6" original="Slowly add dry ingredients to wet while mixing." ></item>
+<item slot="7" original="Put mix in pan for baking." ></item>
+<item slot="8" original="Place pan in oven for specified duration." ></item>
+<item slot="9" original="Wait." ></item>
+<item slot="10" original="Check cake for doneness with toothpick." ></item>
+<item slot="11" original="Continue baking or remove cake and let cool." ></item>
+<item slot="12" original="Frost and decorate cake" ></item>
+</script><script id="42" source="2"><item slot="1" original="grab ingredients" ></item>
+<item slot="2" original="mix up and stir ingredients" ></item>
+<item slot="3" original="make mixture pasty" ></item>
+<item slot="4" original="put into baking pan" ></item>
+<item slot="5" original="put into oven" ></item>
+<item slot="6" original="wait for it to bake" ></item>
+<item slot="7" original="remove from oven" ></item>
+<item slot="8" original="consume cake" ></item>
+</script><script id="43" source="2"><item slot="1" original="Getting a recipe for a cake" ></item>
+<item slot="2" original="Getting all your ingredients together" ></item>
+<item slot="3" original="Mixing the dry and wet ingredients" ></item>
+<item slot="4" original="Pouring off the batter into a pan" ></item>
+<item slot="5" original="Put the pan in the oven" ></item>
+<item slot="6" original="Cook until the cake is done" ></item>
+<item slot="7" original="Frost and decorate the cake" ></item>
+</script><script id="44" source="2"><item slot="1" original="Get baking instructions" ></item>
+<item slot="2" original="Obtain ingredients" ></item>
+<item slot="3" original="Preheat the oven" ></item>
+<item slot="4" original="Mix all the dry ingredients in a bowl" ></item>
+<item slot="5" original="Mix all the wet ingredients in a bowl" ></item>
+<item slot="6" original="Place dry ingredients in the wet ingredients bowl" ></item>
+<item slot="7" original="Mix well" ></item>
+<item slot="8" original="Place mixture in the cake pan" ></item>
+<item slot="9" original="Place cake pan in oven" ></item>
+<item slot="10" original="Let it back" ></item>
+<item slot="11" original="Pull cake out of oven" ></item>
+<item slot="12" original="Let it cool off" ></item>
+<item slot="13" original="Place frosting and decorations on cake" ></item>
+</script><script id="45" source="2"><item slot="1" original="make a cake" ></item>
+<item slot="2" original="baking dessert" ></item>
+<item slot="3" original="baking" ></item>
+<item slot="4" original="making a cake" ></item>
+<item slot="5" original="cooking a cake" ></item>
+<item slot="6" original="putting a cake in the oven" ></item>
+</script><script id="46" source="2"><item slot="1" original="Gather ingredients." ></item>
+<item slot="2" original="Turn on oven." ></item>
+<item slot="3" original="Flour pan." ></item>
+<item slot="4" original="Mix ingredients." ></item>
+<item slot="5" original="Pour in pan." ></item>
+<item slot="6" original="Put pan in oven." ></item>
+<item slot="7" original="Set timer." ></item>
+<item slot="8" original="Take cake out of oven." ></item>
+</script><script id="47" source="2"><item slot="1" original="Choose cake recipe" ></item>
+<item slot="2" original="Preheat oven as instructed" ></item>
+<item slot="3" original="Mix all ingredients as instructed" ></item>
+<item slot="4" original="Spray cake pan" ></item>
+<item slot="5" original="Add cake batter to pan" ></item>
+<item slot="6" original="Put cake in oven" ></item>
+<item slot="7" original="Bake for specified time" ></item>
+<item slot="8" original="Remove from oven" ></item>
+<item slot="9" original="Allow cake to cool" ></item>
+<item slot="10" original="Frost cake" ></item>
+<item slot="11" original="Cut and enjoy with family" ></item>
+</script><script id="48" source="2"><item slot="1" original="Decide what flavor of cake you want." ></item>
+<item slot="2" original="Buy box of cake mix,a cake pan and eggs and frosting." ></item>
+<item slot="3" original="Mix cake mix and eggs together in bowl." ></item>
+<item slot="4" original="Pour contents of bowl into cake pan." ></item>
+<item slot="5" original="Place cake pan in oven with tempurture according to directions on cake mix box." ></item>
+<item slot="6" original="Carefully remove cake when finished baking." ></item>
+<item slot="7" original="After cake cools,apply frosting." ></item>
+<item slot="8" original="Eat cake." ></item>
+</script><script id="49" source="2"><item slot="1" original="find a big bowl" ></item>
+<item slot="2" original="mix flour, eggs, milk, sugar into bowl" ></item>
+<item slot="3" original="pour mixture into a cake pan" ></item>
+<item slot="4" original="turn on oven" ></item>
+<item slot="5" original="place cake pan into oven" ></item>
+<item slot="6" original="wait for cake to bake" ></item>
+<item slot="7" original="remove cake from oven" ></item>
+<item slot="8" original="let cake cool" ></item>
+<item slot="9" original="apply icing to cake" ></item>
+<item slot="10" original="eat whole cake by myself." ></item>
+</script><script id="50" source="2"><item slot="1" original="Heat up oven" ></item>
+<item slot="2" original="Take out pan" ></item>
+<item slot="3" original="Take out bowl" ></item>
+<item slot="4" original="Get cake mix" ></item>
+<item slot="5" original="Mix the cake up" ></item>
+<item slot="6" original="Pour in pain" ></item>
+<item slot="7" original="Bake" ></item>
+<item slot="8" original="Eat" ></item>
+</script><script id="51" source="2"><item slot="1" original="Get out bowl" ></item>
+<item slot="2" original="Put on counter" ></item>
+<item slot="3" original="Get recipe" ></item>
+<item slot="4" original="Turn on oven" ></item>
+<item slot="5" original="Gather ingredients" ></item>
+<item slot="6" original="Add ingredients to bowl" ></item>
+<item slot="7" original="Get mixer" ></item>
+<item slot="8" original="Mix ingredients with mixer" ></item>
+<item slot="9" original="Get out baking pan" ></item>
+<item slot="10" original="Grease and flour pan" ></item>
+<item slot="11" original="Pour batter into pan" ></item>
+<item slot="12" original="Place into the oven" ></item>
+<item slot="13" original="Set timer" ></item>
+<item slot="14" original="Remove cake when timer goes off" ></item>
+<item slot="15" original="Put cake on counter to cool" ></item>
+</script><script id="52" source="2"><item slot="1" original="Go to the kitchen" ></item>
+<item slot="2" original="Gather the ingredients" ></item>
+<item slot="3" original="Mix them in a bowl" ></item>
+<item slot="4" original="From the oven" ></item>
+<item slot="5" original="Let it heat up" ></item>
+<item slot="6" original="Pour cake mix into a pan" ></item>
+<item slot="7" original="Let it bake" ></item>
+</script><script id="53" source="2"><item slot="1" original="Get out cake pans, water, vegetable oil, oil spray, milk and eggs." ></item>
+<item slot="2" original="Preheat oven to 350 degrees." ></item>
+<item slot="3" original="Grease pan with oil spray." ></item>
+<item slot="4" original="Add cake mix, water, oil and eggs to bowl." ></item>
+<item slot="5" original="Mix together." ></item>
+<item slot="6" original="Add cake batter to pan." ></item>
+<item slot="7" original="Put in oven and bake for at least 24 minutes." ></item>
+<item slot="8" original="Cake is done when toothpick comes out clean." ></item>
+</script><script id="54" source="2"><item slot="1" original="OPEN THE PACKET OF CAKE MIX" ></item>
+<item slot="2" original="FOLLOW INSTRUCTIONS" ></item>
+<item slot="3" original="ADD INGREDIENTS, LIKE EGG AND WATER" ></item>
+<item slot="4" original="PUT ALL INGREDIENTS IN A CAKE TIN" ></item>
+<item slot="5" original="PREHEAT OVEN" ></item>
+<item slot="6" original="PUT THE CAKE IN THE OVEN" ></item>
+<item slot="7" original="WAIT FOR THE CAKE TO FINISH BAKING" ></item>
+<item slot="8" original="REMOVE WHEN DONE." ></item>
+</script><script id="55" source="2"><item slot="1" original="Buy cake mix and frosting" ></item>
+<item slot="2" original="Pre heat oven" ></item>
+<item slot="3" original="Pour cake mix in mixing bowl" ></item>
+<item slot="4" original="Add eggs, water and oil" ></item>
+<item slot="5" original="Mix completely" ></item>
+<item slot="6" original="Get pan out" ></item>
+<item slot="7" original="Grease pan" ></item>
+<item slot="8" original="Pour batter in pan" ></item>
+<item slot="9" original="Put pan with cake batter in oven" ></item>
+<item slot="10" original="Wait 25-39 minutes" ></item>
+<item slot="11" original="Remove baked cake from oven" ></item>
+<item slot="12" original="Turn oven off" ></item>
+<item slot="13" original="Let cake cool" ></item>
+<item slot="14" original="Frost cake" ></item>
+<item slot="15" original="Clean dishes used" ></item>
+</script><script id="56" source="2"><item slot="1" original="buy ingredients" ></item>
+<item slot="2" original="mix ingredients" ></item>
+<item slot="3" original="pre-heat oven" ></item>
+<item slot="4" original="grease cake pan" ></item>
+<item slot="5" original="pour batter into cake pan" ></item>
+<item slot="6" original="put cake into oven" ></item>
+<item slot="7" original="wait for cake to bake" ></item>
+<item slot="8" original="test if cake is done with toothpick" ></item>
+<item slot="9" original="remove cake from oven" ></item>
+<item slot="10" original="remove cake from pan" ></item>
+<item slot="11" original="let cake cool on rack" ></item>
+<item slot="12" original="frost cake" ></item>
+<item slot="13" original="eat" ></item>
+</script><script id="57" source="2"><item slot="1" original="Prepare the cake batter" ></item>
+<item slot="2" original="Preheat the over" ></item>
+<item slot="3" original="Place the batter inside the oven" ></item>
+<item slot="4" original="Watch the cake as it bakes" ></item>
+<item slot="5" original="Remove the cake" ></item>
+<item slot="6" original="Allow the cake to cool" ></item>
+<item slot="7" original="Serve the cake" ></item>
+</script><script id="58" source="2"><item slot="1" original="Pick cake type" ></item>
+<item slot="2" original="Gather ingredients" ></item>
+<item slot="3" original="Mix dry ingredients" ></item>
+<item slot="4" original="Mix wet ingredients" ></item>
+<item slot="5" original="Mix all ingredients slowly" ></item>
+<item slot="6" original="Pour batter into pan" ></item>
+<item slot="7" original="Bake in over" ></item>
+<item slot="8" original="Take out of over" ></item>
+<item slot="9" original="Put on cooling rack" ></item>
+</script><script id="59" source="2"><item slot="1" original="Gather ingredients needed" ></item>
+<item slot="2" original="Preheat oven" ></item>
+<item slot="3" original="Mix together ingredients per recipe directions" ></item>
+<item slot="4" original="Pour cake batter into pan" ></item>
+<item slot="5" original="Put pan into oven" ></item>
+<item slot="6" original="Wait time required for cake to bake" ></item>
+<item slot="7" original="Take cake out of oven" ></item>
+<item slot="8" original="Let cake cool" ></item>
+<item slot="9" original="Prepare frosting" ></item>
+<item slot="10" original="Frost cake with frosting" ></item>
+<item slot="11" original="Wash dishes." ></item>
+</script><script id="60" source="2"><item slot="1" original="go to store" ></item>
+<item slot="2" original="buy pre-made cake mix" ></item>
+<item slot="3" original="buy frosting" ></item>
+<item slot="4" original="at home preheat oven as instructed" ></item>
+<item slot="5" original="place contents of mix in a bowl" ></item>
+<item slot="6" original="mix contents as instructed" ></item>
+<item slot="7" original="grease baking pans with oil or butter" ></item>
+<item slot="8" original="place mix contents in pans" ></item>
+<item slot="9" original="place pans in oven" ></item>
+<item slot="10" original="baked for time instructed on box" ></item>
+<item slot="11" original="remove cake from oven when timer goes off" ></item>
+<item slot="12" original="allow cake to cool for one hour" ></item>
+<item slot="13" original="remove cake from pan and place in plate" ></item>
+<item slot="14" original="spread icing on cooled cake" ></item>
+<item slot="15" original="eat cake" ></item>
+</script><script id="61" source="2"><item slot="1" original="Get bowl to mix batter" ></item>
+<item slot="2" original="Gather ingredients for cake" ></item>
+<item slot="3" original="Follow instructions for preparation of batter" ></item>
+<item slot="4" original="Mix batter" ></item>
+<item slot="5" original="Get pan for baking cake" ></item>
+<item slot="6" original="Turn oven on to proper temperature" ></item>
+<item slot="7" original="Place batter in cake pan" ></item>
+<item slot="8" original="Place pan in oven" ></item>
+<item slot="9" original="Leave oven cooking for proper amount of time" ></item>
+<item slot="10" original="Remove cake to check if it is done" ></item>
+<item slot="11" original="When done remove cake from oven" ></item>
+<item slot="12" original="Place cake on counter to cool" ></item>
+</script><script id="62" source="2"><item slot="1" original="Decide on cake recipe from the internet" ></item>
+<item slot="2" original="Buy/check for ingredients" ></item>
+<item slot="3" original="Mash things up in a bowl according to exact instructions" ></item>
+<item slot="4" original="Place in oven" ></item>
+<item slot="5" original="Remove and enjoy" ></item>
+</script><script id="63" source="2"><item slot="1" original="Gather all of the supplies and ingredients you will need" ></item>
+<item slot="2" original="Combine all your ingredients in the correct order" ></item>
+<item slot="3" original="Grease your cake pan" ></item>
+<item slot="4" original="Pour your cake batter into the pan" ></item>
+<item slot="5" original="Preheat your oven" ></item>
+<item slot="6" original="Once your over reaches the right temperature place cake inside oven" ></item>
+<item slot="7" original="Wait for cake to finish" ></item>
+<item slot="8" original="Remove cake from oven" ></item>
+</script><script id="64" source="2"><item slot="1" original="Look up a recipe." ></item>
+<item slot="2" original="Assemble the ingredients." ></item>
+<item slot="3" original="Place the ingredients in a bowl." ></item>
+<item slot="4" original="Mix the ingredients." ></item>
+<item slot="5" original="Pour into a baking pan." ></item>
+<item slot="6" original="Bake a cake." ></item>
+</script><script id="65" source="2"><item slot="1" original="Find a recipe" ></item>
+<item slot="2" original="Preheat the oven" ></item>
+<item slot="3" original="take out cake an" ></item>
+<item slot="4" original="Get out all the ingredients" ></item>
+<item slot="5" original="mix ingredients together according to recipe" ></item>
+<item slot="6" original="pour batter into cake pans" ></item>
+<item slot="7" original="Place into oven" ></item>
+<item slot="8" original="Take out of oven after cooking for amount determined by recipe" ></item>
+<item slot="9" original="Frost the cake" ></item>
+</script><script id="66" source="2"><item slot="1" original="Get cake mix" ></item>
+<item slot="2" original="Get baking pan" ></item>
+<item slot="3" original="Get bowl" ></item>
+<item slot="4" original="Get eggs" ></item>
+<item slot="5" original="Get oil" ></item>
+<item slot="6" original="Get water" ></item>
+<item slot="7" original="Preheat oven" ></item>
+<item slot="8" original="Prepare mix according to instructions" ></item>
+<item slot="9" original="Pour mix into baking pan" ></item>
+<item slot="10" original="Bake in oven according to instructions" ></item>
+</script><script id="67" source="2"><item slot="1" original="get recipe" ></item>
+<item slot="2" original="read recipe" ></item>
+<item slot="3" original="gather ingredients" ></item>
+<item slot="4" original="get mixer ready" ></item>
+<item slot="5" original="cream butter and sugar" ></item>
+<item slot="6" original="then slowly add other liquid components" ></item>
+<item slot="7" original="put mixer on slow" ></item>
+<item slot="8" original="add dry ingredients a little bit at a time" ></item>
+<item slot="9" original="mix well" ></item>
+<item slot="10" original="grease pan" ></item>
+<item slot="11" original="turn oven on" ></item>
+<item slot="12" original="put batter into greased pan" ></item>
+<item slot="13" original="stick in oven for how long the recipe states" ></item>
+<item slot="14" original="take out of oven after said time" ></item>
+<item slot="15" original="wait to cool" ></item>
+<item slot="16" original="frost" ></item>
+</script><script id="68" source="2"><item slot="1" original="Turn on oven to preheat" ></item>
+<item slot="2" original="Get out large bowl" ></item>
+<item slot="3" original="Add ingredients" ></item>
+<item slot="4" original="Mix batter until moist" ></item>
+<item slot="5" original="Get out cake pan" ></item>
+<item slot="6" original="Grease cake pan" ></item>
+<item slot="7" original="Pour batter into pan" ></item>
+<item slot="8" original="Check if oven is ready" ></item>
+<item slot="9" original="Put pan in oven" ></item>
+<item slot="10" original="Wait for cake to bake" ></item>
+<item slot="11" original="Pull cake from oven" ></item>
+<item slot="12" original="Allow cake to cool" ></item>
+<item slot="13" original="Get out frosting" ></item>
+<item slot="14" original="Put frosting on cake" ></item>
+</script><script id="69" source="2"><item slot="1" original="Get a bowl." ></item>
+<item slot="2" original="Put in ingredients." ></item>
+<item slot="3" original="Stir mixture." ></item>
+<item slot="4" original="Get a pan." ></item>
+<item slot="5" original="Grease pan with shortning." ></item>
+<item slot="6" original="Pour mixture in pan." ></item>
+<item slot="7" original="Spread mixture evenly with spoon." ></item>
+<item slot="8" original="Turn oven on." ></item>
+<item slot="9" original="Put pan in oven." ></item>
+<item slot="10" original="Wait til done." ></item>
+<item slot="11" original="Take cake out." ></item>
+<item slot="12" original="Put cake on cooling rack." ></item>
+<item slot="13" original="Get frosting." ></item>
+<item slot="14" original="Frost cake." ></item>
+<item slot="15" original="Put cake on cake platter." ></item>
+</script><script id="70" source="2"><item slot="1" original="Find a cake recipe that looks good." ></item>
+<item slot="2" original="Gather ingredients." ></item>
+<item slot="3" original="Preheat oven to specified temperature." ></item>
+<item slot="4" original="Mix wet ingredients in a large bowl." ></item>
+<item slot="5" original="In a smaller bowl, mix dry ingredients." ></item>
+<item slot="6" original="Add dry ingredients to wet." ></item>
+<item slot="7" original="Mix ingredients together." ></item>
+<item slot="8" original="Lightly grease a cake pan." ></item>
+<item slot="9" original="Pour cake batter into pan." ></item>
+<item slot="10" original="Bake for time specified by recipe." ></item>
+<item slot="11" original="Remove from oven." ></item>
+<item slot="12" original="Let cake cool." ></item>
+</script><script id="71" source="2"><item slot="1" original="open cake mix" ></item>
+<item slot="2" original="pour into bowl" ></item>
+<item slot="3" original="add the ingredients needed" ></item>
+<item slot="4" original="put into oven tray" ></item>
+<item slot="5" original="start the oven and wait for warm up" ></item>
+<item slot="6" original="put tray mix into the oven" ></item>
+<item slot="7" original="wait for the time needed" ></item>
+<item slot="8" original="when done let it cool down" ></item>
+<item slot="9" original="take out of the oven" ></item>
+</script><script id="72" source="2"><item slot="1" original="Buy cake mix" ></item>
+<item slot="2" original="Buy eggs" ></item>
+<item slot="3" original="Buy oil" ></item>
+<item slot="4" original="Find cake pan" ></item>
+<item slot="5" original="Grease pan" ></item>
+<item slot="6" original="Mix ingredients together" ></item>
+<item slot="7" original="Preheat oven" ></item>
+<item slot="8" original="Pour cake batter in pan" ></item>
+<item slot="9" original="Set timer" ></item>
+<item slot="10" original="Wait for cake to bake" ></item>
+<item slot="11" original="Check if done with toothpick" ></item>
+<item slot="12" original="Take out when ready" ></item>
+<item slot="13" original="Shut off oven" ></item>
+</script><script id="73" source="2"><item slot="1" original="Arrange the ingredients" ></item>
+<item slot="2" original="Preheat the oven" ></item>
+<item slot="3" original="Beat the softened butter in a bowl" ></item>
+<item slot="4" original="Add sugar" ></item>
+<item slot="5" original="Add beaten egg" ></item>
+<item slot="6" original="Add little flour" ></item>
+<item slot="7" original="Whisk until smooth" ></item>
+<item slot="8" original="Put the mixture in a baking" ></item>
+<item slot="9" original="Add more flour" ></item>
+<item slot="10" original="Add flavor (For example Vanilla)" ></item>
+<item slot="11" original="Combine the mixture" ></item>
+<item slot="12" original="Fill the baking cake cases with the prepared mixture" ></item>
+<item slot="13" original="Keep the baking cake cases in the oven" ></item>
+<item slot="14" original="Bake the cake" ></item>
+<item slot="15" original="Take out the cake when ready" ></item>
+<item slot="16" original="Allow cake to cool" ></item>
+</script><script id="74" source="2"><item slot="1" original="Preheat oven" ></item>
+<item slot="2" original="Mix together dry ingredients" ></item>
+<item slot="3" original="Mix together wet ingredients" ></item>
+<item slot="4" original="Combine in one bowl" ></item>
+<item slot="5" original="Stir together" ></item>
+<item slot="6" original="Put into baking trays" ></item>
+<item slot="7" original="Put in oven" ></item>
+<item slot="8" original="Bake for roughly 45 minutes" ></item>
+<item slot="9" original="Remove from oven" ></item>
+<item slot="10" original="Let cool" ></item>
+<item slot="11" original="Frost cake" ></item>
+</script><script id="75" source="2"><item slot="1" original="Preheat oven" ></item>
+<item slot="2" original="Get eggs" ></item>
+<item slot="3" original="Get cake mix" ></item>
+<item slot="4" original="Get water" ></item>
+<item slot="5" original="Add ingredients to a bowl" ></item>
+<item slot="6" original="Mix well" ></item>
+<item slot="7" original="Spray baking pan" ></item>
+<item slot="8" original="Put mixture in pan" ></item>
+<item slot="9" original="Place in oven" ></item>
+<item slot="10" original="Wait" ></item>
+<item slot="11" original="Remove pan" ></item>
+<item slot="12" original="Check with toothpick" ></item>
+<item slot="13" original="Eat" ></item>
+</script><script id="76" source="2"><item slot="1" original="Preheat oven" ></item>
+<item slot="2" original="Assemble ingredients according to recipe" ></item>
+<item slot="3" original="Mix dry ingredients" ></item>
+<item slot="4" original="Mix wet ingredients in separate bowl" ></item>
+<item slot="5" original="Pour wet ingredients into dry ingredients" ></item>
+<item slot="6" original="Mix well" ></item>
+<item slot="7" original="Pour combined mix into baking pan" ></item>
+<item slot="8" original="Put pan in oven" ></item>
+<item slot="9" original="Bake according to recipe" ></item>
+<item slot="10" original="Test cake: put fork in and pull out, should come out clean" ></item>
+<item slot="11" original="When done, remove cake from oven" ></item>
+<item slot="12" original="Let cake cool" ></item>
+<item slot="13" original="Put icing (frosting) on cake and decorate" ></item>
+</script><script id="77" source="2"><item slot="1" original="Get cake recipe" ></item>
+<item slot="2" original="Gather ingredients and materials listed in recipe" ></item>
+<item slot="3" original="Turn on oven to temperature in recipe" ></item>
+<item slot="4" original="Measure ingredients according to recipe" ></item>
+<item slot="5" original="Mix ingredients in bowl according to recipe" ></item>
+<item slot="6" original="Pour batter into a baking pan" ></item>
+<item slot="7" original="Put baking pan into oven" ></item>
+<item slot="8" original="Set oven timer as indicated by recipe" ></item>
+<item slot="9" original="When timer beeps, open oven" ></item>
+<item slot="10" original="Pull baking pan out" ></item>
+<item slot="11" original="Put baking pan on cooling rack" ></item>
+<item slot="12" original="When cool, spread icing on cake" ></item>
+</script><script id="78" source="2"><item slot="1" original="Get mixing bowls" ></item>
+<item slot="2" original="Get measuring cups and spoons" ></item>
+<item slot="3" original="Get ingredients" ></item>
+<item slot="4" original="Follow cake recipe" ></item>
+<item slot="5" original="Get baking pans" ></item>
+<item slot="6" original="Spray pans" ></item>
+<item slot="7" original="Pour mixture into pans" ></item>
+<item slot="8" original="Turn oven on" ></item>
+<item slot="9" original="Place pans into oven" ></item>
+<item slot="10" original="Bake cake" ></item>
+<item slot="11" original="Take out when done" ></item>
+<item slot="12" original="Let cool in pans" ></item>
+<item slot="13" original="Take cake out of pans" ></item>
+</script><script id="79" source="2"><item slot="1" original="Open recipe book to correct recipe." ></item>
+<item slot="2" original="Take out any ingredients that need to come to room temperature (such as butter and eggs)." ></item>
+<item slot="3" original="Take out equipment to make cake, such as electric mixer and pans." ></item>
+<item slot="4" original="Butter and flour pans, or prepare as indicated by recipe." ></item>
+<item slot="5" original="Preheat oven to correct temperature." ></item>
+<item slot="6" original="Follow recipe step by step to add correct amount of ingredients to bowl." ></item>
+<item slot="7" original="Mix ingredients as indicated in recipe." ></item>
+<item slot="8" original="Pour cake batter into pans." ></item>
+<item slot="9" original="Put pans in oven." ></item>
+<item slot="10" original="Set timer for how long cake should bake." ></item>
+<item slot="11" original="When timer goes off, test whether cake is done." ></item>
+<item slot="12" original="Put cake pans on rack to cool." ></item>
+<item slot="13" original="After a few minutes, tip cake out of pans directly onto racks to cool." ></item>
+</script><script id="80" source="2"><item slot="1" original="gather ingredients" ></item>
+<item slot="2" original="gather baking tools" ></item>
+<item slot="3" original="Get the recipe" ></item>
+<item slot="4" original="Preheat the oven" ></item>
+<item slot="5" original="Follow the recipe" ></item>
+<item slot="6" original="Put the ingredients in the oven" ></item>
+<item slot="7" original="Wait" ></item>
+<item slot="8" original="Take cake out of the oven" ></item>
+<item slot="9" original="Decorate cake" ></item>
+<item slot="10" original="Eat cake" ></item>
+</script><script id="81" source="2"><item slot="1" original="Get out eggs" ></item>
+<item slot="2" original="Get out butter" ></item>
+<item slot="3" original="Get out flour or cakemix" ></item>
+<item slot="4" original="Whip them together" ></item>
+<item slot="5" original="Add mix to cakepan" ></item>
+<item slot="6" original="Preheat oven" ></item>
+<item slot="7" original="Put cakepan in hot oven" ></item>
+<item slot="8" original="Wait for cake to bake" ></item>
+<item slot="9" original="Remove cake from oven" ></item>
+<item slot="10" original="Let the cake cool" ></item>
+</script><script id="82" source="2"><item slot="1" original="Select type of cake and select cake mix" ></item>
+<item slot="2" original="Mix ingredients according to instructions" ></item>
+<item slot="3" original="Pre-heat oven per instructions" ></item>
+<item slot="4" original="Place the ingredients into cake pan" ></item>
+<item slot="5" original="Place cake pan into oven for instructed time" ></item>
+<item slot="6" original="Remove cake pan" ></item>
+<item slot="7" original="Take cake out of pan onto rack for cooling" ></item>
+<item slot="8" original="Once cake is room temperature add icing" ></item>
+</script><script id="83" source="2"><item slot="1" original="Preheat oven to 350" ></item>
+<item slot="2" original="Get a mixing bowl" ></item>
+<item slot="3" original="Mix dry measures - flour, salt, sugar, baking powder" ></item>
+<item slot="4" original="Get another mixing bowl" ></item>
+<item slot="5" original="Mix wet measures - eggs, milk, melted butter" ></item>
+<item slot="6" original="Mix wet into dry until well blended" ></item>
+<item slot="7" original="Pour batter into cake tins, leaving the top inch free" ></item>
+<item slot="8" original="Listen for oven ding." ></item>
+<item slot="9" original="Put cakes into oven" ></item>
+<item slot="10" original="Check periodically with toothpick" ></item>
+<item slot="11" original="When toothpick is clean, remove cakes" ></item>
+<item slot="12" original="Turn off oven" ></item>
+<item slot="13" original="Let cakes cool on rack" ></item>
+<item slot="14" original="Frost cake" ></item>
+<item slot="15" original="Cut cake" ></item>
+<item slot="16" original="Eat cake" ></item>
+</script><script id="84" source="2"><item slot="1" original="Preheat the oven" ></item>
+<item slot="2" original="Pour cake mix into a bowl" ></item>
+<item slot="3" original="Pour milk into the bowl" ></item>
+<item slot="4" original="Crack eggs into the bowl" ></item>
+<item slot="5" original="Mix the ingredients" ></item>
+<item slot="6" original="Pour into the pan" ></item>
+<item slot="7" original="Spread the batter out" ></item>
+<item slot="8" original="Put pan in oven" ></item>
+<item slot="9" original="Wait for cake to bake" ></item>
+<item slot="10" original="Take the cake out" ></item>
+</script><script id="85" source="2"><item slot="1" original="heat oven" ></item>
+<item slot="2" original="get cake mix out" ></item>
+<item slot="3" original="get cake mixer out" ></item>
+<item slot="4" original="get ingredients out" ></item>
+<item slot="5" original="pour mix and ingredients into bowl" ></item>
+<item slot="6" original="mix ingredients using cake mixer" ></item>
+<item slot="7" original="put mixed cake into oven" ></item>
+<item slot="8" original="take out of oven" ></item>
+<item slot="9" original="turn oven off" ></item>
+</script><script id="86" source="2"><item slot="1" original="find a recipe" ></item>
+<item slot="2" original="preheat the oven" ></item>
+<item slot="3" original="prepare the ingredients" ></item>
+<item slot="4" original="mix the dry" ></item>
+<item slot="5" original="mix the wet" ></item>
+<item slot="6" original="combine the two" ></item>
+<item slot="7" original="pour it into a cake pan" ></item>
+<item slot="8" original="put it in the oven" ></item>
+</script><script id="87" source="2"><item slot="1" original="Buy cake mix at the store" ></item>
+<item slot="2" original="Get all the ingredients for the cake" ></item>
+<item slot="3" original="Preheat oven" ></item>
+<item slot="4" original="Mix ingredients" ></item>
+<item slot="5" original="Pour into cake pan" ></item>
+<item slot="6" original="Put in the oven as the directions say" ></item>
+<item slot="7" original="Set a timer for what the directions say" ></item>
+<item slot="8" original="Wait for timer to go off" ></item>
+<item slot="9" original="Take cake out of the oven" ></item>
+<item slot="10" original="Wait for it to cool" ></item>
+<item slot="11" original="Frost the cake" ></item>
+<item slot="12" original="Eat the cake" ></item>
+</script><script id="88" source="2"><item slot="1" original="Get a cake recipe" ></item>
+<item slot="2" original="Get all the ingredients together" ></item>
+<item slot="3" original="Mix the dry ingredients and wet ingredients separately according to directions" ></item>
+<item slot="4" original="Mix the wet and dry ingredients together" ></item>
+<item slot="5" original="Preheat the oven" ></item>
+<item slot="6" original="Grease and flour the cake pan" ></item>
+<item slot="7" original="Pour the batter into the cake pan" ></item>
+<item slot="8" original="Put the pan into the oven" ></item>
+<item slot="9" original="Watch the cake and test for doneness when it is about time" ></item>
+<item slot="10" original="Take the cake out of the oven" ></item>
+<item slot="11" original="Turn the oven off" ></item>
+</script><script id="89" source="2"><item slot="1" original="Buy the cake mix and other needed ingredients." ></item>
+<item slot="2" original="Turn on oven to proper temperature." ></item>
+<item slot="3" original="Get bowl." ></item>
+<item slot="4" original="Add ingredients." ></item>
+<item slot="5" original="Mix with mixer." ></item>
+<item slot="6" original="Grease pan" ></item>
+<item slot="7" original="put flour on pan where greased." ></item>
+<item slot="8" original="Dump out excess flour." ></item>
+<item slot="9" original="Pour mix in pan." ></item>
+<item slot="10" original="Put pan in oven" ></item>
+<item slot="11" original="bake until cooked.  See box for time." ></item>
+<item slot="12" original="Take cake out of oven." ></item>
+<item slot="13" original="Flip pan upside down so cake will come out of the pan and on a baking cloth." ></item>
+<item slot="14" original="Wait until cake cools." ></item>
+<item slot="15" original="Put frosting on the cake" ></item>
+</script><script id="90" source="2"><item slot="1" original="Get cake recipe" ></item>
+<item slot="2" original="Collect the ingredients that you need from the recipe." ></item>
+<item slot="3" original="If you are missing anything, go to store and buy them." ></item>
+<item slot="4" original="In your kitchen, get out a mixing bowl." ></item>
+<item slot="5" original="Add ingredients to bowl - eggs, flour, sugar, vanilla, salt, baking powder, and so on." ></item>
+<item slot="6" original="Mix ingredients by hand or with an electric mixer." ></item>
+<item slot="7" original="Preheat oven to desired temperature, say to 350 degrees Fahrenheit." ></item>
+<item slot="8" original="Pick the pan that you intend to bake the cake in, and get it ready." ></item>
+<item slot="9" original="Grease the pan." ></item>
+<item slot="10" original="Pour your liquid cake mix from bowl into the pan." ></item>
+<item slot="11" original="Put cake into the oven." ></item>
+<item slot="12" original="Wait until cake is baked." ></item>
+<item slot="13" original="Poke cake with toothpick and make sure it comes out clean to test if done." ></item>
+<item slot="14" original="Remove cake from oven." ></item>
+<item slot="15" original="Remove cake from pan, if desired." ></item>
+<item slot="16" original="Enjoy the cake!" ></item>
+</script><script id="91" source="2"><item slot="1" original="Take a square box" ></item>
+<item slot="2" original="Take a cake" ></item>
+<item slot="3" original="Inside the box" ></item>
+<item slot="4" original="Put the cake" ></item>
+<item slot="5" original="Put box into the fridge" ></item>
+</script><script id="92" source="2"><item slot="1" original="Gather your recipe" ></item>
+<item slot="2" original="Preheat oven" ></item>
+<item slot="3" original="Grease and flour cake pan" ></item>
+<item slot="4" original="Gather your supplies" ></item>
+<item slot="5" original="Measure ingredients into bowl" ></item>
+<item slot="6" original="Use mixer to mix" ></item>
+<item slot="7" original="Pour cake batter into pan" ></item>
+<item slot="8" original="Place pans in oven" ></item>
+<item slot="9" original="Close oven door" ></item>
+<item slot="10" original="Set timer" ></item>
+<item slot="11" original="Wait" ></item>
+<item slot="12" original="Pull cake from oven" ></item>
+</script><script id="93" source="2"><item slot="1" original="Preheat oven" ></item>
+<item slot="2" original="Get ingredients together" ></item>
+<item slot="3" original="Mix all ingredients together" ></item>
+<item slot="4" original="Pour ingredients into pan" ></item>
+<item slot="5" original="Bake" ></item>
+<item slot="6" original="Take cake out of oven" ></item>
+<item slot="7" original="Let cool" ></item>
+<item slot="8" original="Put icing on cake" ></item>
+</script><script id="94" source="2"><item slot="1" original="Obtain cake mix, eggs, and milk" ></item>
+<item slot="2" original="Get out mixing bowl" ></item>
+<item slot="3" original="Get electric mixer out" ></item>
+<item slot="4" original="Get out large spoon" ></item>
+<item slot="5" original="Get out pan for cake" ></item>
+<item slot="6" original="Spray pan with non-stick spray" ></item>
+<item slot="7" original="Preheat oven" ></item>
+<item slot="8" original="Mix together all ingredients for cake" ></item>
+<item slot="9" original="Pour cake mix into pan" ></item>
+<item slot="10" original="Scrape bowl with large spoon to get all excess batter" ></item>
+<item slot="11" original="Spread cake mix evenly in pan" ></item>
+<item slot="12" original="Place pan in oven for time specified" ></item>
+<item slot="13" original="Set timer" ></item>
+<item slot="14" original="When cake is done, remove from oven" ></item>
+<item slot="15" original="Let cake cool" ></item>
+<item slot="16" original="Ice cake" ></item>
+</script><script id="95" source="2"><item slot="1" original="Read recipe" ></item>
+<item slot="2" original="Prepare ingredients" ></item>
+<item slot="3" original="Obtain proper sized baking pan" ></item>
+<item slot="4" original="Grease and flour if applicable" ></item>
+<item slot="5" original="Preheat oven to required temperature" ></item>
+<item slot="6" original="Follow recipe to prepare batter" ></item>
+<item slot="7" original="Pour batter into pan" ></item>
+<item slot="8" original="Place in oven" ></item>
+<item slot="9" original="set timer for required time" ></item>
+<item slot="10" original="Remove and test after appropriate time passes" ></item>
+<item slot="11" original="If tests as done, remove from oven and cool" ></item>
+</script><script id="96" source="2"><item slot="1" original="Select cake mix to prepare" ></item>
+<item slot="2" original="Preheat oven to indicated temperature" ></item>
+<item slot="3" original="Add required ingredients in large mixing bowl" ></item>
+<item slot="4" original="Mix ingredients together" ></item>
+<item slot="5" original="Get appropriate sized baking pan" ></item>
+<item slot="6" original="Lightly grease bottom of baking pan" ></item>
+<item slot="7" original="Pour cake batter in baking pan" ></item>
+<item slot="8" original="Place pan in the oven" ></item>
+<item slot="9" original="Set oven timer to required baking time" ></item>
+<item slot="10" original="Wait for cake to get done" ></item>
+<item slot="11" original="Put on oven mitts" ></item>
+<item slot="12" original="Remove cake from oven when timer goes off" ></item>
+<item slot="13" original="Place cake on cooling rack" ></item>
+<item slot="14" original="Turn off oven" ></item>
+</script><script id="97" source="2"><item slot="1" original="Take out ingredients" ></item>
+<item slot="2" original="Turn oven on to preheat" ></item>
+<item slot="3" original="get standing mixer ready" ></item>
+<item slot="4" original="measure out ingredients into mixer" ></item>
+<item slot="5" original="blend ingredients together" ></item>
+<item slot="6" original="Butter and flour the baking pan" ></item>
+<item slot="7" original="pour batter into the buttered pan" ></item>
+<item slot="8" original="place into the oven" ></item>
+<item slot="9" original="bake the required length of time" ></item>
+<item slot="10" original="insert toothpick into middle to check if it's done" ></item>
+<item slot="11" original="take out and allow to cool" ></item>
+<item slot="12" original="place onto decorating dish" ></item>
+<item slot="13" original="decorate the cake" ></item>
+<item slot="14" original="Enjoy the cake" ></item>
+</script><script id="98" source="2"><item slot="1" original="Review recipe." ></item>
+<item slot="2" original="Make sure you have all ingredients." ></item>
+<item slot="3" original="Purchase any ingredients not on hand." ></item>
+<item slot="4" original="Get mixing bowls utensils and baking pans." ></item>
+<item slot="5" original="Prepare baking vessels." ></item>
+<item slot="6" original="Preheat oven" ></item>
+<item slot="7" original="Mix dry ingredient." ></item>
+<item slot="8" original="Mix wet ingredients." ></item>
+<item slot="9" original="Combine and mix." ></item>
+<item slot="10" original="Put batter in pans and bake." ></item>
+<item slot="11" original="Make frosting while baking." ></item>
+<item slot="12" original="Remove from oven and allow to cool." ></item>
+<item slot="13" original="Frost" ></item>
+</script><script id="99" source="2"><item slot="1" original="Read recipe directions" ></item>
+<item slot="2" original="Gather the needed ingredients" ></item>
+<item slot="3" original="Pre-heat the oven" ></item>
+<item slot="4" original="Mix the ingredients according to the recipe" ></item>
+<item slot="5" original="Pour the batter into the baking pan" ></item>
+<item slot="6" original="Place the baking pan into the oven" ></item>
+<item slot="7" original="Bake for specified time" ></item>
+<item slot="8" original="Remove pan from oven" ></item>
+<item slot="9" original="Allow cake to cool" ></item>
+<item slot="10" original="Place icing on the top of the cake" ></item>
+</script><script id="100" source="2"><item slot="1" original="get cake mix" ></item>
+<item slot="2" original="get medium sized bowl" ></item>
+<item slot="3" original="pour mix in" ></item>
+<item slot="4" original="add eggs" ></item>
+<item slot="5" original="add vegetable oil" ></item>
+<item slot="6" original="mix it until smooth" ></item>
+<item slot="7" original="get a cake pan" ></item>
+<item slot="8" original="spray with pam" ></item>
+<item slot="9" original="pour mix into cake pan" ></item>
+<item slot="10" original="cook on 350 until it pulls away from the sides of the pan " ></item>
+</script></scripts>

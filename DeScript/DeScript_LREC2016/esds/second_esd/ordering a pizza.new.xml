@@ -1,0 +1,748 @@
+<scripts><script id="1" source="2"><item slot="1" original="Decide that you are hungry and are in the mood for a pizza." ></item>
+<item slot="2" original="Make sure that you have the money to pay for the pizza." ></item>
+<item slot="3" original="Find a pizza restaurant that offers take-out." ></item>
+<item slot="4" original="Call the pizza restaurant." ></item>
+<item slot="5" original="Specify the size and toppings you want." ></item>
+<item slot="6" original="Give them your address." ></item>
+<item slot="7" original="Wait for the delivery man." ></item>
+<item slot="8" original="Pay for the pizza." ></item>
+<item slot="9" original="Don't forget to tip!" ></item>
+</script><script id="2" source="2"><item slot="1" original="Go to the restaurant's website." ></item>
+<item slot="2" original="Order a pizza online." ></item>
+<item slot="3" original="Wait for pizza to arrive." ></item>
+<item slot="4" original="Pay the driver when he arrives." ></item>
+<item slot="5" original="Leave the driver a tip." ></item>
+</script><script id="3" source="2"><item slot="1" original="Pick out the kind of pizza you want" ></item>
+<item slot="2" original="Call the pizza place" ></item>
+<item slot="3" original="Order the pizza" ></item>
+<item slot="4" original="Answer the door" ></item>
+<item slot="5" original="Pay for the pizza" ></item>
+<item slot="6" original="Take the pizza" ></item>
+<item slot="7" original="Eat the pizza" ></item>
+</script><script id="4" source="2"><item slot="1" original="SEARCH THE PIZZA CORNER CONTACT NUMBER" ></item>
+<item slot="2" original="MAKE A CALL" ></item>
+<item slot="3" original="ENQUIRE ABOUT VARIETY OF PIZZA" ></item>
+<item slot="4" original="MAKE AN ENQUIRY ABOUT PRICE OF A PIZZA" ></item>
+<item slot="5" original="ORDER A PIZZA" ></item>
+<item slot="6" original="CUT A CALL" ></item>
+</script><script id="5" source="2"><item slot="1" original="Find a pizza place that you like" ></item>
+<item slot="2" original="Decide what kind of pizza you want to eat" ></item>
+<item slot="3" original="Call pizza place or drive there and go in" ></item>
+<item slot="4" original="Tell them what kind of pizza you want and what topping you want" ></item>
+<item slot="5" original="Wait for your pizza to be delivered or wait for your order in the store" ></item>
+<item slot="6" original="Pay for your pizza at the counter" ></item>
+<item slot="7" original="If pizza is delivered pay the driver and offer small tip" ></item>
+<item slot="8" original="Enjoy your pizza" ></item>
+</script><script id="6" source="2"><item slot="1" original="Go to the pizza place" ></item>
+<item slot="2" original="picking the type of pizza you want" ></item>
+<item slot="3" original="telling the cashier what you want" ></item>
+<item slot="4" original="paying for the pizza" ></item>
+<item slot="5" original="waiting for the pizza to cook" ></item>
+</script><script id="7" source="2"><item slot="1" original="Decide what size pizza you want" ></item>
+<item slot="2" original="Decide  what pizza toppings you want" ></item>
+<item slot="3" original="Get phone" ></item>
+<item slot="4" original="Dial the pizza parlor" ></item>
+<item slot="5" original="Tell them what you want" ></item>
+<item slot="6" original="Wait for it" ></item>
+<item slot="7" original="Pay the delivery person" ></item>
+</script><script id="8" source="2"><item slot="1" original="Look up pizza online" ></item>
+<item slot="2" original="Choose the type of pizza that you are going to order" ></item>
+<item slot="3" original="Choose your toppings" ></item>
+<item slot="4" original="Order the pizza online" ></item>
+<item slot="5" original="Pay for your order using your credit card" ></item>
+<item slot="6" original="Have the pizza delivered to your house" ></item>
+<item slot="7" original="Eat the pizza" ></item>
+</script><script id="9" source="2"><item slot="1" original="Go online or find paper menus." ></item>
+<item slot="2" original="Choose a location." ></item>
+<item slot="3" original="Read the menu." ></item>
+<item slot="4" original="Check the prices." ></item>
+<item slot="5" original="Decide on toppings and size." ></item>
+<item slot="6" original="Place call to pizza place." ></item>
+<item slot="7" original="Tell person what you want." ></item>
+<item slot="8" original="Decide on delivery or pick up" ></item>
+<item slot="9" original="End call." ></item>
+<item slot="10" original="Pick up or wait for delivery." ></item>
+</script><script id="10" source="2"><item slot="1" original="Look for pizza restaurant phone number in directory" ></item>
+<item slot="2" original="Dial the number" ></item>
+<item slot="3" original="Ask for menu items" ></item>
+<item slot="4" original="Select pizza as per requirement" ></item>
+<item slot="5" original="Order it" ></item>
+<item slot="6" original="Give your address and phone number" ></item>
+<item slot="7" original="Ask for prompt delivery" ></item>
+<item slot="8" original="Put the phone receiver down" ></item>
+</script><script id="11" source="2"><item slot="1" original="Find your suitable pizza place in directory." ></item>
+<item slot="2" original="Dial for a pizza" ></item>
+<item slot="3" original="State whether you want a veg / non-veg pizza" ></item>
+<item slot="4" original="State what all to be added on it" ></item>
+<item slot="5" original="Whether cheese to be added or not or extra added" ></item>
+<item slot="6" original="State also which one can be added extra - egg/cheese/olives/pepperoni etc.," ></item>
+<item slot="7" original="wait for the pizza to be delivered." ></item>
+<item slot="8" original="After arrived pay for it and enjoy eating." ></item>
+</script><script id="12" source="2"><item slot="1" original="Decide what kind of pizza you want." ></item>
+<item slot="2" original="Find the number of the pizza place you want to order from." ></item>
+<item slot="3" original="Call the pizza place." ></item>
+<item slot="4" original="Order your pizza." ></item>
+<item slot="5" original="Wait for delivery driver." ></item>
+<item slot="6" original="Pay for pizza and tip driver." ></item>
+</script><script id="13" source="2"><item slot="1" original="Call pizza place" ></item>
+<item slot="2" original="Order what you want" ></item>
+<item slot="3" original="Wait for delivery guy" ></item>
+<item slot="4" original="Pay the delivery guy" ></item>
+<item slot="5" original="Eat your pizza" ></item>
+</script><script id="14" source="2"><item slot="1" original="Choose pizza" ></item>
+<item slot="2" original="Get phone" ></item>
+<item slot="3" original="Call order in" ></item>
+<item slot="4" original="Wait for delivery guy" ></item>
+<item slot="5" original="Pay him" ></item>
+<item slot="6" original="Sit down and eat pizza" ></item>
+</script><script id="15" source="2"><item slot="1" original="Decide on toppings and pizza type." ></item>
+<item slot="2" original="Place phone call to pizza shop/" ></item>
+<item slot="3" original="Order pizza." ></item>
+<item slot="4" original="Proceed to pizza shop." ></item>
+<item slot="5" original="Pay for pizza." ></item>
+<item slot="6" original="Return home with pizza." ></item>
+<item slot="7" original="Eat and enjoy." ></item>
+</script><script id="16" source="2"><item slot="1" original="Enter the pizza corner" ></item>
+<item slot="2" original="Get into the chair" ></item>
+<item slot="3" original="Call the waiter" ></item>
+<item slot="4" original="Order two pizzas" ></item>
+<item slot="5" original="Order some drinks" ></item>
+<item slot="6" original="Pay the bill" ></item>
+<item slot="7" original="Tip the waiter" ></item>
+</script><script id="17" source="2"><item slot="1" original="Go online to look for coupons and search menu." ></item>
+<item slot="2" original="Decide what kind of pizza everyone wants." ></item>
+<item slot="3" original="Call phone number for local pizza place." ></item>
+<item slot="4" original="Tell them the sizes and flavours desired." ></item>
+<item slot="5" original="Obtain order total and estimated delivery time." ></item>
+<item slot="6" original="Wait with money." ></item>
+<item slot="7" original="Pay delivery man and add a tip to the total." ></item>
+<item slot="8" original="Take pizza into kitchen." ></item>
+<item slot="9" original="Call everyone down to eat." ></item>
+</script><script id="18" source="2"><item slot="1" original="Find phone number for pizza restaurant" ></item>
+<item slot="2" original="Call the pizza restaurant" ></item>
+<item slot="3" original="Tell them what kind of pizza you would like" ></item>
+<item slot="4" original="Tell them address for pizza to be delivered to" ></item>
+<item slot="5" original="Wait for delivery" ></item>
+<item slot="6" original="Pay for pizza upon arrival" ></item>
+</script><script id="19" source="2"><item slot="1" original="get your phone" ></item>
+<item slot="2" original="call a pizza place" ></item>
+<item slot="3" original="tell them what you want" ></item>
+<item slot="4" original="get your money ready" ></item>
+<item slot="5" original="go pick it up" ></item>
+</script><script id="20" source="2"><item slot="1" original="Take the mobile" ></item>
+<item slot="2" original="Dial the number" ></item>
+<item slot="3" original="Book the order" ></item>
+<item slot="4" original="Shopkeeper asks for the address" ></item>
+<item slot="5" original="Say the address" ></item>
+<item slot="6" original="Greet the shop keeper" ></item>
+<item slot="7" original="Cut the call" ></item>
+</script><script id="21" source="2"><item slot="1" original="Get the number for the pizza place" ></item>
+<item slot="2" original="Call the number" ></item>
+<item slot="3" original="Say what size pizza you want" ></item>
+<item slot="4" original="Say what toppings you want on the pizza" ></item>
+<item slot="5" original="Specify if you want cheese-stuffed crust or not" ></item>
+<item slot="6" original="Say if you want it delivered or to pick it up" ></item>
+<item slot="7" original="Get the price of the pizza" ></item>
+<item slot="8" original="Hang up" ></item>
+</script><script id="22" source="2"><item slot="1" original="Find the number to the pizza delivery place." ></item>
+<item slot="2" original="Call the number." ></item>
+<item slot="3" original="Tell the worker what you'd like to order." ></item>
+<item slot="4" original="Ask for the total price." ></item>
+<item slot="5" original="Wait for the pizza delivery person." ></item>
+<item slot="6" original="Pay for pizza." ></item>
+<item slot="7" original="Tip if desired." ></item>
+<item slot="8" original="Open pizza." ></item>
+<item slot="9" original="Eat." ></item>
+</script><script id="23" source="2"><item slot="1" original="Review your menu choices online or using a paper menu" ></item>
+<item slot="2" original="Decide what kind of toppings you want" ></item>
+<item slot="3" original="Decide what kind of crust you want" ></item>
+<item slot="4" original="Decide what size pizza you want." ></item>
+<item slot="5" original="Call the pizza business" ></item>
+<item slot="6" original="Follow the operator's instructions regarding your contact information" ></item>
+<item slot="7" original="Advise the operator if the pizza will be delivery or carry out" ></item>
+<item slot="8" original="Tell the operator what size, what crust, and what toppings you want." ></item>
+<item slot="9" original="Tell the operator how you plan to pay for the order." ></item>
+<item slot="10" original="Confirm your order is correct." ></item>
+<item slot="11" original="Wait for your pizza." ></item>
+<item slot="12" original="Eat and enjoy your pizza" ></item>
+</script><script id="24" source="2"><item slot="1" original="Call the pizza store" ></item>
+<item slot="2" original="Order pizza" ></item>
+<item slot="3" original="Wait for pizza" ></item>
+<item slot="4" original="Answer the door" ></item>
+<item slot="5" original="Pay for the pizza" ></item>
+<item slot="6" original="Leave tip" ></item>
+<item slot="7" original="Eat pizza" ></item>
+</script><script id="25" source="2"><item slot="1" original="Decide where to order pizza from." ></item>
+<item slot="2" original="Pick which type of pizza to order." ></item>
+<item slot="3" original="Call pizza restaurant." ></item>
+<item slot="4" original="Place order with person who answers phone." ></item>
+<item slot="5" original="Hang up phone." ></item>
+<item slot="6" original="Wait for delivery person to bring pizza." ></item>
+<item slot="7" original="Pay delivery person for pizza." ></item>
+<item slot="8" original="Eat the pizza." ></item>
+</script><script id="26" source="2"><item slot="1" original="Decide on the pizza place you want to order from." ></item>
+<item slot="2" original="Decide on the items you want to order before calling." ></item>
+<item slot="3" original="Call the pizza place." ></item>
+<item slot="4" original="Place your order." ></item>
+<item slot="5" original="Give your name and address." ></item>
+<item slot="6" original="Pay with credit card on the phone or pay in cash at time of delivery." ></item>
+<item slot="7" original="Wait for pizza." ></item>
+</script><script id="27" source="2"><item slot="1" original="find a pizza restaurant" ></item>
+<item slot="2" original="pick up phone and dial pizza place" ></item>
+<item slot="3" original="wait and tell the cashier your order over phone" ></item>
+<item slot="4" original="give the cashier your address" ></item>
+<item slot="5" original="wait for pizza" ></item>
+<item slot="6" original="when driver comes give your form of payment" ></item>
+<item slot="7" original="don't forget to tip" ></item>
+<item slot="8" original="enjoy" ></item>
+</script><script id="28" source="2"><item slot="1" original="Go to pizza places website" ></item>
+<item slot="2" original="Look at menu" ></item>
+<item slot="3" original="Choose what you want to order" ></item>
+<item slot="4" original="Place order online" ></item>
+<item slot="5" original="Go to pizza place" ></item>
+<item slot="6" original="Pay cashier for order" ></item>
+<item slot="7" original="Cashier give you your order" ></item>
+<item slot="8" original="Leave Pizza place" ></item>
+</script><script id="29" source="2"><item slot="1" original="Call company" ></item>
+<item slot="2" original="Order kind of pizza (crust, toppings)" ></item>
+<item slot="3" original="Say it's for delivery" ></item>
+<item slot="4" original="Give address and phone number" ></item>
+<item slot="5" original="State paying with card or cash" ></item>
+<item slot="6" original="Give card number (if paying with card)" ></item>
+<item slot="7" original="Wait for pizza" ></item>
+<item slot="8" original="Get pizza" ></item>
+<item slot="9" original="Sign for pizza or pay with cash" ></item>
+<item slot="10" original="Enjoy" ></item>
+</script><script id="30" source="2"><item slot="1" original="Go to desired pizza website" ></item>
+<item slot="2" original="Find pizza you like" ></item>
+<item slot="3" original="insert personal information" ></item>
+<item slot="4" original="Wait for pizza to arrive" ></item>
+<item slot="5" original="Pizza driver at door" ></item>
+<item slot="6" original="Pay for pizza" ></item>
+<item slot="7" original="Tip the driver" ></item>
+</script><script id="31" source="2"><item slot="1" original="Search online for local pizzeria and get phone number." ></item>
+<item slot="2" original="Call pizzeria and ask if they deliver." ></item>
+<item slot="3" original="Order one large pie with pepperoni." ></item>
+<item slot="4" original="Give pizzeria the address to deliver pizza." ></item>
+<item slot="5" original="Ask pizzeria for approximate delivery time." ></item>
+<item slot="6" original="Wait for pizza." ></item>
+<item slot="7" original="When doorbell rings, open door and pay delivery guy for pizza." ></item>
+<item slot="8" original="Sit down at table and eat pizza." ></item>
+</script><script id="32" source="2"><item slot="1" original="call pizza restaurant" ></item>
+<item slot="2" original="request delivery" ></item>
+<item slot="3" original="give name and phone number" ></item>
+<item slot="4" original="give desired pizza size and toppings" ></item>
+<item slot="5" original="give address" ></item>
+<item slot="6" original="listen to them confirm order and correct it if need be" ></item>
+<item slot="7" original="choose if paying cash or credit card" ></item>
+<item slot="8" original="if paying credit card give card number" ></item>
+<item slot="9" original="hang up" ></item>
+<item slot="10" original="wait for delivery" ></item>
+<item slot="11" original="accept delivery" ></item>
+<item slot="12" original="tip driver" ></item>
+</script><script id="33" source="2"><item slot="1" original="call pizza parlor" ></item>
+<item slot="2" original="place order by telling them what kind of pizza and toppings you desire" ></item>
+<item slot="3" original="wait for them to read back your order" ></item>
+<item slot="4" original="confirm order" ></item>
+<item slot="5" original="listen as they tell you the price and wait time" ></item>
+<item slot="6" original="hang up" ></item>
+</script><script id="34" source="2"><item slot="1" original="Turn on computer" ></item>
+<item slot="2" original="Search for phone number of pizza place" ></item>
+<item slot="3" original="Pick up phone" ></item>
+<item slot="4" original="Dial number" ></item>
+<item slot="5" original="Place order with pizza place" ></item>
+<item slot="6" original="Drive to pizza place and get pizza" ></item>
+</script><script id="35" source="2"><item slot="1" original="Decide what I want to order" ></item>
+<item slot="2" original="Go to their website" ></item>
+<item slot="3" original="Choose what I want" ></item>
+<item slot="4" original="Enter debit card info" ></item>
+<item slot="5" original="Check out" ></item>
+</script><script id="36" source="2"><item slot="1" original="Check online for specials" ></item>
+<item slot="2" original="log into my account" ></item>
+<item slot="3" original="select my pizza" ></item>
+<item slot="4" original="select my pizza toppings" ></item>
+<item slot="5" original="select my sides" ></item>
+<item slot="6" original="click my checkout code" ></item>
+<item slot="7" original="log out" ></item>
+</script><script id="37" source="2"><item slot="1" original="decide what kind of pizza you want" ></item>
+<item slot="2" original="call the local pizza place that delivers" ></item>
+<item slot="3" original="place your order" ></item>
+<item slot="4" original="pay with card and add a tip" ></item>
+<item slot="5" original="wait for pizza to arrive" ></item>
+</script><script id="38" source="2"><item slot="1" original="call pizza shop" ></item>
+<item slot="2" original="place order" ></item>
+<item slot="3" original="wait for delivery" ></item>
+<item slot="4" original="pay for delivery" ></item>
+<item slot="5" original="open pizza" ></item>
+<item slot="6" original="consume pizza" ></item>
+</script><script id="39" source="2"><item slot="1" original="Go online." ></item>
+<item slot="2" original="Browse to your favorite pizza's website." ></item>
+<item slot="3" original="Look through menu." ></item>
+<item slot="4" original="Pick what you want." ></item>
+<item slot="5" original="Go to Make An Order page." ></item>
+<item slot="6" original="Type in your information." ></item>
+<item slot="7" original="Wait for your pizza to finish." ></item>
+<item slot="8" original="Pick up pizza." ></item>
+</script><script id="40" source="2"><item slot="1" original="Find pizza place phone number." ></item>
+<item slot="2" original="Dial phone number." ></item>
+<item slot="3" original="Tell clerk you want to place an order." ></item>
+<item slot="4" original="Choose pick up or delivery." ></item>
+<item slot="5" original="Choose a what size you want." ></item>
+<item slot="6" original="Choose toppings." ></item>
+<item slot="7" original="Find out price" ></item>
+<item slot="8" original="End the call." ></item>
+</script><script id="41" source="2"><item slot="1" original="Look at menu" ></item>
+<item slot="2" original="Decide what pizza I want" ></item>
+<item slot="3" original="Order pizza" ></item>
+<item slot="4" original="Wait for it to cook" ></item>
+<item slot="5" original="Pay for pizza" ></item>
+<item slot="6" original="Eat pizza" ></item>
+</script><script id="42" source="2"><item slot="1" original="Find the phone number for the pizza place" ></item>
+<item slot="2" original="Call the pizza place" ></item>
+<item slot="3" original="Tell the customer service agent what you would like" ></item>
+<item slot="4" original="Get your money ready" ></item>
+<item slot="5" original="Wait for delivery driver" ></item>
+<item slot="6" original="Eat" ></item>
+</script><script id="43" source="2"><item slot="1" original="Find a pizza menu" ></item>
+<item slot="2" original="Select order" ></item>
+<item slot="3" original="Call pizza restaurant" ></item>
+<item slot="4" original="Order pizza" ></item>
+<item slot="5" original="Wait for pizza" ></item>
+<item slot="6" original="Delivery man brings pizza" ></item>
+<item slot="7" original="Pay for pizza" ></item>
+<item slot="8" original="Tip delivery man" ></item>
+<item slot="9" original="Eat pizza" ></item>
+</script><script id="44" source="2"><item slot="1" original="decide what toppings to order" ></item>
+<item slot="2" original="find phone number for pizzeria" ></item>
+<item slot="3" original="call pizzeria" ></item>
+<item slot="4" original="explain order to employee" ></item>
+<item slot="5" original="drive to pizzeria" ></item>
+<item slot="6" original="pick up pizza" ></item>
+<item slot="7" original="bring pizza home" ></item>
+</script><script id="45" source="2"><item slot="1" original="Choose pizza from menu" ></item>
+<item slot="2" original="Call pizza restaurant" ></item>
+<item slot="3" original="Ask for desired pizza" ></item>
+<item slot="4" original="Read out credit card number and expiry date" ></item>
+<item slot="5" original="Wait for pizza delivery" ></item>
+<item slot="6" original="Sign credit card slip" ></item>
+<item slot="7" original="Tip delivery person" ></item>
+<item slot="8" original="Take pizza" ></item>
+</script><script id="46" source="2"><item slot="1" original="Find the menu online" ></item>
+<item slot="2" original="Pick out what is wanted" ></item>
+<item slot="3" original="Pick up the phone" ></item>
+<item slot="4" original="Call the pizza place" ></item>
+<item slot="5" original="Speak to the employee" ></item>
+<item slot="6" original="Tell them what I want to order" ></item>
+<item slot="7" original="Hang up the phone" ></item>
+</script><script id="47" source="2"><item slot="1" original="go through the menu" ></item>
+<item slot="2" original="choose the pizza" ></item>
+<item slot="3" original="call the pizza house" ></item>
+<item slot="4" original="place the order" ></item>
+<item slot="5" original="wait for the pizza to be delivered" ></item>
+<item slot="6" original="pay the amount to delivery boy" ></item>
+</script><script id="48" source="2"><item slot="1" original="dial phone" ></item>
+<item slot="2" original="place order" ></item>
+<item slot="3" original="go to pizza place" ></item>
+<item slot="4" original="pick up order" ></item>
+<item slot="5" original="pay for order" ></item>
+<item slot="6" original="pick toppings off pizza on the drive home" ></item>
+<item slot="7" original="bring pizza inside" ></item>
+<item slot="8" original="serve pizza" ></item>
+</script><script id="49" source="2"><item slot="1" original="Open a browser." ></item>
+<item slot="2" original="Go on the pizza companies website." ></item>
+<item slot="3" original="Input delivery info." ></item>
+<item slot="4" original="Create my pizzas." ></item>
+<item slot="5" original="Place order." ></item>
+<item slot="6" original="Wait for pizza." ></item>
+<item slot="7" original="Eat delicious pizza." ></item>
+</script><script id="50" source="2"><item slot="1" original="Call pizza restaurant" ></item>
+<item slot="2" original="Tell them it's for delivery" ></item>
+<item slot="3" original="Tell what kind of pizza to order" ></item>
+<item slot="4" original="Give identifying information" ></item>
+<item slot="5" original="Wait for pizza to be delivered" ></item>
+</script><script id="51" source="2"><item slot="1" original="decide where to get pizza from" ></item>
+<item slot="2" original="open web browser" ></item>
+<item slot="3" original="go to the pizza joint decided on" ></item>
+<item slot="4" original="sign in" ></item>
+<item slot="5" original="pull up menu" ></item>
+<item slot="6" original="decide what pizza to order" ></item>
+<item slot="7" original="order pizza with toppings" ></item>
+<item slot="8" original="put in credit card information." ></item>
+<item slot="9" original="push order" ></item>
+<item slot="10" original="wait for conformation" ></item>
+<item slot="11" original="receive conformation and wait for pizza to be delivered" ></item>
+</script><script id="52" source="2"><item slot="1" original="make up your mind about what you want on pizza" ></item>
+<item slot="2" original="go to or call pizza place in your area" ></item>
+<item slot="3" original="tell them what you want" ></item>
+<item slot="4" original="make payment" ></item>
+<item slot="5" original="get pizza" ></item>
+</script><script id="53" source="2"><item slot="1" original="Get the pizza's place phone number" ></item>
+<item slot="2" original="Call them" ></item>
+<item slot="3" original="Place order for the pizza you desire" ></item>
+<item slot="4" original="Give them your address" ></item>
+<item slot="5" original="Wait for pizza to be delivered" ></item>
+<item slot="6" original="Pay for pizza" ></item>
+<item slot="7" original="Give the pizza guy a tip" ></item>
+<item slot="8" original="Eat pizza!" ></item>
+</script><script id="54" source="2"><item slot="1" original="Call pizza place" ></item>
+<item slot="2" original="Tell representative what you want" ></item>
+<item slot="3" original="Choose delivery or pick up" ></item>
+<item slot="4" original="Have pizza delivered or drive to store to pick it up" ></item>
+<item slot="5" original="Go home" ></item>
+<item slot="6" original="Enjoy food" ></item>
+</script><script id="55" source="2"><item slot="1" original="Go online to pizza website" ></item>
+<item slot="2" original="Browse the menu" ></item>
+<item slot="3" original="Choose your pizza" ></item>
+<item slot="4" original="Place order for pizza" ></item>
+<item slot="5" original="Check out and pay" ></item>
+</script><script id="56" source="2"><item slot="1" original="Turn on computer" ></item>
+<item slot="2" original="Go to pizza website" ></item>
+<item slot="3" original="Login" ></item>
+<item slot="4" original="Create order" ></item>
+<item slot="5" original="Pay for order" ></item>
+<item slot="6" original="Submit order" ></item>
+</script><script id="57" source="2"><item slot="1" original="determine which place to order from" ></item>
+<item slot="2" original="determine which ingredients to add as toppings" ></item>
+<item slot="3" original="locate phone number for pizza restaurant" ></item>
+<item slot="4" original="call and place the order" ></item>
+<item slot="5" original="pay for the pizza either over the phone or pay the driver" ></item>
+<item slot="6" original="TIP THE DRIVER" ></item>
+</script><script id="58" source="2"><item slot="1" original="Browse menu" ></item>
+<item slot="2" original="Select order" ></item>
+<item slot="3" original="Call pizza place" ></item>
+<item slot="4" original="Place order" ></item>
+<item slot="5" original="Wait for delivery driver" ></item>
+<item slot="6" original="Answer door" ></item>
+<item slot="7" original="Pay delivery driver" ></item>
+<item slot="8" original="Tip delivery driver" ></item>
+<item slot="9" original="Close door" ></item>
+<item slot="10" original="Eat pizza" ></item>
+</script><script id="59" source="2"><item slot="1" original="Switch on computer" ></item>
+<item slot="2" original="Go to Google search engine" ></item>
+<item slot="3" original="Search for online offers and discounts on pizzas" ></item>
+<item slot="4" original="Visit the website of the preferred pizza store" ></item>
+<item slot="5" original="Select choice from the menu" ></item>
+<item slot="6" original="Click home delivery" ></item>
+<item slot="7" original="Click payment method COD" ></item>
+<item slot="8" original="note down the order number delivery details and tracking number" ></item>
+<item slot="9" original="Wait for pizza delivery boy" ></item>
+<item slot="10" original="Pay at the time of delivery of pizza" ></item>
+</script><script id="60" source="2"><item slot="1" original="GO TO THE WEBSITE OF YOUR FAVOURITE PIZZA PLACE" ></item>
+<item slot="2" original="CHOOSE THE PIZZA YOU WANT" ></item>
+<item slot="3" original="MAKE ANY CHANGES, INCLUDING TOPPINGS" ></item>
+<item slot="4" original="ADD TO BASKET" ></item>
+<item slot="5" original="GO TO CHECK OUT" ></item>
+<item slot="6" original="INPUT DELIVERY ADDRESS" ></item>
+<item slot="7" original="INPUT CARD DETAILS" ></item>
+<item slot="8" original="PAY FOR PIZZA" ></item>
+<item slot="9" original="WAIT FOR PIZZA TO BE DELIVERED" ></item>
+</script><script id="61" source="2"><item slot="1" original="Decide what I want on the pizza" ></item>
+<item slot="2" original="Look for any available pizza coupons I may have" ></item>
+<item slot="3" original="Call pizza place on phone" ></item>
+<item slot="4" original="Place my pizza order" ></item>
+<item slot="5" original="Give them my address for delivery" ></item>
+<item slot="6" original="Give them my credit card information to pay for the pizza" ></item>
+<item slot="7" original="Wait for the pizza to be delivered" ></item>
+<item slot="8" original="Tip the delivery person" ></item>
+<item slot="9" original="Eat the pizza" ></item>
+</script><script id="62" source="2"><item slot="1" original="Find a menu for a restaurant." ></item>
+<item slot="2" original="Choose what pizza you would like." ></item>
+<item slot="3" original="Call the restaurant." ></item>
+<item slot="4" original="Tell the waiter what pizza you would like." ></item>
+<item slot="5" original="Tell the person where you would like the pizza delivered to." ></item>
+<item slot="6" original="Wait for your pizza to show up." ></item>
+<item slot="7" original="Pay the person who delivers your pizza." ></item>
+</script><script id="63" source="2"><item slot="1" original="Pick a pizza place ." ></item>
+<item slot="2" original="Decide what you want." ></item>
+<item slot="3" original="Call the restaurant." ></item>
+<item slot="4" original="Place the order." ></item>
+<item slot="5" original="Give the worker your address" ></item>
+<item slot="6" original="Wait until the driver arrives." ></item>
+<item slot="7" original="Pay the driver." ></item>
+<item slot="8" original="Eat the pizza." ></item>
+</script><script id="64" source="2"><item slot="1" original="Decide where you will be ordering the pizza from." ></item>
+<item slot="2" original="Decide the type and toppings you want on your pizza." ></item>
+<item slot="3" original="Call the pizza place and place your order." ></item>
+<item slot="4" original="Wait the estimated delivery time." ></item>
+<item slot="5" original="When the pizza arrives, give a tip to the delivery man." ></item>
+<item slot="6" original="Enjoy your pizza." ></item>
+</script><script id="65" source="2"><item slot="1" original="choose pizza place to order from" ></item>
+<item slot="2" original="find phone number" ></item>
+<item slot="3" original="choose pizza desired" ></item>
+<item slot="4" original="call phone number" ></item>
+<item slot="5" original="order desired pizza" ></item>
+<item slot="6" original="drive to pizza place" ></item>
+<item slot="7" original="pick up pizza" ></item>
+<item slot="8" original="drive home" ></item>
+</script><script id="66" source="2"><item slot="1" original="Decide on what you want to order" ></item>
+<item slot="2" original="Dial the local pizzeria's number on your phone" ></item>
+<item slot="3" original="Talk to the worker and tell them what you want" ></item>
+<item slot="4" original="Wait for the deliverer to show up" ></item>
+<item slot="5" original="Pay the deliverer and grab your food" ></item>
+<item slot="6" original="Enjoy your meal" ></item>
+</script><script id="67" source="2"><item slot="1" original="Decide what toppings and crust to order" ></item>
+<item slot="2" original="Find phone number of pizza restaurant" ></item>
+<item slot="3" original="Call restaurant" ></item>
+<item slot="4" original="Request toppings and crust for pizza" ></item>
+<item slot="5" original="Confirm order" ></item>
+<item slot="6" original="Pay for pizza" ></item>
+<item slot="7" original="Wait for pizza to arrive" ></item>
+</script><script id="68" source="2"><item slot="1" original="Get phone book." ></item>
+<item slot="2" original="Look up Pizza." ></item>
+<item slot="3" original="Pick up phone." ></item>
+<item slot="4" original="Call pizza place." ></item>
+<item slot="5" original="Order toppings for pizza." ></item>
+<item slot="6" original="Hang up phone." ></item>
+</script><script id="69" source="2"><item slot="1" original="Decided what you want" ></item>
+<item slot="2" original="Write it down" ></item>
+<item slot="3" original="Find the number to your pizza place" ></item>
+<item slot="4" original="Get your phone out" ></item>
+<item slot="5" original="Dial the pizza place number" ></item>
+<item slot="6" original="Tell them if you want delivery or pick up" ></item>
+<item slot="7" original="Tell them what you want" ></item>
+<item slot="8" original="Tell them your address" ></item>
+<item slot="9" original="Hang up the phone" ></item>
+<item slot="10" original="Gather your money up" ></item>
+<item slot="11" original="Wait" ></item>
+</script><script id="70" source="2"><item slot="1" original="Decide on which pizza restaurant to order from." ></item>
+<item slot="2" original="Decide on which toppings to get for the pizza and what size it will be." ></item>
+<item slot="3" original="Call pizza place to order the pizza." ></item>
+<item slot="4" original="Wait for the pizza to be delivered." ></item>
+<item slot="5" original="Answer the door when the deliveryman arrives." ></item>
+<item slot="6" original="Pay for the pizza and give the deliveryman a tip." ></item>
+<item slot="7" original="Say thank you." ></item>
+<item slot="8" original="Bring the pizza into the kitchen." ></item>
+<item slot="9" original="Eat the pizza." ></item>
+</script><script id="71" source="2"><item slot="1" original="Look up nearby pizza places." ></item>
+<item slot="2" original="Decide the toppings." ></item>
+<item slot="3" original="Call the pizza place." ></item>
+<item slot="4" original="Place an order." ></item>
+<item slot="5" original="Wait for pizza to arrive." ></item>
+</script><script id="72" source="2"><item slot="1" original="Find pizza menu" ></item>
+<item slot="2" original="Decide what pizza to order" ></item>
+<item slot="3" original="Call number on menu" ></item>
+<item slot="4" original="Give worker name" ></item>
+<item slot="5" original="give worker your address" ></item>
+<item slot="6" original="give worker a callback number" ></item>
+<item slot="7" original="tell worker what pizza you want" ></item>
+<item slot="8" original="wait for pizza to come" ></item>
+<item slot="9" original="pay for pizza" ></item>
+<item slot="10" original="tip delivery man" ></item>
+</script><script id="73" source="2"><item slot="1" original="Pick up phone" ></item>
+<item slot="2" original="Call a local pizza place" ></item>
+<item slot="3" original="Tell them what kind of pizza you want" ></item>
+<item slot="4" original="Give them your address" ></item>
+<item slot="5" original="Give them your credit card information for payment" ></item>
+<item slot="6" original="Hang up phone" ></item>
+</script><script id="74" source="2"><item slot="1" original="Drive to the pizzeria." ></item>
+<item slot="2" original="Park car in a spot close to entrance." ></item>
+<item slot="3" original="Exit car." ></item>
+<item slot="4" original="Enter and walk to counter." ></item>
+<item slot="5" original="Speak with clerk and order pizza." ></item>
+<item slot="6" original="Give clerk name when asked." ></item>
+<item slot="7" original="Pay the clerk and get receipt." ></item>
+<item slot="8" original="Wait for pizza to be prepared." ></item>
+<item slot="9" original="When name is called go to counter to get pizza." ></item>
+<item slot="10" original="Exit pizzeria with pizza." ></item>
+<item slot="11" original="Get in car with pizza and drive home." ></item>
+</script><script id="75" source="2"><item slot="1" original="Decide what kind of pizza you'd like to order." ></item>
+<item slot="2" original="Call the pizza place." ></item>
+<item slot="3" original="Let them know if you would like delivery to your house or to pick it up." ></item>
+<item slot="4" original="Give the person on the phone requested information such as name, phone number, address." ></item>
+<item slot="5" original="Let the person on the phone know what you would like to order and how you will pay." ></item>
+<item slot="6" original="Thank the person and hang up once the order is submitted." ></item>
+<item slot="7" original="Wait for the pizza delivery person to come if you chose delivery." ></item>
+<item slot="8" original="Pay for the pizza when the driver arrives, offering a tip if you would like." ></item>
+<item slot="9" original="Thank the driver and enjoy your pizza." ></item>
+</script><script id="76" source="2"><item slot="1" original="Decide where you want to order pizza" ></item>
+<item slot="2" original="Find the phone number to the pizza place" ></item>
+<item slot="3" original="Decide what type of pizza to order" ></item>
+<item slot="4" original="Tell cashier at pizza place your order" ></item>
+<item slot="5" original="Wait for delivery driver to show up at house" ></item>
+<item slot="6" original="Answer door and pay driver" ></item>
+</script><script id="77" source="2"><item slot="1" original="call the pizza place" ></item>
+<item slot="2" original="place an order of desired pizza" ></item>
+<item slot="3" original="wait for pizza delivery to arrive" ></item>
+<item slot="4" original="pay for pizza delivery" ></item>
+<item slot="5" original="enjoy pizza" ></item>
+</script><script id="78" source="2"><item slot="1" original="Open any browser" ></item>
+<item slot="2" original="Search for nearby pizza restaurants with home delivery service" ></item>
+<item slot="3" original="See through the menu" ></item>
+<item slot="4" original="Select pizza" ></item>
+<item slot="5" original="Take mobile phone" ></item>
+<item slot="6" original="Call to the restaurant" ></item>
+<item slot="7" original="Place your order" ></item>
+<item slot="8" original="Provide your street address" ></item>
+<item slot="9" original="End the call" ></item>
+</script><script id="79" source="2"><item slot="1" original="Decide what type of crust you want." ></item>
+<item slot="2" original="Pick the toppings you would like." ></item>
+<item slot="3" original="Tell the person that is taking the order what you want." ></item>
+<item slot="4" original="Pay for pizza." ></item>
+<item slot="5" original="Wait while it cooks." ></item>
+<item slot="6" original="When it is done, take you pizza home." ></item>
+<item slot="7" original="Enjoy." ></item>
+</script><script id="80" source="2"><item slot="1" original="Agree on the desired pizzeria" ></item>
+<item slot="2" original="Decide on your order" ></item>
+<item slot="3" original="Decide on size, crust and toppings" ></item>
+<item slot="4" original="Call and place your order" ></item>
+<item slot="5" original="Try to be reasonably prompt" ></item>
+<item slot="6" original="Have your payment ready" ></item>
+</script><script id="81" source="2"><item slot="1" original="Look up pizza places phone number" ></item>
+<item slot="2" original="Dial it" ></item>
+<item slot="3" original="Tell the worker on the phone what you would like" ></item>
+<item slot="4" original="Ask for a total at the end" ></item>
+<item slot="5" original="Go and pick up and pay for pizza" ></item>
+</script><script id="82" source="2"><item slot="1" original="Choose the kind of pizza you want" ></item>
+<item slot="2" original="Call the restaurant" ></item>
+<item slot="3" original="Place an order" ></item>
+<item slot="4" original="Wait for delivery" ></item>
+<item slot="5" original="Pay the drive" ></item>
+<item slot="6" original="Tip the driver" ></item>
+<item slot="7" original="Eat" ></item>
+</script><script id="83" source="2"><item slot="1" original="Decide what company to order pizza from" ></item>
+<item slot="2" original="Go online and find website for company" ></item>
+<item slot="3" original="Sign in to website" ></item>
+<item slot="4" original="Look at specials" ></item>
+<item slot="5" original="Make a decision on what to order" ></item>
+<item slot="6" original="Add items to cart" ></item>
+<item slot="7" original="Place order" ></item>
+<item slot="8" original="Wait for knock at the door" ></item>
+<item slot="9" original="Pay delivery driver" ></item>
+<item slot="10" original="Eat pizza" ></item>
+</script><script id="84" source="2"><item slot="1" original="Decide what toppings desired on pizza" ></item>
+<item slot="2" original="Go to Costco wholesale" ></item>
+<item slot="3" original="Prepay for pizza of choice at register" ></item>
+<item slot="4" original="Return home" ></item>
+<item slot="5" original="Call Costco food court at dinnertime and place order" ></item>
+<item slot="6" original="Go back to costco after designated amount of time" ></item>
+<item slot="7" original="Arrive at pick up window and present receipt" ></item>
+<item slot="8" original=" get pizza" ></item>
+<item slot="9" original="Return home and eat pizza" ></item>
+</script><script id="85" source="2"><item slot="1" original="Call pizzeria" ></item>
+<item slot="2" original="Tell pizzeria what kind of crust that you want" ></item>
+<item slot="3" original="Tell pizzeria which toppings that you want" ></item>
+<item slot="4" original="Give name and phone number to pizzeria" ></item>
+<item slot="5" original="Wait for pizza to be delivered" ></item>
+<item slot="6" original="Pay delivery person for pizza" ></item>
+<item slot="7" original="Tip delivery person" ></item>
+<item slot="8" original="Eat your pizza" ></item>
+</script><script id="86" source="2"><item slot="1" original="Call the pizza delivery outlet" ></item>
+<item slot="2" original="Select your crust and topping type" ></item>
+<item slot="3" original="Finalize your order" ></item>
+<item slot="4" original="Wait for the delivery" ></item>
+<item slot="5" original="Relieve the delivery" ></item>
+<item slot="6" original="Pay the delivery boy" ></item>
+<item slot="7" original="Eat your pizza" ></item>
+</script><script id="87" source="2"><item slot="1" original="Open website of pizza restaurant." ></item>
+<item slot="2" original="Log in to account." ></item>
+<item slot="3" original="Decide what kind of pizza to buy." ></item>
+<item slot="4" original="Input information for pizza order." ></item>
+<item slot="5" original="Confirm payment." ></item>
+<item slot="6" original="Add tip and any special instructions to payment." ></item>
+<item slot="7" original="Place online order." ></item>
+<item slot="8" original="Note delivery time." ></item>
+<item slot="9" original="Get pizza from delivery person." ></item>
+<item slot="10" original="Sign receipt." ></item>
+</script><script id="88" source="2"><item slot="1" original="Find phone number for pizza place" ></item>
+<item slot="2" original="Dial number into phone" ></item>
+<item slot="3" original="Tell person what kind of pizza you want" ></item>
+<item slot="4" original="Hang up" ></item>
+<item slot="5" original="Wait for pizza" ></item>
+</script><script id="89" source="2"><item slot="1" original="Go to the pizza store's web site" ></item>
+<item slot="2" original="Select the pizza desired" ></item>
+<item slot="3" original="Select delivery instead of pick-up" ></item>
+<item slot="4" original="Place the order" ></item>
+<item slot="5" original="Select the payment method" ></item>
+<item slot="6" original="Enter credit or debit card information" ></item>
+<item slot="7" original="Wait for the delivery person" ></item>
+<item slot="8" original="Tip the delivery person when he or she arrives" ></item>
+</script><script id="90" source="2"><item slot="1" original="Find a coupon" ></item>
+<item slot="2" original="Decide on toppings" ></item>
+<item slot="3" original="Call pizza company" ></item>
+<item slot="4" original="Place order for pizza" ></item>
+<item slot="5" original="Wait thirty minutes" ></item>
+<item slot="6" original="Meet pizza at the door" ></item>
+<item slot="7" original="Check order" ></item>
+<item slot="8" original="Pay for pizza" ></item>
+<item slot="9" original="Tip the pizza man" ></item>
+</script><script id="91" source="2"><item slot="1" original="Get phone" ></item>
+<item slot="2" original="Call pizza place" ></item>
+<item slot="3" original="Tell which toppings" ></item>
+<item slot="4" original="Get price" ></item>
+<item slot="5" original="Pay by debit" ></item>
+<item slot="6" original="Pizza arrives at door" ></item>
+</script><script id="92" source="2"><item slot="1" original="Decide whose pizza you want" ></item>
+<item slot="2" original="Decide what your order will be" ></item>
+<item slot="3" original="Call the pizzeria" ></item>
+<item slot="4" original="Order your pizza" ></item>
+<item slot="5" original="Wait for delivery" ></item>
+<item slot="6" original="Greet delivery driver" ></item>
+<item slot="7" original="Pay and tip delivery driver" ></item>
+<item slot="8" original="Eat pizza!" ></item>
+</script><script id="93" source="2"><item slot="1" original="Dial Papa Johns" ></item>
+<item slot="2" original="Cashier answers phone" ></item>
+<item slot="3" original="Give address" ></item>
+<item slot="4" original="Give phone number" ></item>
+<item slot="5" original="Order pizza" ></item>
+<item slot="6" original="Find out how long it will be" ></item>
+<item slot="7" original="Doorbell rings" ></item>
+<item slot="8" original="Open the door" ></item>
+<item slot="9" original="Driver gives pizza" ></item>
+<item slot="10" original="Pay for pizza" ></item>
+<item slot="11" original="Tip the driver" ></item>
+</script><script id="94" source="2"><item slot="1" original="Choose restaurant" ></item>
+<item slot="2" original="Find menu" ></item>
+<item slot="3" original="Decide on quantity and toppings" ></item>
+<item slot="4" original="Call restaurant" ></item>
+<item slot="5" original="Explain order and delivery information" ></item>
+<item slot="6" original="Wait as patiently as possibly" ></item>
+<item slot="7" original="Greet delivery man at door" ></item>
+<item slot="8" original="Pay and tip said delivery man" ></item>
+</script><script id="95" source="2"><item slot="1" original="Pick favorite pizza restaurant." ></item>
+<item slot="2" original="Go in." ></item>
+<item slot="3" original="Look over menu." ></item>
+<item slot="4" original="Pick preferred pizza." ></item>
+<item slot="5" original="Pick crust type." ></item>
+<item slot="6" original="Pick toppings." ></item>
+<item slot="7" original="Tell them for here or to go." ></item>
+<item slot="8" original="Pay for pizza." ></item>
+<item slot="9" original="Wait for pizza." ></item>
+<item slot="10" original="Eat in or take home." ></item>
+<item slot="11" original="Enjoy." ></item>
+</script><script id="96" source="2"><item slot="1" original="Look up the phone number for the place you want" ></item>
+<item slot="2" original="Call the pizza place" ></item>
+<item slot="3" original="Tell them what you want to eat" ></item>
+<item slot="4" original="Tell them it is for delivery" ></item>
+<item slot="5" original="Give them your address" ></item>
+<item slot="6" original="Pay over the phone or have cash ready when the pizza arrives" ></item>
+<item slot="7" original="Hang up phone" ></item>
+<item slot="8" original="Wait for the delivery driver" ></item>
+<item slot="9" original="Answer door when there is a knock" ></item>
+<item slot="10" original="Receive pizza from the driver and give him/her a tip" ></item>
+<item slot="11" original="Enjoy your pizza" ></item>
+</script><script id="97" source="2"><item slot="1" original="Call a pizza place" ></item>
+<item slot="2" original="Give address of where you want it delivered" ></item>
+<item slot="3" original="Tell them what you would like" ></item>
+<item slot="4" original="give them card information or get cash together" ></item>
+<item slot="5" original="wait for food" ></item>
+<item slot="6" original="pay for food and receive once it arrives" ></item>
+</script><script id="98" source="2"><item slot="1" original="Pick up phone" ></item>
+<item slot="2" original="Dial pizza place" ></item>
+<item slot="3" original="Tell them your order" ></item>
+<item slot="4" original="Hang up" ></item>
+<item slot="5" original="Answer door for delivery man" ></item>
+<item slot="6" original="Pay him for pizza" ></item>
+<item slot="7" original="Close the door" ></item>
+</script><script id="99" source="2"><item slot="1" original="Look online for a place you'd like to try" ></item>
+<item slot="2" original="Call the pizza place and place your order" ></item>
+<item slot="3" original="Pay for the order over the phone if paying with a card" ></item>
+<item slot="4" original="Wait for the pizza to arrive" ></item>
+<item slot="5" original="Tip the driver" ></item>
+<item slot="6" original="Eat your pizza" ></item>
+</script><script id="100" source="2"><item slot="1" original="Decide what you want to order." ></item>
+<item slot="2" original="Contact the pizza place either by phone or internet." ></item>
+<item slot="3" original="Place your order specifying size and ingredients. " ></item>
+<item slot="4" original="Determine if you want your food delivered or for take out." ></item>
+<item slot="5" original="Wait for your pizza to arrive." ></item>
+<item slot="6" original="Enjoy!" ></item>
+</script></scripts>

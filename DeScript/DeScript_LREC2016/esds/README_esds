@@ -1,0 +1,12 @@
+We collected the ESDs in two phases:
+* a pilot phase with 10 scenarios and 10 ESDs each 
+and 
+* a second phase with 40 scenarios 100 ESDs each. 
+
+The ESDs were manually checked and erroneous ESDs removed.
+
+Each file contains several ESDs identified with "id" and "source" attributes. The "source" attribute can either be "1" (collected during the pilot phase) or "2" (collected in the second phase).
+
+Each event description has a "slot" attribute which is its position within the script sequence.
+
+

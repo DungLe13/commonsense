@@ -1,0 +1,1291 @@
+<scripts>
+<label type="PARAPHRASE" event="UnrelEv">
+	<item head="plan" original="Plan menu for week." script="33" slot="1" text="plan for" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="menu" text="menu for week" />
+		<ptcp head="week" text="week" />
+	</item>
+	<item head="write" original="Write a list of meals for the week" script="41" slot="2" text="write of for" total-slots="10">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="list" text="a list" />
+		<ptcp head="meals" text="meals" />
+		<ptcp head="week" text="the week" />
+	</item>
+	<item head="look" original="look through recipes" script="49" slot="1" text="look through" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="recipes" text="recipes" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+
+</label>
+<label type="PARAPHRASE" event="UnrelEv">
+
+</label>
+<label type="PARAPHRASE" event="make_list">
+	<item head="make" original="Make a grocery list." script="26" slot="1" text="make" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="list" text="a grocery list" />
+	</item>
+	<item head="make" original="make a list" script="27" slot="1" text="make" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="list" text="a list" />
+	</item>
+	<item head="make" original="Make a list of what you need." script="28" slot="1" text="make of" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="list" text="a list" />
+		<ptcp head="you" text="you" />
+	</item>
+	<item head="create" original="Create list of things to buy" script="30" slot="1" text="create of" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="list" text="list of things to buy" />
+		<ptcp head="things" text="things to buy" />
+	</item>
+	<item head="review" original="review what you have at home and make a list of what you need" script="32" slot="1" text="review at of" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="you" text="you" />
+		<ptcp head="home" text="home" />
+		<ptcp head="list" text="a list" />
+		<ptcp head="you" text="you" />
+	</item>
+	<item head="make" original="Make grocery list based off of menu." script="33" slot="2" text="make of" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="list" text="grocery list" />
+		<ptcp head="menu" text="menu" />
+	</item>
+	<item head="make" original="Make a list." script="35" slot="1" text="make" total-slots="5">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="list" text="a list" />
+	</item>
+	<item head="make" original="Make a grocery list of items to buy" script="39" slot="1" text="make of" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="list" text="a grocery list" />
+		<ptcp head="items" text="items to buy" />
+	</item>
+	<item head="inventory" original="Inventory your cupboards" script="41" slot="1" text="" total-slots="10">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="inventory" text="inventory" />
+		<ptcp head="cupboards" text="your cupboards" />
+	</item>	
+	<item head="make" original="Make a list of what you need." script="41" slot="3" text="make of" total-slots="10">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="list" text="a list" />
+		<ptcp head="you" text="you" />
+	</item>
+	<item head="make" original="Make a grocery list" script="42" slot="1" text="make" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="list" text="a grocery list" />
+	</item>
+	<item head="make" original="Make a list." script="43" slot="1" text="make" total-slots="14">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="list" text="a list" />
+	</item>
+	<item head="make" original="Make grocery list" script="45" slot="1" text="make" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="list" text="grocery list" />
+	</item>
+	<item head="make" original="Make a list of groceries needed" script="46" slot="1" text="make of" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="list" text="a list" />
+		<ptcp head="groceries" text="groceries" />
+	</item>
+	<item head="make" original="make grocery list" script="48" slot="1" text="make" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="list" text="grocery list" />
+	</item>
+	<item head="make" original="make grocery list" script="49" slot="2" text="make" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="list" text="grocery list" />
+	</item>
+	<item head="make" original="make a list of needed items" slot="1" text="make of">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="list" text="a list" />
+		<ptcp head="items" text="needed items" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+	<item head="clip" original="Clip any relevant coupons." script="43" slot="2" text="clip" total-slots="14">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="coupons" text="any relevant coupons" />
+	</item>
+	<item head="check" original="check for coupons" slot="2" text="check for">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="coupons" text="coupons" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="UnrelEv">
+	<item head="get" original="Get dressed." script="43" slot="3" text="get" total-slots="14">
+		<ptcp head="imp_" text="imp_participant" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="other_carry_list">
+
+</label>
+<label type="PARAPHRASE" event="take_bags">
+	<item head="bring" original="Bring reusable grocery bags." script="33" slot="4" text="bring" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="bags" text="reusable grocery bags" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+
+</label>
+<label type="PARAPHRASE" event="other_get_in_car">
+	<item head="get" original="Get in car" script="30" slot="2" text="get in" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="car" text="car" />
+	</item>
+	<item head="get" original="Get in car and drive to grocery store." script="31" slot="1" text="get in to" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="car" text="car" />
+		<ptcp head="store" text="grocery store" />
+	</item>
+	<item head="get" original="Get in my car" script="34" slot="1" text="get in" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="car" text="my car" />
+	</item>
+	<item head="get" original="Get in car." script="36" slot="1" text="get in" total-slots="7">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="car" text="car" />
+	</item>
+	<item head="get" original="Get in the car" script="38" slot="1" text="get in" total-slots="14">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="car" text="the car" />
+	</item>
+	<item head="get" original="Get in car" script="39" slot="2" text="get in" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="car" text="car" />
+	</item>
+	<item head="get" original="Get into car" script="40" slot="1" text="get into" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="car" text="car" />
+	</item>
+	<item head="get" original="Get in the car." script="43" slot="4" text="get in" total-slots="14">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="car" text="the car" />
+	</item>
+	<item head="get" original="Get in car" script="45" slot="2" text="get in" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="car" text="car" />
+	</item>
+	<item head="get" original="Get in your car" script="46" slot="2" text="get in" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="car" text="your car" />
+	</item>
+	<item head="get" original="Get in car" script="47" slot="1" text="get in" total-slots="7">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="car" text="car" />
+	</item>
+	<item head="get" original="get in car" script="48" slot="2" text="get in" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="car" text="car" />
+	</item>
+	<item head="get" original="get in car" slot="3" text="get in">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="car" text="car" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="other_turn_car_on">
+	<item head="turn" original="Turn the car on" script="34" slot="2" text="turn" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="car" text="the car" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="go_grocery">
+	<item head="drive" original="drive to grocery store" script="27" slot="2" text="drive to" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="store" text="grocery store" />
+	</item>
+	<item head="drive" original="Drive or walk to the store." script="28" slot="2" text="drive to" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="the store" />
+	</item>
+	<item head="drive" original="Drive to nearest grocery store" script="30" slot="3" text="drive to" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="nearest grocery store" />
+	</item>
+	<item head="go" original="go to the store" script="32" slot="2" text="go to" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="the store" />
+	</item>
+	<item head="drive" original="Drive to store." script="33" slot="3" text="drive to" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="store" />
+	</item>
+	<item head="go" original="Go to the store" script="34" slot="3" text="go to" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="the store" />
+	</item>
+	<item head="go" original="Go to the store." script="35" slot="2" text="go to" total-slots="5">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="the store" />
+	</item>
+	<item head="drive" original="Drive to nearest grocery store." script="36" slot="2" text="drive to" total-slots="7">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="nearest grocery store" />
+	</item>
+	<item head="drive" original="Drive to the grocery store." script="38" slot="2" text="drive to" total-slots="14">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="the grocery store" />
+	</item>
+	<item head="drive" original="Drive to store" script="39" slot="3" text="drive to" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="store" />
+	</item>
+	<item head="drive" original="Drive to grocery store" script="40" slot="2" text="drive to" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="grocery store" />
+	</item>
+	<item head="go" original="Go to the store" script="41" slot="4" text="go to" total-slots="10">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="the store" />
+	</item>
+	<item head="go" original="Go to the grocery store" script="42" slot="2" text="go to" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="the grocery store" />
+	</item>
+	<item head="drive" original="Drive to store and park." script="43" slot="5" text="drive to" total-slots="14">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="store and park" />
+	</item>
+	<item head="drive" original="Drive to grocery store" script="45" slot="3" text="drive to" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="grocery store" />
+	</item>
+	<item head="drive" original="Drive to store" script="46" slot="3" text="drive to" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="store" />
+	</item>
+	<item head="drive" original="Drive to grocery store of choice" script="47" slot="2" text="drive to of" total-slots="7">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="grocery store" />
+		<ptcp head="choice" text="choice" />
+	</item>
+	<item head="drive" original="drive to grocery store" script="48" slot="3" text="drive to" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="grocery store" />
+	</item>
+	<item head="drive" original="drive to the grocery store" script="49" slot="3" text="drive to" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="the grocery store" />
+	</item>
+	<item head="drive" original="drive to store" slot="4" text="drive to">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="store" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="other_park_car">
+	<item head="park" original="Park car" script="30" slot="4" text="park" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="car" text="car" />
+	</item>
+	<item head="get" original="Get out of car and go into grocery store." script="31" slot="2" text="get of into" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="car" text="car" />
+		<ptcp head="store" text="grocery store" />
+	</item>
+	<item head="park" original="Park" script="34" slot="4" text="park" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+	</item>
+	<item head="find" original="Find parking spot" script="40" slot="3" text="find" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="spot" text="parking spot" />
+	</item>
+	<item head="park" original="Park car" script="40" slot="4" text="park" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="car" text="car" />
+	</item>
+	<item head="park" original="Park the car" script="45" slot="4" text="park" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="car" text="the car" />
+	</item>
+	<item head="park" original="Park car" script="47" slot="3" text="park" total-slots="7">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="car" text="car" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="other_get_list">
+	<item head="get" original="Get list" script="40" slot="5" text="get" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="list" text="list" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="enter">
+	<item head="enter" original="Enter grocery store" script="29" slot="1" text="enter" total-slots="15">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="grocery store" />
+	</item>
+	<item head="enter" original="enter grocery store" script="30" slot="5" text="enter" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="grocery store" />
+	</item>
+	<item head="go" original="Go inside" script="34" slot="5" text="go" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+	</item>
+	<item head="enter" original="Enter store." script="37" slot="1" text="enter" total-slots="5">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="store" />
+	</item>
+	<item head="walk" original="Walk in to the store." script="38" slot="3" text="walk to" total-slots="14">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="the store" />
+	</item>
+	<item head="go" original="Go into store and locate items to buy" script="39" slot="4" text="go into" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="store" />
+		<ptcp head="items" text="items" />
+	</item>
+	<item head="enter" original="Enter store" script="40" slot="6" text="enter" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="store" />
+	</item>
+	<item head="go" original="Go inside and pick up items." script="43" slot="7" text="go" total-slots="14">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="items" />
+	</item>
+	<item head="go" original="Go into grocery store" script="44" slot="2" text="go into" total-slots="7">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="grocery store" />
+	</item>
+	<item head="walk" original="Walk into store" script="45" slot="5" text="walk into" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="store" />
+	</item>
+	<item head="enter" original="Enter store" script="46" slot="4" text="enter" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="store" />
+	</item>
+	<item head="walk" original="Walk in store" script="47" slot="4" text="walk in" total-slots="7">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="store" />
+	</item>
+	<item head="enter" original="enter the store" script="48" slot="5" text="enter" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="the store" />
+	</item>
+	<item head="go" original="go into grocery store" script="49" slot="4" text="go into" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="grocery store" />
+	</item>
+	<item head="go" original="go in store" slot="5" text="go in">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="store" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="take_shop_cart">
+	<item head="grab" original="grab a cart" script="27" slot="3" text="grab" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="cart" text="a cart" />
+	</item>
+	<item head="get" original="Get a basket if needed." script="28" slot="3" text="get" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="basket" text="a basket" />
+	</item>
+	<item head="get" original="Get grocery cart" script="29" slot="2" text="get" total-slots="15">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cart" text="grocery cart" />
+	</item>
+	<item head="grab" original="Grab a shopping cart" script="30" slot="6" text="grab" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cart" text="a shopping cart" />
+	</item>
+	<item head="get" original="Get a shopping cart from the front store." script="31" slot="3" text="get from" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cart" text="a shopping cart" />
+		<ptcp head="store" text="the front store" />
+	</item>
+	<item head="take" original="take a shopping cart" script="32" slot="3" text="take" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cart" text="a shopping cart" />
+	</item>
+	<item head="grab" original="Grab cart" script="34" slot="6" text="grab" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cart" text="cart" />
+	</item>
+	<item head="get" original="Get grocery cart." script="37" slot="2" text="get" total-slots="5">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cart" text="grocery cart" />
+	</item>
+	<item head="get" original="Get a cart." script="38" slot="4" text="get" total-slots="14">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cart" text="a cart" />
+	</item>
+	<item head="get" original="Get a cart" script="42" slot="3" text="get" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cart" text="a cart" />
+	</item>
+	<item head="get" original="Get a shopping cart." script="43" slot="6" text="get" total-slots="14">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cart" text="a shopping cart" />
+	</item>
+	<item head="get" original="Get shopping cart" script="44" slot="1" text="get" total-slots="7">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cart" text="shopping cart" />
+	</item>
+	<item head="get" original="Get a shopping cart" script="45" slot="6" text="get" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cart" text="a shopping cart" />
+	</item>
+	<item head="get" original="Get a cart" script="46" slot="5" text="get" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cart" text="a cart" />
+	</item>
+	<item head="grab" original="Grab a grocery cart" script="47" slot="5" text="grab" total-slots="7">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cart" text="a grocery cart" />
+	</item>
+	<item head="get" original="get a cart" script="48" slot="4" text="get" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cart" text="a cart" />
+	</item>
+	<item head="grab" original="grab a cart" script="49" slot="5" text="grab" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cart" text="a cart" />
+	</item>
+	<item head="grab" original="grab shopping cart" slot="6" text="grab">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cart" text="shopping cart" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="other_shop">
+
+</label>
+<label type="PARAPHRASE" event="move_section">
+	<item head="start" original="Start at the non cold side of the store." script="26" slot="2" text="start at of" total-slots="6">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="side" text="the non cold side" />
+		<ptcp head="store" text="the store" />
+	</item>
+	<item head="walk" original="Walk through store and place items you want into cart" script="29" slot="3" text="walk through into" total-slots="15">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="store and place items" />
+		<ptcp head="store" text="store and place" />
+		<ptcp head="you" text="you" />
+		<ptcp head="cart" text="cart" />
+	</item>
+	<item head="go" original="Go down each aisle and put the groceries you would like to purchase in your cart." script="31" slot="4" text="go down in" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="aisle" text="each aisle" />
+		<ptcp head="groceries" text="the groceries" />
+		<ptcp head="you" text="you" />
+		<ptcp head="cart" text="your cart" />
+	</item>
+	<item head="walk" original="walk through the aisles of the store, add items to your cart" script="32" slot="4" text="walk through of to" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="aisles" text="the aisles" />
+		<ptcp head="store" text="the store" />
+		<ptcp head="items" text="items" />
+		<ptcp head="cart" text="your cart" />
+	</item>
+	<item head="push" original="Push cart around store, getting items from list." script="33" slot="5" text="push around from" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cart" text="cart" />
+		<ptcp head="store" text="store" />
+		<ptcp head="items" text="items" />
+		<ptcp head="list" text="list" />
+	</item>
+	<item head="browse" original="Browse the store." script="36" slot="3" text="browse" total-slots="7">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="the store" />
+	</item>
+	<item head="go" original="Go down aisles and retrieve items." script="37" slot="3" text="go" total-slots="5">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="aisles" text="aisles" />
+		<ptcp head="items" text="items" />
+	</item>
+	<item head="go" original="Go aisle by aisle putting the items I want in the cart." script="38" slot="5" text="go by in" total-slots="14">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="aisle" text="aisle" />
+		<ptcp head="aisle" text="aisle" />
+		<ptcp head="items" text="the items" />
+		<ptcp head="cart" text="the cart" />
+	</item>
+	<item head="find" original="Find what aisles you need to go to" script="44" slot="3" text="find to" total-slots="7">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="you" text="you" />
+	</item>
+	<item head="proceed" original="Proceed through the store picking up needed items" script="46" slot="6" text="proceed through" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="the store" />
+		<ptcp head="items" text="needed items" />
+	</item>
+	<item head="walk" original="walk through aisles" script="48" slot="6" text="walk through" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="aisles" text="aisles" />
+	</item>
+	<item head="stroll" original="stroll through store and get needed items" slot="7" text="stroll through">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="store" />
+		<ptcp head="items" text="needed items" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="get_groceries">
+	<item head="get" original="Get the boxed, bagged, jarred food from your list." script="26" slot="3" text="get from" total-slots="6">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="boxed" text="the boxed" />
+		<ptcp head="food" text="food" />
+		<ptcp head="list" text="your list" />
+	</item>
+	<item head="get" original="Get the cold, frozen and produce." script="26" slot="4" text="get" total-slots="6">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cold" text="the cold" />
+	</item>
+	<item head="consult" original="consult list and find products" script="27" slot="4" text="consult" total-slots="10">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="list" text="list" />
+		<ptcp head="products" text="products" />
+	</item>
+	<item head="put" original="put products in your cart" script="27" slot="5" text="put in" total-slots="10">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="products" text="products" />
+		<ptcp head="cart" text="your cart" />
+	</item>
+	<item head="select" original="Select the items on your list, trying to stay on the perimeter of the store." script="28" slot="4" text="select on on of" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="the items" />
+		<ptcp head="list" text="your list" />
+		<ptcp head="perimeter" text="the perimeter" />
+		<ptcp head="store" text="the store" />
+	</item>
+	<item head="find" original="Find groceries" script="30" slot="7" text="find" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="groceries" text="groceries" />
+	</item>
+	<item head="pick" original="Pick up refridgerated and frozen items last." script="33" slot="6" text="pick" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="refridgerated and frozen items" />
+	</item>
+	<item head="find" original="Find groceries" script="34" slot="7" text="find" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="groceries" text="groceries" />
+	</item>
+	<item head="put" original="Put them in the cart" script="34" slot="8" text="put in" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="them" text="them" />
+		<ptcp head="cart" text="the cart" />
+	</item>
+	<item head="gather" original="Gather items from shelves." script="35" slot="3" text="gather from" total-slots="5">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="items" />
+		<ptcp head="shelves" text="shelves" />
+	</item>
+	<item head="put" original="Put items I need in cart." script="36" slot="4" text="put in" total-slots="7">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="items" />
+		<ptcp head="need" text="need in cart" />
+		<ptcp head="cart" text="cart" />
+	</item>
+	<item head="find" original="Find items on list" script="40" slot="7" text="find on" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="items" />
+		<ptcp head="list" text="list" />
+	</item>
+	<item head="get" original="Get what you need from the aisles" script="41" slot="5" text="get from" total-slots="10">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="you" text="you" />
+		<ptcp head="aisles" text="the aisles" />
+	</item>
+	<item head="find" original="Find items from list" script="42" slot="4" text="find from" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="items" />
+		<ptcp head="list" text="list" />
+	</item>
+	<item head="put" original="Put items from list into cart" script="42" slot="5" text="put from into" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="items" />
+		<ptcp head="list" text="list" />
+		<ptcp head="cart" text="cart" />
+	</item>
+	<item head="put" original="Put them in the cart." script="43" slot="8" text="put in" total-slots="14">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="them" text="them" />
+		<ptcp head="cart" text="the cart" />
+	</item>
+	<item head="find" original="Find the food you need and put in cart" script="44" slot="4" text="find in" total-slots="7">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="food" text="the food" />
+		<ptcp head="you" text="you" />
+		<ptcp head="cart" text="cart" />
+	</item>
+	<item head="add" original="Add groceries from list to cart" script="45" slot="7" text="add from to" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="groceries" text="groceries" />
+		<ptcp head="list" text="list" />
+		<ptcp head="cart" text="cart" />
+	</item>
+	<item head="put" original="Put food in cart" script="47" slot="6" text="put in" total-slots="7">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="food" text="food" />
+		<ptcp head="cart" text="cart" />
+	</item>
+	<item head="pick" original="pick up everything from list and put into your cart" script="48" slot="7" text="pick from into" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="everything" text="everything" />
+		<ptcp head="list" text="list" />
+		<ptcp head="cart" text="your cart" />
+	</item>
+	<item head="get" original="get fruits and veggies on list" script="49" slot="6" text="get on" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="fruits" text="fruits and veggies" />
+		<ptcp head="list" text="list" />
+	</item>
+	<item head="get" original="get meat that is on list" script="49" slot="7" text="get on" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="meat" text="meat" />
+		<ptcp head="list" text="list" />
+	</item>
+	<item head="go" original="go through the rest of the store getting everything on list" script="49" slot="8" text="go through of on" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="rest" text="the rest" />
+		<ptcp head="store" text="the store" />
+		<ptcp head="everything" text="everything" />
+		<ptcp head="list" text="list" />
+	</item>
+	<item head="see" original="see a nice cake put it in cart" script="49" slot="9" text="see in" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cake" text="a nice cake" />
+		<ptcp head="it" text="it" />
+		<ptcp head="cart" text="cart" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="UnrelEv">
+	<item head="try" original="Try not to purchase things not on list." script="33" slot="7" text="try on" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="things" text="things" />
+		<ptcp head="list" text="list" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+
+</label>
+<label type="PARAPHRASE" event="check_off">
+
+</label>
+<label type="PARAPHRASE" event="check_list">
+	<item head="check" original="check your list at each aisle to ensure you haven't missed anything" script="32" slot="5" text="check at" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="list" text="your list" />
+		<ptcp head="aisle" text="each aisle to ensure you have n't missed anything" />
+		<ptcp head="you" text="you" />
+		<ptcp head="anything" text="anything" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="other_checkout">
+	<item head="check" original="Check out" script="34" slot="9" text="check" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+	</item>
+	<item head="go" original="Go through a check out line" script="46" slot="7" text="go through out" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="check" text="a check" />
+		<ptcp head="line" text="line" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="go_checkout">
+	<item head="go" original="go to checkout" script="27" slot="6" text="go to" total-slots="10">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="checkout" text="checkout" />
+	</item>
+	<item head="take" original="Take your items to the checkout counter." script="28" slot="5" text="take to" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="your items" />
+		<ptcp head="counter" text="the checkout counter" />
+	</item>
+	<item head="take" original="Take cart to cash register" script="29" slot="4" text="take to" total-slots="15">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cart" text="cart" />
+		<ptcp head="register" text="cash register" />
+	</item>
+	<item head="go" original="Go to cash register" script="30" slot="8" text="go to" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="register" text="cash register" />
+	</item>
+	<item head="finished" original="When you are finished picking out what you want to purchase, go to the check out line." script="31" slot="5" text="finished to" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="you" text="you" />
+		<ptcp head="you" text="you" />
+		<ptcp head="the" text="the" />
+		<ptcp head="line" text="line" />
+	</item>
+	<item head="take" original="take the full cart to the checkout lane" script="32" slot="6" text="take to" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cart" text="the full cart" />
+		<ptcp head="lane" text="the checkout lane" />
+	</item>
+	<item head="bring" original="Bring items to cashier at front of store." script="33" slot="8" text="bring to at of" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="items" />
+		<ptcp head="cashier" text="cashier" />
+		<ptcp head="front" text="front" />
+		<ptcp head="store" text="store" />
+	</item>
+	<item head="go" original="Go to checkout line." script="37" slot="4" text="go to" total-slots="5">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="line" text="checkout line" />
+	</item>
+	<item head="go" original="Go up to the cashier." script="38" slot="6" text="go to" total-slots="14">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cashier" text="the cashier" />
+	</item>
+	<item head="go" original="Go to check out stand and pay for items" script="39" slot="5" text="go for" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="stand" text="stand" />
+		<ptcp head="items" text="items" />
+	</item>
+	<item head="proceed" original="Proceed to checkout" script="40" slot="8" text="proceed to" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="checkout" text="checkout" />
+	</item>
+	<item head="take" original="Take your purchase to the front" script="41" slot="6" text="take to" total-slots="10">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="purchase" text="your purchase" />
+		<ptcp head="front" text="the front" />
+	</item>
+	<item head="take" original="Take cart to checkout line" script="42" slot="6" text="take to" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cart" text="cart" />
+		<ptcp head="line" text="checkout line" />
+	</item>
+	<item head="go" original="Go to the checkout and pay." script="43" slot="9" text="go to" total-slots="14">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="checkout" text="the checkout" />
+	</item>
+	<item head="finding" original="After finding everything you need, go to cashier" script="44" slot="5" text="finding after to" total-slots="7">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="everything" text="everything" />
+		<ptcp head="you" text="you" />
+		<ptcp head="cashier" text="cashier" />
+	</item>
+	<item head="get" original="Get in checkout line" script="45" slot="8" text="get in" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="line" text="checkout line" />
+	</item>
+	<item head="go" original="Go to check out line in front of store" script="47" slot="7" text="go in of" total-slots="7">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="line" text="line" />
+		<ptcp head="front" text="front" />
+		<ptcp head="store" text="store" />
+	</item>
+	<item head="go" original="go to cashier" script="48" slot="8" text="go to" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cashier" text="cashier" />
+	</item>
+	<item head="go" original="go to check out" script="49" slot="10" text="go" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="wait">
+	<item head="wait" original="wait your turn" script="32" slot="7" text="wait" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="turn" text="your turn" />
+	</item>
+	<item head="line" original="Line up to pay." script="36" slot="5" text="line" total-slots="7">
+		<ptcp head="imp_" text="imp_participant" />
+	</item>
+	<item head="wait" original="Wait in line" script="42" slot="7" text="wait in" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="line" text="line" />
+	</item>
+	<item head="wait" original="wait in line at checkout" script="49" slot="11" text="wait in at" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="line" text="line" />
+		<ptcp head="checkout" text="checkout" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="put_conveyor">
+	<item head="remove" original="remove items from cart" script="27" slot="7" text="remove from" total-slots="10">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="items" />
+		<ptcp head="cart" text="cart" />
+	</item>
+	<item head="place" original="Place items onto conveyor belt" script="29" slot="5" text="place onto" total-slots="15">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="items" />
+		<ptcp head="belt" text="conveyor belt" />
+	</item>
+	<item head="put" original="Put all of your groceries on the belt for the cashier to ring up and bag." script="31" slot="6" text="put of on for" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="all" text="all" />
+		<ptcp head="groceries" text="your groceries" />
+		<ptcp head="belt" text="the belt" />
+		<ptcp head="cashier" text="the cashier to ring up" />
+		<ptcp head="bag" text="bag" />
+	</item>
+	<item head="load" original="load items from the cart onto the checkout lane's belt" script="32" slot="8" text="load from onto" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="items" />
+		<ptcp head="cart" text="the cart" />
+		<ptcp head="belt" text="the checkout lane 's belt" />
+		<ptcp head="'s" text="the checkout lane 's" />
+	</item>
+	<item head="put" original="Put items on belt." script="38" slot="7" text="put on" total-slots="14">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="items" />
+		<ptcp head="belt" text="belt" />
+	</item>
+	<item head="place" original="Place items on conveyer belt" script="42" slot="8" text="place on" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="items" />
+		<ptcp head="belt" text="conveyer belt" />
+	</item>
+	<item head="put" original="Put groceries on conveyor belt" script="45" slot="9" text="put on" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="groceries" text="groceries" />
+		<ptcp head="belt" text="conveyor belt" />
+	</item>
+	<item head="put" original="put groceries on belt" script="49" slot="12" text="put on" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="groceries" text="groceries" />
+		<ptcp head="belt" text="belt" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="cashier_scan/weight">
+	<item head="let" original="Let the cashier ring up your items." script="28" slot="6" text="let" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cashier" text="the cashier" />
+		<ptcp head="items" text="your items" />
+	</item>
+	<item head="rings" original="Cashier rings up items" script="29" slot="6" text="rings" total-slots="15">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cashier" text="cashier" />
+		<ptcp head="items" text="items" />
+	</item>
+	<item head="wait" original="Wait for the cashier to ring the order up." script="38" slot="8" text="wait for" total-slots="14">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cashier" text="the cashier" />
+		<ptcp head="order" text="the order" />
+	</item>
+	<item head="watch" original="watch prices as the checker scans." script="49" slot="13" text="watch" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="prices" text="prices" />
+		<ptcp head="checker" text="the checker" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="other_get_total">
+	<item head="gives" original="Cashier gives you total" script="29" slot="7" text="gives" total-slots="15">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cashier" text="cashier" />
+		<ptcp head="you" text="you" />
+		<ptcp head="total" text="total" />
+	</item>
+	<item head="wait" original="Wait for total" script="42" slot="9" text="wait for" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="total" text="total" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="other_get_wallet">
+
+</label>
+<label type="PARAPHRASE" event="other_present_coupons">
+
+</label>
+<label type="PARAPHRASE" event="pay">
+	<item head="pay" original="Pay and check out." script="26" slot="5" text="pay" total-slots="6">
+		<ptcp head="imp_" text="imp_participant" />
+	</item>
+	<item head="pay" original="pay cashier" script="27" slot="8" text="pay" total-slots="10">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cashier" text="cashier" />
+	</item>
+	<item head="pay" original="Pay for your groceries." script="28" slot="7" text="pay for" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="groceries" text="your groceries" />
+	</item>
+	<item head="pay" original="Pay for items with cash or credit" script="29" slot="8" text="pay for with" total-slots="15">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="items" />
+		<ptcp head="cash" text="cash or credit" />
+	</item>
+	<item head="pay" original="Pay for items" script="30" slot="9" text="pay for" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="items" />
+	</item>
+	<item head="pay" original="Pay for your groceries." script="31" slot="7" text="pay for" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="groceries" text="your groceries" />
+	</item>
+	<item head="bagged" original="once all items are bagged, pay the cashier" script="32" slot="10" text="bagged" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="all items" />
+		<ptcp head="cashier" text="the cashier" />
+	</item>
+	<item head="pay" original="Pay for your items." script="33" slot="9" text="pay for" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="your items" />
+	</item>
+	<item head="pay" original="Pay for them at the register." script="35" slot="4" text="pay for at" total-slots="5">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="them" text="them" />
+		<ptcp head="register" text="the register" />
+	</item>
+	<item head="pay" original="Pay for my groceries." script="36" slot="6" text="pay for" total-slots="7">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="groceries" text="my groceries" />
+	</item>
+	<item head="pay" original="Pay for groceries." script="37" slot="5" text="pay for" total-slots="5">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="groceries" text="groceries" />
+	</item>
+	<item head="pay" original="Pay for the groceries." script="38" slot="9" text="pay for" total-slots="14">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="groceries" text="the groceries" />
+	</item>
+	<item head="pay" original="Pay the cashier" script="41" slot="7" text="pay" total-slots="10">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cashier" text="the cashier" />
+	</item>
+	<item head="pay" original="Pay for groceries" script="42" slot="10" text="pay for" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="groceries" text="groceries" />
+	</item>
+	<item head="pay" original="Pay for grocery" script="44" slot="6" text="pay for" total-slots="7">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="grocery" text="grocery" />
+	</item>
+	<item head="pay" original="Pay for groceries" script="45" slot="10" text="pay for" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="groceries" text="groceries" />
+	</item>
+	<item head="pay" original="Pay for groceries" script="46" slot="8" text="pay for" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="groceries" text="groceries" />
+	</item>
+	<item head="pay" original="pay the cashier" script="48" slot="9" text="pay" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cashier" text="the cashier" />
+	</item>
+	<item head="pay" original="pay for groceries" script="49" slot="14" text="pay for" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="'s" text="groceries" />
+	</item>
+	<item head="pay" original="pay for items at check out" slot="8" text="pay for at">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="items" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="pack_groceries">
+	<item head="bag" original="If necessary, bag your items." script="28" slot="8" text="bag" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="your items" />
+	</item>
+	<item head="bagger" original="Bagger places items into bags" script="29" slot="9" text="bagger into" total-slots="15">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="places items" />
+		<ptcp head="bags" text="bags" />
+	</item>
+	<item head="bag" original="bag the groceries" script="41" slot="8" text="bag" total-slots="10">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="groceries" text="the groceries" />
+	</item>
+	<item head="put" original="put groceries in a bag" script="48" slot="10" text="put in" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="groceries" text="groceries" />
+		<ptcp head="bag" text="a bag" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="get_receipt">
+	<item head="get" original="Get receipt" script="42" slot="11" text="get" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="receipt" text="receipt" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="other_take_bags">
+	<item head="pick" original="pick up bags" script="27" slot="9" text="pick" total-slots="10">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="bags" text="bags" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+
+</label>
+<label type="PARAPHRASE" event="other_put_bags_cart">
+	<item head="place" original="Place bags of groceries into cart" script="29" slot="10" text="place of into" total-slots="15">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="bags" text="bags" />
+		<ptcp head="groceries" text="groceries" />
+		<ptcp head="cart" text="cart" />
+	</item>
+	<item head="place" original="as the cashier bags items, place them back into your cart" script="32" slot="9" text="place as into" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="bags" text="the cashier bags" />
+		<ptcp head="items" text="items" />
+		<ptcp head="them" text="them" />
+		<ptcp head="cart" text="your cart" />
+	</item>	
+	<item head="put" original="Put the bagged items in the cart." script="38" slot="10" text="put in" total-slots="14">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="the" text="the" />
+		<ptcp head="items" text="items" />
+		<ptcp head="cart" text="the cart" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="bring_vehicle">
+	<item head="put" original="Put bags in car and go home." script="26" slot="6" text="put in" total-slots="6">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="bags" text="bags" />
+		<ptcp head="car" text="car" />
+		<ptcp head="home" text="home" />
+	</item>
+	<item head="take" original="take bags to car" script="27" slot="10" text="take to" total-slots="10">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="bags" text="bags" />
+		<ptcp head="car" text="car" />
+	</item>
+	<item head="take" original="Take cart to car" script="29" slot="11" text="take to" total-slots="15">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cart" text="cart" />
+		<ptcp head="car" text="car" />
+	</item>
+	<item head="take" original="Take bags out of cart and place into car" script="29" slot="12" text="take out of into" total-slots="15">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="bags" text="bags" />
+		<ptcp head="cart" text="cart and place" />
+		<ptcp head="car" text="car" />
+	</item>
+	<item head="take" original="Take your groceries to your car and place them in the car." script="31" slot="8" text="take to in" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="groceries" text="your groceries" />
+		<ptcp head="car" text="your car" />
+		<ptcp head="them" text="them" />
+		<ptcp head="car" text="the car" />
+	</item>
+	<item head="put" original="Put items into car and drive home." script="33" slot="10" text="put into" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="items" />
+		<ptcp head="car" text="car" />
+		<ptcp head="home" text="home" />
+	</item>
+	<item head="put" original="Put bags in car" script="34" slot="10" text="put in" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="bags" text="bags" />
+		<ptcp head="car" text="car" />
+	</item>
+	<item head="walk" original="Walk out to the car." script="38" slot="11" text="walk to" total-slots="14">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="car" text="the car" />
+	</item>
+	<item head="put" original="Put the items in the car." script="38" slot="12" text="put in" total-slots="14">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="the items" />
+		<ptcp head="car" text="the car" />
+	</item>
+	<item head="put" original="put bought items in car" script="39" slot="6" text="put in" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="bought items" />
+		<ptcp head="car" text="car" />
+	</item>
+	<item head="go" original="Go back to car" script="40" slot="9" text="go to" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="car" text="car" />
+	</item>
+	<item head="load" original="Load groceries in trunk" script="40" slot="10" text="load in" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="groceries" text="groceries" />
+		<ptcp head="trunk" text="trunk" />
+	</item>
+	<item head="go" original="Go back to the car." script="43" slot="10" text="go to" total-slots="14">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="car" text="the car" />
+	</item>
+	<item head="put" original="Put the bags in the car." script="43" slot="11" text="put in" total-slots="14">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="bags" text="the bags" />
+		<ptcp head="car" text="the car" />
+	</item>
+	<item head="unload" original="Unload grocery into your car" script="44" slot="7" text="unload into" total-slots="7">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="grocery" text="grocery" />
+		<ptcp head="car" text="your car" />
+	</item>
+	<item head="push" original="Push cart back to car" script="45" slot="11" text="push to" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cart" text="cart" />
+		<ptcp head="car" text="car" />
+	</item>
+	<item head="put" original="Put groceries in trunk" script="45" slot="12" text="put in" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="groceries" text="groceries" />
+		<ptcp head="trunk" text="trunk" />
+	</item>
+	<item head="push" original="Push cart to your car" script="46" slot="9" text="push to" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cart" text="cart" />
+		<ptcp head="car" text="your car" />
+	</item>
+	<item head="put" original="Put groceries in your trunk" script="46" slot="10" text="put in" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="groceries" text="groceries" />
+		<ptcp head="trunk" text="your trunk" />
+	</item>
+	<item head="take" original="take bags to your car" script="48" slot="11" text="take to" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="bags" text="bags" />
+		<ptcp head="car" text="your car" />
+	</item>
+	<item head="walk" original="walk out of store" script="49" slot="15" text="walk out of" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="store" />
+	</item>
+	<item head="put" original="put groceries in car." script="49" slot="16" text="put in" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="groceries" text="groceries" />
+		<ptcp head="car" text="car" />
+	</item>
+	<item head="take" original="take groceries to car" slot="9" text="take to">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="groceries" text="groceries" />
+		<ptcp head="car" text="car" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="other_place_cart_into_cart_corral">
+	<item head="place" original="Place cart into cart corral" script="29" slot="13" text="place into" total-slots="15">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cart" text="cart" />
+		<ptcp head="cart" text="cart" />
+	</item>
+	<item head="return" original="Return cart to store" script="45" slot="13" text="return to" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="cart" text="cart" />
+		<ptcp head="store" text="store" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="other_get_in_car">
+	<item head="get" original="Get in car" script="29" slot="14" text="get in" total-slots="15">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="car" text="car" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="leave">
+	<item head="leave" original="Leave the store." script="28" slot="9" text="leave" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="the store" />
+	</item>
+	<item head="leave" original="Leave grocery store" script="29" slot="15" text="leave" total-slots="15">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="grocery store" />
+	</item>
+	<item head="drive" original="Drive home." script="31" slot="9" text="drive" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="home" text="home" />
+	</item>
+	<item head="take" original="take items home in bags" script="32" slot="11" text="take in" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="items" />
+		<ptcp head="home" text="home" />
+		<ptcp head="bags" text="bags" />
+	</item>
+	<item head="go" original="Go home" script="34" slot="11" text="go" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="home" text="home" />
+	</item>
+	<item head="take" original="Take groceries home." script="35" slot="5" text="take" total-slots="5">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="groceries" text="groceries" />
+		<ptcp head="home" text="home" />
+	</item>
+	<item head="drive" original="Drive home." script="36" slot="7" text="drive" total-slots="7">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="home" text="home" />
+	</item>
+	<item head="drive" original="Drive home." script="38" slot="13" text="drive" total-slots="14">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="home" text="home" />
+	</item>
+	<item head="drive" original="Drive home" script="39" slot="7" text="drive" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="home" text="home" />
+	</item>
+	<item head="drive" original="Drive back home" script="40" slot="11" text="drive" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="home" text="home" />
+	</item>
+	<item head="go" original="Go home" script="41" slot="9" text="go" total-slots="10">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="home" text="home" />
+	</item>
+	<item head="leave" original="Leave grocery store" script="42" slot="12" text="leave" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="store" text="grocery store" />
+	</item>
+	<item head="drive" original="Drive home." script="43" slot="12" text="drive" total-slots="14">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="home" text="home" />
+	</item>
+	<item head="drive" original="Drive home" script="45" slot="14" text="drive" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="home" text="home" />
+	</item>
+	<item head="drive" original="Drive home" script="46" slot="11" text="drive" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="home" text="home" />
+	</item>
+	<item head="drive" original="drive items home" slot="10" text="drive">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="items" />
+		<ptcp head="home" text="home" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="UnrelEv">
+	<item head="put" original="put items away" script="32" slot="12" text="put" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="items" />
+	</item>
+	<item head="put" original="Put items away at home." script="33" slot="11" text="put at" total-slots="11">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="items" />
+		<ptcp head="home" text="home" />
+	</item>
+	<item head="put" original="Put the groceries away." script="38" slot="14" text="put" total-slots="14">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="groceries" text="the groceries" />
+	</item>
+	<item head="take" original="take grocery items into house" script="39" slot="8" text="take into" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="8" text="8 ." />
+		<ptcp head="items" text="grocery items" />
+		<ptcp head="house" text="house" />
+	</item>
+	<item head="put" original="put groceries away" script="39" slot="9" text="put" total-slots="9">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="9" text="9 ." />
+		<ptcp head="groceries" text="groceries" />
+	</item>
+	<item head="put" original="Put groceries away" script="41" slot="10" text="put" total-slots="10">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="groceries" text="groceries" />
+	</item>
+	<item head="take" original="Take the purchases in the house." script="43" slot="13" text="take in" total-slots="14">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="purchases" text="the purchases" />
+		<ptcp head="house" text="the house" />
+	</item>
+	<item head="put" original="Put the purchases away." script="43" slot="14" text="put" total-slots="14">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="purchases" text="the purchases" />
+	</item>
+	<item head="bring" original="Bring groceries in the house" script="45" slot="15" text="bring in" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="groceries" text="groceries" />
+		<ptcp head="house" text="the house" />
+	</item>
+	<item head="put" original="Put groceries away" script="45" slot="16" text="put" total-slots="16">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="groceries" text="groceries" />
+	</item>
+	<item head="put" original="Put groceries away" script="46" slot="12" text="put" total-slots="12">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="groceries" text="groceries" />
+	</item>
+	<item head="put" original="put items away" slot="11" text="put">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="items" />
+	</item>
+</label>
+<label type="PARAPHRASE" event="UnrelEv">
+	<item head="enjoy" original="enjoy items" slot="12" text="enjoy">
+		<ptcp head="imp_" text="imp_participant" />
+		<ptcp head="items" text="items" />
+	</item>
+</label>
+	
+
+</scripts>

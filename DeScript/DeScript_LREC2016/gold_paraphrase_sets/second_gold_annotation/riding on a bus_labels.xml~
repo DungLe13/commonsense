@@ -1,0 +1,807 @@
+<scripts>
+<label type="PARAPHRASE" event="other_decide">
+<item head="choose" original="choose the route you want to take" script="23" slot="1" text="choose" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="route" text="the route" />
+			<ptcp head="you" text="you" />
+		</item>
+
+</label>
+
+<label type="PARAPHRASE" event="check_time-table">
+<item head="check" original="Check to bus schedule to see when the bus is running." script="19" slot="1" text="check to" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="schedule" text="bus schedule" />
+			<ptcp head="bus" text="the bus" />
+		</item>
+<item head="find" original="Find bus schedule information" script="20" slot="1" text="find" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="information" text="bus schedule information" />
+		</item>
+<item head="look" original="Look at bus schedule." script="28" slot="1" text="look at" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="schedule" text="bus schedule" />
+		</item>
+<item head="decide" original="Decide what time you need to arrive at bus stop." script="28" slot="2" text="decide at" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="you" text="you" />
+			<ptcp head="stop" text="bus stop" />
+		</item>
+<item head="check" original="Check bus schedule" script="30" slot="1" text="check" total-slots="7">
+		    
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="schedule" text="bus schedule" />
+		</item>
+<item head="check" original="check the schedule" script="38" slot="2" text="check" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="schedule" text="the schedule" />
+		</item>
+
+</label>
+
+<label type="PARAPHRASE" event="get_bus_stop">
+<item head="go" original="go to the nearest bus stop" script="14" slot="2" text="go to" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="the nearest bus stop" />
+		</item>
+<item head="go" original="Go to bus stop." script="15" slot="2" text="go to" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="bus stop" />
+		</item>
+<item head="arrive" original="Arrive at bus stop prior to bus's arrival." script="18" slot="1" text="arrive at to" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="bus stop" />
+			<ptcp head="arrival" text="bus 's arrival" />
+			<ptcp head="'s" text="bus 's" />
+		</item>
+<item head="walk" original="Walk to the bus stop." script="19" slot="2" text="walk to" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="the bus stop" />
+		</item>
+<item head="go" original="Go to the bus station" script="20" slot="2" text="go to" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="station" text="the bus station" />
+		</item>
+<item head="go" original="Go to bus station" script="22" slot="2" text="go to" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="station" text="bus station" />
+		</item>
+<item head="find" original="find the bus stop" script="23" slot="2" text="find" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="the bus stop" />
+		</item>
+<item head="go" original="Go to bus stop" script="25" slot="1" text="go to" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="bus stop" />
+		</item>
+<item head="find" original="find the nearest bus stop" script="27" slot="1" text="find" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="the nearest bus stop" />
+		</item>
+<item head="get" original="Get to bus stop early and wait for bus." script="28" slot="3" text="get to for" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="bus stop" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="walk" original="Walk to the bus stop" script="29" slot="1" text="walk to" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="the bus stop" />
+		</item>
+<item head="walk" original="Walk to the bus stop" script="31" slot="4" text="walk to" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="the bus stop" />
+		</item>
+<item head="walk" original="walk to bus stop" script="32" slot="1" text="walk to" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="bus stop" />
+		</item>
+<item head="go" original="go to bus stop" script="33" slot="1" text="go to" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="bus stop" />
+		</item>
+<item head="walk" original="Walk to bus stop" script="34" slot="1" text="walk to" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="bus stop" />
+		</item>
+<item head="go" original="Go to bus stop" script="35" slot="1" text="go to" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="bus stop" />
+		</item>
+<item head="go" original="go to the bus stop" script="38" slot="1" text="go to" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="the bus stop" />
+		</item>
+<item head="head" original="Head to the bus stop" script="39" slot="1" text="head to" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="the bus stop" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="wait">
+<item head="wait" original="wait for the bus" script="14" slot="3" text="wait for" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="the bus" />
+		</item>
+<item head="wait" original="Wait at bus stop" script="16" slot="1" text="wait at" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="bus stop" />
+		</item>
+<item head="wait" original="Wait at bus stop" script="17" slot="1" text="wait at" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="bus stop" />
+		</item>
+<item head="wait" original="Wait for bus to arrive." script="18" slot="2" text="wait for" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="wait" original="Wait for bus at bus stop" script="21" slot="1" text="wait for at" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+			<ptcp head="stop" text="bus stop" />
+		</item>
+<item head="wait" original="Wait for bus" script="22" slot="3" text="wait for" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="wait" original="wait for the bus" script="23" slot="3" text="wait for" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="the bus" />
+		</item>
+<item head="wait" original="Wait at bus stop" script="24" slot="1" text="wait at" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="bus stop" />
+		</item>
+<item head="wait" original="Wait for bus to arrive" script="25" slot="2" text="wait for" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="wait" original="wait there for the bus to arrive" script="27" slot="2" text="wait for" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="the bus to arrive" />
+		</item>
+<item head="wait" original="Wait for the bus" script="29" slot="2" text="wait for" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="the bus" />
+		</item>
+<item head="wait" original="wait at bus stop" script="30" slot="2" text="wait at" total-slots="7">
+		    
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="bus stop" />
+		</item>
+<item head="wait" original="Wait for the bus" script="31" slot="5" text="wait for" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="the bus" />
+		</item>
+<item head="wait" original="wait for bus to arrive" script="32" slot="2" text="wait for" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="wait" original="wait for bus" script="33" slot="2" text="wait for" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="wait" original="Wait for bus" script="34" slot="2" text="wait for" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="wait" original="Wait for bus" script="35" slot="2" text="wait for" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="wait" original="Wait at your bus stop" script="37" slot="1" text="wait at" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="your bus stop" />
+		</item>
+<item head="wait" original="wait" script="38" slot="4" text="wait" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="wait" original="Wait on the bench until the bus arrives" script="39" slot="2" text="wait on" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bench" text="the bench" />
+			<ptcp head="bus" text="the bus" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item head="make" original="Make sure that you have your bus fair ready." script="19" slot="3" text="make" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="you" text="you" />
+			<ptcp head="bus" text="your bus" />
+		</item>
+<item head="make" original="make sure you have exact change for fare" script="23" slot="4" text="make for" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="you" text="you" />
+			<ptcp head="change" text="exact change for fare" />
+			<ptcp head="fare" text="fare" />
+		</item>
+<item head="have" original="have your ticket or change ready" script="32" slot="3" text="have" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="ticket" text="your ticket or change" />
+		</item>
+<item head="prepare" original="prepare the fare" script="38" slot="3" text="prepare" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="fare" text="the fare" />
+		</item>
+
+</label>
+
+<label type="PARAPHRASE" event="bus_comes">
+<item head="arrives" original="Bus arrives" script="17" slot="2" text="arrives" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="arrives" original="Bus arrives" script="24" slot="2" text="arrives" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="other_driver_opens_door">
+<item head="comes" original="When bus comes wait for doors to open" script="16" slot="2" text="comes for" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+			<ptcp head="doors" text="doors" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="board_bus">
+<item head="arrives" original="when it arrives get on" script="14" slot="4" text="arrives" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="it" text="it" />
+		</item>
+<item head="arrives" original="When bus arrives, step on board." script="15" slot="3" text="arrives on" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+			<ptcp head="board" text="board" />
+		</item>
+<item head="go" original="Go through doors and up the steps" script="16" slot="4" text="go through" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="doors" text="doors" />
+			<ptcp head="steps" text="up the steps" />
+		</item>
+<item head="get" original="Get on bus" script="17" slot="3" text="get on" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="board" original="Board bus." script="18" slot="3" text="board" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="get" original="Get onto the bus when it reaches the stop." script="19" slot="4" text="get onto" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="the bus" />
+			<ptcp head="it" text="it" />
+			<ptcp head="stop" text="the stop" />
+		</item>
+<item head="board" original="Board the bus" script="20" slot="4" text="board" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="the bus" />
+		</item>
+<item head="get" original="Get on bus" script="21" slot="2" text="get on" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="enter" original="Enter bus" script="22" slot="4" text="enter" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="board" original="board bus" script="23" slot="5" text="bus" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="board bus" />
+		</item>
+<item head="get" original="Get on bus" script="24" slot="3" text="get on" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="get" original="Get on bus" script="25" slot="3" text="get on" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="walk" original="Walk up the steps of the bus" script="29" slot="3" text="walk of" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="steps" text="the steps" />
+			<ptcp head="bus" text="the bus" />
+		</item>
+<item head="get" original="Get on the bus" script="31" slot="6" text="get on" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="the bus" />
+		</item>
+<item head="get" original="get on bus" script="32" slot="4" text="get on" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="get" original="get in bus" script="33" slot="3" text="get in" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="get" original="Get on bus" script="34" slot="3" text="get on" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="get" original="Get on bus" script="35" slot="3" text="get on" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="enter" original="Enter bus." script="36" slot="1" text="enter" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="board" original="Board the bus when it arrives" script="37" slot="2" text="board" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="the bus" />
+			<ptcp head="it" text="it" />
+		</item>
+<item head="get" original="get on the bus" script="38" slot="5" text="get on" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="the bus" />
+		</item>
+<item head="comes" original="When the bus comes enter the bus" script="39" slot="3" text="comes" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="the bus" />
+			<ptcp head="bus" text="the bus" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item head="tell" original="tell the driver where you are going" script="14" slot="5" text="tell" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="driver" text="the driver" />
+			<ptcp head="you" text="you" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="get_ticket">
+<item head="pay" original="pay the driver" script="14" slot="6" text="pay" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="driver" text="the driver" />
+		</item>
+<item head="drop" original="Drop change into money machine." script="15" slot="4" text="drop into" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="change" text="change" />
+			<ptcp head="machine" text="money machine" />
+		</item>
+<item head="pay" original="Pay the toll" script="16" slot="3" text="pay" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="toll" text="the toll" />
+		</item>
+<item head="retrieve" original="Retrieve ticket from machine" script="17" slot="4" text="retrieve from" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="ticket" text="ticket" />
+			<ptcp head="machine" text="machine" />
+		</item>
+<item head="pay" original="Pay the fare." script="19" slot="5" text="pay" total-slots="7">
+		    
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="fare" text="the fare" />
+		</item>
+<item head="pay" original="Pay for fare" script="20" slot="3" text="pay for" total-slots="6">
+		    
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="give" original="Give money" script="21" slot="3" text="give" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="money" text="money" />
+		</item>
+<item head="buy" original="Buy bus ticket" script="22" slot="1" text="buy" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="ticket" text="bus ticket" />
+		</item>
+<item head="give" original="give your fare to the bus driver" script="23" slot="6" text="give to" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="fare" text="your fare" />
+			<ptcp head="driver" text="the bus driver" />
+		</item>
+<item head="receive" original="receive ticket" script="23" slot="7" text="receive" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="ticket" text="ticket" />
+		</item>
+<item head="pay" original="Pay bus fare" script="24" slot="4" text="pay" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="fare" text="bus fare" />
+		</item>
+<item head="pay" original="Pay fee" script="25" slot="4" text="pay" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="fee" text="fee" />
+		</item>
+<item head="pay" original="while boarding, pay the driver the required fee or show a pass" script="27" slot="3" text="pay" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="driver" text="the driver" />
+			<ptcp head="fee" text="the required fee" />
+			<ptcp head="pass" text="a pass" />
+		</item>
+<item head="pay" original="Pay fare when boarding bus." script="28" slot="4" text="pay" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="fare" text="fare" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="pay" original="Pay the fare" script="29" slot="4" text="pay" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="fare" text="the fare" />
+		</item>
+<item head="buy" original="Buy bus pass on buss" script="30" slot="3" text="buy on" total-slots="7">
+		    
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="pay" original="pay bus fare" script="33" slot="4" text="pay" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="fare" text="bus fare" />
+		</item>
+<item head="pay" original="Pay fare" script="35" slot="4" text="pay" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="fare" text="fare" />
+		</item>
+<item head="place" original="Place change in receptor." script="36" slot="2" text="place in" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="change" text="change in receptor" />
+			<ptcp head="receptor" text="receptor" />
+		</item>
+<item head="pay" original="Pay the fare to ride the bus" script="37" slot="3" text="pay" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="fare" text="the fare to ride the bus" />
+			<ptcp head="bus" text="the bus" />
+		</item>
+<item head="pay" original="pay the fare" script="38" slot="6" text="pay" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="fare" text="the fare" />
+		</item>
+<item head="pay" original="Pay the bus driver" script="39" slot="4" text="pay" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="driver" text="the bus driver" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="find_place">
+<item head="sit" original="sit down" script="14" slot="7" text="sit" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="find" original="Find empty seat to sit in." script="15" slot="5" text="find" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="empty seat to sit in" />
+		</item>
+<item head="walk" original="Walk down center of bus to find a seat" script="16" slot="5" text="walk of" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="center" text="center of bus to find a seat" />
+			<ptcp head="bus" text="bus to find a seat" />
+			<ptcp head="seat" text="a seat" />
+		</item>
+<item head="sit" original="Sit in seat" script="16" slot="6" text="sit in" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="seat" />
+		</item>
+<item head="find" original="Find a seat" script="17" slot="5" text="find" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="a seat" />
+		</item>
+<item head="find" original="Find a seat if available or stand if necessary." script="18" slot="4" text="find" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="a seat" />
+		</item>
+<item head="find" original="Find a vacant seat (if possible)." script="19" slot="6" text="find" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="a vacant seat" />
+		</item>
+<item head="take" original="Take a seat in the bus" script="20" slot="5" text="take in" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="a seat" />
+			<ptcp head="bus" text="the bus" />
+		</item>
+<item head="sit" original="Sit or stand to location" script="21" slot="4" text="sit to" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="location" text="location" />
+		</item>
+<item head="find" original="Find a seat" script="24" slot="5" text="find" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="a seat" />
+		</item>
+<item head="choose" original="choose a seat" script="27" slot="4" text="choose" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="a seat" />
+		</item>
+<item head="sit" original="Sit down and wait for your desired stop." script="28" slot="5" text="sit for" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="your desired stop" />
+		</item>
+<item head="find" original="Find a seat" script="29" slot="5" text="find" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="a seat" />
+		</item>
+<item head="sit" original="Sit down" script="29" slot="6" text="sit" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="find" original="Find a empty seat" script="30" slot="4" text="find" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="a empty seat" />
+		</item>
+<item head="sit" original="Sit down" script="31" slot="7" text="sit" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="find" original="find a seat or stand" script="32" slot="5" text="find" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="a seat or stand" />
+		</item>
+<item head="sit" original="sit in bus" script="33" slot="5" text="sit in" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="find" original="Find a seat" script="35" slot="5" text="find" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="a seat" />
+		</item>
+<item head="find" original="Find a seat." script="36" slot="3" text="find" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="a seat" />
+		</item>
+<item head="sit" original="Sit down." script="36" slot="4" text="sit" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="sit" original="sit down" script="38" slot="7" text="sit" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="find" original="Find a seat on the bus" script="39" slot="5" text="find on" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="a seat" />
+			<ptcp head="bus" text="the bus" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="press_stop_button">
+<item head="approaches" original="When your stop approaches, pull cord." script="15" slot="7" text="approaches" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="your stop" />
+			<ptcp head="cord" text="cord" />
+		</item>
+<item head="press" original="Press stop button" script="17" slot="7" text="press" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="button" text="stop button" />
+		</item>
+<item head="alert" original="alert the driver your stop is coming" script="23" slot="9" text="alert" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="driver" text="the driver" />
+			<ptcp head="stop" text="your stop" />
+		</item>
+<item head="ring" original="Ring the bell when you see your destination" script="29" slot="8" text="ring" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bell" text="the bell" />
+			<ptcp head="you" text="you" />
+			<ptcp head="destination" text="your destination" />
+		</item>
+<item head="signal" original="signal for a stop where i want to get off" script="30" slot="6" text="signal for" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="a stop" />
+			<ptcp head="i" text="i" />
+		</item>
+<item head="pull" original="Pull the cord alerting the driver to stop" script="37" slot="5" text="pull" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="cord" text="the cord" />
+			<ptcp head="driver" text="the driver" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="ride">
+<item head="wait" original="Wait for bus stop destination" script="17" slot="6" text="wait for" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="destination" text="bus stop destination" />
+			<ptcp head="stop" text="bus stop" />
+		</item>
+<item head="wait" original="Wait for your stop." script="18" slot="5" text="wait for" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="your stop" />
+		</item>
+<item head="ride" original="Ride on the bus" script="20" slot="6" text="ride on" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="the bus" />
+		</item>
+<item head="wait" original="Wait for stop" script="21" slot="5" text="wait for" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="stop" />
+		</item>
+<item head="wait" original="Wait for correct stop" script="22" slot="5" text="wait for" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="correct stop" />
+		</item>
+<item head="leaves" original="Bus leaves" script="24" slot="6" text="leaves" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="wait" original="Wait to get to destination" script="25" slot="5" text="wait to" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="destination" text="destination" />
+		</item>
+<item head="sit" original="sit patiently until the bus reaches your destination bus stop" script="27" slot="5" text="sit" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="the bus" />
+			<ptcp head="stop" text="your destination bus stop" />
+		</item>
+<item head="wait" original="Wait for your stop" script="29" slot="7" text="wait for" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="your stop" />
+		</item>
+<item head="wait" original="wait till my stop is approaching" script="30" slot="5" text="wait" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="my stop" />
+		</item>
+<item head="ride" original="Ride to desired destination" script="34" slot="4" text="ride to" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="destination" text="desired destination" />
+		</item>
+<item head="wait" original="Wait for destination" script="35" slot="6" text="wait for" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="destination" text="destination" />
+		</item>
+<item head="wait" original="Wait for your stop." script="36" slot="5" text="wait for" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="your stop" />
+		</item>
+<item head="sit" original="Sit in a seat until you see your destination" script="37" slot="4" text="sit in" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="seat" text="a seat" />
+			<ptcp head="you" text="you" />
+			<ptcp head="destination" text="your destination" />
+		</item>
+<item head="wait" original="wait for my stop" script="38" slot="8" text="wait for" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="my stop" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="spend_time_bus">
+<item head="stops" original="Watch stops out window." script="15" slot="6" text="stops out" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="watch" text="watch" />
+			<ptcp head="window" text="window" />
+		</item>
+<item head="pay" original="pay attention for your stop" script="23" slot="8" text="pay for" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="attention" text="attention" />
+			<ptcp head="stop" text="your stop" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="go_exit">
+<item head="stand" original="Stand, exit bus." script="15" slot="8" text="stand" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="stand" original="stand up and depart the bus" script="27" slot="6" text="stand" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="the bus" />
+		</item>
+<item head="comes" original="When your stop comes get up and exit the bus" script="39" slot="6" text="comes" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="your stop" />
+			<ptcp head="bus" text="the bus" />
+		</item>
+
+</label>
+
+<label type="PARAPHRASE" event="bus_stops">
+<item head="stops" original="Bus stops at your destination" script="24" slot="7" text="stops at" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+			<ptcp head="destination" text="your destination" />
+		</item>
+<item head="arrive" original="arrive destination" script="33" slot="6" text="arrive" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="destination" text="destination" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="other_thank">
+<item head="thank" original="thank the driver, possibly tip" script="27" slot="7" text="thank" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="driver" text="the driver" />
+			<ptcp head="tip" text="tip" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="get_off">
+<item head="exit" original="exit bus when arrive" script="14" slot="8" text="exit" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="arrive" original="Once you arrive at destination, get off the bus" script="16" slot="7" text="arrive at" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="you" text="you" />
+			<ptcp head="destination" text="destination" />
+			<ptcp head="bus" text="the bus" />
+		</item>
+<item head="get" original="Get off bus" script="17" slot="8" text="get" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="get" original="Get off bus when doors open." script="18" slot="6" text="get" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+			<ptcp head="doors" text="doors" />
+		</item>
+<item head="exit" original="Exit the bus at your desired location." script="19" slot="7" text="exit at" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="the bus" />
+			<ptcp head="location" text="your desired location" />
+		</item>
+<item head="get" original="Get off bus" script="21" slot="6" text="get" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="leave" original="Leave bus" script="22" slot="6" text="leave" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="get" original="get off at stop." script="23" slot="10" text="get at" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="stop" text="stop" />
+		</item>
+<item head="get" original="Get off bus" script="24" slot="8" text="get" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="get" original="Get off bus" script="25" slot="6" text="get" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="exit" original="Exit bus at your destination." script="28" slot="6" text="exit at" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+			<ptcp head="destination" text="your destination" />
+		</item>
+<item head="get" original="Get off the bus" script="29" slot="9" text="get" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="the bus" />
+		</item>
+<item head="get" original="Get off the bus" script="30" slot="7" text="get" total-slots="7">
+		    
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="the bus" />
+		</item>
+<item head="get" original="get off" script="33" slot="7" text="get" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="get" original="Get off bus" script="34" slot="5" text="get" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="get" original="Get off bus" script="35" slot="7" text="get" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="exit" original="Exit bus." script="36" slot="6" text="exit" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bus" text="bus" />
+		</item>
+<item head="exit" original="Exit at your destination when the bus stops" script="37" slot="6" text="exit at" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="destination" text="your destination" />
+			<ptcp head="bus" text="the bus" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="UnRelEv">
+<item head="get" original="Get dressed" script="14" slot="1" text="get" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="get" original="Get dressed" script="31" slot="1" text="get" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="UnRelEv">
+<item head="grab" original="Grab purse, jacket, and other items needed for the day." script="15" slot="1" text="grab for" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="purse" text="purse" />
+			<ptcp head="jacket" text="jacket" />
+			<ptcp head="items" text="other items" />
+			<ptcp head="day" text="the day" />
+		</item>
+<item head="get" original="Get my wallet" script="31" slot="2" text="get" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="wallet" text="my wallet" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="UnRelEv">
+<item head="go" original="Go outside" script="31" slot="3" text="go" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+</label>
+</scripts>

@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<data>
+  <instance id="0">
+    <text>I went into my bedroom and flipped the light switch. Oh, I see that the ceiling lamp is not turning on. It must be that the light bulb needs replacement. I go through my closet and find a new light bulb that will fit this lamp and place it in my pocket. I also get my stepladder and place it under the lamp. I make sure the light switch is in the off position. I climb up the ladder and unscrew the old light bulb. I place the old bulb in my pocket and take out the new one. I then screw in the new bulb. I climb down the stepladder and place it back into the closet. I then throw out the old bulb into the recycling bin. I go back to my bedroom and turn on the light switch. I am happy to see that there is again light in my room.</text>
+    <questions>
+      <question id="0" text="Which room did the light go out in?">
+        <answer correct="False" id="0" text="Kitchen."/>
+        <answer correct="True" id="1" text="Bedroom."/>
+      </question>
+      <question id="1" text="How did they reach the light bulb socket in the ceiling?">
+        <answer correct="False" id="0" text="standing on a bucket"/>
+        <answer correct="True" id="1" text="They used a stepladder"/>
+      </question>
+      <question id="2" text="How did they reach the light fixture to change the light bulb?">
+        <answer correct="False" id="0" text="a chair"/>
+        <answer correct="True" id="1" text="They got the stepladder"/>
+      </question>
+      <question id="3" text="Where was the light bulb that needed to be replaced?">
+        <answer correct="True" id="0" text="Ceiling lamp"/>
+        <answer correct="False" id="1" text="A bedside lamp"/>
+      </question>
+      <question id="4" text="Why did they have to change the old light bulb?">
+        <answer correct="False" id="0" text="It shattered"/>
+        <answer correct="True" id="1" text="Worn"/>
+      </question>
+      <question id="5" text="How did they screw in the new light bulb?">
+        <answer correct="False" id="0" text="the pushed it in place."/>
+        <answer correct="True" id="1" text="By hand"/>
+      </question>
+      <question id="6" text="Was the light bulb still hot?">
+        <answer correct="False" id="0" text="yes"/>
+        <answer correct="True" id="1" text="No."/>
+      </question>
+      <question id="7" text="Was the light bulb in a lamp or ceiling?">
+        <answer correct="True" id="0" text="A lamp"/>
+        <answer correct="False" id="1" text="The ceiling"/>
+      </question>
+      <question id="8" text="Did they get help from someone?">
+        <answer correct="False" id="0" text="yes"/>
+        <answer correct="True" id="1" text="no"/>
+      </question>
+    </questions>
+  </instance>
+  <instance id="1">
+    <text>The weather was so nice today that I decided to have a barbecue. I called up some of my friends to invite them over. I set up some chairs and tables outside for my friends to sit around. I then took out some hot dogs from my fridge and brought them over to my barbecue. My barbecue is a gas barbecue, so all I had to do was press the knob and turn it to ignite it. Once I got a little fire going I put my hot dogs on the grill over it to cook. I closed the lid and left my hot dogs to cook for about ten minutes. After ten minutes I decided to check on them to see if they were done. They looked like they were cooked, so I put them all on a plate to serve to my friends. I went to my kitchen and got hot dog buns, ketchup, mustard, and relish to serve on top of the hot dogs. I laid out all of the food and condiments on the table so my friends could help themselves. We ate the hot dogs and relaxed around the table.</text>
+    <questions>
+      <question id="0" text="Who is invited to the barbecue?">
+        <answer correct="False" id="0" text="co workers"/>
+        <answer correct="True" id="1" text="their friends"/>
+      </question>
+      <question id="1" text="Do people need to bring extra cups for the barbecue?">
+        <answer correct="False" id="0" text="yes"/>
+        <answer correct="True" id="1" text="no all was provided"/>
+      </question>
+      <question id="2" text="Who was invited to the BBQ?">
+        <answer correct="False" id="0" text="their  family"/>
+        <answer correct="True" id="1" text="their friends"/>
+      </question>
+      <question id="3" text="Who was the host of the barbecue?">
+        <answer correct="True" id="0" text="the author"/>
+        <answer correct="False" id="1" text="the neighbor"/>
+      </question>
+      <question id="4" text="How long did it take to put out the grill fire?">
+        <answer correct="True" id="0" text="Not long"/>
+        <answer correct="False" id="1" text="hours"/>
+      </question>
+      <question id="5" text="Who was at the barbecue?">
+        <answer correct="True" id="0" text="speaker and friends"/>
+        <answer correct="False" id="1" text="Spouse and their family"/>
+      </question>
+      <question id="6" text="what's the price to get into the BBQ?">
+        <answer correct="True" id="0" text="free"/>
+        <answer correct="False" id="1" text="Five dollars"/>
+      </question>
+      <question id="7" text="where is the barbecue going to be at?">
+        <answer correct="False" id="0" text="at a park"/>
+        <answer correct="True" id="1" text="speakers house"/>
+      </question>
+      <question id="8" text="Why are we having the barbecue, to celebrate an occasion, or just because we want to?">
+        <answer correct="True" id="0" text="just because they want to"/>
+        <answer correct="False" id="1" text="for a holiday"/>
+      </question>
+    </questions>
+  </instance>
+  <instance id="2">
+    <text>On Sunday mornings, our paper boy usually has the paper delivered by 7 AM.  He rides his bike through the neighborhood and tosses the papers on everyone's yards before most anyone gets up.  When I wake up on Sunday mornings, I put on my robe and put on my slippers.  I walk down the stairs and go to the door.  I unlock it and go outside to look for my paper.  I walk down the steps and I see it on the lawn, carefully wrapped in plastic, protecting it from the weather.  I grab the paper and pull it out of the plastic as I walk back up the steps and go back into my house.  I throw away the plastic and sit at the table while my coffee brews.  I scan over the paper looking at the different articles, focusing on one in particular about a local political debate.</text>
+    <questions>
+      <question id="0" text="Did they have to leave the house?">
+        <answer correct="True" id="0" text="Yes, they had to walk out to the yard."/>
+        <answer correct="False" id="1" text="No, the paper boy puts in between the screen and inner doors."/>
+      </question>
+      <question id="1" text="What were they drinking while reading?">
+        <answer correct="False" id="0" text="milk"/>
+        <answer correct="True" id="1" text="Coffee"/>
+      </question>
+      <question id="2" text="When was the paper delivered?">
+        <answer correct="False" id="0" text="in the evening"/>
+        <answer correct="True" id="1" text="in the morning by 7 a.m."/>
+      </question>
+      <question id="3" text="When is the newspaper delivered?">
+        <answer correct="True" id="0" text="by 7 a.m."/>
+        <answer correct="False" id="1" text="Sunday noon"/>
+      </question>
+    </questions>
+  </instance>
+  <instance id="3">
+    <text>Last time I had to paint a wall was when I bought a new house. Although the house was new to me, it was a fixer upper house. As a result, the house had a lot of quirks and one of which was the painting on the wall. It was not updated and did not look great. As a result, I felt that I needed to redo the paint. in doing so, I decided to get paint that was interesting to me and after purchasing the paint, I completed the paint job by myself. This was a great experience and I enjoyed painting and using primer and such and I felt that I did a great job at completing this task by myself. It was rewarding to be able to do it by myself. Afterward, my room looked great and I enjoyed seeing it look different than before. It was wonderful.</text>
+    <questions>
+      <question id="0" text="What tools were needed to paint?">
+        <answer correct="False" id="0" text="scissors, paint brush, frying pan, bleach"/>
+        <answer correct="True" id="1" text="paint brush"/>
+      </question>
+      <question id="1" text="When did they decide to paint?">
+        <answer correct="False" id="0" text="When they moved into an apartment."/>
+        <answer correct="True" id="1" text="when they bought a new house"/>
+      </question>
+    </questions>
+  </instance>
+</data>

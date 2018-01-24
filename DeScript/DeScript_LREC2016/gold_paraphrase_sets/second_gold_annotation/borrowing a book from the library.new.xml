@@ -1,0 +1,236 @@
+<scripts>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item source="2" script="17" slot="7" total_slots="8" original="read book"></item>
+<item source="2" script="30" slot="8" total_slots="8" original="enjoy"></item>
+<item source="2" script="36" slot="7" total_slots="7" original="Read the book for the next 2 weeks"></item>
+
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item source="2" script="24" slot="1" total_slots="9" original="Find a local library."></item>
+<item source="2" script="30" slot="1" total_slots="8" original="choose library"></item>
+
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item source="2" script="21" slot="1" total_slots="8" original="Find library card."></item>
+<item source="2" script="28" slot="4" total_slots="7" original="Get out library card."></item>
+<item source="2" script="30" slot="4" total_slots="8" original="find library card"></item>
+
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item source="2" script="18" slot="6" total_slots="7" original="Get the book stamped on the back page for return date"></item>
+<item source="2" script="21" slot="7" total_slots="8" original="Take note of return date."></item>
+<item source="2" script="30" slot="6" total_slots="8" original="remember the date book is due back"></item>
+<item source="2" script="31" slot="6" total_slots="7" original="They tell you when it's due back"></item>
+<item source="2" script="36" slot="5" total_slots="7" original="Be told when the book is due back"></item>
+
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item source="2" script="34" slot="3" total_slots="5" original="Look for librarian"></item>
+
+</label>
+<label type="PARAPHRASE" event="get_library">
+<item source="2" script="12" slot="1" total_slots="8" original="Go to the library"></item>
+<item source="2" script="13" slot="1" total_slots="5" original="Drive to library"></item>
+<item source="2" script="13" slot="2" total_slots="5" original="Park and walk inside"></item>
+<item source="2" script="14" slot="1" total_slots="7" original="Go to library"></item>
+<item source="2" script="17" slot="1" total_slots="8" original="Go to library"></item>
+<item source="2" script="18" slot="1" total_slots="7" original="Go to the library"></item>
+<item source="2" script="19" slot="1" total_slots="6" original="Go to the library"></item>
+<item source="2" script="19" slot="2" total_slots="6" original="go in"></item>
+<item source="2" script="20" slot="1" total_slots="7" original="Go into library"></item>
+<item source="2" script="21" slot="2" total_slots="8" original="Drive to library."></item>
+<item source="2" script="22" slot="1" total_slots="6" original="Go to library"></item>
+<item source="2" script="22" slot="2" total_slots="6" original="Enter library"></item>
+<item source="2" script="23" slot="1" total_slots="7" original="Go to library"></item>
+<item source="2" script="25" slot="1" total_slots="10" original="Go to the library."></item>
+<item source="2" script="26" slot="1" total_slots="7" original="Leave house"></item>
+<item source="2" script="26" slot="2" total_slots="7" original="Go to library"></item>
+<item source="2" script="27" slot="1" total_slots="7" original="Drive to the library."></item>
+<item source="2" script="28" slot="1" total_slots="7" original="Go to library."></item>
+<item source="2" script="29" slot="1" total_slots="7" original="Go to library."></item>
+<item source="2" script="31" slot="1" total_slots="7" original="Walk into library"></item>
+<item source="2" script="32" slot="1" total_slots="8" original="Enter library"></item>
+<item source="2" script="33" slot="1" total_slots="7" original="Enter library"></item>
+<item source="2" script="34" slot="1" total_slots="5" original="Enter library"></item>
+<item source="2" script="36" slot="1" total_slots="7" original="Walk into library"></item>
+<item source="2" script="37" slot="1" total_slots="8" original="Walk to library."></item>
+<item source="2" script="38" slot="1" total_slots="7" original="Get in the car"></item>
+<item source="2" script="38" slot="2" total_slots="7" original="Turn the car on"></item>
+<item source="2" script="38" slot="4" total_slots="7" original="Park car"></item>
+<item source="2" script="38" slot="5" total_slots="7" original="Go inside"></item>
+<item source="2" script="38" slot="3" total_slots="7" original="Drive to library"></item>
+
+</label>
+<label type="PARAPHRASE" event="obtain_card">
+<item source="2" script="14" slot="2" total_slots="7" original="Apply for library card"></item>
+<item source="2" script="15" slot="1" total_slots="7" original="Get a library card"></item>
+<item source="2" script="18" slot="2" total_slots="7" original="Become a member"></item>
+<item source="2" script="19" slot="3" total_slots="6" original="go to desk and sign up for a card"></item>
+<item source="2" script="20" slot="2" total_slots="7" original="Ask to get a library card"></item>
+<item source="2" script="24" slot="2" total_slots="9" original="Go to the main desk."></item>
+<item source="2" script="24" slot="3" total_slots="9" original="Sign up for a library card."></item>
+<item source="2" script="24" slot="4" total_slots="9" original="Receive card."></item>
+<item source="2" script="26" slot="4" total_slots="7" original="Get a library card"></item>
+
+</label>
+<label type="PARAPHRASE" event="ask_librarian">
+<item source="2" script="25" slot="2" total_slots="10" original="Ask the librarian or use the library's computer to find the availability of a book."></item>
+<item source="2" script="26" slot="3" total_slots="7" original="Talk to library attendant"></item>
+
+</label>
+<label type="PARAPHRASE" event="get_shelf">
+<item source="2" script="27" slot="3" total_slots="7" original="Walk to the correct area of the library."></item>
+
+</label>
+<label type="PARAPHRASE" event="look_for_book">
+<item source="2" script="13" slot="3" total_slots="5" original="Look for a book"></item>
+<item source="2" script="18" slot="3" total_slots="7" original="Refer the index for my required book"></item>
+<item source="2" script="20" slot="3" total_slots="7" original="Look for preferred book"></item>
+<item source="2" script="21" slot="3" total_slots="8" original="Peruse book shelves."></item>
+<item source="2" script="23" slot="2" total_slots="7" original="Skim books"></item>
+<item source="2" script="24" slot="5" total_slots="9" original="Find a subject of interest"></item>
+<item source="2" script="25" slot="3" total_slots="10" original="Find the book you want on the shelves."></item>
+<item source="2" script="27" slot="2" total_slots="7" original="Look up the book."></item>
+<item source="2" script="28" slot="2" total_slots="7" original="Look through books on shelves."></item>
+<item source="2" script="29" slot="2" total_slots="7" original="Search for any books that you'd like to borrow."></item>
+<item source="2" script="32" slot="2" total_slots="8" original="Look through books"></item>
+<item source="2" script="37" slot="2" total_slots="8" original="Browse through books."></item>
+
+</label>
+<label type="PARAPHRASE" event="take_book">
+<item source="2" script="12" slot="3" total_slots="8" original="Select a book you want to borrow"></item>
+<item source="2" script="14" slot="3" total_slots="7" original="Pick out book"></item>
+<item source="2" script="15" slot="2" total_slots="7" original="Find the book you want"></item>
+<item source="2" script="17" slot="2" total_slots="8" original="Select a book'"></item>
+<item source="2" script="19" slot="4" total_slots="6" original="pick out book"></item>
+<item source="2" script="21" slot="4" total_slots="8" original="Select a book."></item>
+<item source="2" script="22" slot="3" total_slots="6" original="Find a book to borrow"></item>
+<item source="2" script="23" slot="3" total_slots="7" original="Choose best book"></item>
+<item source="2" script="24" slot="6" total_slots="9" original="Pick a book."></item>
+<item source="2" script="25" slot="4" total_slots="10" original="Remove the book from the shelf."></item>
+<item source="2" script="26" slot="5" total_slots="7" original="Find a book"></item>
+<item source="2" script="27" slot="4" total_slots="7" original="Take the book from the shelf."></item>
+<item source="2" script="28" slot="3" total_slots="7" original="Find book to check out."></item>
+<item source="2" script="30" slot="2" total_slots="8" original="find a book you want to read"></item>
+<item source="2" script="31" slot="2" total_slots="7" original="Find book"></item>
+<item source="2" script="32" slot="3" total_slots="8" original="Find a book you want to read"></item>
+<item source="2" script="33" slot="2" total_slots="7" original="Select book"></item>
+<item source="2" script="34" slot="2" total_slots="5" original="Find desired book"></item>
+<item source="2" script="36" slot="2" total_slots="7" original="Browse the books and pick whatever interests you"></item>
+<item source="2" script="37" slot="3" total_slots="8" original="Make a selection."></item>
+<item source="2" script="38" slot="6" total_slots="7" original="Find a book I want"></item>
+
+</label>
+<label type="PARAPHRASE" event="go_checkout">
+<item source="2" script="12" slot="4" total_slots="8" original="Take the book to the librarian"></item>
+<item source="2" script="13" slot="4" total_slots="5" original="Bring book to front desk"></item>
+<item source="2" script="14" slot="4" total_slots="7" original="Bring book to librarian"></item>
+<item source="2" script="15" slot="3" total_slots="7" original="Take book to the librarian"></item>
+<item source="2" script="17" slot="3" total_slots="8" original="Get in line at check out desk"></item>
+<item source="2" script="18" slot="4" total_slots="7" original="Take the book to the clerk"></item>
+<item source="2" script="19" slot="5" total_slots="6" original="take it to the desk"></item>
+<item source="2" script="20" slot="4" total_slots="7" original="Take to front desk"></item>
+<item source="2" script="21" slot="5" total_slots="8" original="Go to check out desk."></item>
+<item source="2" script="22" slot="4" total_slots="6" original="Bring book to librarian at desk"></item>
+<item source="2" script="23" slot="4" total_slots="7" original="Go to counter"></item>
+<item source="2" script="24" slot="7" total_slots="9" original="Take the book to the desk."></item>
+<item source="2" script="25" slot="5" total_slots="10" original="Walk up to the circular desk."></item>
+<item source="2" script="25" slot="6" total_slots="10" original="Wait in line."></item>
+<item source="2" script="27" slot="5" total_slots="7" original="Go to the checkout line."></item>
+<item source="2" script="29" slot="3" total_slots="7" original="Go to counter."></item>
+<item source="2" script="30" slot="3" total_slots="8" original="take book to counter"></item>
+<item source="2" script="31" slot="3" total_slots="7" original="Go to counter"></item>
+<item source="2" script="32" slot="4" total_slots="8" original="Take book to counter"></item>
+<item source="2" script="33" slot="3" total_slots="7" original="Bring to librarian at desk"></item>
+<item source="2" script="36" slot="3" total_slots="7" original="Take book to the front desk"></item>
+<item source="2" script="37" slot="4" total_slots="8" original="Walk up to librarian."></item>
+
+</label>
+<label type="PARAPHRASE" event="other_receive_book">
+<item source="2" script="12" slot="7" total_slots="8" original="Take the book with you"></item>
+<item source="2" script="14" slot="6" total_slots="7" original="Take book and library card"></item>
+<item source="2" script="15" slot="6" total_slots="7" original="Get book back"></item>
+<item source="2" script="17" slot="5" total_slots="8" original="take both back back and make note of due date"></item>
+<item source="2" script="30" slot="7" total_slots="8" original="take book from librarian"></item>
+<item source="2" script="31" slot="5" total_slots="7" original="They give you book, library card and a receipt"></item>
+<item source="2" script="32" slot="7" total_slots="8" original="Take book"></item>
+<item source="2" script="33" slot="6" total_slots="7" original="Take books from librarian"></item>
+<item source="2" script="37" slot="7" total_slots="8" original="Get the books."></item>
+
+</label>
+<label type="PARAPHRASE" event="show_card">
+<item source="2" script="12" slot="2" total_slots="8" original="Sign in using your membership card"></item>
+<item source="2" script="14" slot="5" total_slots="7" original="Give librarian library card"></item>
+<item source="2" script="15" slot="4" total_slots="7" original="Show librarian your library card"></item>
+<item source="2" script="22" slot="5" total_slots="6" original="Show librarian your library card"></item>
+<item source="2" script="23" slot="5" total_slots="7" original="Show library card"></item>
+<item source="2" script="25" slot="8" total_slots="10" original="Give the librarian your library card."></item>
+<item source="2" script="27" slot="6" total_slots="7" original="Hand the librarian your library card."></item>
+<item source="2" script="28" slot="5" total_slots="7" original="Scan library card at computer."></item>
+<item source="2" script="29" slot="4" total_slots="7" original="Show library card."></item>
+<item source="2" script="30" slot="5" total_slots="8" original="give card and book to librarian"></item>
+<item source="2" script="32" slot="5" total_slots="8" original="Give librarian the book and your library card"></item>
+<item source="2" script="33" slot="4" total_slots="7" original="Show library card"></item>
+<item source="2" script="36" slot="4" total_slots="7" original="Show the librarian your library card"></item>
+<item source="2" script="37" slot="5" total_slots="8" original="Give librarian my library card."></item>
+
+</label>
+<label type="PARAPHRASE" event="register">
+<item source="2" script="12" slot="5" total_slots="8" original="Librarian enter the book details"></item>
+<item source="2" script="13" slot="5" total_slots="5" original="Check out the book"></item>
+<item source="2" script="15" slot="5" total_slots="7" original="Give the librarian your book"></item>
+<item source="2" script="17" slot="4" total_slots="8" original="hand librarian book and library card"></item>
+<item source="2" script="18" slot="5" total_slots="7" original="He will make an entry in his ledger"></item>
+<item source="2" script="19" slot="6" total_slots="6" original="check out the book"></item>
+<item source="2" script="20" slot="5" total_slots="7" original="Check the book out with your library card"></item>
+<item source="2" script="21" slot="6" total_slots="8" original="Librarian will scan book and card with scanner."></item>
+<item source="2" script="23" slot="6" total_slots="7" original="Check out book"></item>
+<item source="2" script="24" slot="8" total_slots="9" original="Let the librarian scan the book."></item>
+<item source="2" script="25" slot="7" total_slots="10" original="Present the librarian with the book you'd like to borrow."></item>
+<item source="2" script="25" slot="9" total_slots="10" original="Check out the book."></item>
+<item source="2" script="26" slot="6" total_slots="7" original="Check out book"></item>
+<item source="2" script="27" slot="7" total_slots="7" original="Hand the librarian the book."></item>
+<item source="2" script="28" slot="6" total_slots="7" original="Scan book to borrow."></item>
+<item source="2" script="29" slot="5" total_slots="7" original="Check out books with librarian."></item>
+<item source="2" script="31" slot="4" total_slots="7" original="Give the person book and library card"></item>
+<item source="2" script="32" slot="6" total_slots="8" original="Librarian stamps book"></item>
+<item source="2" script="33" slot="5" total_slots="7" original="Wait for barcode to be scanned"></item>
+<item source="2" script="34" slot="4" total_slots="5" original="Ask to borrow book"></item>
+<item source="2" script="37" slot="6" total_slots="8" original="Wait for librarian to approve."></item>
+<item source="2" script="38" slot="7" total_slots="7" original="Check it out"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_get_card_back">
+<item source="2" script="12" slot="6" total_slots="8" original="Sign out the membership card"></item>
+
+</label>
+<label type="PARAPHRASE" event="leave">
+<item source="2" script="12" slot="8" total_slots="8" original="Leave the library"></item>
+<item source="2" script="14" slot="7" total_slots="7" original="Leave"></item>
+<item source="2" script="15" slot="7" total_slots="7" original="Go home"></item>
+<item source="2" script="17" slot="6" total_slots="8" original="take book home from library"></item>
+<item source="2" script="18" slot="7" total_slots="7" original="Exit the library"></item>
+<item source="2" script="20" slot="6" total_slots="7" original="Leave library with borrowed book"></item>
+<item source="2" script="21" slot="8" total_slots="8" original="Leave library with book."></item>
+<item source="2" script="22" slot="6" total_slots="6" original="Leave with your book"></item>
+<item source="2" script="23" slot="7" total_slots="7" original="Leave library"></item>
+<item source="2" script="24" slot="9" total_slots="9" original="Go home and read the book."></item>
+<item source="2" script="25" slot="10" total_slots="10" original="Leave."></item>
+<item source="2" script="26" slot="7" total_slots="7" original="Go home Read book"></item>
+<item source="2" script="28" slot="7" total_slots="7" original="Take book and leave library."></item>
+<item source="2" script="29" slot="6" total_slots="7" original="Take home and read."></item>
+<item source="2" script="31" slot="7" total_slots="7" original="Leave library"></item>
+<item source="2" script="32" slot="8" total_slots="8" original="Leave Library"></item>
+<item source="2" script="33" slot="7" total_slots="7" original="Leave library"></item>
+<item source="2" script="34" slot="5" total_slots="5" original="Leave library with book"></item>
+<item source="2" script="36" slot="6" total_slots="7" original="Take the book home"></item>
+<item source="2" script="37" slot="8" total_slots="8" original="Walk home."></item>
+
+</label>
+<label type="PARAPHRASE" event="return">
+<item source="2" script="20" slot="7" total_slots="7" original="Return book to library when finished"></item>
+<item source="2" script="17" slot="8" total_slots="8" original="return book to library before due date"></item>
+<item source="2" script="29" slot="7" total_slots="7" original="Return by said date on receipt."></item>
+
+</label>
+</scripts>

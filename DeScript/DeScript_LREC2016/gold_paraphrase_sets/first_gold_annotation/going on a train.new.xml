@@ -1,0 +1,260 @@
+<scripts>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item source="2" script="7" slot="1" total_slots="11" original="Decide where to go on a train"></item>
+<item source="2" script="2" slot="1" total_slots="10" original="Determine a location to go to by train."></item>
+<item source="2" script="22" slot="1" total_slots="9" original="decide the route you want take"></item>
+<item source="2" script="20" slot="2" total_slots="6" original="Choose a destination"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_pack">
+<item source="2" script="6" slot="2" total_slots="5" original="Pack necessary luggage"></item>
+
+</label>
+<label type="PARAPHRASE" event="UnrelEv">
+<item source="2" script="29" slot="1" total_slots="6" original="Get dressed."></item>
+
+</label>
+<label type="PARAPHRASE" event="check_time-table">
+<item source="2" script="2" slot="2" total_slots="10" original="Locate a train schedule"></item>
+<item source="2" script="1" slot="2" total_slots="9" original="Check train schedules"></item>
+<item source="2" script="12" slot="2" total_slots="8" original="Look on schedule board for departure information"></item>
+<item source="2" script="13" slot="1" total_slots="5" original="Call and check departure time"></item>
+<item source="2" script="18" slot="1" total_slots="5" original="Look up train information online"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_get_in_car">
+<item source="2" script="29" slot="2" total_slots="6" original="Go to the car."></item>
+
+</label>
+<label type="PARAPHRASE" event="get_train_station">
+<item source="2" script="2" slot="7" total_slots="10" original="Enter train station."></item>
+<item source="2" script="21" slot="1" total_slots="8" original="Enter train station"></item>
+<item source="2" script="27" slot="2" total_slots="9" original="Enter into the station"></item>
+<item source="2" script="2" slot="4" total_slots="10" original="Secure transportation to the train station"></item>
+<item source="2" script="1" slot="1" total_slots="9" original="Go to train station"></item>
+<item source="2" script="0" slot="2" total_slots="8" original="Go to the train station."></item>
+<item source="2" script="2" slot="5" total_slots="10" original="Use transportation to train station."></item>
+<item source="2" script="4" slot="1" total_slots="5" original="going to the train station"></item>
+<item source="2" script="5" slot="1" total_slots="7" original="Go to train station"></item>
+<item source="2" script="6" slot="3" total_slots="5" original="Go to train station"></item>
+<item source="2" script="9" slot="1" total_slots="7" original="Drive to train station"></item>
+<item source="2" script="10" slot="2" total_slots="7" original="Go to the train station"></item>
+<item source="2" script="13" slot="2" total_slots="5" original="Go to train station"></item>
+<item source="2" script="14" slot="2" total_slots="5" original="Go to train station a few minutes before scheduled departure"></item>
+<item source="2" script="15" slot="1" total_slots="7" original="Go to train station."></item>
+<item source="2" script="17" slot="1" total_slots="8" original="Go to the railway station"></item>
+<item source="2" script="18" slot="3" total_slots="5" original="Go to the train station"></item>
+<item source="2" script="19" slot="1" total_slots="6" original="Drive to the train station."></item>
+<item source="2" script="20" slot="1" total_slots="6" original="Go to train station"></item>
+<item source="2" script="22" slot="2" total_slots="9" original="go to station"></item>
+<item source="2" script="27" slot="1" total_slots="9" original="Get to station"></item>
+<item source="2" script="26" slot="1" total_slots="6" original="Drive to train station."></item>
+<item source="2" script="28" slot="1" total_slots="6" original="Walk to the subway."></item>
+<item source="2" script="29" slot="3" total_slots="6" original="Drive to the train station"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_park_car">
+<item source="2" script="2" slot="6" total_slots="10" original="Ensure transportation is secured in lot."></item>
+<item source="2" script="9" slot="2" total_slots="7" original="Park car"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_get_out_car">
+<item source="2" script="9" slot="3" total_slots="7" original="Get out"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_go_ticket_counter">
+<item source="2" script="1" slot="3" total_slots="9" original="Go to counter"></item>
+<item source="2" script="9" slot="4" total_slots="7" original="Walk to ticket counter"></item>
+<item source="2" script="27" slot="4" total_slots="9" original="Get to ticket booth"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_wait_queue">
+<item source="2" script="17" slot="2" total_slots="8" original="Stand in queue in front of a ticket counter"></item>
+<item source="2" script="27" slot="3" total_slots="9" original="Wait in line"></item>
+<item source="2" script="28" slot="2" total_slots="6" original="Get in line."></item>
+
+</label>
+<label type="PARAPHRASE" event="get_tickets">
+<item source="2" script="1" slot="4" total_slots="9" original="Pay for ticket"></item>
+<item source="2" script="0" slot="1" total_slots="8" original="Buy a ticket online."></item>
+<item source="2" script="2" slot="3" total_slots="10" original="Purchase ticket(s) for train"></item>
+<item source="2" script="4" slot="2" total_slots="5" original="buying a ticket"></item>
+<item source="2" script="5" slot="2" total_slots="7" original="Buy ticket"></item>
+<item source="2" script="6" slot="1" total_slots="5" original="Book train tickets"></item>
+<item source="2" script="7" slot="2" total_slots="11" original="Purchase ticket for the destination station"></item>
+<item source="2" script="9" slot="5" total_slots="7" original="Buy ticket"></item>
+<item source="2" script="10" slot="1" total_slots="7" original="Get a ticket for the train"></item>
+<item source="2" script="12" slot="1" total_slots="8" original="Purchase train ticket"></item>
+<item source="2" script="13" slot="3" total_slots="5" original="Pay for your ticket"></item>
+<item source="2" script="14" slot="1" total_slots="5" original="Purchase train ticket for destination"></item>
+<item source="2" script="15" slot="2" total_slots="7" original="Buy ticket at window."></item>
+<item source="2" script="16" slot="2" total_slots="7" original="Retrieve ticket from machine"></item>
+<item source="2" script="17" slot="3" total_slots="8" original="Buy ticket to the travel destination"></item>
+<item source="2" script="18" slot="2" total_slots="5" original="Purchase tickets online"></item>
+<item source="2" script="19" slot="2" total_slots="6" original="Buy a train ticket."></item>
+<item source="2" script="20" slot="3" total_slots="6" original="Buy ticket"></item>
+<item source="2" script="21" slot="2" total_slots="8" original="Buy train ticket"></item>
+<item source="2" script="22" slot="3" total_slots="9" original="purchase tickets"></item>
+<item source="2" script="25" slot="1" total_slots="7" original="purchase a ticket"></item>
+<item source="2" script="26" slot="2" total_slots="6" original="Purchase train tickets."></item>
+<item source="2" script="27" slot="5" total_slots="9" original="Purchase ticket"></item>
+<item source="2" script="28" slot="3" total_slots="6" original="Pay for train ticket."></item>
+<item source="2" script="29" slot="4" total_slots="6" original="Pay for the ticket"></item>
+
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item source="2" script="0" slot="3" total_slots="8" original="Confirm your ticket with an employee."></item>
+
+</label>
+<label type="PARAPHRASE" event="get_platform">
+<item source="2" script="7" slot="3" total_slots="11" original="Go to the platform where the train is expected"></item>
+<item source="2" script="12" slot="3" total_slots="8" original="Go to the assigned track"></item>
+<item source="2" script="15" slot="3" total_slots="7" original="Go on platform."></item>
+<item source="2" script="14" slot="3" total_slots="5" original="Find rail for your train"></item>
+<item source="2" script="17" slot="4" total_slots="8" original="Go to the platform where the train arrives"></item>
+<item source="2" script="19" slot="3" total_slots="6" original="Go to the correct train platform."></item>
+<item source="2" script="27" slot="6" total_slots="9" original="Leave to designated area"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_walk">
+<item source="2" script="28" slot="4" total_slots="6" original="Walk through roundabout."></item>
+
+</label>
+<label type="PARAPHRASE" event="UnrelEv">
+<item source="2" script="2" slot="8" total_slots="10" original="Pray your train is on schedule"></item>
+
+</label>
+<label type="PARAPHRASE" event="wait">
+<item source="2" script="1" slot="5" total_slots="9" original="Wait for train to arrive"></item>
+<item source="2" script="0" slot="4" total_slots="8" original="Wait for your train to be announced."></item>
+<item source="2" script="2" slot="9" total_slots="10" original="Wait for train"></item>
+<item source="2" script="4" slot="3" total_slots="5" original="waiting on train platform for train"></item>
+<item source="2" script="5" slot="3" total_slots="7" original="Wait for train"></item>
+<item source="2" script="9" slot="6" total_slots="7" original="Wait for train to arrive"></item>
+<item source="2" script="10" slot="3" total_slots="7" original="Wait for your train to pull up to station"></item>
+<item source="2" script="16" slot="1" total_slots="7" original="Wait at station"></item>
+<item source="2" script="19" slot="4" total_slots="6" original="Wait for the train to arrive."></item>
+<item source="2" script="20" slot="4" total_slots="6" original="Wait for train"></item>
+<item source="2" script="21" slot="3" total_slots="8" original="Wait for train"></item>
+<item source="2" script="22" slot="4" total_slots="9" original="wait for train at the platform"></item>
+<item source="2" script="25" slot="2" total_slots="7" original="wait for the train at the platform"></item>
+<item source="2" script="26" slot="3" total_slots="6" original="Wait for train to arrive."></item>
+<item source="2" script="27" slot="7" total_slots="9" original="Wait for train"></item>
+<item source="2" script="28" slot="5" total_slots="6" original="Wait for train."></item>
+<item source="2" script="29" slot="5" total_slots="6" original="Wait for the train"></item>
+
+</label>
+<label type="PARAPHRASE" event="train_arrives">
+<item source="2" script="21" slot="4" total_slots="8" original="Train arrives"></item>
+<item source="2" script="16" slot="3" total_slots="7" original="Train arrives"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_wait_to_board">
+<item source="2" script="0" slot="5" total_slots="8" original="Wait in line to board train."></item>
+
+</label>
+<label type="PARAPHRASE" event="get_on">
+<item source="2" script="2" slot="10" total_slots="10" original="When train arrives, board the train."></item>
+<item source="2" script="1" slot="6" total_slots="9" original="Get on the train"></item>
+<item source="2" script="4" slot="4" total_slots="5" original="getting into train when arrives"></item>
+<item source="2" script="5" slot="4" total_slots="7" original="Get on train"></item>
+<item source="2" script="6" slot="4" total_slots="5" original="Get on train"></item>
+<item source="2" script="7" slot="4" total_slots="11" original="When train arrives, ride up the train compartment as per ticket"></item>
+<item source="2" script="9" slot="7" total_slots="7" original="Board train"></item>
+<item source="2" script="10" slot="4" total_slots="7" original="Get on train"></item>
+<item source="2" script="12" slot="4" total_slots="8" original="board train when it arrives"></item>
+<item source="2" script="13" slot="4" total_slots="5" original="get on the train"></item>
+<item source="2" script="14" slot="5" total_slots="5" original="Board train and be seated"></item>
+<item source="2" script="15" slot="4" total_slots="7" original="When train arrives, board a car."></item>
+<item source="2" script="16" slot="4" total_slots="7" original="Get on train"></item>
+<item source="2" script="17" slot="5" total_slots="8" original="Upon arrival get into the compartment"></item>
+<item source="2" script="18" slot="5" total_slots="5" original="Board train"></item>
+<item source="2" script="19" slot="5" total_slots="6" original="Walk onto the train."></item>
+<item source="2" script="20" slot="5" total_slots="6" original="Get in train"></item>
+<item source="2" script="21" slot="5" total_slots="8" original="Enter train"></item>
+<item source="2" script="22" slot="5" total_slots="9" original="get on train"></item>
+<item source="2" script="25" slot="3" total_slots="7" original="when train arrives, board train"></item>
+<item source="2" script="26" slot="4" total_slots="6" original="Board train and choose a seat."></item>
+<item source="2" script="27" slot="8" total_slots="9" original="Board train when it arrives"></item>
+<item source="2" script="28" slot="6" total_slots="6" original="Get on train."></item>
+<item source="2" script="29" slot="6" total_slots="6" original="Board train"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_stow_luggage">
+<item source="2" script="0" slot="6" total_slots="8" original="Put carry on luggage in overhead bin."></item>
+<item source="2" script="7" slot="6" total_slots="11" original="Keep bag under the seat"></item>
+
+</label>
+<label type="PARAPHRASE" event="find_place">
+<item source="2" script="7" slot="5" total_slots="11" original="Look for the seat number as in ticket"></item>
+<item source="2" script="12" slot="6" total_slots="8" original="find a seat"></item>
+<item source="2" script="17" slot="6" total_slots="8" original="Find a vacant window seat"></item>
+<item source="2" script="15" slot="5" total_slots="7" original="Find an empty seat."></item>
+<item source="2" script="21" slot="6" total_slots="8" original="Find a seat"></item>
+<item source="2" script="22" slot="6" total_slots="9" original="find a seat"></item>
+<item source="2" script="25" slot="5" total_slots="7" original="choose a seat"></item>
+<item source="2" script="1" slot="7" total_slots="9" original="Take a seat"></item>
+<item source="2" script="0" slot="7" total_slots="8" original="Sit down."></item>
+<item source="2" script="4" slot="5" total_slots="5" original="taking a seat"></item>
+<item source="2" script="5" slot="5" total_slots="7" original="Sit down"></item>
+<item source="2" script="7" slot="7" total_slots="11" original="Sit on the seat"></item>
+<item source="2" script="27" slot="9" total_slots="9" original="Take a seat if possible"></item>
+
+</label>
+<label type="PARAPHRASE" event="conductor_checks">
+<item source="2" script="12" slot="5" total_slots="8" original="show conductor ticket"></item>
+<item source="2" script="10" slot="5" total_slots="7" original="Show the ticket checker your ticket"></item>
+<item source="2" script="16" slot="5" total_slots="7" original="Swipe ticket"></item>
+<item source="2" script="14" slot="4" total_slots="5" original="Give ticket to attendant"></item>
+<item source="2" script="18" slot="4" total_slots="5" original="Show ticket pass"></item>
+<item source="2" script="19" slot="6" total_slots="6" original="Hand the attendant your ticket."></item>
+<item source="2" script="21" slot="7" total_slots="8" original="Hand ticket to ticket taker"></item>
+<item source="2" script="22" slot="7" total_slots="9" original="give ticket to conductor"></item>
+<item source="2" script="25" slot="4" total_slots="7" original="give ticket to steward when asked"></item>
+
+</label>
+<label type="PARAPHRASE" event="spend_time_train">
+<item source="2" script="5" slot="6" total_slots="7" original="Wait for stop"></item>
+<item source="2" script="10" slot="6" total_slots="7" original="Wait till your stop"></item>
+<item source="2" script="12" slot="7" total_slots="8" original="ride train"></item>
+<item source="2" script="7" slot="8" total_slots="11" original="Relax or read favorite magazine"></item>
+<item source="2" script="15" slot="7" total_slots="7" original="Wait for correct stop."></item>
+<item source="2" script="13" slot="5" total_slots="5" original="enjoy the ride"></item>
+<item source="2" script="16" slot="6" total_slots="7" original="Ride train"></item>
+<item source="2" script="17" slot="7" total_slots="8" original="Enjoy the outside sceneries while on the move"></item>
+<item source="2" script="21" slot="8" total_slots="8" original="Enjoy train ride"></item>
+<item source="2" script="22" slot="8" total_slots="9" original="enjoy the view"></item>
+<item source="2" script="15" slot="6" total_slots="7" original="Relax."></item>
+<item source="2" script="26" slot="5" total_slots="6" original="Sit back and relax."></item>
+<item source="2" script="25" slot="6" total_slots="7" original="wait patiently while the train travels"></item>
+
+</label>
+<label type="PARAPHRASE" event="arrive_destination">
+<item source="2" script="1" slot="8" total_slots="9" original="Arrive at destination"></item>
+<item source="2" script="20" slot="6" total_slots="6" original="Arrive at destination"></item>
+
+</label>
+<label type="PARAPHRASE" event="get_off">
+<item source="2" script="1" slot="9" total_slots="9" original="Get off destination"></item>
+<item source="2" script="0" slot="8" total_slots="8" original="When your destination is called, get off train."></item>
+<item source="2" script="5" slot="7" total_slots="7" original="Get off train"></item>
+<item source="2" script="6" slot="5" total_slots="5" original="Depart when you arrive"></item>
+<item source="2" script="7" slot="9" total_slots="11" original="Alight at the destination station"></item>
+<item source="2" script="10" slot="7" total_slots="7" original="Get off train at your stop"></item>
+<item source="2" script="12" slot="8" total_slots="8" original="when train reaches destination, exit train"></item>
+<item source="2" script="17" slot="8" total_slots="8" original="De-train upon reaching the destination"></item>
+<item source="2" script="16" slot="7" total_slots="7" original="Get off at destination"></item>
+<item source="2" script="22" slot="9" total_slots="9" original="get off at your stop"></item>
+<item source="2" script="25" slot="7" total_slots="7" original="leave train"></item>
+<item source="2" script="26" slot="6" total_slots="6" original="Get off at your correct stop."></item>
+
+</label>
+<label type="PARAPHRASE" event="other_take_luggage">
+<item source="2" script="7" slot="10" total_slots="11" original="Take all the luggage out"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_leave_station">
+<item source="2" script="7" slot="11" total_slots="11" original="Go out of the station"></item>
+
+</label>
+</scripts>

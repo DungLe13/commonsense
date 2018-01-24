@@ -1,0 +1,994 @@
+<scripts><script id="1" source="2"><item slot="1" original="Get eggs out of fridge" ></item>
+<item slot="2" original="Get pan out of cabinet" ></item>
+<item slot="3" original="Turn on stove and place pan on stove" ></item>
+<item slot="4" original="Grease pan will a little butter" ></item>
+<item slot="5" original="Crack Eggs into pan" ></item>
+<item slot="6" original="Stir up eggs with spatula" ></item>
+<item slot="7" original="Get eggs out of pan" ></item>
+<item slot="8" original="Place eggs on plate" ></item>
+<item slot="9" original="Turn off stove" ></item>
+</script><script id="2" source="2"><item slot="1" original="Buy eggs" ></item>
+<item slot="2" original="Heat pan on stove" ></item>
+<item slot="3" original="Crack eggs into frying pan" ></item>
+<item slot="4" original="Wait a few minutes to let it cook" ></item>
+<item slot="5" original="Flip eggs over" ></item>
+<item slot="6" original="Mash eggs with spoon or spatula until done" ></item>
+<item slot="7" original="Serve eggs" ></item>
+</script><script id="3" source="2"><item slot="1" original="Get eggs from fridge" ></item>
+<item slot="2" original="Get bowl" ></item>
+<item slot="3" original="Crack eggs into bowl" ></item>
+<item slot="4" original="Stir eggs to mix yolk and whites" ></item>
+<item slot="5" original="Get frying pan" ></item>
+<item slot="6" original="Place oil in frying pan" ></item>
+<item slot="7" original="Heat frying pan" ></item>
+<item slot="8" original="Place eggs into the frying pan" ></item>
+<item slot="9" original="Fry eggs until cooked through" ></item>
+<item slot="10" original="Place scrambled eggs on plate" ></item>
+<item slot="11" original="Eat eggs" ></item>
+</script><script id="4" source="2"><item slot="1" original="Turn on stove" ></item>
+<item slot="2" original="Place pan on stove" ></item>
+<item slot="3" original="Take eggs and crack into pan" ></item>
+<item slot="4" original="Add milk, salt, pepper" ></item>
+<item slot="5" original="Stir gently and allow to settle" ></item>
+<item slot="6" original="Eat scrambled eggs" ></item>
+</script><script id="5" source="2"><item slot="1" original="Crack about 2 - 4 eggs into a bowl, depending on amount desired." ></item>
+<item slot="2" original="Optional - add a teaspoon of sour cream or creme fraiche for fluffy texture." ></item>
+<item slot="3" original="Optional - add salt and pepper to taste." ></item>
+<item slot="4" original="Whisk eggs briskly with fork or whisk until the whites are no longer visible." ></item>
+<item slot="5" original="Heat butter or oil in a skillet.  Add only enough to cover the surface." ></item>
+<item slot="6" original="When the oil is shimmering, carefully pour the eggs into the skillet." ></item>
+<item slot="7" original="Scramble the eggs with a fork, breaking it into spoon-size pieces." ></item>
+<item slot="8" original="Remove from heat and serve." ></item>
+</script><script id="6" source="2"><item slot="1" original="get eggs, milk, and butter" ></item>
+<item slot="2" original="crack eggs in bowl" ></item>
+<item slot="3" original="add one tablespoon of milk to bowl per egg" ></item>
+<item slot="4" original="whisk until mixed together" ></item>
+<item slot="5" original="get skillet" ></item>
+<item slot="6" original="put skillet on medium heat" ></item>
+<item slot="7" original="put drop of butter in skillet" ></item>
+<item slot="8" original="when butter melts, add mixture from bowl" ></item>
+<item slot="9" original="whisk while heating" ></item>
+<item slot="10" original="wait until mixture becomes solid" ></item>
+<item slot="11" original="scramble with spoon or fork" ></item>
+<item slot="12" original="place on plate to eat" ></item>
+</script><script id="7" source="2"><item slot="1" original="Spray frying pan with non-stick spray." ></item>
+<item slot="2" original="Put pan on burner." ></item>
+<item slot="3" original="Turn on heat." ></item>
+<item slot="4" original="Crack eggs into bowl." ></item>
+<item slot="5" original="Whisk eggs to mix." ></item>
+<item slot="6" original="Put eggs in frying pan." ></item>
+<item slot="7" original="Stir occasionally." ></item>
+<item slot="8" original="Remove with spatula when done." ></item>
+</script><script id="8" source="2"><item slot="1" original="Grab a pan and eggs" ></item>
+<item slot="2" original="Put pan on stove at medium heat" ></item>
+<item slot="3" original="add butter to pan" ></item>
+<item slot="4" original="Take eggs out of carton" ></item>
+<item slot="5" original="Crack eggs open in to pan" ></item>
+<item slot="6" original="Wait to cook" ></item>
+<item slot="7" original="Grab a spatula and plate" ></item>
+<item slot="8" original="Take eggs out of pan" ></item>
+<item slot="9" original="Put eggs on plate" ></item>
+<item slot="10" original="Put pan, butter, eggs and spatula away" ></item>
+</script><script id="9" source="2"><item slot="1" original="Get frying pan" ></item>
+<item slot="2" original="Crack eggs in a bowl" ></item>
+<item slot="3" original="Whisk eggs" ></item>
+<item slot="4" original="Melt butter in frying pan" ></item>
+<item slot="5" original="Add eggs" ></item>
+<item slot="6" original="Use spatula to break up eggs" ></item>
+<item slot="7" original="Add salt and pepper" ></item>
+<item slot="8" original="Stir until cooked" ></item>
+<item slot="9" original="Remove from stove" ></item>
+</script><script id="10" source="2"><item slot="1" original="taking eggs out of fridge" ></item>
+<item slot="2" original="putting pan on stove" ></item>
+<item slot="3" original="hitting up pan" ></item>
+<item slot="4" original="adding butter to pan" ></item>
+<item slot="5" original="crack egg into bowl" ></item>
+<item slot="6" original="add milk to bowl" ></item>
+<item slot="7" original="stir egg and milk together" ></item>
+<item slot="8" original="pour mixture into hot pan" ></item>
+<item slot="9" original="move egg mixture around" ></item>
+<item slot="10" original="cook" ></item>
+</script><script id="11" source="2"><item slot="1" original="Get the eggs" ></item>
+<item slot="2" original="Take a shallow bowl" ></item>
+<item slot="3" original="Break the eggs carefully with a spoon" ></item>
+<item slot="4" original="let the content of the eggs i.e., egg white and yellow get in the bowl" ></item>
+<item slot="5" original="stir swiftly with a spoon until mixed nicely" ></item>
+<item slot="6" original="Put some salt in it" ></item>
+<item slot="7" original="Put a frying pan on gas" ></item>
+<item slot="8" original="Transfer eggs content in frying pan" ></item>
+<item slot="9" original="Heat it for 6 minutes" ></item>
+<item slot="10" original="Serve it with bread" ></item>
+</script><script id="12" source="2"><item slot="1" original="Turn on heating element" ></item>
+<item slot="2" original="Put pan on fire" ></item>
+<item slot="3" original="grease pan" ></item>
+<item slot="4" original="crack your egg(s)" ></item>
+<item slot="5" original="put egg yolk into pan" ></item>
+<item slot="6" original="scramble lightly as you cook" ></item>
+<item slot="7" original="keep a medium heat" ></item>
+<item slot="8" original="cook to your preferred consistency" ></item>
+<item slot="9" original="turn off cooking element" ></item>
+<item slot="10" original="plate eggs" ></item>
+</script><script id="13" source="2"><item slot="1" original="Retrieve eggs from refrigerator" ></item>
+<item slot="2" original="Pull out desired number of eggs" ></item>
+<item slot="3" original="Get a bowl" ></item>
+<item slot="4" original="Get a fork" ></item>
+<item slot="5" original="Crack desired eggs into bowl" ></item>
+<item slot="6" original="Fish out shell bits" ></item>
+<item slot="7" original="Whisk eggs with fork" ></item>
+<item slot="8" original="Get pan" ></item>
+<item slot="9" original="Put on stove" ></item>
+<item slot="10" original="Turn on stove" ></item>
+<item slot="11" original="Put contents of bowl in pan" ></item>
+<item slot="12" original="Get spatula" ></item>
+<item slot="13" original="Fold and stir eggs over" ></item>
+</script><script id="14" source="2"><item slot="1" original="Take eggs from fridge" ></item>
+<item slot="2" original="Spray a pan with cooking spray" ></item>
+<item slot="3" original="Place pan on stove" ></item>
+<item slot="4" original="Crack eggs in pan" ></item>
+<item slot="5" original="Turn on stove" ></item>
+<item slot="6" original="Stir with spatula until firm" ></item>
+</script><script id="15" source="2"><item slot="1" original="Break two eggs in a bowl" ></item>
+<item slot="2" original="Get a whisk" ></item>
+<item slot="3" original="Whisk eggs together till they are light and fluffy" ></item>
+<item slot="4" original="Add a bit of milk" ></item>
+<item slot="5" original="Start cooking eggs" ></item>
+<item slot="6" original="Add salt and pepper" ></item>
+<item slot="7" original="Once eggs are slightly runny put them on plate" ></item>
+</script><script id="16" source="2"><item slot="1" original="Beat eggs, milk, salt and pepper in bowl until blended" ></item>
+<item slot="2" original="Heat butter in large nonstick skillet over medium heat until hot. pour in egg mixture" ></item>
+<item slot="3" original="As eggs begin to set, Gently pull the eggs across the pan with an inverted turner." ></item>
+<item slot="4" original="Now off the Pan, and make it as half of the hot" ></item>
+<item slot="5" original="Now taste it, how good really it is." ></item>
+<item slot="6" original="Share with our kids" ></item>
+<item slot="7" original="Wash all the dishes" ></item>
+</script><script id="17" source="2"><item slot="1" original="Take egg carton from refrigerator." ></item>
+<item slot="2" original="Put pan on stove and turn burner on" ></item>
+<item slot="3" original="grease pan with butter" ></item>
+<item slot="4" original="Remove 2 or 3 eggs from carton." ></item>
+<item slot="5" original="crack them over the pan" ></item>
+<item slot="6" original="with a fork break up the egg yolks and mix in pan until mixture is uniform yellow texture" ></item>
+<item slot="7" original="Cook in pan, using spatula to flip and turn eggs" ></item>
+<item slot="8" original="Once eggs are cooked remove pan from heat" ></item>
+<item slot="9" original="turn off stove" ></item>
+<item slot="10" original="dump eggs onto plate" ></item>
+<item slot="11" original="season with salt and pepper" ></item>
+<item slot="12" original="eat" ></item>
+<item slot="13" original="clean pan with soap and water" ></item>
+</script><script id="18" source="2"><item slot="1" original="Take eggs out of refrigerator." ></item>
+<item slot="2" original="Crack 2 eggs into a bowl." ></item>
+<item slot="3" original="Use wire whisk to stir." ></item>
+<item slot="4" original="Add salt and pepper." ></item>
+<item slot="5" original="Preheat skillet." ></item>
+<item slot="6" original="lightly oil skillet." ></item>
+<item slot="7" original="Pour eggs into skillet." ></item>
+<item slot="8" original="Use spatula to stir and flip eggs." ></item>
+<item slot="9" original="Place on plate when done." ></item>
+</script><script id="19" source="2"><item slot="1" original="get eggs out" ></item>
+<item slot="2" original="crack in a bowl" ></item>
+<item slot="3" original="add milk" ></item>
+<item slot="4" original="mix well" ></item>
+<item slot="5" original="turn on stove" ></item>
+<item slot="6" original=" put butter in a pan" ></item>
+<item slot="7" original="put eggs in pan and stir often" ></item>
+<item slot="8" original="cook until fluffy" ></item>
+</script><script id="20" source="2"><item slot="1" original="Take a bowl" ></item>
+<item slot="2" original="Crack 2 eggs into it" ></item>
+<item slot="3" original="Mix well with spoon" ></item>
+<item slot="4" original="Add a pinch of salt and 2 pinches of  pepper" ></item>
+<item slot="5" original="Skim with a whip" ></item>
+<item slot="6" original="Place the frying pan on the stove and ignite" ></item>
+<item slot="7" original="Pour two teaspoons cooking oil" ></item>
+<item slot="8" original="Heat for 1 minute" ></item>
+<item slot="9" original="Pour the contents of the bowl onto the frying pan" ></item>
+<item slot="10" original="After 30 seconds turn the eggs" ></item>
+<item slot="11" original="Fry for 30 seconds" ></item>
+<item slot="12" original="Put off the stove" ></item>
+<item slot="13" original="Scramble the egg with a fork and serve immediately." ></item>
+</script><script id="21" source="2"><item slot="1" original="Take three eggs per person for a good-sized serving." ></item>
+<item slot="2" original="Crack the eggs into a bowl." ></item>
+<item slot="3" original="Then the egg mixture with milk, cream, this will make cooked scrambled eggs more tender." ></item>
+<item slot="4" original="Whisk the mixture don't add salt for it may make tough." ></item>
+<item slot="5" original="Heat a skillet over medium heat put a piece of butter and pour the mixture in it." ></item>
+<item slot="6" original="Add minced herbs, shredded cheese, mushroom, tomatoes." ></item>
+<item slot="7" original="With a wooden spoon scramble the eggs before it is cooked." ></item>
+<item slot="8" original="Continue this process until no liquid left in the egg." ></item>
+<item slot="9" original="Put the cooked egg on the plate." ></item>
+<item slot="10" original="Now add salt and pepper over scrambled eggs and serve hot." ></item>
+</script><script id="22" source="2"><item slot="1" original="Place a medium sized pan on a stove burner" ></item>
+<item slot="2" original="Turn pan on medium low" ></item>
+<item slot="3" original="Place a couple pads of butter into pan" ></item>
+<item slot="4" original="Crack a few eggs into a bowl" ></item>
+<item slot="5" original="Add a small amount of milk" ></item>
+<item slot="6" original="Wisk milk and eggs together" ></item>
+<item slot="7" original="Pour egg mixture into pan" ></item>
+<item slot="8" original="Stir and fold eggs periodically until cooked through" ></item>
+<item slot="9" original="Serve and enjoy" ></item>
+</script><script id="23" source="2"><item slot="1" original="Get eggs" ></item>
+<item slot="2" original="Get bowl" ></item>
+<item slot="3" original="Crack eggs in bowl" ></item>
+<item slot="4" original="Stir well" ></item>
+<item slot="5" original="Pour in skillet" ></item>
+<item slot="6" original="Adjust heat to high" ></item>
+<item slot="7" original="Cook and stir eggs" ></item>
+<item slot="8" original="Turn down heat" ></item>
+<item slot="9" original="Remove eggs" ></item>
+<item slot="10" original="Put on serving plate" ></item>
+<item slot="11" original="Eat eggs" ></item>
+</script><script id="24" source="2"><item slot="1" original="Get the eggs out the refridgerator." ></item>
+<item slot="2" original="Get a pan." ></item>
+<item slot="3" original="Put pan on the stove." ></item>
+<item slot="4" original="Heat pan." ></item>
+<item slot="5" original="Crack eggs into bowl." ></item>
+<item slot="6" original="Season eggs and stir." ></item>
+<item slot="7" original="Pour eggs into the pan." ></item>
+<item slot="8" original="Stir eggs and cook." ></item>
+</script><script id="25" source="2"><item slot="1" original="Get a bowl" ></item>
+<item slot="2" original="Get three eggs" ></item>
+<item slot="3" original="Crack eggs into bowl" ></item>
+<item slot="4" original="Pour a dab of milk into the bowl" ></item>
+<item slot="5" original="Add salt and pepper to taste" ></item>
+<item slot="6" original="Get a frying pan" ></item>
+<item slot="7" original="Put a small amount of butter into the frying pan" ></item>
+<item slot="8" original="Heat pan and butter" ></item>
+<item slot="9" original="When butter is melted add egg mixture" ></item>
+<item slot="10" original="Get a spatula" ></item>
+<item slot="11" original="Stir the eggs with a spatula" ></item>
+<item slot="12" original="Continue stirring as eggs cook" ></item>
+<item slot="13" original="When eggs are solid remove from pan" ></item>
+</script><script id="26" source="2"><item slot="1" original="Take the eggs out of the fridge" ></item>
+<item slot="2" original="Take the other ingredients out of the fridge" ></item>
+<item slot="3" original="Mix the ingredients with the eggs" ></item>
+<item slot="4" original="Heat the pan" ></item>
+<item slot="5" original="Pour oil into the pan" ></item>
+<item slot="6" original="Fry the scrambled eggs in the pan" ></item>
+<item slot="7" original="Eat the scrambled eggs" ></item>
+</script><script id="27" source="2"><item slot="1" original="Take eggs from fridge" ></item>
+<item slot="2" original="Take frying pan" ></item>
+<item slot="3" original="Break eggs" ></item>
+<item slot="4" original="Scramble eggs" ></item>
+<item slot="5" original="Turn on the stove" ></item>
+<item slot="6" original="Wait some minutes" ></item>
+<item slot="7" original="Place scrambled eggs on plate" ></item>
+<item slot="8" original="Eat scrambled eggs" ></item>
+</script><script id="28" source="2"><item slot="1" original="Get bowl" ></item>
+<item slot="2" original="Get Fork" ></item>
+<item slot="3" original="Get eggs" ></item>
+<item slot="4" original="Crack open eggs" ></item>
+<item slot="5" original="Pour eggs into bowl" ></item>
+<item slot="6" original="Scramble the eggs with fork" ></item>
+<item slot="7" original="Get pan" ></item>
+<item slot="8" original="Pour eggs into pan" ></item>
+<item slot="9" original="Put pan on stove" ></item>
+<item slot="10" original="Turn stove on" ></item>
+<item slot="11" original="Stir eggs constantly" ></item>
+<item slot="12" original="Watch eggs until fully cooked." ></item>
+<item slot="13" original="Get plate" ></item>
+<item slot="14" original="Pour eggs on plate." ></item>
+<item slot="15" original="Get clean fork." ></item>
+<item slot="16" original="Serve eggs." ></item>
+</script><script id="29" source="2"><item slot="1" original="Turn the stove on." ></item>
+<item slot="2" original="Put a pan on the stove." ></item>
+<item slot="3" original="Remove eggs from a carton." ></item>
+<item slot="4" original="Crack the eggs." ></item>
+<item slot="5" original="Pour them into a pan." ></item>
+<item slot="6" original="Scrape them and move them around with a spatula." ></item>
+<item slot="7" original="Remove the eggs from the pan." ></item>
+</script><script id="30" source="2"><item slot="1" original="Get eggs" ></item>
+<item slot="2" original="Get pan" ></item>
+<item slot="3" original="Heat pan on stove" ></item>
+<item slot="4" original="Crack eggs in bowl" ></item>
+<item slot="5" original="Stir with fork" ></item>
+<item slot="6" original="Pour in pan" ></item>
+<item slot="7" original="Stir in pan" ></item>
+<item slot="8" original="Wait for eggs to cook" ></item>
+<item slot="9" original="Turn off stove" ></item>
+<item slot="10" original="Put eggs on plate" ></item>
+<item slot="11" original="Eat eggs" ></item>
+</script><script id="31" source="2"><item slot="1" original="Get pan" ></item>
+<item slot="2" original="Turn on burner" ></item>
+<item slot="3" original="Add butter or some oil" ></item>
+<item slot="4" original="Crack egg in pan" ></item>
+<item slot="5" original="Take spatula and break up eggs" ></item>
+<item slot="6" original="Keep flipping and stiring eggs around until not runny" ></item>
+<item slot="7" original="Turn off burner" ></item>
+<item slot="8" original="Put eggs on plate" ></item>
+<item slot="9" original="Enjoy" ></item>
+</script><script id="32" source="2"><item slot="1" original="Select a Teflon coated pan." ></item>
+<item slot="2" original="Crack eggs into a bowl and whip with a fork." ></item>
+<item slot="3" original="Add pepper and other seasonings to the egg." ></item>
+<item slot="4" original="Turn on the stove." ></item>
+<item slot="5" original="Add butter, margarine, or other fat to the pan." ></item>
+<item slot="6" original="Heat the pan until the butter is just sizzling." ></item>
+<item slot="7" original="Add the eggs and reduce the heat." ></item>
+<item slot="8" original="Slowly stir the eggs with a spatula until they begin to form curds." ></item>
+<item slot="9" original="Turn off the stove and let the eggs finish cooking." ></item>
+<item slot="10" original="Add salt." ></item>
+<item slot="11" original="Serve and enjoy." ></item>
+</script><script id="33" source="2"><item slot="1" original="Get eggs out of refrigerator." ></item>
+<item slot="2" original="Break the shells and eggs in a bowl." ></item>
+<item slot="3" original="Add desired seasonings (if any)." ></item>
+<item slot="4" original="Turn on pan to desired heat for preheating." ></item>
+<item slot="5" original="Mix until well blended and yolk is stirred in well." ></item>
+<item slot="6" original="Dump into pan." ></item>
+<item slot="7" original="Stirring frequently." ></item>
+<item slot="8" original="Add any extra ingredients (cheese, peppers, meat, etc)." ></item>
+<item slot="9" original="Stir to desired consistency." ></item>
+<item slot="10" original="Place on plate." ></item>
+<item slot="11" original="Enjoy." ></item>
+</script><script id="34" source="2"><item slot="1" original="Get out bowl." ></item>
+<item slot="2" original="Crack eggs into bowl." ></item>
+<item slot="3" original="Add milk to eggs." ></item>
+<item slot="4" original="Whisk eggs and milk together." ></item>
+<item slot="5" original="Add salt and pepper." ></item>
+<item slot="6" original="Put pan on stove." ></item>
+<item slot="7" original="Add butter to pan, warm pan up." ></item>
+<item slot="8" original="Pour eggs into pan." ></item>
+<item slot="9" original="Stir eggs periodically to avoid burning." ></item>
+<item slot="10" original="Spoon eggs onto plate." ></item>
+</script><script id="35" source="2"><item slot="1" original="get out eggs" ></item>
+<item slot="2" original="crack eggs into a bowl" ></item>
+<item slot="3" original="whisk eggs together" ></item>
+<item slot="4" original="get out pan" ></item>
+<item slot="5" original="heat up oil or butter in pan" ></item>
+<item slot="6" original="place eggs in pan" ></item>
+<item slot="7" original="heat eggs until not runny" ></item>
+<item slot="8" original="remove eggs from pan" ></item>
+<item slot="9" original="put eggs on plate" ></item>
+<item slot="10" original="enjoy" ></item>
+</script><script id="36" source="2"><item slot="1" original="Turn on stove" ></item>
+<item slot="2" original="Put skillet on stove" ></item>
+<item slot="3" original="Spray skillet with cooking spray" ></item>
+<item slot="4" original="Get eggs out of fridge" ></item>
+<item slot="5" original="Crack eggs bowl" ></item>
+<item slot="6" original="Whisk eggs" ></item>
+<item slot="7" original="Pour eggs into skillet" ></item>
+<item slot="8" original="Stir eggs with spoon until fully cooked" ></item>
+<item slot="9" original="Turn off stove" ></item>
+<item slot="10" original="Put scrambled eggs onto plate" ></item>
+</script><script id="37" source="2"><item slot="1" original="Grab bowl" ></item>
+<item slot="2" original="Grab eggs" ></item>
+<item slot="3" original="Crack open eggs into bowl" ></item>
+<item slot="4" original="Dispose egg shells in trash can" ></item>
+<item slot="5" original="Whisk eggs" ></item>
+<item slot="6" original="Place pan on stove" ></item>
+<item slot="7" original="Turn on stove" ></item>
+<item slot="8" original="Toss eggs into hot pan" ></item>
+<item slot="9" original="Scramble eggs while its still in pan" ></item>
+</script><script id="38" source="2"><item slot="1" original="Get Eggs" ></item>
+<item slot="2" original="Crack eggs" ></item>
+<item slot="3" original="Have yolk and egg white fall into the bowl" ></item>
+<item slot="4" original="Dispose of egg shells" ></item>
+<item slot="5" original="Get handheld mixer or fork" ></item>
+<item slot="6" original="Mix in bowl yolk and whites till they are thoroughly mixed" ></item>
+<item slot="7" original="Warm pan" ></item>
+<item slot="8" original="add oil to pan" ></item>
+<item slot="9" original="empty bowl contents into pan" ></item>
+<item slot="10" original="get spatula" ></item>
+<item slot="11" original="Let scrambled eggs cook in pan till solid enough to be able to hold on spatula" ></item>
+<item slot="12" original=" flip over scrambled eggs to cook other side" ></item>
+<item slot="13" original="get plate" ></item>
+<item slot="14" original="put scrambled eggs in plate" ></item>
+<item slot="15" original="Serve" ></item>
+</script><script id="39" source="2"><item slot="1" original="crack eggs into mixing bowl" ></item>
+<item slot="2" original="whisk eggs" ></item>
+<item slot="3" original="add any seasoning you may want" ></item>
+<item slot="4" original="turn stove to low/medium heat" ></item>
+<item slot="5" original="place pan on stove" ></item>
+<item slot="6" original="poor whisked eggs into pan" ></item>
+<item slot="7" original="as the eggs cook, stir them with spatula" ></item>
+<item slot="8" original="once eggs are no longer liquified, remove from pan" ></item>
+</script><script id="40" source="2"><item slot="1" original="Get egg" ></item>
+<item slot="2" original="Crack egg into bowl" ></item>
+<item slot="3" original="Add milk, salt, and pepper to bowl" ></item>
+<item slot="4" original="whisk" ></item>
+<item slot="5" original="Put frying pan on stove" ></item>
+<item slot="6" original="Turn on stove" ></item>
+<item slot="7" original="Add butter to pan" ></item>
+<item slot="8" original="Add egg mix to pan" ></item>
+<item slot="9" original="Let cook, scrambling occasionally" ></item>
+<item slot="10" original="Transfer eggs to plate" ></item>
+<item slot="11" original="Eat" ></item>
+</script><script id="41" source="2"><item slot="1" original="Grab eggs" ></item>
+<item slot="2" original="crack them into bowl" ></item>
+<item slot="3" original="add salt" ></item>
+<item slot="4" original="beat with fork" ></item>
+<item slot="5" original="fire up pan with oil" ></item>
+<item slot="6" original="pour egg in pan" ></item>
+<item slot="7" original="grab after two minutes" ></item>
+<item slot="8" original="serve" ></item>
+</script><script id="42" source="2"><item slot="1" original="Get eggs out" ></item>
+<item slot="2" original="Get bowl out" ></item>
+<item slot="3" original="Crack eggs into bowl" ></item>
+<item slot="4" original="Get milk out" ></item>
+<item slot="5" original="Pour small amount of milk into bowl with eggs" ></item>
+<item slot="6" original="Mix with utensil until smooth" ></item>
+<item slot="7" original="Get pan out" ></item>
+<item slot="8" original="Put pan on stovetop burner" ></item>
+<item slot="9" original="Turn burner to medium heat" ></item>
+<item slot="10" original="Put egg mixture into pan" ></item>
+<item slot="11" original="Stir repeatedly until eggs begin clumping" ></item>
+<item slot="12" original="Continue mixing until eggs are formed and no longer look wet" ></item>
+<item slot="13" original="Remove from heat" ></item>
+<item slot="14" original="Put on plate" ></item>
+<item slot="15" original="Wait to cool and enjoy" ></item>
+</script><script id="43" source="2"><item slot="1" original="Put pan on stove" ></item>
+<item slot="2" original="Turn stove on" ></item>
+<item slot="3" original="Put oil in pan" ></item>
+<item slot="4" original="Open Fridge" ></item>
+<item slot="5" original="Get eggs from fridge" ></item>
+<item slot="6" original="Crack eggs into bowl" ></item>
+<item slot="7" original="Mix eggs" ></item>
+<item slot="8" original="Pour Eggs into pan" ></item>
+<item slot="9" original="Cook eggs" ></item>
+<item slot="10" original="Transfer eggs from pan to plate" ></item>
+<item slot="11" original="Turn off stove" ></item>
+<item slot="12" original="Wash Pan" ></item>
+</script><script id="44" source="2"><item slot="1" original="Put pan on stove" ></item>
+<item slot="2" original="Turn on burner" ></item>
+<item slot="3" original="Get eggs from fridge" ></item>
+<item slot="4" original="Crack eggs into bowl" ></item>
+<item slot="5" original="Whisk eggs" ></item>
+<item slot="6" original="Put eggs in pan" ></item>
+<item slot="7" original="Cook until done" ></item>
+</script><script id="45" source="2"><item slot="1" original="Turn on the stove to heat up a frying pan" ></item>
+<item slot="2" original="Take eggs and crack them into a bowl" ></item>
+<item slot="3" original="Add a pinch of salt and pepper to the bowl" ></item>
+<item slot="4" original="Add several tablespoons of water to the bowl" ></item>
+<item slot="5" original="Mix the bowl with a spoon" ></item>
+<item slot="6" original="Pour the bowl into the frying pan" ></item>
+<item slot="7" original="Use a spatula to move the egg around so that the liquid egg mix cooks evenly" ></item>
+<item slot="8" original="When the eggs are fully cooked put them on a plate" ></item>
+</script><script id="46" source="2"><item slot="1" original="Get out eggs, salt, pepper, fork, butter and a frying pan." ></item>
+<item slot="2" original="Place frying pan on burner on oven." ></item>
+<item slot="3" original="Add approximately 1 tablespoon of butter to frying pan." ></item>
+<item slot="4" original="Put the burner to high heat." ></item>
+<item slot="5" original="Wait for butter to melt." ></item>
+<item slot="6" original="Crack egg and add to frying pan." ></item>
+<item slot="7" original="Season with salt and pepper." ></item>
+<item slot="8" original="Use fork to mix the egg, salt and pepper." ></item>
+<item slot="9" original="Reduce heat to medium-high." ></item>
+<item slot="10" original="Use fork to stir egg." ></item>
+<item slot="11" original="When egg is firm and not loose, remove from heat." ></item>
+</script><script id="47" source="2"><item slot="1" original="Go to kitchen." ></item>
+<item slot="2" original="Open fridge." ></item>
+<item slot="3" original="Take out eggs." ></item>
+<item slot="4" original="Get pan." ></item>
+<item slot="5" original="Spray pan." ></item>
+<item slot="6" original="Put on burner." ></item>
+<item slot="7" original="Turn on burner." ></item>
+<item slot="8" original="Crack 5 eggs onto pan." ></item>
+<item slot="9" original="Stir around." ></item>
+</script><script id="48" source="2"><item slot="1" original="Take eggs from the container" ></item>
+<item slot="2" original="Crack them open into a small bowl" ></item>
+<item slot="3" original="Whisk the eggs until they're creamy and fluffy" ></item>
+<item slot="4" original="Pour them into a heated and oiled pan" ></item>
+<item slot="5" original="Let them cook and stir them occasionally to keep them crumbled and fluffy" ></item>
+<item slot="6" original="Serve on a plate and add salt or pepper" ></item>
+</script><script id="49" source="2"><item slot="1" original="Put pan on stove" ></item>
+<item slot="2" original="Turn burner on" ></item>
+<item slot="3" original="Mix eggs in bowl" ></item>
+<item slot="4" original="Wait until pan is heated" ></item>
+<item slot="5" original="Add eggs" ></item>
+<item slot="6" original="Scramble eggs while they cook" ></item>
+<item slot="7" original="Put eggs on plate" ></item>
+</script><script id="50" source="2"><item slot="1" original="heat pan" ></item>
+<item slot="2" original="mix eggs up" ></item>
+<item slot="3" original="oil pan" ></item>
+<item slot="4" original="add eggs to pan" ></item>
+<item slot="5" original="mix eggs" ></item>
+<item slot="6" original="remove from pan when done" ></item>
+</script><script id="51" source="2"><item slot="1" original="Take eggs" ></item>
+<item slot="2" original="Crack open eggs" ></item>
+<item slot="3" original="Mix the eggs in a bowl" ></item>
+<item slot="4" original="Get a pan" ></item>
+<item slot="5" original="Apply oil on the pan" ></item>
+<item slot="6" original="Pour the mixed egg into pan" ></item>
+<item slot="7" original="Turn on the fire" ></item>
+<item slot="8" original="Mix liquid egg until solid" ></item>
+<item slot="9" original="Add some salt and pepper" ></item>
+</script><script id="52" source="2"><item slot="1" original="Get oil and salt out of pantry" ></item>
+<item slot="2" original="Get pan out of pantry" ></item>
+<item slot="3" original="Get egg out of refrigerator" ></item>
+<item slot="4" original="Get bowl out of pantry" ></item>
+<item slot="5" original="Crack eggs into bowl" ></item>
+<item slot="6" original="Put salt into bowl" ></item>
+<item slot="7" original="Scramble egg with whisk or fork in the bowl" ></item>
+<item slot="8" original="Heat pan on stove" ></item>
+<item slot="9" original="Pour oil onto pan" ></item>
+<item slot="10" original="Pour egg mix into pan" ></item>
+<item slot="11" original="Wait to heat" ></item>
+<item slot="12" original="Scramble while heating" ></item>
+<item slot="13" original="Lightly put pepper into scrambled eggs" ></item>
+<item slot="14" original="Turn off gas on stove" ></item>
+<item slot="15" original="Pour eggs into plate" ></item>
+<item slot="16" original="Eat" ></item>
+</script><script id="53" source="2"><item slot="1" original="get pan from cupboard" ></item>
+<item slot="2" original="get eggs from fridge" ></item>
+<item slot="3" original="spray pan with Pam" ></item>
+<item slot="4" original="crack eggs" ></item>
+<item slot="5" original="put eggs in pan and scamble and fry" ></item>
+<item slot="6" original="eat and enjoy" ></item>
+</script><script id="54" source="2"><item slot="1" original="Get supplies out of refrigerator" ></item>
+<item slot="2" original="Crack eggs into bowl" ></item>
+<item slot="3" original="Add milk, salt, and pepper" ></item>
+<item slot="4" original="Whisk briskly until foamy" ></item>
+<item slot="5" original="Put oil or butter into the pan" ></item>
+<item slot="6" original="Turn stove on low" ></item>
+<item slot="7" original="Wait a moment for pan to heat up" ></item>
+<item slot="8" original="Pour eggs in" ></item>
+<item slot="9" original="Stir constantly to ensure best cooking" ></item>
+<item slot="10" original="When eggs are firm, turn off heat" ></item>
+<item slot="11" original="Put eggs onto plate" ></item>
+</script><script id="55" source="2"><item slot="1" original="Get frying pan from cabinet" ></item>
+<item slot="2" original="Turn on stove" ></item>
+<item slot="3" original="Put oil into frying pan" ></item>
+<item slot="4" original="Get eggs from refrigerator" ></item>
+<item slot="5" original="Crack eggs into pan" ></item>
+<item slot="6" original="Get spatula from drawer" ></item>
+<item slot="7" original="Mix eggs up with spatula" ></item>
+<item slot="8" original="Constantly tend eggs until done" ></item>
+<item slot="9" original="Put eggs onto plate" ></item>
+</script><script id="56" source="2"><item slot="1" original="turn on griddle" ></item>
+<item slot="2" original="melt butter on griddle" ></item>
+<item slot="3" original="crack eggs and put them on griddle" ></item>
+<item slot="4" original="scramble eggs as they cook" ></item>
+<item slot="5" original="add cheese to cooking eggs" ></item>
+<item slot="6" original="add salt and pepper to eggs" ></item>
+<item slot="7" original="remove cooked eggs from griddle" ></item>
+<item slot="8" original="plate cooked eggs" ></item>
+<item slot="9" original="turn griddle off" ></item>
+</script><script id="57" source="2"><item slot="1" original="Get eggs." ></item>
+<item slot="2" original="Crack eggs into a bowl." ></item>
+<item slot="3" original="Throw away egg shells." ></item>
+<item slot="4" original="Get a fork and stir the eggs in the bowl really hard until everything is yellow." ></item>
+<item slot="5" original="Put a pan on the stove on medium low." ></item>
+<item slot="6" original="Spray the pan with cooking spray." ></item>
+<item slot="7" original="Pour the eggs in the pan." ></item>
+<item slot="8" original="Stir the eggs in the pan while they are cooking." ></item>
+<item slot="9" original="Remove from heat once eggs are cooked through and no longer liquid." ></item>
+<item slot="10" original="Put eggs in a bowl or dish to serve from." ></item>
+</script><script id="58" source="2"><item slot="1" original="Get bowl." ></item>
+<item slot="2" original="Crack eggs into bowl." ></item>
+<item slot="3" original="Add milk salt and pepper." ></item>
+<item slot="4" original="Whisk it up." ></item>
+<item slot="5" original="Put in warm frying pan on stove." ></item>
+<item slot="6" original="Remove cooked eggs from pan." ></item>
+<item slot="7" original="Eat breakfast." ></item>
+</script><script id="59" source="2"><item slot="1" original="Obtain eggs" ></item>
+<item slot="2" original="Obtain Pan" ></item>
+<item slot="3" original="Place pan on stove and heat up" ></item>
+<item slot="4" original="Crack egg and place in pan" ></item>
+<item slot="5" original="Stir the egg around in the pan as it cooks" ></item>
+<item slot="6" original="After it is cooked, turn off pan and let it cool a bit" ></item>
+<item slot="7" original="Place any salt or pepper on eggs if desired" ></item>
+<item slot="8" original="Place eggs on plate" ></item>
+<item slot="9" original="Eat!" ></item>
+</script><script id="60" source="2"><item slot="1" original="get pan out of cupboard" ></item>
+<item slot="2" original="get butter and eggs out of fridge" ></item>
+<item slot="3" original="place pan on stove top" ></item>
+<item slot="4" original="turn on burner" ></item>
+<item slot="5" original="put a teaspoon of butter into the pan" ></item>
+<item slot="6" original="grab a bowl" ></item>
+<item slot="7" original="crack eggs into bowl" ></item>
+<item slot="8" original="get a fork out of drawer." ></item>
+<item slot="9" original="whisk eggs with fork" ></item>
+<item slot="10" original="put a pinch of salt and pepper in eggs" ></item>
+<item slot="11" original="wait for butter to melt" ></item>
+<item slot="12" original="pour eggs into pan" ></item>
+<item slot="13" original="grab a spatula" ></item>
+<item slot="14" original="slowly move eggs around in till a pretty yellow" ></item>
+<item slot="15" original="grab a plate" ></item>
+<item slot="16" original="put eggs onto plate" ></item>
+</script><script id="61" source="2"><item slot="1" original="get eggs out of refridgerator" ></item>
+<item slot="2" original="grab some pam" ></item>
+<item slot="3" original="grab a pan" ></item>
+<item slot="4" original="spray a pan with pam, dont go light" ></item>
+<item slot="5" original="mix up eggs into a bowl" ></item>
+<item slot="6" original="start the stove and wait till it gets hot enough that the pam starts pool" ></item>
+<item slot="7" original="add eggs" ></item>
+<item slot="8" original="wait appx 1-3 minutes for bottom of eggs to harden a little" ></item>
+<item slot="9" original="mix it all around" ></item>
+<item slot="10" original="keep turning it until it is lightly golden brown" ></item>
+<item slot="11" original="pour onto plate" ></item>
+<item slot="12" original="serve" ></item>
+</script><script id="62" source="2"><item slot="1" original="get out bowl" ></item>
+<item slot="2" original="put pan on stove" ></item>
+<item slot="3" original="turn pan on medium heat" ></item>
+<item slot="4" original="put butter in pan" ></item>
+<item slot="5" original="get out eggs" ></item>
+<item slot="6" original="crack eggs into bowl" ></item>
+<item slot="7" original="ad salt and pepper to eggs" ></item>
+<item slot="8" original="whisk eggs" ></item>
+<item slot="9" original="pour eggs into pan" ></item>
+<item slot="10" original="use spatula to work eggs around pan" ></item>
+<item slot="11" original="wait for eggs to cook to desired consistency" ></item>
+<item slot="12" original="get out plate" ></item>
+<item slot="13" original="put eggs on plate" ></item>
+<item slot="14" original="eat" ></item>
+</script><script id="63" source="2"><item slot="1" original="GET SOME EGGS OUT OF THE FRIDGE" ></item>
+<item slot="2" original="CRACK THE EGGS INTO A BOWL" ></item>
+<item slot="3" original="ADD SALT AND PEPPER" ></item>
+<item slot="4" original="ADD A SPLASH OF MILK" ></item>
+<item slot="5" original="WHISK THE EGGS UNTIL YOLK AND WHITES COMBINED" ></item>
+<item slot="6" original="PUT INTO THE MICROWAVE" ></item>
+<item slot="7" original="MIX EVERY FEW SECONDS UNTIL SCRAMBLED" ></item>
+</script><script id="64" source="2"><item slot="1" original="obtain frying pan" ></item>
+<item slot="2" original="place frying pan on stove top" ></item>
+<item slot="3" original="turn on burner to medium low" ></item>
+<item slot="4" original="obtain eggs" ></item>
+<item slot="5" original="crack eggs into bowel" ></item>
+<item slot="6" original="place fork into bowel and mix eggs into a scramble" ></item>
+<item slot="7" original="place egg mixture into frying pan" ></item>
+<item slot="8" original="cook eggs to desired consistency" ></item>
+</script><script id="65" source="2"><item slot="1" original="Grab a bowl" ></item>
+<item slot="2" original="Get as many eggs as you want" ></item>
+<item slot="3" original="Crack egg on side of bowl" ></item>
+<item slot="4" original="Empty egg into bowl" ></item>
+<item slot="5" original="Add milk or half and half" ></item>
+<item slot="6" original="Whisk with fork or other utensil until egg is frothy" ></item>
+<item slot="7" original="Heat frying pan" ></item>
+<item slot="8" original="Add oil or butter" ></item>
+<item slot="9" original="Empty contents of bowl into frying pan" ></item>
+<item slot="10" original="Cook until done" ></item>
+</script><script id="66" source="2"><item slot="1" original="Get large bowl" ></item>
+<item slot="2" original="Get whisk" ></item>
+<item slot="3" original="Get eggs out of refrigerator" ></item>
+<item slot="4" original="Crack eggs into bowl" ></item>
+<item slot="5" original="Add small bit of water to bowl" ></item>
+<item slot="6" original="Use whisk to mix eggs" ></item>
+<item slot="7" original="Get frying pan from cupboard" ></item>
+<item slot="8" original="Turn on heat on oven burner" ></item>
+<item slot="9" original="Place pan on oven burner" ></item>
+<item slot="10" original="Pour mixed eggs into frying pan" ></item>
+<item slot="11" original="Stir eggs as they cook" ></item>
+<item slot="12" original="Place eggs on plate" ></item>
+</script><script id="67" source="2"><item slot="1" original="Heat butter in shallow pan on stove." ></item>
+<item slot="2" original="Beat together three eggs and a little cream." ></item>
+<item slot="3" original="Add the egg mixture to the hot pan." ></item>
+<item slot="4" original="Let the eggs cook for a minute and then start to stir slowly." ></item>
+<item slot="5" original="Keep stirring to keep the eggs from sticking." ></item>
+<item slot="6" original="Once the egg mixture turns to semi-dry curds, remove from heat." ></item>
+<item slot="7" original="Place eggs on plate." ></item>
+<item slot="8" original="Add salt and pepper as desired." ></item>
+</script><script id="68" source="2"><item slot="1" original="Get frying pan." ></item>
+<item slot="2" original="Put frying pan on the stove burner." ></item>
+<item slot="3" original="Turn the burner on to low setting." ></item>
+<item slot="4" original="Add oil or butter to the pan." ></item>
+<item slot="5" original="Get a bowl and a fork." ></item>
+<item slot="6" original="Get two eggs." ></item>
+<item slot="7" original="Crack eggs on edge of the bowl." ></item>
+<item slot="8" original="Empty eggs into bowl without the shells." ></item>
+<item slot="9" original="Throw away egg shells." ></item>
+<item slot="10" original="Use the fork to mix the eggs in the bowl." ></item>
+<item slot="11" original="Pour the bowl contents into the pan." ></item>
+<item slot="12" original="Cook for several minutes until eggs have solid texture." ></item>
+<item slot="13" original="Empty pan onto plate using the fork." ></item>
+</script><script id="69" source="2"><item slot="1" original="Turn on the burner." ></item>
+<item slot="2" original="Put a pan on the burner." ></item>
+<item slot="3" original="Go to the fridge." ></item>
+<item slot="4" original="Take an egg out of the fridge." ></item>
+<item slot="5" original="Close the fridge door." ></item>
+<item slot="6" original="Crack the egg on the pan." ></item>
+<item slot="7" original="Let the inside of the egg fall into the pan." ></item>
+<item slot="8" original="Throw away the shell." ></item>
+<item slot="9" original="Push the egg side to side with a spatula." ></item>
+<item slot="10" original="Cook until the egg is no longer translucent." ></item>
+<item slot="11" original="Turn off burner." ></item>
+</script><script id="70" source="2"><item slot="1" original="Get milk and eggs out of ice box." ></item>
+<item slot="2" original="Get a bowl." ></item>
+<item slot="3" original="Crack eggs into bowl." ></item>
+<item slot="4" original="Add some milk." ></item>
+<item slot="5" original="Get fork out of drawer." ></item>
+<item slot="6" original="Stir eggs." ></item>
+<item slot="7" original="Get frying pan out." ></item>
+<item slot="8" original="Heat pan." ></item>
+<item slot="9" original="Put eggs in pan." ></item>
+<item slot="10" original="Stir with spatula." ></item>
+<item slot="11" original="Add salt." ></item>
+<item slot="12" original="Serve on plate." ></item>
+<item slot="13" original="Eat eggs." ></item>
+</script><script id="71" source="2"><item slot="1" original="Get a skillet" ></item>
+<item slot="2" original="Place skillet on stove top" ></item>
+<item slot="3" original="Turn stove on medium heat" ></item>
+<item slot="4" original="Place butter or oil in skillet if skilled isn't nonstick" ></item>
+<item slot="5" original="Get two eggs" ></item>
+<item slot="6" original="Get a spoon or fork" ></item>
+<item slot="7" original="Crack eggs on the side of skillet and drop insides into the skilled" ></item>
+<item slot="8" original="Put salt, pepper or other seasonings in eggs" ></item>
+<item slot="9" original="Scramble eggs with fork or spoon" ></item>
+</script><script id="72" source="2"><item slot="1" original="Take out the eggs" ></item>
+<item slot="2" original="Get a bowl" ></item>
+<item slot="3" original="Crack the eggs into the bowl" ></item>
+<item slot="4" original="Beat eggs until all yolks are broken and smooth." ></item>
+<item slot="5" original="Pour into preheated skillet." ></item>
+<item slot="6" original="Cook over medium heat until all eggs are done" ></item>
+<item slot="7" original="Remove from skillet and eat." ></item>
+</script><script id="73" source="2"><item slot="1" original="Get a pan" ></item>
+<item slot="2" original="Put the pan on the stove" ></item>
+<item slot="3" original="Turn the stove to high heat" ></item>
+<item slot="4" original="Let the pan get warm" ></item>
+<item slot="5" original="Get two eggs" ></item>
+<item slot="6" original="Break two eggs into a bowl" ></item>
+<item slot="7" original="Beat eggs with a fork" ></item>
+<item slot="8" original="Spray pan with cooking spray" ></item>
+<item slot="9" original="Keeping raking eggs from outer edge to middle" ></item>
+<item slot="10" original="Take pan off stove when eggs are done" ></item>
+<item slot="11" original="Turn off stove" ></item>
+<item slot="12" original="Transfer eggs to plate" ></item>
+<item slot="13" original="Put pan in the sink" ></item>
+</script><script id="74" source="2"><item slot="1" original="Get eggs from refrigerator" ></item>
+<item slot="2" original="Put pan on stove" ></item>
+<item slot="3" original="Turn stove on low" ></item>
+<item slot="4" original="Add butter to pan" ></item>
+<item slot="5" original="Get a bowl" ></item>
+<item slot="6" original="Crack eggs into the bowl" ></item>
+<item slot="7" original="Add salt and pepper to eggs" ></item>
+<item slot="8" original="Add milk or water to eggs" ></item>
+<item slot="9" original="Whisk eggs" ></item>
+<item slot="10" original="Pour eggs in pan" ></item>
+<item slot="11" original="Let eggs cook slowly" ></item>
+<item slot="12" original="Occasionally push eggs around pan so runny parts touch the surface" ></item>
+<item slot="13" original="Add cheese if desired" ></item>
+<item slot="14" original="Turn stove off" ></item>
+<item slot="15" original="Transfer eggs to plate" ></item>
+</script><script id="75" source="2"><item slot="1" original="Pull eggs out of the fridge." ></item>
+<item slot="2" original="Pull out a bowl." ></item>
+<item slot="3" original="Crack eggs in a bowl." ></item>
+<item slot="4" original="Whisk eggs." ></item>
+<item slot="5" original="Pour into a pan." ></item>
+<item slot="6" original="Scramble." ></item>
+</script><script id="76" source="2"><item slot="1" original="Put pan on stove" ></item>
+<item slot="2" original="Turn stove on to medium heat" ></item>
+<item slot="3" original="Take out as many eggs as you want" ></item>
+<item slot="4" original="Crack into bowl" ></item>
+<item slot="5" original="Whisk eggs in bowl" ></item>
+<item slot="6" original="Add milk to bowl of eggs" ></item>
+<item slot="7" original="Spray hot pan with cooking spray" ></item>
+<item slot="8" original="Add egg and milk mixture to pan" ></item>
+<item slot="9" original="Cook eggs for about 5 minutes" ></item>
+<item slot="10" original="Add some cheese to eggs" ></item>
+<item slot="11" original="stir eggs around" ></item>
+<item slot="12" original="Turn off stove" ></item>
+<item slot="13" original="Pour eggs onto plate" ></item>
+</script><script id="77" source="2"><item slot="1" original="Crack two eggs into bowl" ></item>
+<item slot="2" original="Get whisk" ></item>
+<item slot="3" original="Whisk eggs until well scrambled" ></item>
+<item slot="4" original="Put frying pan on stove" ></item>
+<item slot="5" original="Turn heat to medium" ></item>
+<item slot="6" original="Pour eggs into pan" ></item>
+<item slot="7" original="Get spatula" ></item>
+<item slot="8" original="Use spatula to flip and cut apart eggs as they cook" ></item>
+<item slot="9" original="Once thoroughly cooked, move eggs to plate" ></item>
+</script><script id="78" source="2"><item slot="1" original="Get eggs from refrigerator." ></item>
+<item slot="2" original="Crack eggs into a mixing bowl." ></item>
+<item slot="3" original="Whisk eggs, breaking yolks." ></item>
+<item slot="4" original="Add a small amount of milk to the whisked eggs." ></item>
+<item slot="5" original="Add salt and pepper to whisked eggs and milk.Get a small frying pan out." ></item>
+<item slot="6" original="Heat pan with medium-high heat on stove top." ></item>
+<item slot="7" original="Melt a small amount of butter in pan." ></item>
+<item slot="8" original="Add whisked egg mixture to pan." ></item>
+<item slot="9" original="To scramble, stir eggs as they cook." ></item>
+<item slot="10" original="Eggs are cooked when they are no longer runny." ></item>
+</script><script id="79" source="2"><item slot="1" original="Remove egg carton from refrigerator." ></item>
+<item slot="2" original="Open egg carton." ></item>
+<item slot="3" original="Choose how many eggs you are going to scramble." ></item>
+<item slot="4" original="Turn eye of stove on." ></item>
+<item slot="5" original="Set pan or skillet on eye of stove." ></item>
+<item slot="6" original="Allow pan to heat while continuing to prepare eggs." ></item>
+<item slot="7" original="Get a bowl." ></item>
+<item slot="8" original="Crack eggs open into bowl." ></item>
+<item slot="9" original="Add a little water or milk to eggs, about 1 teaspoon." ></item>
+<item slot="10" original="Add salt and pepper to taste." ></item>
+<item slot="11" original="Beat vigorously with a fork or whisk till mixed well." ></item>
+<item slot="12" original="Spray pan with non stick spray, can add butter as well if you choose." ></item>
+<item slot="13" original="Add eggs to pan and swirl around till evenly spread in pan." ></item>
+<item slot="14" original="When eggs start to bubble around the edges, gently scrape with spatula." ></item>
+<item slot="15" original="Repeat swirl till eggs are cooked through." ></item>
+<item slot="16" original="Enjoy!!" ></item>
+</script><script id="80" source="2"><item slot="1" original="get the eggs needed" ></item>
+<item slot="2" original="get the tools and pan needed" ></item>
+<item slot="3" original="start the stove" ></item>
+<item slot="4" original="put butter into the warm pan" ></item>
+<item slot="5" original="crack eggs into pan" ></item>
+<item slot="6" original="mix to satisfaction" ></item>
+<item slot="7" original="when done pour on plate" ></item>
+<item slot="8" original="let it cool down and enjoy" ></item>
+</script><script id="81" source="2"><item slot="1" original="Get eggs from refrigerator" ></item>
+<item slot="2" original="Crack eggs in a bowl" ></item>
+<item slot="3" original="Add salt and pepper to eggs" ></item>
+<item slot="4" original="Add small amount of milk" ></item>
+<item slot="5" original="Add teaspoon of butter" ></item>
+<item slot="6" original="Beat vigorously in bowl" ></item>
+<item slot="7" original="Turn on stove" ></item>
+<item slot="8" original="Heat fry pan" ></item>
+<item slot="9" original="Add butter to fry pan" ></item>
+<item slot="10" original="Add eggs and scramble to taste" ></item>
+<item slot="11" original="Add cheese" ></item>
+<item slot="12" original="Remove from pan" ></item>
+<item slot="13" original="Put in plate" ></item>
+<item slot="14" original="Eat with toast" ></item>
+</script><script id="82" source="2"><item slot="1" original="Beat eggs" ></item>
+<item slot="2" original="Cut Onion and green chilly" ></item>
+<item slot="3" original="Mix eggs with onion and green chilly" ></item>
+<item slot="4" original="Add salt to the mixture" ></item>
+<item slot="5" original="Heat oil in a pan" ></item>
+<item slot="6" original="Add the mixture to the pan" ></item>
+<item slot="7" original="Cook in low flame" ></item>
+<item slot="8" original="Stir the mixture" ></item>
+<item slot="9" original="Switch off flame when done" ></item>
+<item slot="10" original="Take out scrambled egg from the stove" ></item>
+</script><script id="83" source="2"><item slot="1" original="Place frying pan on stove" ></item>
+<item slot="2" original="Turn on burner" ></item>
+<item slot="3" original="Melt a little butter in pan" ></item>
+<item slot="4" original="Crack desired number of eggs in small bowl" ></item>
+<item slot="5" original="Add a little milk" ></item>
+<item slot="6" original="Beat eggs and milk with a fork or whisk" ></item>
+<item slot="7" original="Pour egg mixture into pan" ></item>
+<item slot="8" original="As eggs get firm, break apart with spatula" ></item>
+<item slot="9" original="Continue cooking eggs until no longer runny" ></item>
+<item slot="10" original="Turn off burner" ></item>
+<item slot="11" original="Place eggs on plate" ></item>
+</script><script id="84" source="2"><item slot="1" original="Crack eggs into a bowl" ></item>
+<item slot="2" original="Whisk eggs" ></item>
+<item slot="3" original="add salt and pepper" ></item>
+<item slot="4" original="Heat up frying pan on stove" ></item>
+<item slot="5" original="Add some butter to pan" ></item>
+<item slot="6" original="Once butter is melted add egg mixture" ></item>
+<item slot="7" original="Saute eggs as they cook until they are done" ></item>
+<item slot="8" original="Put on plates" ></item>
+</script><script id="85" source="2"><item slot="1" original="Put pan on burner" ></item>
+<item slot="2" original="Turn on burner" ></item>
+<item slot="3" original="Crack eggs into bowl" ></item>
+<item slot="4" original="Discard eggshells" ></item>
+<item slot="5" original="Add salt and pepper to eggs" ></item>
+<item slot="6" original="Mix eggs with whisk or fork" ></item>
+<item slot="7" original="Pour eggs into pan" ></item>
+<item slot="8" original="Move eggs constantly in pan until cooked" ></item>
+<item slot="9" original="Turn off burner" ></item>
+<item slot="10" original="Serve and eat eggs" ></item>
+<item slot="11" original="Clean up" ></item>
+</script><script id="86" source="2"><item slot="1" original="Remove desired number of eggs from fridge" ></item>
+<item slot="2" original="Get pyrex measuring cup" ></item>
+<item slot="3" original="Break eggs into cup" ></item>
+<item slot="4" original="Whip with fork" ></item>
+<item slot="5" original="Add salt and pepper" ></item>
+<item slot="6" original="Get skillet from cupboard" ></item>
+<item slot="7" original="Pour oil into skillet" ></item>
+<item slot="8" original="Turn on burner to heat oil" ></item>
+<item slot="9" original="Pour eggs into skillet" ></item>
+<item slot="10" original="Stir eggs with spatula until cooked" ></item>
+<item slot="11" original="Turn off gas" ></item>
+<item slot="12" original="scoop eggs on to plates" ></item>
+<item slot="13" original="Wash skillet" ></item>
+</script><script id="87" source="2"><item slot="1" original="Heat oil in a pan" ></item>
+<item slot="2" original="Add whole eggs in a bowl" ></item>
+<item slot="3" original="Add onions and tomatoes" ></item>
+<item slot="4" original="Add salt and pepper" ></item>
+<item slot="5" original="Stir the mixture nicely" ></item>
+<item slot="6" original="Pour the mixture into the pan" ></item>
+<item slot="7" original="Scramble the mixture as it begins to cook" ></item>
+<item slot="8" original="Serve hot" ></item>
+</script><script id="88" source="2"><item slot="1" original="Get eggs from refrigerator" ></item>
+<item slot="2" original="Get a pan (cast iron is most desired) out" ></item>
+<item slot="3" original="Put oil into pan" ></item>
+<item slot="4" original="Heat pan" ></item>
+<item slot="5" original="While pan is warming up, crack eggs into bowl" ></item>
+<item slot="6" original="Pour in some milk into bowl, depending on your tastes." ></item>
+<item slot="7" original="Pour some water into bowl, depending on your tastes." ></item>
+<item slot="8" original="With fork, whisk egg/milk mixture" ></item>
+<item slot="9" original="Once oil is sizzling, pour egg/milk mixture into pan" ></item>
+<item slot="10" original="Lower heat on pan" ></item>
+<item slot="11" original="Stir periodically" ></item>
+<item slot="12" original="When eggs harden to desired consistency, remove scrambled eggs from pan." ></item>
+<item slot="13" original="Serve!" ></item>
+</script><script id="89" source="2"><item slot="1" original="Place a small skillet on the burner of the stove." ></item>
+<item slot="2" original="Crack three eggs into a bowl." ></item>
+<item slot="3" original="Whip the eggs while they are in the bowl." ></item>
+<item slot="4" original="Put a pat of butter into the skillet" ></item>
+<item slot="5" original="Turn on the burner to medium-low heat." ></item>
+<item slot="6" original="Wait for the butter to melt." ></item>
+<item slot="7" original="Add the whipped eggs to the skillet." ></item>
+<item slot="8" original="Gently stir the eggs until the desired firmness is reached." ></item>
+<item slot="9" original="Empty the skillet contents into a plate." ></item>
+<item slot="10" original="Season to taste." ></item>
+</script><script id="90" source="2"><item slot="1" original="Get a frying pan" ></item>
+<item slot="2" original="Put the frying pan on the stove" ></item>
+<item slot="3" original="Take out eggs" ></item>
+<item slot="4" original="Select eggs" ></item>
+<item slot="5" original="Heat the frying pan" ></item>
+<item slot="6" original="Add oil or butter" ></item>
+<item slot="7" original="Crack eggs into pan" ></item>
+<item slot="8" original="Wait for eggs to cook" ></item>
+<item slot="9" original="Put eggs on a plate" ></item>
+</script><script id="91" source="2"><item slot="1" original="Put pan on stove." ></item>
+<item slot="2" original="Heat pan to low temperature." ></item>
+<item slot="3" original="Put butter in pan to melt." ></item>
+<item slot="4" original="Take eggs out of refrigerator." ></item>
+<item slot="5" original="Crack eggs into bowl." ></item>
+<item slot="6" original="Add a little water to the bowl." ></item>
+<item slot="7" original="Beat eggs." ></item>
+<item slot="8" original="Pour eggs into pan." ></item>
+<item slot="9" original="Let eggs sit for a minute." ></item>
+<item slot="10" original="Stir eggs until they're cooked." ></item>
+<item slot="11" original="Turn off stove." ></item>
+<item slot="12" original="Put eggs on plate." ></item>
+</script><script id="92" source="2"><item slot="1" original="Get eggs from fridge" ></item>
+<item slot="2" original="Get bowl" ></item>
+<item slot="3" original="Get a fork" ></item>
+<item slot="4" original="Crack eggs into the bowl" ></item>
+<item slot="5" original="Scramble the eggs with the fork" ></item>
+<item slot="6" original="Get a pan" ></item>
+<item slot="7" original="Get some oil" ></item>
+<item slot="8" original="Put the pan on the stove" ></item>
+<item slot="9" original="Put some oil on the stove" ></item>
+<item slot="10" original="Turn on the stove" ></item>
+<item slot="11" original="Pour the eggs onto the stove" ></item>
+<item slot="12" original="Mix the eggs around in the pan" ></item>
+<item slot="13" original="Turn off the stove when the eggs are mostly cooked" ></item>
+</script><script id="93" source="2"><item slot="1" original="Get frying pan" ></item>
+<item slot="2" original="Put on burner" ></item>
+<item slot="3" original="Turn burner on medium high" ></item>
+<item slot="4" original="Put oil into pan" ></item>
+<item slot="5" original="Let pan get hot" ></item>
+<item slot="6" original="Get eggs" ></item>
+<item slot="7" original="Crack eggs in bowl" ></item>
+<item slot="8" original="Add some milk" ></item>
+<item slot="9" original="Add garlic salt" ></item>
+<item slot="10" original="Whip eggs with fork" ></item>
+<item slot="11" original="Pour eggs in pan" ></item>
+<item slot="12" original="Cook eggs" ></item>
+</script><script id="94" source="2"><item slot="1" original="Take out pan, butter and eggs" ></item>
+<item slot="2" original="Put butter in pan" ></item>
+<item slot="3" original="Turn the heat on under the pan" ></item>
+<item slot="4" original="Let butter melt" ></item>
+<item slot="5" original="Crack eggs into pan" ></item>
+<item slot="6" original="Use spatula to scramble eggs" ></item>
+</script><script id="95" source="2"><item slot="1" original="Crack two eggs into small mixing bowl" ></item>
+<item slot="2" original="Add a small amount of milk, and salt and pepper to taste" ></item>
+<item slot="3" original="Turn burner on to 4 or 5" ></item>
+<item slot="4" original="Select saucepan" ></item>
+<item slot="5" original="Place pan on hot burner" ></item>
+<item slot="6" original="Melt one tablespoon of clarified butter in pan" ></item>
+<item slot="7" original="Pour egg mixture into pan" ></item>
+<item slot="8" original="Allow to cook slowly for a minute" ></item>
+<item slot="9" original="Scoop cooked portion from bottom with spatula" ></item>
+<item slot="10" original="Allow liquid portion to cook for a minute" ></item>
+<item slot="11" original="Repeat scooping action" ></item>
+<item slot="12" original="Continue until eggs are soft and lightly set" ></item>
+<item slot="13" original="Serve hot with toast, jam, and orange juice" ></item>
+<item slot="14" original="Eat eggs" ></item>
+</script><script id="96" source="2"><item slot="1" original="Remove eggs from fridge" ></item>
+<item slot="2" original="Open then egg carton" ></item>
+<item slot="3" original="Heat a pan on the oven" ></item>
+<item slot="4" original="Crack eggs into pan" ></item>
+<item slot="5" original="Stir the eggyolk and whites together" ></item>
+<item slot="6" original="Serve once cooked" ></item>
+</script><script id="97" source="2"><item slot="1" original="Get eggs, milk, and butter from fridge" ></item>
+<item slot="2" original="Get bowl from shelf" ></item>
+<item slot="3" original="Break two eggs into bowl" ></item>
+<item slot="4" original="Pour a little milk into bowl" ></item>
+<item slot="5" original="Whisk together with fork" ></item>
+<item slot="6" original="Get a pan" ></item>
+<item slot="7" original="Turn on stovetop" ></item>
+<item slot="8" original="Melt butter in pan" ></item>
+<item slot="9" original="Add eggs to pan" ></item>
+<item slot="10" original="Turn off stovetop" ></item>
+<item slot="11" original="Whisk eggs in pan" ></item>
+<item slot="12" original="Transfer cooked eggs to plate" ></item>
+</script><script id="98" source="2"><item slot="1" original="Open fridge" ></item>
+<item slot="2" original="Take eggs out" ></item>
+<item slot="3" original="Crack eggs into bowl" ></item>
+<item slot="4" original="Wisk eggs" ></item>
+<item slot="5" original="Put pan on stove" ></item>
+<item slot="6" original="Put stove on medium heat" ></item>
+<item slot="7" original="Pour beaten eggs into pan" ></item>
+<item slot="8" original="Stir eggs until cooked" ></item>
+</script><script id="99" source="2"><item slot="1" original="turn on stove top" ></item>
+<item slot="2" original="get skillet out" ></item>
+<item slot="3" original="place skillet on stop top to heat up" ></item>
+<item slot="4" original="crack eggs in a separate bowl" ></item>
+<item slot="5" original="add butter, salt, and pepper to eggs" ></item>
+<item slot="8" original="beat eggs" ></item>
+<item slot="9" original="pour eggs in hot skillet" ></item>
+<item slot="10" original="scramble eggs until done" ></item>
+</script></scripts>

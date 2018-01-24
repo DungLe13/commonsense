@@ -1,0 +1,237 @@
+<scripts>
+<label type="PARAPHRASE" event="other_decide">
+<item source="2" script="23" slot="1" total_slots="10" original="choose the route you want to take"></item>
+
+</label>
+<label type="PARAPHRASE" event="check_time-table">
+<item source="2" script="19" slot="1" total_slots="7" original="Check to bus schedule to see when the bus is running."></item>
+<item source="2" script="20" slot="1" total_slots="6" original="Find bus schedule information"></item>
+<item source="2" script="28" slot="1" total_slots="6" original="Look at bus schedule."></item>
+<item source="2" script="28" slot="2" total_slots="6" original="Decide what time you need to arrive at bus stop."></item>
+<item source="2" script="30" slot="1" total_slots="7" original="Check bus schedule"></item>
+<item source="2" script="38" slot="2" total_slots="8" original="check the schedule"></item>
+
+</label>
+<label type="PARAPHRASE" event="get_bus_stop">
+<item source="2" script="14" slot="2" total_slots="8" original="go to the nearest bus stop"></item>
+<item source="2" script="15" slot="2" total_slots="8" original="Go to bus stop."></item>
+<item source="2" script="18" slot="1" total_slots="6" original="Arrive at bus stop prior to bus's arrival."></item>
+<item source="2" script="19" slot="2" total_slots="7" original="Walk to the bus stop."></item>
+<item source="2" script="20" slot="2" total_slots="6" original="Go to the bus station"></item>
+<item source="2" script="22" slot="2" total_slots="6" original="Go to bus station"></item>
+<item source="2" script="23" slot="2" total_slots="10" original="find the bus stop"></item>
+<item source="2" script="25" slot="1" total_slots="6" original="Go to bus stop"></item>
+<item source="2" script="27" slot="1" total_slots="7" original="find the nearest bus stop"></item>
+<item source="2" script="28" slot="3" total_slots="6" original="Get to bus stop early and wait for bus."></item>
+<item source="2" script="29" slot="1" total_slots="9" original="Walk to the bus stop"></item>
+<item source="2" script="31" slot="4" total_slots="7" original="Walk to the bus stop"></item>
+<item source="2" script="32" slot="1" total_slots="5" original="walk to bus stop"></item>
+<item source="2" script="33" slot="1" total_slots="7" original="go to bus stop"></item>
+<item source="2" script="34" slot="1" total_slots="5" original="Walk to bus stop"></item>
+<item source="2" script="35" slot="1" total_slots="7" original="Go to bus stop"></item>
+<item source="2" script="38" slot="1" total_slots="8" original="go to the bus stop"></item>
+<item source="2" script="39" slot="1" total_slots="6" original="Head to the bus stop"></item>
+
+</label>
+<label type="PARAPHRASE" event="wait">
+<item source="2" script="14" slot="3" total_slots="8" original="wait for the bus"></item>
+<item source="2" script="16" slot="1" total_slots="7" original="Wait at bus stop"></item>
+<item source="2" script="17" slot="1" total_slots="8" original="Wait at bus stop"></item>
+<item source="2" script="18" slot="2" total_slots="6" original="Wait for bus to arrive."></item>
+<item source="2" script="21" slot="1" total_slots="6" original="Wait for bus at bus stop"></item>
+<item source="2" script="22" slot="3" total_slots="6" original="Wait for bus"></item>
+<item source="2" script="23" slot="3" total_slots="10" original="wait for the bus"></item>
+<item source="2" script="24" slot="1" total_slots="8" original="Wait at bus stop"></item>
+<item source="2" script="25" slot="2" total_slots="6" original="Wait for bus to arrive"></item>
+<item source="2" script="27" slot="2" total_slots="7" original="wait there for the bus to arrive"></item>
+<item source="2" script="29" slot="2" total_slots="9" original="Wait for the bus"></item>
+<item source="2" script="30" slot="2" total_slots="7" original="wait at bus stop"></item>
+<item source="2" script="31" slot="5" total_slots="7" original="Wait for the bus"></item>
+<item source="2" script="32" slot="2" total_slots="5" original="wait for bus to arrive"></item>
+<item source="2" script="33" slot="2" total_slots="7" original="wait for bus"></item>
+<item source="2" script="34" slot="2" total_slots="5" original="Wait for bus"></item>
+<item source="2" script="35" slot="2" total_slots="7" original="Wait for bus"></item>
+<item source="2" script="37" slot="1" total_slots="6" original="Wait at your bus stop"></item>
+<item source="2" script="38" slot="4" total_slots="8" original="wait"></item>
+<item source="2" script="39" slot="2" total_slots="6" original="Wait on the bench until the bus arrives"></item>
+
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item source="2" script="19" slot="3" total_slots="7" original="Make sure that you have your bus fair ready."></item>
+<item source="2" script="23" slot="4" total_slots="10" original="make sure you have exact change for fare"></item>
+<item source="2" script="32" slot="3" total_slots="5" original="have your ticket or change ready"></item>
+<item source="2" script="38" slot="3" total_slots="8" original="prepare the fare"></item>
+
+</label>
+<label type="PARAPHRASE" event="bus_comes">
+<item source="2" script="17" slot="2" total_slots="8" original="Bus arrives"></item>
+<item source="2" script="24" slot="2" total_slots="8" original="Bus arrives"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_driver_opens_door">
+<item source="2" script="16" slot="2" total_slots="7" original="When bus comes wait for doors to open"></item>
+
+</label>
+<label type="PARAPHRASE" event="board_bus">
+<item source="2" script="14" slot="4" total_slots="8" original="when it arrives get on"></item>
+<item source="2" script="15" slot="3" total_slots="8" original="When bus arrives, step on board."></item>
+<item source="2" script="16" slot="4" total_slots="7" original="Go through doors and up the steps"></item>
+<item source="2" script="17" slot="3" total_slots="8" original="Get on bus"></item>
+<item source="2" script="18" slot="3" total_slots="6" original="Board bus."></item>
+<item source="2" script="19" slot="4" total_slots="7" original="Get onto the bus when it reaches the stop."></item>
+<item source="2" script="20" slot="4" total_slots="6" original="Board the bus"></item>
+<item source="2" script="21" slot="2" total_slots="6" original="Get on bus"></item>
+<item source="2" script="22" slot="4" total_slots="6" original="Enter bus"></item>
+<item source="2" script="23" slot="5" total_slots="10" original="board bus"></item>
+<item source="2" script="24" slot="3" total_slots="8" original="Get on bus"></item>
+<item source="2" script="25" slot="3" total_slots="6" original="Get on bus"></item>
+<item source="2" script="29" slot="3" total_slots="9" original="Walk up the steps of the bus"></item>
+<item source="2" script="31" slot="6" total_slots="7" original="Get on the bus"></item>
+<item source="2" script="32" slot="4" total_slots="5" original="get on bus"></item>
+<item source="2" script="33" slot="3" total_slots="7" original="get in bus"></item>
+<item source="2" script="34" slot="3" total_slots="5" original="Get on bus"></item>
+<item source="2" script="35" slot="3" total_slots="7" original="Get on bus"></item>
+<item source="2" script="36" slot="1" total_slots="6" original="Enter bus."></item>
+<item source="2" script="37" slot="2" total_slots="6" original="Board the bus when it arrives"></item>
+<item source="2" script="38" slot="5" total_slots="8" original="get on the bus"></item>
+<item source="2" script="39" slot="3" total_slots="6" original="When the bus comes enter the bus"></item>
+
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item source="2" script="14" slot="5" total_slots="8" original="tell the driver where you are going"></item>
+
+</label>
+<label type="PARAPHRASE" event="get_ticket">
+<item source="2" script="14" slot="6" total_slots="8" original="pay the driver"></item>
+<item source="2" script="15" slot="4" total_slots="8" original="Drop change into money machine."></item>
+<item source="2" script="16" slot="3" total_slots="7" original="Pay the toll"></item>
+<item source="2" script="17" slot="4" total_slots="8" original="Retrieve ticket from machine"></item>
+<item source="2" script="19" slot="5" total_slots="7" original="Pay the fare."></item>
+<item source="2" script="20" slot="3" total_slots="6" original="Pay for fare"></item>
+<item source="2" script="21" slot="3" total_slots="6" original="Give money"></item>
+<item source="2" script="22" slot="1" total_slots="6" original="Buy bus ticket"></item>
+<item source="2" script="23" slot="6" total_slots="10" original="give your fare to the bus driver"></item>
+<item source="2" script="23" slot="7" total_slots="10" original="receive ticket"></item>
+<item source="2" script="24" slot="4" total_slots="8" original="Pay bus fare"></item>
+<item source="2" script="25" slot="4" total_slots="6" original="Pay fee"></item>
+<item source="2" script="27" slot="3" total_slots="7" original="while boarding, pay the driver the required fee or show a pass"></item>
+<item source="2" script="28" slot="4" total_slots="6" original="Pay fare when boarding bus."></item>
+<item source="2" script="29" slot="4" total_slots="9" original="Pay the fare"></item>
+<item source="2" script="30" slot="3" total_slots="7" original="Buy bus pass on buss"></item>
+<item source="2" script="33" slot="4" total_slots="7" original="pay bus fare"></item>
+<item source="2" script="35" slot="4" total_slots="7" original="Pay fare"></item>
+<item source="2" script="36" slot="2" total_slots="6" original="Place change in receptor."></item>
+<item source="2" script="37" slot="3" total_slots="6" original="Pay the fare to ride the bus"></item>
+<item source="2" script="38" slot="6" total_slots="8" original="pay the fare"></item>
+<item source="2" script="39" slot="4" total_slots="6" original="Pay the bus driver"></item>
+
+</label>
+<label type="PARAPHRASE" event="find_place">
+<item source="2" script="14" slot="7" total_slots="8" original="sit down"></item>
+<item source="2" script="15" slot="5" total_slots="8" original="Find empty seat to sit in."></item>
+<item source="2" script="16" slot="5" total_slots="7" original="Walk down center of bus to find a seat"></item>
+<item source="2" script="16" slot="6" total_slots="7" original="Sit in seat"></item>
+<item source="2" script="17" slot="5" total_slots="8" original="Find a seat"></item>
+<item source="2" script="18" slot="4" total_slots="6" original="Find a seat if available or stand if necessary."></item>
+<item source="2" script="19" slot="6" total_slots="7" original="Find a vacant seat (if possible)."></item>
+<item source="2" script="20" slot="5" total_slots="6" original="Take a seat in the bus"></item>
+<item source="2" script="21" slot="4" total_slots="6" original="Sit or stand to location"></item>
+<item source="2" script="24" slot="5" total_slots="8" original="Find a seat"></item>
+<item source="2" script="27" slot="4" total_slots="7" original="choose a seat"></item>
+<item source="2" script="28" slot="5" total_slots="6" original="Sit down and wait for your desired stop."></item>
+<item source="2" script="29" slot="5" total_slots="9" original="Find a seat"></item>
+<item source="2" script="29" slot="6" total_slots="9" original="Sit down"></item>
+<item source="2" script="30" slot="4" total_slots="7" original="Find a empty seat"></item>
+<item source="2" script="31" slot="7" total_slots="7" original="Sit down"></item>
+<item source="2" script="32" slot="5" total_slots="5" original="find a seat or stand"></item>
+<item source="2" script="33" slot="5" total_slots="7" original="sit in bus"></item>
+<item source="2" script="35" slot="5" total_slots="7" original="Find a seat"></item>
+<item source="2" script="36" slot="3" total_slots="6" original="Find a seat."></item>
+<item source="2" script="36" slot="4" total_slots="6" original="Sit down."></item>
+<item source="2" script="38" slot="7" total_slots="8" original="sit down"></item>
+<item source="2" script="39" slot="5" total_slots="6" original="Find a seat on the bus"></item>
+
+</label>
+<label type="PARAPHRASE" event="press_stop_button">
+<item source="2" script="15" slot="7" total_slots="8" original="When your stop approaches, pull cord."></item>
+<item source="2" script="17" slot="7" total_slots="8" original="Press stop button"></item>
+<item source="2" script="23" slot="9" total_slots="10" original="alert the driver your stop is coming"></item>
+<item source="2" script="29" slot="8" total_slots="9" original="Ring the bell when you see your destination"></item>
+<item source="2" script="30" slot="6" total_slots="7" original="signal for a stop where i want to get off"></item>
+<item source="2" script="37" slot="5" total_slots="6" original="Pull the cord alerting the driver to stop"></item>
+
+</label>
+<label type="PARAPHRASE" event="ride">
+<item source="2" script="17" slot="6" total_slots="8" original="Wait for bus stop destination"></item>
+<item source="2" script="18" slot="5" total_slots="6" original="Wait for your stop."></item>
+<item source="2" script="20" slot="6" total_slots="6" original="Ride on the bus"></item>
+<item source="2" script="21" slot="5" total_slots="6" original="Wait for stop"></item>
+<item source="2" script="22" slot="5" total_slots="6" original="Wait for correct stop"></item>
+<item source="2" script="24" slot="6" total_slots="8" original="Bus leaves"></item>
+<item source="2" script="25" slot="5" total_slots="6" original="Wait to get to destination"></item>
+<item source="2" script="27" slot="5" total_slots="7" original="sit patiently until the bus reaches your destination bus stop"></item>
+<item source="2" script="29" slot="7" total_slots="9" original="Wait for your stop"></item>
+<item source="2" script="30" slot="5" total_slots="7" original="wait till my stop is approaching"></item>
+<item source="2" script="34" slot="4" total_slots="5" original="Ride to desired destination"></item>
+<item source="2" script="35" slot="6" total_slots="7" original="Wait for destination"></item>
+<item source="2" script="36" slot="5" total_slots="6" original="Wait for your stop."></item>
+<item source="2" script="37" slot="4" total_slots="6" original="Sit in a seat until you see your destination"></item>
+<item source="2" script="38" slot="8" total_slots="8" original="wait for my stop"></item>
+
+</label>
+<label type="PARAPHRASE" event="spend_time_bus">
+<item source="2" script="15" slot="6" total_slots="8" original="Watch stops out window."></item>
+<item source="2" script="23" slot="8" total_slots="10" original="pay attention for your stop"></item>
+
+</label>
+<label type="PARAPHRASE" event="go_exit">
+<item source="2" script="15" slot="8" total_slots="8" original="Stand, exit bus."></item>
+<item source="2" script="27" slot="6" total_slots="7" original="stand up and depart the bus"></item>
+<item source="2" script="39" slot="6" total_slots="6" original="When your stop comes get up and exit the bus"></item>
+
+</label>
+<label type="PARAPHRASE" event="bus_stops">
+<item source="2" script="24" slot="7" total_slots="8" original="Bus stops at your destination"></item>
+<item source="2" script="33" slot="6" total_slots="7" original="arrive destination"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_thank">
+<item source="2" script="27" slot="7" total_slots="7" original="thank the driver, possibly tip"></item>
+
+</label>
+<label type="PARAPHRASE" event="get_off">
+<item source="2" script="14" slot="8" total_slots="8" original="exit bus when arrive"></item>
+<item source="2" script="16" slot="7" total_slots="7" original="Once you arrive at destination, get off the bus"></item>
+<item source="2" script="17" slot="8" total_slots="8" original="Get off bus"></item>
+<item source="2" script="18" slot="6" total_slots="6" original="Get off bus when doors open."></item>
+<item source="2" script="19" slot="7" total_slots="7" original="Exit the bus at your desired location."></item>
+<item source="2" script="21" slot="6" total_slots="6" original="Get off bus"></item>
+<item source="2" script="22" slot="6" total_slots="6" original="Leave bus"></item>
+<item source="2" script="23" slot="10" total_slots="10" original="get off at stop."></item>
+<item source="2" script="24" slot="8" total_slots="8" original="Get off bus"></item>
+<item source="2" script="25" slot="6" total_slots="6" original="Get off bus"></item>
+<item source="2" script="28" slot="6" total_slots="6" original="Exit bus at your destination."></item>
+<item source="2" script="29" slot="9" total_slots="9" original="Get off the bus"></item>
+<item source="2" script="30" slot="7" total_slots="7" original="Get off the bus"></item>
+<item source="2" script="33" slot="7" total_slots="7" original="get off"></item>
+<item source="2" script="34" slot="5" total_slots="5" original="Get off bus"></item>
+<item source="2" script="35" slot="7" total_slots="7" original="Get off bus"></item>
+<item source="2" script="36" slot="6" total_slots="6" original="Exit bus."></item>
+<item source="2" script="37" slot="6" total_slots="6" original="Exit at your destination when the bus stops"></item>
+
+</label>
+<label type="PARAPHRASE" event="UnRelEv">
+<item source="2" script="14" slot="1" total_slots="8" original="Get dressed"></item>
+<item source="2" script="31" slot="1" total_slots="7" original="Get dressed"></item>
+
+</label>
+<label type="PARAPHRASE" event="UnRelEv">
+<item source="2" script="15" slot="1" total_slots="8" original="Grab purse, jacket, and other items needed for the day."></item>
+<item source="2" script="31" slot="2" total_slots="7" original="Get my wallet"></item>
+
+</label>
+<label type="PARAPHRASE" event="UnRelEv">
+<item source="2" script="31" slot="3" total_slots="7" original="Go outside"></item>
+
+</label>
+</scripts>

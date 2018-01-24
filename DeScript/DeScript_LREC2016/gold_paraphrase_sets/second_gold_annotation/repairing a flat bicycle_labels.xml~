@@ -1,0 +1,948 @@
+<scripts>
+<label type="PARAPHRASE" event="other_go_garage">
+
+</label>
+<label type="PARAPHRASE" event="get_tools">
+<item head="get" original="Get air pump" script="33" slot="1" text="get" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="pump" text="air pump" />
+		</item>
+<item head="get" original="Get air pump." script="36" slot="2" text="get" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="pump" text="air pump" />
+		</item>
+<item head="getting" original="getting an air pump" script="38" slot="1" text="getting" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="pump" text="an air pump" />
+		</item>
+<item head="buy" original="Buy a tire repair kit from store." script="39" slot="2" text="buy from" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="kit" text="a tire repair kit" />
+			<ptcp head="store" text="store" />
+		</item>
+<item head="purchase" original="purchase tire repair kit" script="41" slot="1" text="purchase" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="kit" text="tire repair kit" />
+		</item>
+<item head="find" original="Find a pump." script="45" slot="2" text="find" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="pump" text="a pump" />
+		</item>
+<item head="go" original="go to the store to buy a repair kit" script="47" slot="2" text="go to" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="store" text="the store" />
+			<ptcp head="kit" text="a repair kit" />
+		</item>
+<item head="get" original="Get flat fixing compound" script="49" slot="4" text="get" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="compound" text="flat fixing compound" />
+		</item>
+<item head="locate" original="Locate an air pump" script="52" slot="2" text="locate" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="pump" text="an air pump" />
+		</item>
+		<item head="locate" original="Locate tire patches" script="52" slot="3" text="locate" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="patches" text="tire patches" />
+		</item>
+<item head="buy" original="Buy bike tire sealer" script="53" slot="1" text="buy" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="sealer" text="bike tire sealer" />
+		</item>
+<item head="take" original="Take one adhesive puncture patch" slot="10" text="take">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="patch" text="one adhesive puncture patch" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="other_get_bicycle">
+<item head="locate" original="locate bike" script="41" slot="2" text="locate" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bike" text="bike" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="lay_bike_down">
+<item head="turn" original="turn bike upside down" script="41" slot="3" text="turn" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bike" text="bike" />
+		</item>
+<item head="lay" original="lay bike on side" script="43" slot="1" text="lay on" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bike" text="bike" />
+			<ptcp head="side" text="side" />
+		</item>
+<item head="stand" original="Stand the bike somewhere." script="45" slot="1" text="stand" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bike" text="the bike" />
+		</item>
+<item head="turn" original="turn bicycle upside down" script="48" slot="1" text="turn" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bicycle" text="bicycle" />
+		</item>
+<item head="stand" original="Stand the bicycle up" script="52" slot="1" text="stand" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bicycle" text="the bicycle" />
+		</item>
+<item head="lay" original="Lay the bicycle on ground" slot="1" text="lay on">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bicycle" text="the bicycle" />
+			<ptcp head="ground" text="ground" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="other_remove_debris">
+
+</label>
+<label type="PARAPHRASE" event="loose_nut">
+<item head="remove" original="remove screws so you can remove the entire tire and rim." script="43" slot="2" text="remove" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="screws" text="screws" />
+			<ptcp head="you" text="you" />
+			<ptcp head="tire" text="the entire tire and rim" />
+		</item>
+<item head="open" original="Open the valve tube nut" slot="2" text="open">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="nut" text="the valve tube nut" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="other_unhook_chains">
+<item head="release" original="release brakes from bike" script="35" slot="2" text="release from" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="brakes" text="brakes" />
+			<ptcp head="bike" text="bike" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="remove_tire">
+</label>
+<label type="PARAPHRASE" event="other_throw_tire">
+<item head="throw" original="Throw away the old tire." script="36" slot="6" text="throw" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="the old tire" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="take_tire_off">
+<item head="remove" original="Remove the tire from your bike" script="30" slot="1" text="remove from" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="the tire" />
+			<ptcp head="bike" text="your bike" />
+		</item>
+<item head="take" original="Take tire off wheel" script="31" slot="3" text="take off" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+			<ptcp head="wheel" text="wheel" />
+		</item>
+<item head="remove" original="Remove tire from bike" script="32" slot="1" text="remove from" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+			<ptcp head="bike" text="bike" />
+		</item>
+<item head="remove" original="remove tube from tire" script="32" slot="2" text="remove from" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tube" text="tube" />
+			<ptcp head="tire" text="tire" />
+		</item>
+<item head="remove" original="Remove tire from wheel rim" script="34" slot="1" text="remove from" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+			<ptcp head="rim" text="wheel rim" />
+		</item>
+		<item head="remove" original="Remove inner tube" script="34" slot="2" text="remove" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tube" text="inner tube" />
+		</item>
+<item head="remove" original="remove tire from bike" script="35" slot="3" text="remove from" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+			<ptcp head="bike" text="bike" />
+		</item>
+<item head="take" original="Take old tire off." script="36" slot="3" text="take" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="old tire" />
+		</item>
+<item head="remove" original="Remove tire from bike frame." script="39" slot="3" text="remove from" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+			<ptcp head="frame" text="bike frame" />
+		</item>
+<item head="remove" original="remove tire" script="40" slot="1" text="remove" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+		</item>
+<item head="take" original="take tire off" script="41" slot="5" text="take" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+		</item>
+<item head="remove" original="remove tire" script="42" slot="2" text="remove" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+		</item>
+<item head="use" original="use screwdriver to pry off old tire" script="43" slot="3" text="use" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="screwdriver" text="screwdriver" />
+			<ptcp head="tire" text="old tire" />
+		</item>
+<item head="take" original="Take the tire off the bike" script="44" slot="1" text="take off" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="the tire" />
+			<ptcp head="bike" text="the bike" />
+		</item>
+		<item head="pull" original="Pull the tire off the wheel" script="44" slot="2" text="pull off" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="the tire" />
+			<ptcp head="wheel" text="the wheel" />
+		</item>
+<item head="remove" original="remove old tire" script="48" slot="2" text="remove" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="old tire" />
+		</item>
+<item head="remove" original="Remove tire and rim from bicycle" script="49" slot="1" text="remove from" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire and rim" />
+			<ptcp head="bicycle" text="bicycle" />
+		</item>
+		<item head="remove" original="Remove tire from rim" script="49" slot="2" text="remove from" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+			<ptcp head="rim" text="rim" />
+		</item>
+<item head="take" original="You take tire off bike." script="51" slot="1" text="take off" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="you" text="you" />
+			<ptcp head="tire" text="tire" />
+			<ptcp head="bike" text="bike" />
+		</item>
+		<item head="take" original="You take out tube." script="51" slot="2" text="take" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="you" text="you" />
+			<ptcp head="tube" text="tube" />
+		</item>
+<item head="open" original="Open the tire from rim" slot="3" text="open from">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="the tire" />
+			<ptcp head="rim" text="rim" />
+		</item>
+		<item head="take" original="Take out the tube from tire" slot="4" text="take from">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tube" text="the tube" />
+			<ptcp head="tire" text="tire" />
+		</item>
+
+
+
+</label>
+<label type="PARAPHRASE" event="other_go_bike_shop">
+
+</label>
+<label type="PARAPHRASE" event="refill_tire_air">
+<item head="re-inflate" original="Re-inflate the tire." script="30" slot="6" text="re-inflate" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="the tire" />
+		</item>
+<item head="inflate" original="Inflate tire" script="31" slot="6" text="inflate" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+		</item>
+<item head="place" original="Place hose end into the tire" script="33" slot="3" text="place into" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="end" text="hose end" />
+			<ptcp head="tire" text="the tire" />
+		</item>
+		<item head="fasten" original="Fasten the hose" script="33" slot="4" text="fasten" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="hose" text="the hose" />
+		</item>
+		<item head="pump" original="Pump air into tire" script="33" slot="5" text="pump into" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="air" text="air" />
+			<ptcp head="tire" text="tire" />
+		</item>
+		<item head="unfasten" original="Unfasten the hose" script="33" slot="6" text="unfasten" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="hose" text="the hose" />
+		</item>
+<item head="pump" original="Pump up tire" script="34" slot="9" text="pump" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+		</item>
+<item head="inflate" original="Inflate the new tire." script="36" slot="5" text="inflate" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="the new tire" />
+		</item>
+<item head="attach" original="Attach pump to tire" script="37" slot="2" text="attach to" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="pump" text="pump" />
+			<ptcp head="tire" text="tire" />
+		</item>
+		<item head="start" original="Start pumping air into tire" script="37" slot="3" text="start into" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="air" text="air" />
+			<ptcp head="tire" text="tire" />
+		</item>
+<item head="turn" original="turn the air pump on" script="38" slot="3" text="turn" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="pump" text="the air pump" />
+		</item>
+		<item head="refill" original="refill the tire" script="38" slot="4" text="refill" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="the tire" />
+		</item>
+		<item head="turn" original="turn off air pump" script="38" slot="5" text="turn" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="pump" text="air pump" />
+		</item>
+<item head="air" original="Air up tire using a air pump." script="39" slot="5" text="air" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+			<ptcp head="pump" text="a air pump" />
+		</item>
+<item head="attach" original="attach pump to air valve" script="40" slot="3" text="attach to" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="pump" text="pump" />
+			<ptcp head="valve" text="air valve" />
+		</item>
+		<item head="pump" original="pump tire" script="40" slot="4" text="pump" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+		</item>
+<item head="inflate" original="inflate tube" script="41" slot="6" text="inflate" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tube" text="tube" />
+		</item>
+<item head="inflate" original="inflate tube" script="41" slot="12" text="inflate" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tube" text="tube" />
+		</item>
+<item head="pump" original="pump full of air" script="42" slot="5" text="pump of" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="full" text="full" />
+			<ptcp head="air" text="air" />
+		</item>
+<item head="air" original="air up tire" script="43" slot="8" text="air" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+		</item>
+<item head="attach" original="Attach air pump to tire." script="45" slot="3" text="attach to" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="pump" text="air pump" />
+			<ptcp head="tire" text="tire" />
+		</item>
+		<item head="pump" original="Pump air." script="45" slot="4" text="pump" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="air" text="air" />
+		</item>
+<item head="put" original="put air in the tire." script="47" slot="5" text="put in" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="air" text="air" />
+			<ptcp head="tire" text="the tire" />
+		</item>
+<item head="pump" original="pump up tire with air" script="48" slot="5" text="pump with" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+			<ptcp head="air" text="air" />
+		</item>
+<item head="air" original="Air up tire" script="49" slot="7" text="air" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+		</item>
+<item head="add" original="Add air to the tire." script="50" slot="4" text="add to" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="air" text="air" />
+			<ptcp head="tire" text="the tire" />
+		</item>
+<item head="air" original="You air up tire." script="51" slot="8" text="air" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="you" text="you" />
+			<ptcp head="tire" text="tire" />
+		</item>
+<item head="connect" original="Connect the pump to the tire" script="52" slot="5" text="connect to" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="pump" text="the pump" />
+			<ptcp head="tire" text="the tire" />
+		</item>
+		<item head="pump" original="Pump the tire back up" script="52" slot="6" text="pump up" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="the tire" />
+		</item>
+		<item head="remove" original="Remove the pump" script="52" slot="7" text="remove" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="pump" text="the pump" />
+		</item>
+<item head="refill" original="Refill tire with air" script="53" slot="4" text="refill with" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+			<ptcp head="air" text="air" />
+		</item>
+<item head="fill" original="Fill air in the flat tire" slot="5" text="fill in">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="air" text="air" />
+			<ptcp head="tire" text="the flat tire" />
+		</item>
+<item head="fill" original="Fill the air" slot="16" text="fill">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="air" text="the air" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="examine_tire">
+<item head="pump" original="Pump inner tube with air to locate puncture" script="34" slot="3" text="pump with" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tube" text="inner tube" />
+			<ptcp head="air" text="air" />
+			<ptcp head="puncture" text="puncture" />
+		</item>
+<item head="locate" original="Locate where the hole is in bike tire." script="39" slot="1" text="locate in" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="hole" text="the hole" />
+			<ptcp head="tire" text="bike tire" />
+		</item>
+<item head="put" original="put tube in water to find leak" script="41" slot="7" text="put in" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tube" text="tube" />
+			<ptcp head="water" text="water to find leak" />
+			<ptcp head="leak" text="leak" />
+		</item>
+<item head="inspect" original="inspect for leaks" script="41" slot="13" text="inspect for" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="leaks" text="leaks" />
+		</item>
+<item head="find" original="find hole in tire" script="43" slot="4" text="find in" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="hole" text="hole" />
+			<ptcp head="tire" text="tire" />
+		</item>
+<item head="locate" original="LOCATE THE PUNCTURE ON THE TIRE" script="46" slot="1" text="locate on" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="puncture" text="the puncture" />
+			<ptcp head="tire" text="the tire" />
+		</item>
+<item head="determine" original="determine what caused the flat" script="47" slot="1" text="determine" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="flat" text="the flat" />
+		</item>
+<item head="locate" original="Locate leak on tire" script="49" slot="3" text="locate on" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="leak" text="leak" />
+			<ptcp head="tire" text="tire" />
+		</item>
+<item head="find" original="Find the source of the air leaking from the tire." script="50" slot="1" text="find of from" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="source" text="the source" />
+			<ptcp head="air" text="the air" />
+			<ptcp head="tire" text="the tire" />
+		</item>
+<item head="put" original="You put tube in water to find the hole." script="51" slot="3" text="put in" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="you" text="you" />
+			<ptcp head="tube" text="tube" />
+			<ptcp head="water" text="water" />
+			<ptcp head="hole" text="the hole" />
+		</item>
+<item head="find" original="Find the hole" script="52" slot="4" text="find" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="hole" text="the hole" />
+		</item>
+<item head="find" original="Find hole in bicycle tire" script="53" slot="2" text="find in" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="hole" text="hole" />
+			<ptcp head="tire" text="bicycle tire" />
+		</item>
+<item head="immerse" original="Immerse one portion of the tube in water" slot="6" text="immerse of in">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="portion" text="one portion" />
+			<ptcp head="tube" text="the tube" />
+			<ptcp head="water" text="water" />
+		</item>
+		<item head="watch" original="Watch out for air bubbles to locate the punctured area" slot="7" text="watch for">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bubbles" text="air bubbles to locate the punctured area" />
+			<ptcp head="area" text="the punctured area" />
+		</item>
+		<item head="change" original="Change the portion of the tube immersed in water by rotating the tube till finding the punctured area" slot="8" text="change of in by till">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="portion" text="the portion" />
+			<ptcp head="tube" text="the tube" />
+			<ptcp head="water" text="water" />
+			<ptcp head="tube" text="the tube" />
+			<ptcp head="area" text="the punctured area" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="other_remove_water">
+
+</label>
+<label type="PARAPHRASE" event="other_dry">
+<item head="dry" original="dry tube" script="41" slot="8" text="dry" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tube" text="tube" />
+		</item>
+<item head="clean" original="Clean the punctured area" slot="11" text="clean">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="area" text="the punctured area" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="other_remove_air">
+<item head="deflate" original="Deflate any remaining air" script="30" slot="2" text="deflate" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="air" text="any remaining air" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="get_tire">
+<item head="purchase" original="purchase new bike tube from store" script="32" slot="3" text="purchase from" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tube" text="new bike tube" />
+			<ptcp head="store" text="store" />
+		</item>
+<item head="get" original="get replacement tire tube" script="35" slot="1" text="get" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tube" text="replacement tire tube" />
+		</item>
+<item head="get" original="Get new tire." script="36" slot="1" text="get" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="new tire" />
+		</item>
+<item head="get" original="get a new tube" script="42" slot="1" text="get" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tube" text="a new tube" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="other_mark_holes">
+<item head="mark" original="Mark the punctured area" slot="9" text="mark">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="area" text="the punctured area" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="put_patch/seal">
+<item head="patch" original="Patch up any holes in the tire with a tire patching adhesive" script="30" slot="3" text="up any holes in the tire with a tire patching adhesive" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="patch" text="patch up" />
+			<ptcp head="holes" text="any holes" />
+			<ptcp head="adhesive" text="the tire with a tire patching adhesive" />
+			<ptcp head="patching" text="a tire patching" />
+		</item>
+<item head="put" original="Put tire patch on leak" script="31" slot="4" text="put on" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="patch" text="tire patch" />
+			<ptcp head="leak" text="leak" />
+		</item>
+<item head="apply" original="Apply glue around puncture" script="34" slot="4" text="apply around" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="glue" text="glue" />
+			<ptcp head="puncture" text="puncture" />
+		</item>
+		<item head="apply" original="Apply patch to puncture" script="34" slot="5" text="apply to" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="patch" text="patch" />
+			<ptcp head="puncture" text="puncture" />
+		</item>
+<item head="damaged" original="patch damaged area from tire" script="35" slot="4" text="damaged from" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="patch" text="patch" />
+			<ptcp head="area" text="area" />
+			<ptcp head="tire" text="tire" />
+		</item>
+<item head="follow" original="Follow directions and plug the hole." script="39" slot="4" text="follow" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="directions" text="directions" />
+			<ptcp head="hole" text="the hole" />
+		</item>
+<item head="repair" original="repair tube" script="41" slot="9" text="repair" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tube" text="tube" />
+		</item>
+<item head="use" original="use patch to repair tire from the inside" script="43" slot="5" text="use from" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="patch" text="patch" />
+			<ptcp head="tire" text="tire" />
+			<ptcp head="inside" text="the inside" />
+		</item>
+<item head="patch" original="Patch the innertube" script="44" slot="3" text="the innertube" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="patch" text="patch" />
+			<ptcp head="innertube" text="the innertube" />
+		</item>
+<item head="using" original="USING A TIRE REPAIR KIT, COVER THE HOLE" script="46" slot="2" text="using using" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="kit" text="a tire repair kit" />
+			<ptcp head="hole" text="the hole" />
+		</item>
+<item head="use" original="use the repair kit to fix the tire" script="47" slot="3" text="use" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="kit" text="the repair kit" />
+			<ptcp head="tire" text="the tire" />
+		</item>
+<item head="apply" original="Apply flat fixing compound to tire" script="49" slot="5" text="apply to" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="compound" text="flat fixing compound" />
+			<ptcp head="tire" text="tire" />
+		</item>
+<item head="apply" original="Apply a patch over the hole that is causing air to leak." script="50" slot="2" text="apply over to" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="patch" text="a patch" />
+			<ptcp head="hole" text="the hole" />
+			<ptcp head="air" text="air" />
+			<ptcp head="leak" text="leak" />
+		</item>
+<item head="put" original="You put glue on hole." script="51" slot="4" text="put on" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="you" text="you" />
+			<ptcp head="glue" text="glue" />
+			<ptcp head="hole" text="hole" />
+		</item>
+		<item head="put" original="Then put a patch on glue." script="51" slot="5" text="put on" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="patch" text="a patch" />
+			<ptcp head="glue" text="glue" />
+		</item>
+<item head="place" original="Place patch over the hole" script="52" slot="8" text="place over" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="patch" text="patch" />
+			<ptcp head="hole" text="the hole" />
+		</item>
+<item head="use" original="Use bike tire sealer on hole" script="53" slot="3" text="use on" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="sealer" text="bike tire sealer" />
+			<ptcp head="hole" text="hole" />
+		</item>
+<item head="open" original="Open the protective sticker and paste it to close the puncture" slot="12" text="open">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="sticker" text="the protective sticker and paste" />
+			<ptcp head="it" text="it" />
+			<ptcp head="puncture" text="the puncture" />
+		</item>
+		<item head="press" original="Press gently" slot="13" text="press">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="other_line_valve">
+
+</label>
+<label type="PARAPHRASE" event="put_new_tire">
+<item head="place" original="Place the tire back on your bike" script="30" slot="5" text="place on" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="the tire" />
+			<ptcp head="bike" text="your bike" />
+		</item>
+<item head="put" original="Put tire back on wheel" script="31" slot="5" text="put on" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+			<ptcp head="wheel" text="wheel" />
+		</item>
+<item head="put" original="Put wheel back on bike" script="31" slot="7" text="put on" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="wheel" text="wheel" />
+			<ptcp head="bike" text="bike" />
+		</item>
+<item head="fit" original="fit tube into tire" script="32" slot="4" text="fit into" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tube" text="tube" />
+			<ptcp head="tire" text="tire" />
+		</item>
+<item head="attach" original="attach tire back on to the bike" script="32" slot="5" text="attach on to" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+			<ptcp head="bike" text="the bike" />
+		</item>
+<item head="replace" original="Replace inner tube" script="34" slot="7" text="replace" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tube" text="inner tube" />
+		</item>
+		<item head="replace" original="Replace tire" script="34" slot="8" text="replace" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+		</item>
+<item head="put" original="put tire back on bike" script="35" slot="5" text="put on" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+			<ptcp head="bike" text="bike" />
+		</item>
+<item head="put" original="Put new tire on bicycle." script="36" slot="4" text="put on" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="new tire" />
+			<ptcp head="bicycle" text="bicycle" />
+		</item>
+<item head="re-attach" original="re-attach tire" script="40" slot="6" text="re-attach" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+		</item>
+<item head="put" original="put tube back on wheel" script="41" slot="10" text="put on" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tube" text="tube" />
+			<ptcp head="wheel" text="wheel" />
+		</item>
+		<item head="put" original="put tire back on" script="41" slot="11" text="put on" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+		</item>
+<item head="put" original="put wheel back on bike" script="41" slot="14" text="put on" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="wheel" text="wheel" />
+			<ptcp head="bike" text="bike" />
+		</item>
+<item head="place" original="place new tube inside tube" script="42" slot="3" text="place inside" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tube" text="new tube" />
+			<ptcp head="tube" text="tube" />
+		</item>
+		<item head="replace" original="replace tire" script="42" slot="4" text="replace" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+		</item>
+<item head="replace" original="replace tire on rim" script="43" slot="7" text="replace on" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+			<ptcp head="rim" text="rim" />
+		</item>
+<item head="replace" original="replace tire and rim onto bicycle" script="43" slot="9" text="replace onto" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire and rim" />
+			<ptcp head="bicycle" text="bicycle" />
+		</item>
+<item head="put" original="Put the innertube back inside the tire" script="44" slot="4" text="put inside" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="innertube" text="the innertube" />
+			<ptcp head="tire" text="the tire" />
+		</item>
+		<item head="put" original="Put the tire back on the wheel" script="44" slot="5" text="the tire back on the wheel" total-slots="6">
+		    
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="the tire" />
+			<ptcp head="wheel" text="the wheel" />
+		</item>
+		<item head="put" original="Put it back on the bike" script="44" slot="6" text="put on" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="it" text="it" />
+			<ptcp head="bike" text="the bike" />
+		</item>
+<item head="satisfied" original="WHEN SATISFIED, PUT TIRE BACK ON BIKE" script="46" slot="4" text="satisfied on" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="put" text="when satisfied , put tire back on bike" />
+			<ptcp head="tire" text="tire" />
+			<ptcp head="bike" text="bike" />
+		</item>
+<item head="place" original="place new rubber tire" script="48" slot="3" text="place" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="new rubber tire" />
+		</item>
+		<item head="put" original="put outer portion of tire back on tire rim" script="48" slot="4" text="put of on" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="portion" text="outer portion of tire" />
+			<ptcp head="tire" text="tire" />
+			<ptcp head="rim" text="tire rim" />
+		</item>
+<item head="place" original="Place tire on rim" script="49" slot="6" text="place on" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+			<ptcp head="rim" text="rim" />
+		</item>
+<item head="put" original="You put tube back in tire." script="51" slot="7" text="put in" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="you" text="you" />
+			<ptcp head="tube" text="tube" />
+			<ptcp head="tire" text="tire" />
+		</item>
+<item head="put" original="Put tire back on bike." script="51" slot="9" text="put on" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+			<ptcp head="bike" text="bike" />
+		</item>
+<item head="put" original="Put the tube back to the tire" slot="14" text="put to">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tube" text="the tube" />
+			<ptcp head="tire" text="the tire" />
+		</item>
+		<item head="fit" original="Fit the tire in rim" slot="15" text="fit in">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="the tire" />
+			<ptcp head="rim" text="rim" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="pull_air_pin">
+<item head="unscrew" original="Unscrew cap on tire" script="33" slot="2" text="unscrew on" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="cap" text="cap on tire" />
+			<ptcp head="tire" text="tire" />
+		</item>
+<item head="take" original="take the cap off the tire" script="38" slot="2" text="take off" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="cap" text="the cap" />
+			<ptcp head="tire" text="the tire" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="other_replace_cap">
+<item head="screw" original="Screw cap back on tire" script="33" slot="7" text="screw on" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="cap" text="cap" />
+			<ptcp head="tire" text="tire" />
+		</item>
+<item head="replace" original="replace the cap" script="38" slot="6" text="replace" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="cap" text="the cap" />
+		</item>
+<item head="seal" original="Seal tire and ride away." script="45" slot="5" text="seal" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="other_put_away_tools">
+<item head="store" original="Store pump" script="37" slot="5" text="store" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="pump" text="pump" />
+		</item>
+<item head="put" original="Put the pump back" script="52" slot="9" text="put" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="pump" text="the pump" />
+		</item>
+		<item head="put" original="Put extra patches back" script="52" slot="10" text="put" total-slots="10">
+		    
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="patches" text="extra patches" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="fasten_chain">
+
+</label>
+<label type="PARAPHRASE" event="other_flip_bike">
+
+</label>
+<label type="PARAPHRASE" event="check_new_tire">
+<item head="push" original="Push on tire with thumb and feel pressure" script="37" slot="4" text="push on with" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+			<ptcp head="thumb" text="thumb" />
+			<ptcp head="pressure" text="pressure" />
+		</item>
+<item head="check" original="Check for any remaining leaks." script="39" slot="6" text="check for" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="leaks" text="any remaining leaks" />
+		</item>
+<item head="check" original="check psi with gauge" script="40" slot="5" text="check with" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="psi" text="psi" />
+			<ptcp head="gauge" text="gauge" />
+		</item>
+<item head="covered" original="WHEN COVERED, CHECK THAT NO AIR ESCAPES" script="46" slot="3" text="covered" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="check" text="when covered , check that no air escapes" />
+			<ptcp head="air" text="no air" />
+		</item>
+<item head="double" original="double check to make sure the tire is repaired properly" script="47" slot="4" text="double" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="check" text="check" />
+			<ptcp head="tire" text="the tire" />
+		</item>
+<item head="inspect" original="inspect the tire to make sure it doesn't leak" script="47" slot="6" text="inspect" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="the tire to make sure it does n't leak" />
+			<ptcp head="it" text="it" />
+		</item>
+<item head="ensure" original="Ensure that tire holds air" script="49" slot="8" text="ensure" total-slots="8">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="tire" />
+			<ptcp head="air" text="air" />
+		</item>
+<item head="test" original="Test the fix but riding a short distance." script="50" slot="5" text="test" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="fix" text="the fix" />
+			<ptcp head="distance" text="a short distance" />
+		</item>
+<item head="test" original="Test bike to make sure it holds" script="53" slot="5" text="test" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bike" text="bike" />
+			<ptcp head="it" text="it" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="ride_bike">
+<item head="ride" original="Ride bike" script="37" slot="6" text="ride" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bike" text="bike" />
+		</item>
+<item head="ride" original="ride bike" script="40" slot="7" text="ride" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bike" text="bike" />
+		</item>
+<item head="ride" original="ride bike" script="41" slot="15" text="ride" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bike" text="bike" />
+		</item>
+<item head="use" original="USE BIKE AS NORMAL" script="46" slot="5" text="use as" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bike" text="bike" />
+		</item>
+<item head="ride" original="ride bicycle" script="48" slot="6" text="ride" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="bicycle" text="bicycle" />
+		</item>
+<item head="ride" original="Ride away." script="51" slot="10" text="ride" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item head="locate" original="Locate spot to insert air into tire" script="37" slot="1" text="locate into" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="spot" text="spot" />
+			<ptcp head="air" text="air" />
+			<ptcp head="tire" text="tire" />
+		</item>
+<item head="find" original="find air valve" script="40" slot="2" text="find" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="valve" text="air valve" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="notice_problem">
+<item head="notice" original="Notice flat tire" script="31" slot="1" text="notice" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="tire" text="flat tire" />
+		</item>
+</label>
+<label type="PARAPHRASE" event="free_wheel">
+<item head="take" original="Take wheel off bike" script="31" slot="2" text="take off" total-slots="7">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="wheel" text="wheel" />
+			<ptcp head="bike" text="bike" />
+		</item>
+<item head="take" original="take wheel off" script="41" slot="4" text="take" total-slots="15">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="wheel" text="wheel" />
+		</item>
+
+</label>
+<label type="PARAPHRASE" event="other_dry_patch">
+<item head="wait" original="Wait for it to dry" script="30" slot="4" text="wait for" total-slots="6">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="it" text="it" />
+		</item>
+<item head="allow" original="Allow to dry" script="34" slot="6" text="allow" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+		</item>
+<item head="wait" original="wait for patch to dry" script="43" slot="6" text="wait for" total-slots="9">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="patch" text="patch" />
+		</item>
+<item head="wait" original="Wait until the glued patch is dry." script="50" slot="3" text="wait" total-slots="5">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="patch" text="the glued patch" />
+		</item>
+<item head="wait" original="You wait for it to dry." script="51" slot="6" text="wait for" total-slots="10">
+			<ptcp head="imp_" text="imp_participant" />
+			<ptcp head="you" text="you" />
+			<ptcp head="it" text="it" />
+		</item>
+
+</label>
+</scripts>

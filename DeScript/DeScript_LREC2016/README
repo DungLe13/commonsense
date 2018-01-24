@@ -1,0 +1,26 @@
+############################################################
+#          DeScript (Describing Script Structure)          #
+############################################################
+
+* DeScript is a crowdsourced corpus of event sequence descriptions (ESDs) for different scenarios crowdsourced via Amazon Mechanical Turk. 
+* It contains 
+	* 40 scenarios with approximately 100 ESDs each
+	* partial alignments of event descriptions that are semantically similar with respect to the given scenario
+
+* Directory structure:
+	/esds - contains the crowdsourced Event Sequence Descriptions (ESDs) that were collected
+	/alignments - contains the crowdsourced partial alignments of event descriptions that are semantically similar with respect to the given scenario
+	/gold_paraphrase_sets - contains a gold standard corpus of aligned event descriptions annotated by experts. The gold standard covers 10 scenarios, with 50 ESDs each
+
+* Reference: please cite as
+	Wanzare, L., Zarcone, A. , Thater, S. & Pinkal, M. (2016). DeScript: A Crowdsourced 	Database for the Acquisition of High-quality Script Knowledge. Proceedings of the 10th International Conference on Language Resources and Evaluation (LREC 16), Portorož, Slovenia.	
+
+	Bibtex:
+	@INPROCEEDINGS{wanz16,
+	  author = {Wanzare, L. and  Zarcone, A. and Thater, S. and Pinkal, M.},
+	  title = {DeScript: A Crowdsourced Database for the Acquisition of High-quality
+		Script Knowledge.},
+	  year = {2016},
+	  publisher = {Proceedings of the 10th International Conference on Language Resources
+		and Evaluation (LREC 16),Portorož, Slovenia.}
+	}

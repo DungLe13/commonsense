@@ -1,0 +1,794 @@
+<scripts><script id="0" source="2"><item slot="1" original="Find a theater to go to nearby" ></item>
+<item slot="2" original="Get in mode of transportation to get to theater" ></item>
+<item slot="3" original="Pick out a movie to watch" ></item>
+<item slot="4" original="Go to ticket booth and buy ticket" ></item>
+<item slot="5" original="Proceed inside to the theater" ></item>
+</script><script id="1" source="2"><item slot="1" original="Decide what show to see." ></item>
+<item slot="2" original="Drive to theater." ></item>
+<item slot="3" original="Find parking space." ></item>
+<item slot="4" original="Buy tickets at the counter." ></item>
+<item slot="5" original="Give ticket to employee." ></item>
+<item slot="6" original="Walk to theater." ></item>
+<item slot="7" original="Find a seat." ></item>
+<item slot="8" original="Wait for the show to start." ></item>
+<item slot="9" original="Leave theater." ></item>
+</script><script id="2" source="2"><item slot="1" original="Find out time of the movie you want to watch" ></item>
+<item slot="2" original="Drive to the theater" ></item>
+<item slot="3" original="Park" ></item>
+<item slot="4" original="Go inside and purchase a ticket" ></item>
+<item slot="5" original="Go to the theater number assigned" ></item>
+<item slot="6" original="Find a seat" ></item>
+<item slot="7" original="Watch the movie" ></item>
+</script><script id="5" source="2"><item slot="1" original="picking out a show to see" ></item>
+<item slot="2" original="buying tickets for show" ></item>
+<item slot="3" original="driving to the theater" ></item>
+<item slot="4" original="checking into the theater" ></item>
+<item slot="5" original="taking my seat" ></item>
+<item slot="6" original="watching the show" ></item>
+</script><script id="6" source="2"><item slot="1" original="pick a movie" ></item>
+<item slot="2" original="find movie time" ></item>
+<item slot="3" original="go to the theater" ></item>
+<item slot="4" original="wait in line" ></item>
+<item slot="5" original="buy movie ticket" ></item>
+<item slot="6" original="go to concessions" ></item>
+<item slot="7" original="wait in line" ></item>
+<item slot="8" original="buy snacks/drink" ></item>
+<item slot="9" original="go to correct theater room" ></item>
+<item slot="10" original="find a seat" ></item>
+<item slot="11" original="turn cell phone on silent" ></item>
+<item slot="12" original="watch movie while eating snacks" ></item>
+<item slot="13" original="when movie ends, get up and leave room" ></item>
+<item slot="14" original="throw away trash" ></item>
+<item slot="15" original="exit theater" ></item>
+</script><script id="7" source="2"><item slot="1" original="Choose the movie that you'd like to watch" ></item>
+<item slot="2" original="Select the show times" ></item>
+<item slot="3" original="Drive to the theater" ></item>
+<item slot="4" original="Pay for the tickets" ></item>
+<item slot="5" original="Enter the theater" ></item>
+<item slot="6" original="Find a place to sit inside the movie theater" ></item>
+<item slot="7" original="Watch the movie" ></item>
+</script><script id="8" source="2"><item slot="1" original="Find movie listings" ></item>
+<item slot="2" original="Decide on movie" ></item>
+<item slot="3" original="Go to theater" ></item>
+<item slot="4" original="Go to ticket line" ></item>
+<item slot="5" original="Buy ticket" ></item>
+<item slot="6" original="Go inside" ></item>
+<item slot="7" original="Get popcorn" ></item>
+<item slot="8" original="Give ticket" ></item>
+<item slot="9" original="Go into movie" ></item>
+<item slot="10" original="Sit down" ></item>
+<item slot="11" original="Watch movie" ></item>
+<item slot="12" original="Leave" ></item>
+</script><script id="9" source="2"><item slot="1" original="Decide whether you're going alone or with friends or family." ></item>
+<item slot="2" original="Choose a movie that you want to see.  You can read reviews or watch trailers." ></item>
+<item slot="3" original="Decide which show time is the best for you." ></item>
+<item slot="4" original="Purchase the tickets - this can either be done on location, or ahead of time." ></item>
+<item slot="5" original="Present your tickets to the usher." ></item>
+<item slot="6" original="Keep your ticket stubs in case you need to re-enter." ></item>
+<item slot="7" original="Watch the movie." ></item>
+</script><script id="10" source="2"><item slot="1" original="Peruse the local papers for shows" ></item>
+<item slot="2" original="After finding a show you would like to see, pick a time" ></item>
+<item slot="3" original="Invite a friend (optional)" ></item>
+<item slot="4" original="Drive, walk, or take public transport to the theater" ></item>
+<item slot="5" original="Buy ticket upon arriving" ></item>
+<item slot="6" original="Buy snacks and drink (optional)" ></item>
+<item slot="7" original="Find a seat that will be optimal for viewing" ></item>
+<item slot="8" original="Silence your cell phone" ></item>
+<item slot="9" original="Enjoy the movie" ></item>
+</script><script id="11" source="2"><item slot="1" original="Travel to movie theater" ></item>
+<item slot="2" original="Purchase tickets at booth" ></item>
+<item slot="3" original="Enter movie theater" ></item>
+<item slot="4" original="Find your specific theater and enter" ></item>
+<item slot="5" original="Watch the movie" ></item>
+<item slot="6" original="Leave when finished" ></item>
+</script><script id="12" source="2"><item slot="1" original="Arrive at movie theater" ></item>
+<item slot="2" original="Look at what is playing soon" ></item>
+<item slot="3" original="Make selection" ></item>
+<item slot="4" original="Tell ticket person which you want a ticket for" ></item>
+<item slot="5" original="Pass through turnstyle" ></item>
+<item slot="6" original="Purchase snacks and drinks" ></item>
+<item slot="7" original="Find your theater" ></item>
+<item slot="8" original="Find a seat" ></item>
+<item slot="9" original="Watch movie" ></item>
+</script><script id="13" source="2"><item slot="1" original="Get ready" ></item>
+<item slot="2" original="Buy tickets" ></item>
+<item slot="3" original="Ride in car" ></item>
+<item slot="4" original="Park the car in the theater" ></item>
+<item slot="5" original="Go to the theater gate" ></item>
+<item slot="6" original="Show the ticket to the security guard" ></item>
+<item slot="7" original="Enter the theater" ></item>
+<item slot="8" original="Enjoy the show" ></item>
+<item slot="9" original="When finished, get back to car" ></item>
+<item slot="10" original="Drive home" ></item>
+</script><script id="14" source="2"><item slot="1" original="Drive to theater" ></item>
+<item slot="2" original="Park your car" ></item>
+<item slot="3" original="Walk to ticket counter" ></item>
+<item slot="4" original="Buy a ticket for a movie" ></item>
+<item slot="5" original="Walk inside theater" ></item>
+<item slot="6" original="Hand ticket to the person" ></item>
+<item slot="7" original="Walk to the area indicated on your ticket" ></item>
+<item slot="8" original="Find a seat and watch the movie" ></item>
+</script><script id="15" source="2"><item slot="1" original="Drive to movie theater" ></item>
+<item slot="2" original="Go to front desk" ></item>
+<item slot="3" original="Buy ticket for movie" ></item>
+<item slot="4" original="Give ticket to ticket checker" ></item>
+<item slot="5" original="Get food at concession stand" ></item>
+<item slot="6" original="Go to specific theater for your movie" ></item>
+<item slot="7" original="Find a seat" ></item>
+<item slot="8" original="Sit down" ></item>
+</script><script id="17" source="2"><item slot="1" original="First choose a cinema which you prefer to see." ></item>
+<item slot="2" original="Confirm that only you or how many are joining with you to the theater." ></item>
+<item slot="3" original="Book the ticket online or go to the theater for current booking." ></item>
+<item slot="4" original="Get into  the vehicle go to the theater." ></item>
+<item slot="5" original="Park the vehicle in parking." ></item>
+<item slot="6" original="Get the token." ></item>
+<item slot="7" original="Go to the entrance door." ></item>
+<item slot="8" original="Get your ticket punched." ></item>
+<item slot="9" original="After getting in search for your seat number sit comfortably." ></item>
+<item slot="10" original="Come out after watching cinema joyfully." ></item>
+</script><script id="18" source="2"><item slot="1" original="Buy tickets" ></item>
+<item slot="2" original="buy snack at concession stand" ></item>
+<item slot="3" original="show usher tickets" ></item>
+<item slot="4" original="sit where directed" ></item>
+<item slot="5" original="wait for show to start" ></item>
+<item slot="6" original="watch show" ></item>
+<item slot="7" original="eat snack" ></item>
+<item slot="8" original="during intermission go to the restroom" ></item>
+<item slot="9" original="watch the rest of the show" ></item>
+<item slot="10" original="clap at end" ></item>
+<item slot="11" original="leave theater" ></item>
+</script><script id="19" source="2"><item slot="1" original="Go online" ></item>
+<item slot="2" original="Search new release movies at my local theater website" ></item>
+<item slot="3" original="Find one I like, click purchase tickets" ></item>
+<item slot="4" original="Pay and then print out tickets." ></item>
+<item slot="5" original="Drive to theater." ></item>
+<item slot="6" original="Go to window and hand over printed ticket." ></item>
+<item slot="7" original="Buy popcorn and soda." ></item>
+<item slot="8" original="Walk into theater and find seats." ></item>
+<item slot="9" original="Relax and watch movie." ></item>
+<item slot="10" original="Drive home afterward." ></item>
+</script><script id="20" source="2"><item slot="1" original="Drive or walk to theater" ></item>
+<item slot="2" original="Purchase tickets to preferred movie at front window" ></item>
+<item slot="3" original="Go into theater and present ticket to attendant" ></item>
+<item slot="4" original="Purchase snacks at concession stand if desired" ></item>
+<item slot="5" original="Go to the room showing your movie as stated on your ticket stub" ></item>
+<item slot="6" original="Be seated and enjoy" ></item>
+</script><script id="21" source="2"><item slot="1" original="Choose the best outfit" ></item>
+<item slot="2" original="Go to the theater" ></item>
+<item slot="3" original="Buy tickets for the movie" ></item>
+<item slot="4" original="Go to the seats allotted" ></item>
+<item slot="5" original="Take your seats" ></item>
+<item slot="6" original="Watch the movie" ></item>
+<item slot="7" original="Leave the theater when the movie ends" ></item>
+</script><script id="22" source="2"><item slot="1" original="Get in car" ></item>
+<item slot="2" original="drive to the theater" ></item>
+<item slot="3" original="go inside theater" ></item>
+<item slot="4" original="go buy your ticket" ></item>
+<item slot="5" original="go get popcorn" ></item>
+<item slot="6" original="go watch movie" ></item>
+</script><script id="23" source="2"><item slot="1" original="Get dressed" ></item>
+<item slot="2" original="Leave house" ></item>
+<item slot="3" original="Drive to theatre" ></item>
+<item slot="4" original="Select movie" ></item>
+<item slot="5" original="Purchase ticket" ></item>
+<item slot="6" original="Get candy and drinks" ></item>
+<item slot="7" original="Head to movie" ></item>
+<item slot="8" original="Watch movie" ></item>
+<item slot="9" original="Go home" ></item>
+</script><script id="24" source="2"><item slot="1" original="Get with friends" ></item>
+<item slot="2" original="Go to cinema" ></item>
+<item slot="3" original="Choose a movie" ></item>
+<item slot="4" original="Buy a ticket" ></item>
+<item slot="5" original="Buy popcorn" ></item>
+<item slot="6" original="Buy nachos" ></item>
+<item slot="7" original="Go to the bathroom" ></item>
+<item slot="8" original="Enter the cinema" ></item>
+<item slot="9" original="Watch trailers" ></item>
+<item slot="10" original="Watch movie" ></item>
+</script><script id="25" source="2"><item slot="1" original="Select a desired movie and showtime" ></item>
+<item slot="2" original="Get into car" ></item>
+<item slot="3" original="Drive to the theater" ></item>
+<item slot="4" original="Go to ticket booth and purchase tickets" ></item>
+<item slot="5" original="Go to the room where movie is showing" ></item>
+<item slot="6" original="Select seat" ></item>
+</script><script id="26" source="2"><item slot="1" original="Drive to the theater." ></item>
+<item slot="2" original="Pick a movie to watch." ></item>
+<item slot="3" original="Pay for ticket(s)." ></item>
+<item slot="4" original="Get desired snacks and drinks (if any)." ></item>
+<item slot="5" original="Find the room said movie is playing in." ></item>
+<item slot="6" original="Find a seat." ></item>
+<item slot="7" original="Enjoy the movie." ></item>
+</script><script id="27" source="2"><item slot="1" original="Choose which movie you would like to see." ></item>
+<item slot="2" original="Check the times that the movie will show." ></item>
+<item slot="3" original="Drive to the theater if you are not already there." ></item>
+<item slot="4" original="Go up to the counter and buy tickets if you have not already bought them." ></item>
+<item slot="5" original="Buy refreshments if you'd like them." ></item>
+<item slot="6" original="Go into the designated theater." ></item>
+<item slot="7" original="Choose your favorite seats." ></item>
+<item slot="8" original="Silence your cell phone." ></item>
+<item slot="9" original="Sit back and enjoy." ></item>
+</script><script id="28" source="2"><item slot="1" original="Drive to theater" ></item>
+<item slot="2" original="Decide what movie to see" ></item>
+<item slot="3" original="Buy movie ticket" ></item>
+<item slot="4" original="Enter theater" ></item>
+<item slot="5" original="Hand ticket to ticket taker" ></item>
+<item slot="6" original="Go to concession stand" ></item>
+<item slot="7" original="Buy popcorn and soda" ></item>
+<item slot="8" original="Go into correct theater room" ></item>
+<item slot="9" original="Find a seat" ></item>
+<item slot="10" original="Watch movie" ></item>
+<item slot="11" original="Leave theater room" ></item>
+<item slot="12" original="Throw away cup and popcorn bucket" ></item>
+<item slot="13" original="Leave theater" ></item>
+</script><script id="29" source="2"><item slot="1" original="choose the show you want to see" ></item>
+<item slot="2" original="call the box office to reserve tickets" ></item>
+<item slot="3" original="locate the box office when you get there" ></item>
+<item slot="4" original="pay for tickets" ></item>
+<item slot="5" original="wait in lobby for the theater to open" ></item>
+<item slot="6" original="give the usher your tickets" ></item>
+<item slot="7" original="find your seats" ></item>
+<item slot="8" original="wait for the show to start" ></item>
+</script><script id="30" source="2"><item slot="1" original="Get in car" ></item>
+<item slot="2" original="Drive to nearest theater" ></item>
+<item slot="3" original="Wait in line" ></item>
+<item slot="4" original="Buy tickets" ></item>
+<item slot="5" original="Find room" ></item>
+<item slot="6" original="Find seat" ></item>
+<item slot="7" original="Watch movie" ></item>
+</script><script id="31" source="2"><item slot="1" original="Walk into the theater." ></item>
+<item slot="2" original="Go up to the window." ></item>
+<item slot="3" original="Order the tickets you would like." ></item>
+<item slot="4" original="Pay for tickets." ></item>
+<item slot="5" original="Walk into the second set of doors." ></item>
+<item slot="6" original="Someone will check your ticket." ></item>
+<item slot="7" original="They will direct you to your theater." ></item>
+<item slot="8" original="Make sure to keep your ticket just in case." ></item>
+<item slot="9" original="Find your theater by the number on your ticket." ></item>
+<item slot="10" original="Walk into the theater." ></item>
+<item slot="11" original="Find a seat and sit down." ></item>
+<item slot="12" original="Wait for the show to start." ></item>
+<item slot="13" original="Watch the show." ></item>
+<item slot="14" original="After the show is over leave the theater." ></item>
+</script><script id="32" source="2"><item slot="1" original="Locate nearest movie theater of your choice" ></item>
+<item slot="2" original="Determine time of your movie by phone, internet or smartphone" ></item>
+<item slot="3" original="Purchase ticket at ticket booth or from the internet" ></item>
+<item slot="4" original="Enter the movie theater and give your ticket to staff" ></item>
+<item slot="5" original="(Optional) Select food or drinks from the food concession" ></item>
+<item slot="6" original="Enter assigned movie theater for your movie" ></item>
+<item slot="7" original="Find best seating to suit your viewing pleasure" ></item>
+<item slot="8" original="wait for movie to start" ></item>
+<item slot="9" original="remain courteously silent while watching movie" ></item>
+<item slot="10" original="watch movie" ></item>
+<item slot="11" original="once movie ends, exit from the movie theater" ></item>
+<item slot="12" original="(Optional) use bathroom anytime as needed before,during or after movie" ></item>
+<item slot="13" original="exit movie theater establishment" ></item>
+</script><script id="33" source="2"><item slot="1" original="decide which movie you'd like to see" ></item>
+<item slot="2" original="check the theater for showtimes" ></item>
+<item slot="3" original="arrive at theater before showtime" ></item>
+<item slot="4" original="purchase tickets at front counter" ></item>
+<item slot="5" original="purchase any snacks or beverages you'd like from the snack counter" ></item>
+<item slot="6" original="find the specific theater your movie is playing in" ></item>
+<item slot="7" original="choose a seat" ></item>
+<item slot="8" original="watch the movie" ></item>
+</script><script id="34" source="2"><item slot="1" original="Decide which show you would like to see." ></item>
+<item slot="2" original="Arrive at theater early enough to wait in line." ></item>
+<item slot="3" original="Wait in line and purchase tickets to show." ></item>
+<item slot="4" original="Use restroom before show starts." ></item>
+<item slot="5" original="Find seats in theater." ></item>
+<item slot="6" original="Enjoy the show." ></item>
+<item slot="7" original="Purchase something to drink if desired at intermission." ></item>
+<item slot="8" original="Enjoy end of show and then go home." ></item>
+</script><script id="35" source="2"><item slot="1" original="Drive to the movie theater" ></item>
+<item slot="2" original="Check the showings to see what is playing" ></item>
+<item slot="3" original="Pick out a movie to watch" ></item>
+<item slot="4" original="Purchase a ticket" ></item>
+<item slot="5" original="Find the correct room the movie is playing" ></item>
+<item slot="6" original="Enjoy the movie" ></item>
+</script><script id="37" source="2"><item slot="1" original="Go online." ></item>
+<item slot="2" original="Check the movie times." ></item>
+<item slot="3" original="Look for the best time." ></item>
+<item slot="4" original="Drive to the theater." ></item>
+<item slot="5" original="Get in line." ></item>
+<item slot="6" original="Purchase movie tickets." ></item>
+<item slot="7" original="Watch movie." ></item>
+</script><script id="39" source="2"><item slot="1" original="Getting tickets for a show" ></item>
+<item slot="2" original="Getting dressed up to go to the theater" ></item>
+<item slot="3" original="Getting in the car" ></item>
+<item slot="4" original="Driving to the theater" ></item>
+<item slot="5" original="Going into the theater" ></item>
+</script><script id="40" source="2"><item slot="1" original="Choose a show" ></item>
+<item slot="2" original="Buy ticket" ></item>
+<item slot="3" original="Travel to theater" ></item>
+<item slot="4" original="Show ticket to usher" ></item>
+<item slot="5" original="Find your seat" ></item>
+<item slot="6" original="Wait for the show to begin" ></item>
+<item slot="7" original="Watch the show" ></item>
+<item slot="8" original="When show ends, leave theater" ></item>
+<item slot="9" original="Go home" ></item>
+</script><script id="41" source="2"><item slot="1" original="Check online to see what movies are playing at your local theater" ></item>
+<item slot="2" original="Find a movie and time that you can see a movie" ></item>
+<item slot="3" original="Look at the directions so you know where the movie theater is" ></item>
+<item slot="4" original="Head down to the movie theater in time to see the movie" ></item>
+<item slot="5" original="Stand in the outside line to purchase a ticket" ></item>
+<item slot="6" original="Head inside and give your ticket to the appropriate employee" ></item>
+<item slot="7" original="Purchase snacks at the counter if you're hungry" ></item>
+<item slot="8" original="Head towards your assigned room by following the appropriate signs" ></item>
+<item slot="9" original="Find a comfortable seat and enjoy the movie" ></item>
+<item slot="10" original="After the movie leave the theater" ></item>
+</script><script id="42" source="2"><item slot="1" original="Leave house in car." ></item>
+<item slot="2" original="Drive to theater." ></item>
+<item slot="3" original="Go to ticket window." ></item>
+<item slot="4" original="Purchase tickets." ></item>
+<item slot="5" original="Enter theater." ></item>
+<item slot="6" original="Enjoy show." ></item>
+</script><script id="43" source="2"><item slot="1" original="Drive to theater" ></item>
+<item slot="2" original="Choose what movie you want to see" ></item>
+<item slot="3" original="Buy tickets/concessions" ></item>
+<item slot="4" original="Enter your specific theater" ></item>
+<item slot="5" original="Watch the movie" ></item>
+<item slot="6" original="Exit theater after movie is over" ></item>
+</script><script id="44" source="2"><item slot="1" original="Look online to find time/location for show" ></item>
+<item slot="2" original="Get dressed in appropriate attire" ></item>
+<item slot="3" original="Drive to appropriate location" ></item>
+<item slot="4" original="Park car" ></item>
+<item slot="5" original="Buy tickets" ></item>
+<item slot="6" original="Enter correct theater for showing" ></item>
+<item slot="7" original="Find seats" ></item>
+<item slot="8" original="Watch performance" ></item>
+</script><script id="45" source="2"><item slot="1" original="pick movie" ></item>
+<item slot="2" original="arrive theater" ></item>
+<item slot="3" original="pay for ticket" ></item>
+<item slot="4" original="find seat" ></item>
+<item slot="5" original="watch movie" ></item>
+<item slot="6" original="leave" ></item>
+</script><script id="46" source="2"><item slot="1" original="Find a movie you want to watch" ></item>
+<item slot="2" original="Locate the theater you want to go to" ></item>
+<item slot="3" original="Drive to the theater" ></item>
+<item slot="4" original="Go into the theater" ></item>
+<item slot="5" original="Purchase a ticket to the movie you want to see" ></item>
+<item slot="6" original="Give ticket to the checker" ></item>
+<item slot="7" original="Walk into specific theater" ></item>
+<item slot="8" original="Sit in seat" ></item>
+<item slot="9" original="Watch film" ></item>
+<item slot="10" original="Leave theater" ></item>
+</script><script id="47" source="2"><item slot="1" original="Line up at counter" ></item>
+<item slot="2" original="Choose what movie you want to see" ></item>
+<item slot="3" original="When it's your turn, tell cashier what you want to see and how many people in your party" ></item>
+<item slot="4" original="Pay for tickets" ></item>
+<item slot="5" original="Take tickets" ></item>
+<item slot="6" original="Walk to the right screen" ></item>
+<item slot="7" original="Sit down in seats" ></item>
+<item slot="8" original="Wait for movie to start" ></item>
+<item slot="9" original="Watch movie" ></item>
+</script><script id="48" source="2"><item slot="1" original="get car keys" ></item>
+<item slot="2" original="get in the car" ></item>
+<item slot="3" original="drive to the theater" ></item>
+<item slot="4" original="buy a ticket" ></item>
+<item slot="5" original="buy concessions" ></item>
+<item slot="6" original="enter the theater" ></item>
+<item slot="7" original="watch the performance" ></item>
+<item slot="8" original="return home" ></item>
+</script><script id="49" source="2"><item slot="1" original="enter movie theater" ></item>
+<item slot="2" original="pay for the film" ></item>
+<item slot="3" original="get food" ></item>
+<item slot="4" original="enter movie hall" ></item>
+<item slot="5" original="watch film" ></item>
+</script><script id="50" source="2"><item slot="1" original="Look at showtimes." ></item>
+<item slot="2" original="Get into car." ></item>
+<item slot="3" original="Drive to theater." ></item>
+<item slot="4" original="Park." ></item>
+<item slot="5" original="Go in the theater." ></item>
+<item slot="6" original="Buy a ticket." ></item>
+<item slot="7" original="Give ticket to the usher." ></item>
+<item slot="8" original="Find your theater." ></item>
+<item slot="9" original="Sit down." ></item>
+<item slot="10" original="Watch movie." ></item>
+<item slot="11" original="Leave theater." ></item>
+</script><script id="51" source="2"><item slot="1" original="Get in car" ></item>
+<item slot="2" original="Drive to theater" ></item>
+<item slot="3" original="Walk up to ticket counter" ></item>
+<item slot="4" original="Purchase ticket(s)" ></item>
+<item slot="5" original="Walk in theater" ></item>
+<item slot="6" original="Buy snacks/drinks if you want" ></item>
+<item slot="7" original="Walk to correct room number" ></item>
+<item slot="8" original="Sit down in seat of your choice" ></item>
+<item slot="9" original="Watch movie" ></item>
+</script><script id="52" source="2"><item slot="1" original="Get in car" ></item>
+<item slot="2" original="Drive to theater" ></item>
+<item slot="3" original="Park car" ></item>
+<item slot="4" original="Go into theater" ></item>
+<item slot="5" original="Find movie to watch" ></item>
+<item slot="6" original="Buy ticket" ></item>
+<item slot="7" original="Buy popcorn" ></item>
+<item slot="8" original="Watch movie" ></item>
+<item slot="9" original="Leave theater" ></item>
+<item slot="10" original="Drive home" ></item>
+</script><script id="53" source="2"><item slot="1" original="seeing what's playing" ></item>
+<item slot="2" original="buying tickets" ></item>
+<item slot="3" original="buying popcorn" ></item>
+<item slot="4" original="buying drinks" ></item>
+<item slot="5" original="having a seat" ></item>
+<item slot="6" original="enjoying the show" ></item>
+</script><script id="54" source="2"><item slot="1" original="Decide what to see." ></item>
+<item slot="2" original="Drive to theater." ></item>
+<item slot="3" original="Purchase your ticket." ></item>
+<item slot="4" original="Wait in line." ></item>
+<item slot="5" original="Go find a seat." ></item>
+<item slot="6" original="Watch the movie." ></item>
+</script><script id="55" source="2"><item slot="1" original="Arrive at the theater" ></item>
+<item slot="2" original="Purchase movie ticket" ></item>
+<item slot="3" original="Buy popcorn" ></item>
+<item slot="4" original="Buy snacks" ></item>
+<item slot="5" original="Buy a drink" ></item>
+<item slot="6" original="Sit down in the theater" ></item>
+<item slot="7" original="Watch movie" ></item>
+<item slot="8" original="Go home" ></item>
+</script><script id="56" source="2"><item slot="1" original="arrive at theater" ></item>
+<item slot="2" original="buy tickets at the box office" ></item>
+<item slot="3" original="give tickets to usher" ></item>
+<item slot="4" original="follow usher to your seat" ></item>
+<item slot="5" original="enjoy the show" ></item>
+<item slot="6" original="exit the theater" ></item>
+</script><script id="57" source="2"><item slot="1" original="find out when the show you want starts" ></item>
+<item slot="2" original="get there on time" ></item>
+<item slot="3" original="buy ticket" ></item>
+<item slot="4" original="get snacks" ></item>
+<item slot="5" original="find seat" ></item>
+<item slot="6" original="watch movie" ></item>
+<item slot="7" original="leave when it is over" ></item>
+</script><script id="58" source="2"><item slot="1" original="drive to the theater" ></item>
+<item slot="2" original="walk into theater" ></item>
+<item slot="3" original="buy ticket" ></item>
+<item slot="4" original="get popcorn" ></item>
+<item slot="5" original="find a seat" ></item>
+<item slot="6" original="watch movie" ></item>
+</script><script id="59" source="2"><item slot="1" original="Drive to the theater" ></item>
+<item slot="2" original="Go the clerk and say what movie you would like to see" ></item>
+<item slot="3" original="Pay for ticket" ></item>
+<item slot="4" original="Go to concession stand and order food if desired" ></item>
+<item slot="5" original="Go into the movie theater" ></item>
+<item slot="6" original="Find a seat" ></item>
+<item slot="7" original="Enjoy movie" ></item>
+</script><script id="60" source="2"><item slot="1" original="Get in the car" ></item>
+<item slot="2" original="Drive to the theater" ></item>
+<item slot="3" original="Buy your tickets at the window" ></item>
+<item slot="4" original="Go inside the theater" ></item>
+<item slot="5" original="Pick your seat" ></item>
+<item slot="6" original="Sit down and enjoy the movie" ></item>
+<item slot="7" original="Leave once the movie is over" ></item>
+</script><script id="61" source="2"><item slot="1" original="Leave my house" ></item>
+<item slot="2" original="Get in my car" ></item>
+<item slot="3" original="Drive to movie theater" ></item>
+<item slot="4" original="Park my car" ></item>
+<item slot="5" original="Enter movie theater" ></item>
+</script><script id="62" source="2"><item slot="1" original="Browse movie listings" ></item>
+<item slot="2" original="Select movie to see" ></item>
+<item slot="3" original="Get in car" ></item>
+<item slot="4" original="Drive to theater" ></item>
+<item slot="5" original="Get out of car" ></item>
+<item slot="6" original="Enter lobby" ></item>
+<item slot="7" original="Purchase movie tickets" ></item>
+<item slot="8" original="Enter theater" ></item>
+<item slot="9" original="Buy popcorn and drinks" ></item>
+<item slot="10" original="Find room for movie" ></item>
+<item slot="11" original="Enter room" ></item>
+<item slot="12" original="Select seats" ></item>
+<item slot="13" original="Watch previews" ></item>
+<item slot="14" original="Watch movie" ></item>
+<item slot="15" original="Leave theater" ></item>
+</script><script id="63" source="2"><item slot="1" original="DRIVE TO THE THEATER" ></item>
+<item slot="2" original="PURCHASE TICKETS FOR THE SHOW" ></item>
+<item slot="3" original="FIND THE SEATS ASSIGNED TO YOU" ></item>
+<item slot="4" original="SIT DOWN AND ENJOY THE SHOW" ></item>
+<item slot="5" original="WHEN THE SHOW IS OVER, LEAVE THE THEATRE" ></item>
+<item slot="6" original="GO HOME" ></item>
+</script><script id="64" source="2"><item slot="1" original="Visit the ticket booking app on smart phone" ></item>
+<item slot="2" original="Select the film that I wish to go" ></item>
+<item slot="3" original="Select the best theater where the film is being screened" ></item>
+<item slot="4" original="Select the show time and choose the seat" ></item>
+<item slot="5" original="Confirm and pay through credit card" ></item>
+<item slot="6" original="Go to the theater" ></item>
+<item slot="7" original="Show the booked ticket on my phone" ></item>
+<item slot="8" original="Enter the theater and enjoy the film" ></item>
+<item slot="9" original="Have some snacks and drinks in the intermission" ></item>
+<item slot="10" original="Leave the theater when the film is over" ></item>
+</script><script id="65" source="2"><item slot="1" original="Research play times at the theater" ></item>
+<item slot="2" original="Choose a performance to see" ></item>
+<item slot="3" original="Buy tickets" ></item>
+<item slot="4" original="Drive to the theater" ></item>
+<item slot="5" original="Find your seats" ></item>
+<item slot="6" original="Watch the show" ></item>
+<item slot="7" original="Leave the theater" ></item>
+</script><script id="66" source="2"><item slot="1" original="buy tickets" ></item>
+<item slot="2" original="dress up" ></item>
+<item slot="3" original="drive to theater" ></item>
+<item slot="4" original="go to seats" ></item>
+<item slot="5" original="watch show" ></item>
+<item slot="6" original="leave theater" ></item>
+<item slot="7" original="drive home" ></item>
+</script><script id="67" source="2"><item slot="1" original="Find the theater that is playing the movie you wish to see." ></item>
+<item slot="2" original="Get in your car or other means of transportation." ></item>
+<item slot="3" original="Go to the theater." ></item>
+<item slot="4" original="Purchase tickets for the show you are seeing." ></item>
+<item slot="5" original="Find what room your movie is playing in." ></item>
+<item slot="6" original="Enter the theater and find seats." ></item>
+<item slot="7" original="Sit down and wait for the movie to start." ></item>
+</script><script id="68" source="2"><item slot="1" original="Look up playing times for the desired movie" ></item>
+<item slot="2" original="Drive to the theater at the appropriate time" ></item>
+<item slot="3" original="Wait in line for a ticket" ></item>
+<item slot="4" original="Pay for your ticket" ></item>
+<item slot="5" original="Leave ticket booth and head for the theater doors" ></item>
+<item slot="6" original="Hand ticket the attendant" ></item>
+<item slot="7" original="Go to the concession stand and buy drinks or popcorn" ></item>
+<item slot="8" original="Finish up and enter the movie" ></item>
+<item slot="9" original="Find a seat and sit down" ></item>
+<item slot="10" original="enjoy the movie" ></item>
+</script><script id="69" source="2"><item slot="1" original="Arrive at theater" ></item>
+<item slot="2" original="Get in line" ></item>
+<item slot="3" original="Pay for movie ticket" ></item>
+<item slot="4" original="Buy snacks" ></item>
+<item slot="5" original="Find theater" ></item>
+<item slot="6" original="Find a seat" ></item>
+<item slot="7" original="Watch movie" ></item>
+</script><script id="70" source="2"><item slot="1" original="Decide what movie to see." ></item>
+<item slot="2" original="Decide which theater to go to." ></item>
+<item slot="3" original="Go to theater." ></item>
+<item slot="4" original="Purchase tickets for movie." ></item>
+<item slot="5" original="Purchase popcorn, soda and candy." ></item>
+<item slot="6" original="Locate theater." ></item>
+<item slot="7" original="Find seats." ></item>
+<item slot="8" original="Sit down." ></item>
+<item slot="9" original="Watch movie." ></item>
+<item slot="10" original="Throw away empty food containers." ></item>
+<item slot="11" original="Exit theater." ></item>
+<item slot="12" original="Go home." ></item>
+</script><script id="71" source="2"><item slot="1" original="choose film to watch" ></item>
+<item slot="2" original="choose theater and time" ></item>
+<item slot="3" original="get in car and drive to theater" ></item>
+<item slot="4" original="purchase tickets to movie" ></item>
+<item slot="5" original="purchase popcorn and soda, if desired" ></item>
+<item slot="6" original="present ticket to attendant" ></item>
+<item slot="7" original="walk to theater" ></item>
+<item slot="8" original="choose seat" ></item>
+<item slot="9" original="watch film" ></item>
+</script><script id="72" source="2"><item slot="1" original="Approach ticket booth." ></item>
+<item slot="2" original="Ask for a ticket to the movie you want to see." ></item>
+<item slot="3" original="Pay for your ticket." ></item>
+<item slot="4" original="Get ticket and receipt from ticket seller." ></item>
+<item slot="5" original="Enter movie theater." ></item>
+<item slot="6" original="Find specific movie theater listed on ticket." ></item>
+<item slot="7" original="Enter the specific theater." ></item>
+<item slot="8" original="Find a seat and sit." ></item>
+<item slot="9" original="Wait for the movie to start." ></item>
+<item slot="10" original="Watch movie." ></item>
+<item slot="11" original="Leave theater when movie is over." ></item>
+<item slot="12" original="Leave movie theater parking lot." ></item>
+</script><script id="73" source="2"><item slot="1" original="Buy tickets for theater" ></item>
+<item slot="2" original="Get dressed" ></item>
+<item slot="3" original="Arrive at theater before show" ></item>
+<item slot="4" original="Get in line at theater entrance" ></item>
+<item slot="5" original="Present ticket to ticket taker" ></item>
+<item slot="6" original="Enter theater" ></item>
+<item slot="7" original="Find assigned seat" ></item>
+<item slot="8" original="Enjoy show" ></item>
+<item slot="9" original="Leave theater" ></item>
+</script><script id="74" source="2"><item slot="1" original="Call friends" ></item>
+<item slot="2" original="Decide on movie" ></item>
+<item slot="3" original="Carpool" ></item>
+<item slot="4" original="Queue up" ></item>
+<item slot="5" original="Buy tickets" ></item>
+<item slot="6" original="Buy concessions" ></item>
+<item slot="7" original="Find good seats" ></item>
+<item slot="8" original="Wait through commercials" ></item>
+<item slot="9" original="Watch movie" ></item>
+<item slot="10" original="Exit theater room" ></item>
+<item slot="11" original="Throw away trash" ></item>
+<item slot="12" original="Use bathroom" ></item>
+<item slot="13" original="Carpool back" ></item>
+</script><script id="75" source="2"><item slot="1" original="Decide what movie to watch." ></item>
+<item slot="2" original="Walk to counter and pay for movie" ></item>
+<item slot="3" original="Buy some popcorn ." ></item>
+<item slot="4" original="Walk into theater with movie playing." ></item>
+<item slot="5" original="Find a seat." ></item>
+<item slot="6" original="Sit down." ></item>
+<item slot="7" original="Watch movie." ></item>
+<item slot="8" original="Eat popcorn." ></item>
+</script><script id="76" source="2"><item slot="1" original="Buy theater tickets in advance." ></item>
+<item slot="2" original="Drive to the theatre." ></item>
+<item slot="3" original="Check in using the tickets." ></item>
+<item slot="4" original="Watch the play." ></item>
+<item slot="5" original="Leave the theatre." ></item>
+<item slot="6" original="Drive home." ></item>
+</script><script id="77" source="2"><item slot="1" original="Find which movie you want to watch" ></item>
+<item slot="2" original="Decide at what time you want to see it" ></item>
+<item slot="3" original="Purchase the tickets" ></item>
+<item slot="4" original="Go into theater" ></item>
+<item slot="5" original="Purchase concessions" ></item>
+<item slot="6" original="Give usher your ticket" ></item>
+<item slot="7" original="Go to your assigned movie room" ></item>
+<item slot="8" original="Find a good seat" ></item>
+<item slot="9" original="Relax and enjoy" ></item>
+</script><script id="78" source="2"><item slot="1" original="Enter the theatre" ></item>
+<item slot="2" original="Pick the movie" ></item>
+<item slot="3" original="Buy the ticket to that movie" ></item>
+<item slot="4" original="Buy snacks" ></item>
+<item slot="5" original="Show the doorman the ticket" ></item>
+<item slot="6" original="Go inside the darker room" ></item>
+<item slot="7" original="Find a seat" ></item>
+<item slot="8" original="Watch the movie" ></item>
+<item slot="9" original="Eat the snack" ></item>
+<item slot="10" original="Leave the room" ></item>
+<item slot="11" original="Throw away the trash" ></item>
+<item slot="12" original="Leave the theatre" ></item>
+</script><script id="79" source="2"><item slot="1" original="Drive to movie theater." ></item>
+<item slot="2" original="Choose a movie to watch." ></item>
+<item slot="3" original="Purchase popcorn and drinks from concession area." ></item>
+<item slot="4" original="Turn in movie ticket to person at the theater gate." ></item>
+<item slot="5" original="Find the area where your movie will be showing." ></item>
+<item slot="6" original="Choose a place to sit while movie is playing." ></item>
+<item slot="7" original="Silence cell phone because it is polite." ></item>
+<item slot="8" original="Watch movie until it is over." ></item>
+<item slot="9" original="Leave theater." ></item>
+</script><script id="80" source="2"><item slot="1" original="Look up movies online." ></item>
+<item slot="2" original="Choose a movie." ></item>
+<item slot="3" original="Go to the theatres." ></item>
+<item slot="4" original="Pay for a ticket." ></item>
+<item slot="5" original="Sit for the movie." ></item>
+</script><script id="81" source="2"><item slot="1" original="Drive to the theater" ></item>
+<item slot="2" original="Look at the marquee" ></item>
+<item slot="3" original="Decide on a movie to watch" ></item>
+<item slot="4" original="Purchase a ticket" ></item>
+<item slot="5" original="Go inside the theater" ></item>
+<item slot="6" original="Give ticket to admissions attendant" ></item>
+<item slot="7" original="Get directions to which room it is in" ></item>
+<item slot="8" original="Go to the individual theater room" ></item>
+<item slot="9" original="Find a seat" ></item>
+<item slot="10" original="Sit down" ></item>
+<item slot="11" original="Watch the movie" ></item>
+<item slot="12" original="Get up" ></item>
+<item slot="13" original="Leave the theater" ></item>
+<item slot="14" original="Drive home" ></item>
+</script><script id="82" source="2"><item slot="1" original="Enter theater" ></item>
+<item slot="2" original="Go to ticket counter" ></item>
+<item slot="3" original="Tell them which movie you want to see" ></item>
+<item slot="4" original="Pay for ticket" ></item>
+<item slot="5" original="Walk to the room playing your movie" ></item>
+<item slot="6" original="Find an unoccupied seat" ></item>
+<item slot="7" original="Sit in that seat" ></item>
+<item slot="8" original="Watch your movie" ></item>
+<item slot="9" original="Leave the theater" ></item>
+</script><script id="83" source="2"><item slot="1" original="enter theater" ></item>
+<item slot="2" original="get some popcorn or other snack" ></item>
+<item slot="3" original="find right theater" ></item>
+<item slot="4" original="wait in line to enter" ></item>
+<item slot="5" original="enter theater" ></item>
+<item slot="6" original="find a seat" ></item>
+<item slot="7" original="put phone on silent" ></item>
+<item slot="8" original="start eating popcorn" ></item>
+<item slot="9" original="watch movie" ></item>
+</script><script id="84" source="2"><item slot="1" original="Select a film" ></item>
+<item slot="2" original="Find the available theater" ></item>
+<item slot="3" original="Book the ticket" ></item>
+<item slot="4" original="Pay for the ticket" ></item>
+<item slot="5" original="Enter into the theater" ></item>
+<item slot="6" original="Watch the film" ></item>
+<item slot="7" original="Leave the theater" ></item>
+</script><script id="85" source="2"><item slot="1" original="Buy ticket to theater show in advance" ></item>
+<item slot="2" original="Day of show, go to theater" ></item>
+<item slot="3" original="Show ticket to attendant" ></item>
+<item slot="4" original="Buy refreshments" ></item>
+<item slot="5" original="Go to assigned seat" ></item>
+<item slot="6" original="Watch theater show" ></item>
+</script><script id="86" source="2"><item slot="1" original="dress up nicely" ></item>
+<item slot="2" original="drive to local theater" ></item>
+<item slot="3" original="pay for desired movie to watch" ></item>
+<item slot="4" original="buy food if desired such as popcorn etc." ></item>
+<item slot="5" original="find a seat inside theater" ></item>
+<item slot="6" original="turn phone off" ></item>
+<item slot="7" original="be quiet" ></item>
+<item slot="8" original="enjoy movie" ></item>
+</script><script id="87" source="2"><item slot="1" original="Get to the theatre before hand." ></item>
+<item slot="2" original="Have your tickets ready or be prepared to buy them at the door." ></item>
+<item slot="3" original="Hand your ticket to the usher." ></item>
+<item slot="4" original="Find your way to your seat." ></item>
+<item slot="5" original="Remain silent and courteous through the show." ></item>
+<item slot="6" original="Enjoy the show." ></item>
+<item slot="7" original="Leave." ></item>
+</script><script id="88" source="2"><item slot="1" original="Put on some nice dressy clothes." ></item>
+<item slot="2" original="Drive to theater." ></item>
+<item slot="3" original="Pay to park." ></item>
+<item slot="4" original="Park your car." ></item>
+<item slot="6" original="Pick up tickets" ></item>
+<item slot="7" original="Give tickets to the usher at the door." ></item>
+<item slot="8" original="Go to the section that your tickets says." ></item>
+<item slot="9" original="Give tickets to the next usher." ></item>
+<item slot="10" original="Follow usher to your seats." ></item>
+<item slot="11" original="Enjoy the show" ></item>
+</script><script id="89" source="2"><item slot="1" original="Book the ticket" ></item>
+<item slot="2" original="Confirm the timing" ></item>
+<item slot="3" original="Go to the theater" ></item>
+<item slot="4" original="Show the ticket at the gate" ></item>
+<item slot="5" original="Enter the theater" ></item>
+<item slot="6" original="Enjoy the show" ></item>
+<item slot="7" original="Come out when finish" ></item>
+</script><script id="90" source="2"><item slot="1" original="purchase theater tickets" ></item>
+<item slot="2" original="get int the car" ></item>
+<item slot="3" original="drive to the theater" ></item>
+<item slot="4" original="show tickets at the counter" ></item>
+<item slot="5" original="get seated in your seats" ></item>
+<item slot="6" original="enjoy the play" ></item>
+</script><script id="91" source="2"><item slot="1" original="Get in car" ></item>
+<item slot="2" original="Drive to theater" ></item>
+<item slot="3" original="Wait in line" ></item>
+<item slot="4" original="Buy ticket" ></item>
+<item slot="5" original="Buy snacks" ></item>
+<item slot="6" original="Find correct theater room" ></item>
+<item slot="7" original="Pick a seat" ></item>
+<item slot="8" original="Enjoy the movie" ></item>
+</script><script id="92" source="2"><item slot="1" original="Determine movie time" ></item>
+<item slot="2" original="Put water and candy into purse" ></item>
+<item slot="3" original="Travel to theater" ></item>
+<item slot="4" original="Purchase tickets for movie" ></item>
+<item slot="5" original="Buy popcorn" ></item>
+<item slot="6" original="Find seats in theater" ></item>
+<item slot="7" original="Watch movie and eat popcorn" ></item>
+<item slot="8" original="Leave theater at end of movie" ></item>
+</script><script id="93" source="2"><item slot="1" original="Go to movie theater" ></item>
+<item slot="2" original="Pick movie you want to watch" ></item>
+<item slot="3" original="Buy ticket" ></item>
+<item slot="4" original="Enter theater with ticket" ></item>
+<item slot="5" original="Buy popcorn" ></item>
+<item slot="6" original="Enter movie theater for the desired movie" ></item>
+<item slot="7" original="Sit in theater" ></item>
+<item slot="8" original="Watch trailers" ></item>
+<item slot="9" original="Eat popcorn" ></item>
+<item slot="10" original="Watch main feature" ></item>
+<item slot="11" original="Get up and leave theater" ></item>
+</script><script id="94" source="2"><item slot="1" original="Purchase the tickets" ></item>
+<item slot="2" original="Travel to the theater" ></item>
+<item slot="3" original="Take your allotted seat" ></item>
+<item slot="4" original="Enjoy the show" ></item>
+<item slot="5" original="Return back home" ></item>
+</script><script id="95" source="2"><item slot="1" original="Select the movie" ></item>
+<item slot="2" original="Enter into the theater" ></item>
+<item slot="3" original="Take the ticket" ></item>
+<item slot="4" original="Find the seat number for sit" ></item>
+<item slot="5" original="Watching movie" ></item>
+<item slot="6" original="Buy some snacks at interval ." ></item>
+<item slot="7" original="Again watching movie" ></item>
+<item slot="8" original="Finally leave the theater" ></item>
+</script><script id="96" source="2"><item slot="1" original="Invite anyone who you want to accompany you to theater." ></item>
+<item slot="2" original="Buy tickets for theater." ></item>
+<item slot="3" original="Dress in appropriate clothes for theater." ></item>
+<item slot="4" original="Go to theater." ></item>
+<item slot="5" original="Give ticket to ticket taker." ></item>
+<item slot="6" original="Find correct entrance to theater for your seat." ></item>
+<item slot="7" original="Show ticket to usher." ></item>
+<item slot="8" original="Follow usher to your seat." ></item>
+<item slot="9" original="Sit down and watch show." ></item>
+</script><script id="97" source="2"><item slot="1" original="Research what shows are playing at the theater" ></item>
+<item slot="2" original="Find a show you want to see" ></item>
+<item slot="3" original="Drive or walk to the theater" ></item>
+<item slot="4" original="Pay for tickets at the theater if you didn't buy them in advance" ></item>
+<item slot="5" original="Enter theater" ></item>
+<item slot="6" original="Find seating" ></item>
+<item slot="7" original="Sit and watch the show" ></item>
+<item slot="8" original="Finish watching and exit the theater" ></item>
+</script><script id="98" source="2"><item slot="1" original="Select the desired movie." ></item>
+<item slot="2" original="Search the internet for the theater and time." ></item>
+<item slot="3" original="Travel to the theater." ></item>
+<item slot="4" original="Buy the ticket." ></item>
+<item slot="5" original="Enter the theater" ></item>
+<item slot="6" original="Surrender part of the ticket to the ticket taker." ></item>
+<item slot="7" original="Proceed to the theater seating." ></item>
+<item slot="8" original="Take a seat" ></item>
+<item slot="9" original="Watch the movie." ></item>
+</script><script id="99" source="2"><item slot="1" original="Get in car" ></item>
+<item slot="2" original="Drive to a theater" ></item>
+<item slot="3" original="Buy tickets at theater" ></item>
+<item slot="4" original="Go to the bathroom before the show begins" ></item>
+<item slot="5" original="Sit down in the seats" ></item>
+<item slot="6" original="Watch the show" ></item>
+<item slot="7" original="Exit the theater" ></item>
+<item slot="8" original="Drive home" ></item>
+</script></scripts>

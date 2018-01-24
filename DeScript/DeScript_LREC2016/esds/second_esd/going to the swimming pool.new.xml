@@ -1,0 +1,787 @@
+<scripts><script id="0" source="2"><item slot="1" original="Get bathing suit" ></item>
+<item slot="2" original="Get a towel" ></item>
+<item slot="3" original="Get sunscreen" ></item>
+<item slot="4" original="Find a pool nearby" ></item>
+<item slot="5" original="Get in mode of transportation and to go pool" ></item>
+</script><script id="1" source="2"><item slot="1" original="Pack a bag with things you need." ></item>
+<item slot="2" original="Drive to swimming pool." ></item>
+<item slot="3" original="Pay to swim and get a locker." ></item>
+<item slot="4" original="Change into swimming suit." ></item>
+<item slot="5" original="Put items in locker." ></item>
+<item slot="6" original="Lay out your towel." ></item>
+<item slot="7" original="Start swimming." ></item>
+</script><script id="2" source="2"><item slot="1" original="Get towel" ></item>
+<item slot="2" original="Get swimsuit on" ></item>
+<item slot="3" original="Put on sunscreen" ></item>
+<item slot="4" original="Put coverup over swimsuit" ></item>
+<item slot="5" original="Put on flip flops" ></item>
+<item slot="6" original="Drive to pool" ></item>
+<item slot="7" original="Put towel on chair" ></item>
+<item slot="8" original="Take off flip flops" ></item>
+<item slot="9" original="Take off cover up" ></item>
+<item slot="10" original="Get in the water" ></item>
+</script><script id="3" source="2"><item slot="1" original="Put on bathing suit" ></item>
+<item slot="2" original="Pack towel" ></item>
+<item slot="3" original="Go to pool" ></item>
+<item slot="4" original="Take off clothes" ></item>
+<item slot="5" original="Step into water" ></item>
+</script><script id="4" source="2"><item slot="1" original="Find your swimsuit in your drawer" ></item>
+<item slot="2" original="Wear your swimsuit" ></item>
+<item slot="3" original="Get your towel" ></item>
+<item slot="4" original="What are your sandals" ></item>
+<item slot="5" original="Walk to the swimming pool" ></item>
+<item slot="6" original="Go into the swimming pool" ></item>
+<item slot="7" original="Start swimming in the pool" ></item>
+</script><script id="5" source="2"><item slot="1" original="Put on swim suit." ></item>
+<item slot="2" original="Gather towel and sunscreen." ></item>
+<item slot="3" original="Drive to pool." ></item>
+<item slot="4" original="Enter the gate to the pool." ></item>
+<item slot="5" original="Pay to get in." ></item>
+<item slot="6" original="Find a place to put towel." ></item>
+<item slot="7" original="Jump in pool." ></item>
+<item slot="8" original="Have a blast" ></item>
+</script><script id="6" source="2"><item slot="1" original="Put on bathing suit" ></item>
+<item slot="2" original="Grab a towel" ></item>
+<item slot="3" original="Put on sunscreen" ></item>
+<item slot="4" original="Walk to the pool" ></item>
+<item slot="5" original="Jump in the water" ></item>
+<item slot="6" original="Dry off, when done swimming" ></item>
+</script><script id="7" source="2"><item slot="1" original="Put on swim trunks" ></item>
+<item slot="2" original="Get in car" ></item>
+<item slot="3" original="Drive to swimming pool" ></item>
+<item slot="4" original="Put on sunscreen" ></item>
+<item slot="5" original="Swim in pool" ></item>
+</script><script id="8" source="2"><item slot="1" original="Put on swimming suit" ></item>
+<item slot="2" original="Put track suit on top" ></item>
+<item slot="3" original="Enter the swimming pool" ></item>
+<item slot="4" original="Close the gate" ></item>
+<item slot="5" original="Undress the swimming suit" ></item>
+<item slot="6" original="While in swim suit relax on declining chair next to pool" ></item>
+<item slot="7" original="Then jump into the swimming pool" ></item>
+<item slot="8" original="Enjoy the swimming" ></item>
+<item slot="9" original="When finished, come out and remove the swim suit" ></item>
+<item slot="10" original="Take a shower" ></item>
+<item slot="11" original="Put on track suit" ></item>
+<item slot="12" original="Go out of the gate and  close the gate" ></item>
+</script><script id="10" source="2"><item slot="1" original="Put on swimsuit" ></item>
+<item slot="2" original="Grab towel" ></item>
+<item slot="3" original="Put on flip-flops" ></item>
+<item slot="4" original="Lock apartment" ></item>
+<item slot="5" original="Put on sunglasses" ></item>
+<item slot="6" original="Walk to pool" ></item>
+<item slot="7" original="Enter gates" ></item>
+<item slot="8" original="Choose a beach chair" ></item>
+<item slot="9" original="Lay down and relax" ></item>
+</script><script id="11" source="2"><item slot="1" original="Put on swimsuit." ></item>
+<item slot="2" original="Gather towel, sunscreen and book" ></item>
+<item slot="3" original="Walk to the swimming pool." ></item>
+<item slot="4" original="Claim lounge chair and spread out towel." ></item>
+<item slot="5" original="Apply sunscreen to body." ></item>
+<item slot="6" original="lay out and read book" ></item>
+<item slot="7" original="Jump into the pool" ></item>
+<item slot="8" original="Swim for a while." ></item>
+<item slot="9" original="Get out of the pool" ></item>
+<item slot="10" original="dry off with towel." ></item>
+<item slot="11" original="Buy a soda and drink it." ></item>
+<item slot="12" original="Lay back down to get more sun." ></item>
+<item slot="13" original="reapply sunscreen." ></item>
+<item slot="14" original="swim again." ></item>
+<item slot="15" original="Get out of the pool and gather my stuff." ></item>
+<item slot="16" original="walk home." ></item>
+</script><script id="12" source="2"><item slot="1" original="Get your wet suit" ></item>
+<item slot="2" original="grab some towels" ></item>
+<item slot="3" original="grab some sunblock" ></item>
+<item slot="4" original="go to swimming pool" ></item>
+<item slot="5" original="go change your clothes in the bathroom" ></item>
+<item slot="6" original="go swimming" ></item>
+</script><script id="13" source="2"><item slot="1" original="Locate swimming pool" ></item>
+<item slot="2" original="Put on swim suit" ></item>
+<item slot="3" original="Get towel" ></item>
+<item slot="4" original="Go to pool" ></item>
+<item slot="5" original="Enter pool" ></item>
+</script><script id="14" source="2"><item slot="1" original="Pack up swimming dress and leave home" ></item>
+<item slot="2" original="Go to the swimming pool" ></item>
+<item slot="3" original="buy the entrance ticket for an hour" ></item>
+<item slot="4" original="Head to the changing room" ></item>
+<item slot="5" original="Change to swimming costume" ></item>
+<item slot="6" original="Keep my clothes in the cloak room and lock" ></item>
+<item slot="7" original="Secure the key into the zip pocket of my shorts" ></item>
+<item slot="8" original="Take the shower for 5 minutes" ></item>
+<item slot="9" original="Enter the swimming pool" ></item>
+</script><script id="15" source="2"><item slot="1" original="Gather bag with towels, sun screen, book." ></item>
+<item slot="2" original="Get into car." ></item>
+<item slot="3" original="Drive to pool." ></item>
+<item slot="4" original="Check in at desk." ></item>
+<item slot="5" original="Go into changing room and suit up." ></item>
+<item slot="6" original="Go out to pool deck and find lounger." ></item>
+<item slot="7" original="Relax." ></item>
+<item slot="8" original="Swim." ></item>
+<item slot="9" original="Play." ></item>
+<item slot="10" original="Tan." ></item>
+<item slot="11" original="Go home." ></item>
+</script><script id="16" source="2"><item slot="1" original="Go to the hotel" ></item>
+<item slot="2" original="Get into the swimming suits" ></item>
+<item slot="3" original="Have a shower" ></item>
+<item slot="4" original="Dive into the pool" ></item>
+<item slot="5" original="Swim in the pool" ></item>
+<item slot="6" original="Leave the pool" ></item>
+<item slot="7" original="Change the dress" ></item>
+<item slot="8" original="Dry your hair" ></item>
+<item slot="9" original="Leave the pool" ></item>
+</script><script id="17" source="2"><item slot="1" original="Find your convenient swimming pool" ></item>
+<item slot="2" original="Get a bag which carry waterproof dress and all the needy things." ></item>
+<item slot="3" original="Be sure that your swim suit not too tight or not too loose also not too showy." ></item>
+<item slot="4" original="Be sure you have soap, towel, shampoo of your choice in your bag." ></item>
+<item slot="5" original="Always keep your mobile in water proof pouch." ></item>
+<item slot="6" original="Before entering to swim pool do some warm up exercise." ></item>
+<item slot="7" original="Don't play in water also don't swim and go beyond the warning limit." ></item>
+</script><script id="18" source="2"><item slot="1" original="Put on swimming attire." ></item>
+<item slot="2" original="Make sure to apply sunscreen." ></item>
+<item slot="3" original="Bring a towel." ></item>
+<item slot="4" original="Make your way to the pool." ></item>
+<item slot="5" original="Be aware of people and any rules posted." ></item>
+<item slot="6" original="Set down towel." ></item>
+<item slot="7" original="Enter the pool." ></item>
+</script><script id="19" source="2"><item slot="1" original="Call friends" ></item>
+<item slot="2" original="Get together" ></item>
+<item slot="3" original="Get swim trunks" ></item>
+<item slot="4" original="Drive to swimming pool" ></item>
+<item slot="5" original="Pay the entrance fee" ></item>
+<item slot="6" original="Enter changing rooms" ></item>
+<item slot="7" original="Get changed" ></item>
+<item slot="8" original="Enter pool" ></item>
+<item slot="9" original="Swim in pool" ></item>
+</script><script id="20" source="2"><item slot="1" original="Put on swimsuit" ></item>
+<item slot="2" original="Get towel" ></item>
+<item slot="3" original="Go to pool" ></item>
+<item slot="4" original="Swim" ></item>
+<item slot="5" original="Get out of pool" ></item>
+<item slot="6" original="Dry off" ></item>
+<item slot="7" original="Leave" ></item>
+</script><script id="21" source="2"><item slot="1" original="find a swimming pool that's open" ></item>
+<item slot="2" original="put on swimsuit" ></item>
+<item slot="3" original="walk or drive to swimming pool" ></item>
+<item slot="4" original="pay the cashier the entrance fee" ></item>
+<item slot="5" original="find a place to sit" ></item>
+<item slot="6" original="take off clothes over your swim suit" ></item>
+<item slot="7" original="jump in and enjoy" ></item>
+</script><script id="22" source="2"><item slot="1" original="Put on bathing suit." ></item>
+<item slot="2" original="Go to pool." ></item>
+<item slot="3" original="Wash off before going into pool." ></item>
+<item slot="4" original="Put on sun screen (if outside)." ></item>
+<item slot="5" original="Get into pool." ></item>
+<item slot="6" original="Swim and have fun!" ></item>
+</script><script id="23" source="2"><item slot="1" original="Put on swim suit" ></item>
+<item slot="2" original="Get a towel" ></item>
+<item slot="3" original="Go to swimming pool" ></item>
+<item slot="4" original="Get in pool" ></item>
+<item slot="5" original="Swim" ></item>
+<item slot="6" original="Get out of pool" ></item>
+<item slot="7" original="Dry off with towel" ></item>
+<item slot="8" original="Leave pool" ></item>
+</script><script id="24" source="2"><item slot="1" original="Get bathing suit on" ></item>
+<item slot="2" original="Grab towel and pool stuff" ></item>
+<item slot="3" original="Get in car, drive to pool" ></item>
+<item slot="4" original="Go into shower room" ></item>
+<item slot="5" original="Rinse off" ></item>
+<item slot="6" original="Put towel on bench/chair" ></item>
+<item slot="7" original="Jump in pool" ></item>
+<item slot="8" original="Swim" ></item>
+<item slot="9" original="Get out sit and tan" ></item>
+<item slot="10" original="Repeat" ></item>
+<item slot="11" original="Dry off" ></item>
+<item slot="12" original="Go shower" ></item>
+<item slot="13" original="Put clothes on" ></item>
+<item slot="14" original="Get in car and go home" ></item>
+</script><script id="25" source="2"><item slot="1" original="Go into locker room" ></item>
+<item slot="2" original="Get naked" ></item>
+<item slot="3" original="Put on bathing suit" ></item>
+<item slot="4" original="Walk to swimming pool" ></item>
+<item slot="5" original="Jump into pool" ></item>
+<item slot="6" original="Swim" ></item>
+</script><script id="26" source="2"><item slot="1" original="put on bathing suit" ></item>
+<item slot="2" original="bring a towel" ></item>
+<item slot="3" original="enter swimming pool - jump if brave, otherwise walk in slowly" ></item>
+<item slot="4" original="swim" ></item>
+<item slot="5" original="exit pool" ></item>
+<item slot="6" original="towel dry" ></item>
+</script><script id="27" source="2"><item slot="1" original="Go to the bathroom." ></item>
+<item slot="2" original="Put on swimming suit." ></item>
+<item slot="3" original="Put on swimsuit cover up." ></item>
+<item slot="4" original="Gather your pool toys and sunscreen and towel." ></item>
+<item slot="5" original="Drive to pool." ></item>
+<item slot="6" original="Put on sunscreen." ></item>
+<item slot="7" original="Play and have fun in the pool." ></item>
+<item slot="8" original="Dry off with towel when done." ></item>
+<item slot="9" original="Drive home." ></item>
+</script><script id="28" source="2"><item slot="1" original="Put on swimming suit and get towel" ></item>
+<item slot="2" original="Drive or walk to the pool" ></item>
+<item slot="3" original="Get a chair and put your things nearby" ></item>
+<item slot="4" original="Jump in the pool" ></item>
+<item slot="5" original="Get out of the pool and sit on the chair" ></item>
+</script><script id="29" source="2"><item slot="1" original="Put on bathing suit, shirt, shoes" ></item>
+<item slot="2" original="Get a towel" ></item>
+<item slot="3" original="Locate a swimming pool" ></item>
+<item slot="4" original="Walk or drive to the pool" ></item>
+<item slot="5" original="Take off shirt and shoes" ></item>
+<item slot="6" original="Apply sunscreen to body" ></item>
+<item slot="7" original="Enter the pool" ></item>
+</script><script id="31" source="2"><item slot="1" original="Change into swimsuit." ></item>
+<item slot="2" original="Pack sunscreen, books." ></item>
+<item slot="3" original="Get into car." ></item>
+<item slot="4" original="Drive to pool." ></item>
+<item slot="5" original="Show membership card." ></item>
+<item slot="6" original="Find chair." ></item>
+</script><script id="32" source="2"><item slot="1" original="Put on bathing suit" ></item>
+<item slot="2" original="Put clothes over suit" ></item>
+<item slot="3" original="Pack supplies" ></item>
+<item slot="4" original="Go to car" ></item>
+<item slot="5" original="Drive to the pool" ></item>
+</script><script id="33" source="2"><item slot="1" original="Enter pool building" ></item>
+<item slot="2" original="Pay fee" ></item>
+<item slot="3" original="Go to locker room" ></item>
+<item slot="4" original="Change into swimsuit" ></item>
+<item slot="5" original="Leave locker room" ></item>
+<item slot="6" original="Enter pool room" ></item>
+<item slot="7" original="Get into pool" ></item>
+<item slot="8" original="Swim around" ></item>
+<item slot="9" original="Leave pool" ></item>
+<item slot="10" original="Enter locker room" ></item>
+<item slot="11" original="Dry off" ></item>
+<item slot="12" original="Change into street clothes" ></item>
+<item slot="13" original="Leave locker room" ></item>
+<item slot="14" original="Leave pool building" ></item>
+</script><script id="34" source="2"><item slot="1" original="Find bathing suit and put on." ></item>
+<item slot="2" original="Find towel." ></item>
+<item slot="3" original="Find sunscreen." ></item>
+<item slot="4" original="Find sunglasses." ></item>
+<item slot="5" original="Get pool speaker." ></item>
+<item slot="6" original="Unlock door." ></item>
+<item slot="7" original="Go outside." ></item>
+<item slot="8" original="Turn on pool pump." ></item>
+<item slot="9" original="Skim pool." ></item>
+<item slot="10" original="Get in the pool." ></item>
+</script><script id="35" source="2"><item slot="1" original="Get bathing suit" ></item>
+<item slot="2" original="Get on bus" ></item>
+<item slot="3" original="Pay driver" ></item>
+<item slot="4" original="Sit on bus" ></item>
+<item slot="5" original="Get off at the stop near the pool" ></item>
+<item slot="6" original="Pay cashier to enter the pool house" ></item>
+<item slot="7" original="Change into bathing suit" ></item>
+<item slot="8" original="Shower" ></item>
+<item slot="9" original="Swim" ></item>
+</script><script id="36" source="2"><item slot="1" original="Put on bathing suit" ></item>
+<item slot="2" original="Get a dry towel" ></item>
+<item slot="3" original="Put on sunscreen" ></item>
+<item slot="4" original="Leave house" ></item>
+<item slot="5" original="Walk to pool" ></item>
+</script><script id="37" source="2"><item slot="1" original="get my swimming trunks" ></item>
+<item slot="2" original="enter pool area" ></item>
+<item slot="3" original="change" ></item>
+<item slot="4" original="enter out" ></item>
+<item slot="5" original="enter pool" ></item>
+</script><script id="38" source="2"><item slot="1" original="Find a nearby pool on google" ></item>
+<item slot="2" original="Put together backpack with swimming clothes." ></item>
+<item slot="3" original="walk or drive to nearby park with pool" ></item>
+<item slot="4" original="Go to bathroom to change into swimming attire" ></item>
+<item slot="5" original="Go to park booth and pay for pool access" ></item>
+<item slot="6" original="Leave stuff in safe area" ></item>
+<item slot="7" original="Jump into pool" ></item>
+<item slot="8" original="Swim around" ></item>
+</script><script id="40" source="2"><item slot="1" original="put on swimsuit and cover up" ></item>
+<item slot="2" original="grab a towel and pool key" ></item>
+<item slot="3" original="get the pool toys" ></item>
+<item slot="4" original="walk to the pool" ></item>
+<item slot="5" original="open the gate to the pool" ></item>
+<item slot="6" original="walk into the gate to the pool" ></item>
+<item slot="7" original="find an empty chair" ></item>
+<item slot="8" original="put towel and toys on the chair" ></item>
+<item slot="9" original="Take off cover up" ></item>
+<item slot="10" original="Get in pool" ></item>
+</script><script id="41" source="2"><item slot="1" original="get items like towel and swim suit" ></item>
+<item slot="2" original="get in car" ></item>
+<item slot="3" original="drive to pool" ></item>
+<item slot="4" original="pay fee" ></item>
+<item slot="5" original="put items in locker room and shower" ></item>
+<item slot="6" original="get in pool" ></item>
+</script><script id="42" source="2"><item slot="1" original="Get towels" ></item>
+<item slot="2" original="Get sunscreen lotion" ></item>
+<item slot="3" original="Wear some swimming trunks" ></item>
+<item slot="4" original="Place everything in car trunk" ></item>
+<item slot="5" original="Drive to swimming pool" ></item>
+<item slot="6" original="Get in pool" ></item>
+<item slot="7" original="Start swimming" ></item>
+</script><script id="43" source="2"><item slot="1" original="Put bathing suit on" ></item>
+<item slot="2" original="Put cover up on" ></item>
+<item slot="3" original="Drive to swimming pool" ></item>
+<item slot="4" original="Park in parking lot" ></item>
+<item slot="5" original="Purchase tickets for swimming" ></item>
+<item slot="6" original="Find seating area around pool" ></item>
+<item slot="7" original="Remove cover up" ></item>
+<item slot="8" original="Jump into swimming pool" ></item>
+<item slot="9" original="Enjoy swimming" ></item>
+</script><script id="45" source="2"><item slot="1" original="Put bathing suit and towel in a bag" ></item>
+<item slot="2" original="Get in your car with your bag" ></item>
+<item slot="3" original="Drive to the pool" ></item>
+<item slot="4" original="Park in the lot" ></item>
+<item slot="5" original="Walk into the pool house" ></item>
+<item slot="6" original="Go to the changing room" ></item>
+<item slot="7" original="Get into your bathing suit" ></item>
+<item slot="8" original="Shower off" ></item>
+<item slot="9" original="Walk to the pool with your towel" ></item>
+<item slot="10" original="Put your towel on a chair by the pool" ></item>
+<item slot="11" original="Get into the pool" ></item>
+</script><script id="46" source="2"><item slot="1" original="Find a spot at the pool" ></item>
+<item slot="2" original="Put on sunscreen" ></item>
+<item slot="3" original="Get in the pool" ></item>
+<item slot="4" original="Go for a swim" ></item>
+<item slot="5" original="Get out of pool" ></item>
+<item slot="6" original="Dry off" ></item>
+<item slot="7" original="Go home" ></item>
+</script><script id="47" source="2"><item slot="1" original="put on swim trunks" ></item>
+<item slot="2" original="bring towel" ></item>
+<item slot="3" original="arrive at pool" ></item>
+<item slot="4" original="run to water" ></item>
+<item slot="5" original="throw towel aside" ></item>
+<item slot="7" original="make an epic splash" ></item>
+<item slot="8" original="get everyone around the pool wet" ></item>
+</script><script id="48" source="2"><item slot="1" original="Wear swimming attire" ></item>
+<item slot="2" original="Go to pool" ></item>
+<item slot="3" original="Check the temperature of the pool water" ></item>
+<item slot="4" original="Apply sunscreen" ></item>
+<item slot="5" original="Dive or climb into the pool" ></item>
+</script><script id="49" source="2"><item slot="1" original="Go to swimming baths" ></item>
+<item slot="2" original="Pay for ticket to pool" ></item>
+<item slot="3" original="Go to changing room" ></item>
+<item slot="4" original="Remove clothes" ></item>
+<item slot="5" original="Put on swimsuit" ></item>
+<item slot="6" original="Put clothes in locker" ></item>
+<item slot="7" original="go through to pool" ></item>
+<item slot="8" original="Get in pool" ></item>
+<item slot="9" original="Swim" ></item>
+<item slot="10" original="Get out of pool" ></item>
+<item slot="11" original="Go to changing room" ></item>
+<item slot="12" original="Remove clothes and towel from locker" ></item>
+<item slot="13" original="Take shower" ></item>
+<item slot="14" original="Dry with towel" ></item>
+<item slot="15" original="Put on clothes" ></item>
+<item slot="16" original="Leave swimming baths" ></item>
+</script><script id="50" source="2"><item slot="1" original="put on suit" ></item>
+<item slot="2" original="grab bag with pool accessories" ></item>
+<item slot="3" original="apply sunscreen" ></item>
+<item slot="4" original="drive to pool" ></item>
+<item slot="5" original="stake out lounge chair" ></item>
+<item slot="6" original="take a dip" ></item>
+<item slot="7" original="lie in sun" ></item>
+<item slot="8" original="read book" ></item>
+<item slot="9" original="dry off before entering car" ></item>
+<item slot="10" original="drive home" ></item>
+</script><script id="51" source="2"><item slot="1" original="Get on your swimsuit" ></item>
+<item slot="2" original="Get into your car" ></item>
+<item slot="3" original="Drive to the swimming pool" ></item>
+<item slot="4" original="Walk to the pool" ></item>
+<item slot="5" original="Put on your sunscreen" ></item>
+<item slot="6" original="Jump into the pool and enjoy your swim" ></item>
+<item slot="7" original="Leave the pool" ></item>
+</script><script id="53" source="2"><item slot="1" original="Leave home" ></item>
+<item slot="2" original="Walk into pool area" ></item>
+<item slot="3" original="Close gate behind you" ></item>
+<item slot="4" original="Put towel and other belongings on a chair" ></item>
+<item slot="5" original="Go swimming" ></item>
+</script><script id="54" source="2"><item slot="1" original="GO TO THE SWIMMING POOL" ></item>
+<item slot="2" original="PAY WHEN YOU GET THERE" ></item>
+<item slot="3" original="GET CHANGED INTO SWIMMING COSTUME" ></item>
+<item slot="4" original="GO TO THE POOL" ></item>
+<item slot="5" original="CLIMB INTO THE POOL" ></item>
+<item slot="6" original="SWIM" ></item>
+<item slot="7" original="ONCE FINISHED, GET OUT OF THE POOL" ></item>
+<item slot="8" original="GET CHANGED INTO DRY CLOTHES" ></item>
+<item slot="9" original="LEAVE" ></item>
+</script><script id="55" source="2"><item slot="1" original="choose swimming pool" ></item>
+<item slot="2" original="put on bathing suit" ></item>
+<item slot="3" original="collect towel and other swimming necessities (ie: goggles, ear plugs)" ></item>
+<item slot="4" original="drive to swimming pool" ></item>
+<item slot="5" original="pay entrance fee" ></item>
+<item slot="6" original="place items in a locker, if applicable" ></item>
+<item slot="7" original="enter swimming pool" ></item>
+</script><script id="56" source="2"><item slot="1" original="Put on swimwear." ></item>
+<item slot="2" original="Arrive to swimming pool." ></item>
+<item slot="3" original="Enter swimming pool using ladder." ></item>
+<item slot="4" original="Swim in pool." ></item>
+<item slot="5" original="Leave swimming pool." ></item>
+</script><script id="57" source="2"><item slot="1" original="Put on swimming trunks" ></item>
+<item slot="2" original="Get towel" ></item>
+<item slot="3" original="Walk into the pool area" ></item>
+<item slot="4" original="Get in water and swim" ></item>
+<item slot="5" original="Get out of water" ></item>
+<item slot="6" original="Dry off" ></item>
+</script><script id="58" source="2"><item slot="1" original="Put your swimsuit on" ></item>
+<item slot="2" original="Get your sunglasses, hat, towel, toys, beach towel, etc" ></item>
+<item slot="3" original="Apply sunblock" ></item>
+<item slot="4" original="Get in car" ></item>
+<item slot="5" original="Drive to pool" ></item>
+<item slot="6" original="Park" ></item>
+<item slot="7" original="Walk to the pool area" ></item>
+<item slot="8" original="Observe safety rules" ></item>
+</script><script id="59" source="2"><item slot="1" original="Pay at the front desk" ></item>
+<item slot="2" original="Go to the locker room" ></item>
+<item slot="3" original="Go to a stall" ></item>
+<item slot="4" original="Change into your swimsuit" ></item>
+<item slot="5" original="Leave the locker room" ></item>
+<item slot="6" original="Find the swimming pool" ></item>
+<item slot="7" original="Get into the level in which you can swim" ></item>
+<item slot="8" original="Swim until you're ready to leave" ></item>
+<item slot="9" original="Get out" ></item>
+<item slot="10" original="Go to the locker room" ></item>
+<item slot="11" original="To back into the stall" ></item>
+<item slot="12" original="Take off your swimsuit" ></item>
+<item slot="13" original="Dry off" ></item>
+<item slot="14" original="Change back into your clothes" ></item>
+<item slot="15" original="Leave" ></item>
+</script><script id="60" source="2"><item slot="1" original="Put swimsuit on" ></item>
+<item slot="2" original="Put clothes on over bathing suit" ></item>
+<item slot="3" original="Get a towel" ></item>
+<item slot="4" original="Get in car" ></item>
+<item slot="5" original="Drive to swimming pool" ></item>
+<item slot="6" original="Get out of car" ></item>
+<item slot="7" original="Go to locker room" ></item>
+<item slot="8" original="Remove clothes, keeping swimsuit on" ></item>
+<item slot="9" original="Lock clothes in a locker" ></item>
+<item slot="10" original="Bring towel outside to swimming pool" ></item>
+<item slot="11" original="Set towel up" ></item>
+<item slot="12" original="Get in pool" ></item>
+<item slot="13" original="Swim" ></item>
+</script><script id="61" source="2"><item slot="1" original="Find my bathingsuit." ></item>
+<item slot="2" original="Find a towel." ></item>
+<item slot="3" original="Drive to the YMCA." ></item>
+<item slot="4" original="Change into my suit." ></item>
+<item slot="5" original="Go swimming." ></item>
+</script><script id="62" source="2"><item slot="1" original="Take all swimming accessories" ></item>
+<item slot="2" original="Open the garage" ></item>
+<item slot="3" original="Get inside the car" ></item>
+<item slot="4" original="Drive to swimming pool" ></item>
+<item slot="5" original="Park the car" ></item>
+<item slot="6" original="Go to the reception" ></item>
+<item slot="7" original="Register the details" ></item>
+<item slot="8" original="Go to changing room" ></item>
+<item slot="9" original="Wear swimming costumes" ></item>
+<item slot="10" original="Enter the swimming pool" ></item>
+<item slot="11" original="Start swimming" ></item>
+</script><script id="63" source="2"><item slot="1" original="Put bathing suit on." ></item>
+<item slot="2" original="Get a towel." ></item>
+<item slot="3" original="Put towel in a bag." ></item>
+<item slot="4" original="Get snacks." ></item>
+<item slot="5" original="Put snacks in bag." ></item>
+<item slot="6" original="Put on thongs." ></item>
+<item slot="7" original="Walk to the pool." ></item>
+<item slot="8" original="Put bag down." ></item>
+<item slot="9" original="Go swimming." ></item>
+</script><script id="64" source="2"><item slot="1" original="Put on bathing suit" ></item>
+<item slot="2" original="Grab a towel to take to pool" ></item>
+<item slot="3" original="Put on sun screen" ></item>
+<item slot="4" original="Pack extra sunscreen" ></item>
+<item slot="5" original="Go to the pool" ></item>
+<item slot="6" original="Pay admission" ></item>
+<item slot="7" original="Lay by pool and relax" ></item>
+<item slot="8" original="When done, leave pool and go home" ></item>
+</script><script id="65" source="2"><item slot="1" original="Prepare a bag with swimsuit, towels, shampoo, etc." ></item>
+<item slot="2" original="Go to the swimming pool." ></item>
+<item slot="3" original="Change into swimsuit in the changing room." ></item>
+<item slot="4" original="Get into the pool." ></item>
+<item slot="5" original="Swim in the pool." ></item>
+<item slot="6" original="Take a shower after the swimming." ></item>
+<item slot="7" original="Clean up and leave." ></item>
+</script><script id="66" source="2"><item slot="1" original="Grab a towel and bathing suit or swimming shorts." ></item>
+<item slot="2" original="Go to the swimming pool." ></item>
+<item slot="3" original="Pay to get into the pool if there is a charge." ></item>
+<item slot="4" original="Change into your swimming clothes." ></item>
+<item slot="5" original="Apply sun tan lotion to avoid getting a sunburn." ></item>
+<item slot="6" original="Swim in the swimming pool." ></item>
+</script><script id="67" source="2"><item slot="1" original="pack up for swimming occasion" ></item>
+<item slot="2" original="wear sunscreen" ></item>
+<item slot="3" original="arrive to swimming pool" ></item>
+<item slot="4" original="make sure there is a life guard" ></item>
+<item slot="5" original="jump into pool" ></item>
+<item slot="6" original="enjoy swimming" ></item>
+</script><script id="68" source="2"><item slot="1" original="Pack bathing suit" ></item>
+<item slot="2" original="Pack sunscreen and towels" ></item>
+<item slot="3" original="Go to swimming pool facility" ></item>
+<item slot="4" original="Go to changing room" ></item>
+<item slot="5" original="Disrobe" ></item>
+<item slot="6" original="Put on bathing suit" ></item>
+<item slot="7" original="Walk out to pool area" ></item>
+<item slot="8" original="Get in the pool" ></item>
+<item slot="9" original="Swim" ></item>
+</script><script id="69" source="2"><item slot="1" original="wear your swimming costume" ></item>
+<item slot="2" original="drive to the swimming pool" ></item>
+<item slot="3" original="change into the costume" ></item>
+<item slot="4" original="take a shower" ></item>
+<item slot="5" original="step out into the swimming pool" ></item>
+<item slot="6" original="do swimming" ></item>
+</script><script id="70" source="2"><item slot="1" original="wear the swimming costume" ></item>
+<item slot="2" original="drive to the pool" ></item>
+<item slot="3" original="change into costume" ></item>
+<item slot="4" original="take shower" ></item>
+<item slot="5" original="step into the swimming pool" ></item>
+</script><script id="71" source="2"><item slot="1" original="Find out nearest swimming pool" ></item>
+<item slot="2" original="Find out times and prices" ></item>
+<item slot="3" original="Get waterproof bag to hold everything" ></item>
+<item slot="4" original="Take your swimming suit" ></item>
+<item slot="5" original="Get a good sized towel" ></item>
+<item slot="6" original="Take soap and shampoo for bathing outside the pool" ></item>
+<item slot="7" original="Take a bottle of water and snacks" ></item>
+<item slot="8" original="Take separate small bag for phone" ></item>
+<item slot="9" original="Take sunscreen lotion" ></item>
+<item slot="10" original="Put everything in the swimming bag" ></item>
+<item slot="11" original="Make some stretches" ></item>
+<item slot="12" original="Get into the water" ></item>
+</script><script id="72" source="2"><item slot="1" original="Arrive at swimming pool" ></item>
+<item slot="2" original="Enter" ></item>
+<item slot="3" original="Walk into the water" ></item>
+<item slot="4" original="Get used to the temp" ></item>
+<item slot="5" original="Swim!" ></item>
+</script><script id="73" source="2"><item slot="1" original="Decide who will go to the pool" ></item>
+<item slot="2" original="Decide which pool is the destination" ></item>
+<item slot="3" original="Gather swimsuits or swimming trunks, goggles, sunblock, towels and other items needed" ></item>
+<item slot="4" original="Get into vehicle, walk, or take public transit to pool" ></item>
+<item slot="5" original="Arrive at pool and enter" ></item>
+<item slot="6" original="Pay fee if needed" ></item>
+<item slot="7" original="Change into swimming clothing" ></item>
+<item slot="8" original="Swim" ></item>
+</script><script id="74" source="2"><item slot="1" original="Get towels" ></item>
+<item slot="2" original="Find swimsuits" ></item>
+<item slot="3" original="Change into swimsuits" ></item>
+<item slot="4" original="Go to backyard" ></item>
+<item slot="5" original="Make sure pool is clean" ></item>
+<item slot="6" original="Skim debris off surface of pool" ></item>
+<item slot="7" original="Enter water" ></item>
+</script><script id="75" source="2"><item slot="1" original="Get to the swimming pool" ></item>
+<item slot="2" original="Change into your swim suit" ></item>
+<item slot="3" original="Take a shower" ></item>
+<item slot="4" original="Enter the pool" ></item>
+<item slot="5" original="Enjoy swimming" ></item>
+</script><script id="76" source="2"><item slot="1" original="At home, change into bathing suit" ></item>
+<item slot="2" original="Put set of clothes on over bathing suit" ></item>
+<item slot="3" original="Pack a towel" ></item>
+<item slot="4" original="Go to swimming pool" ></item>
+<item slot="5" original="Take clothes over bathing suit off" ></item>
+<item slot="6" original="Leave clothes and towel on a chair" ></item>
+<item slot="7" original="Jump into swimming pool" ></item>
+<item slot="8" original="Swim" ></item>
+<item slot="9" original="When done swimming, use towel to dry off" ></item>
+</script><script id="77" source="2"><item slot="1" original="Take off street clothes." ></item>
+<item slot="2" original="Put on swim trunks." ></item>
+<item slot="3" original="Get a towel." ></item>
+<item slot="4" original="Walk out of the back door of your house." ></item>
+<item slot="5" original="Lay the towel on a chaise lounge." ></item>
+<item slot="6" original="Walk down the steps of the pool into the water." ></item>
+</script><script id="78" source="2"><item slot="1" original="Put on swim trunks" ></item>
+<item slot="2" original="Put on sunscreen" ></item>
+<item slot="3" original="Take a towel" ></item>
+<item slot="4" original="Walk to pool" ></item>
+<item slot="5" original="Open pool gate" ></item>
+<item slot="6" original="Find a chair" ></item>
+<item slot="7" original="Set towel on chair" ></item>
+<item slot="8" original="Jump in the water" ></item>
+<item slot="9" original="Swim in the pool" ></item>
+<item slot="10" original="Climb the ladder to exit" ></item>
+<item slot="11" original="Dry off with a towel" ></item>
+<item slot="12" original="Lay in the hot sun" ></item>
+</script><script id="79" source="2"><item slot="1" original="Go to swimming pool." ></item>
+<item slot="2" original="Pay for swimming session." ></item>
+<item slot="3" original="Go to locker room." ></item>
+<item slot="4" original="Put on swimsuit." ></item>
+<item slot="5" original="Put clothes and valuables in locker." ></item>
+<item slot="6" original="Take shower." ></item>
+<item slot="7" original="Go to pool." ></item>
+<item slot="8" original="Swim." ></item>
+<item slot="9" original="Get out of pool." ></item>
+<item slot="10" original="Take shower." ></item>
+<item slot="11" original="Dry off." ></item>
+<item slot="12" original="Get dressed." ></item>
+<item slot="13" original="Leave pool." ></item>
+</script><script id="80" source="2"><item slot="1" original="Gather swimming paraphernalia" ></item>
+<item slot="2" original="Get in car" ></item>
+<item slot="3" original="Drive car to pool" ></item>
+<item slot="4" original="Change into swimming gear" ></item>
+<item slot="5" original="Put on sunscreen" ></item>
+<item slot="6" original="Swim" ></item>
+<item slot="7" original="Dry off" ></item>
+<item slot="8" original="Gather swimming paraphernalia" ></item>
+<item slot="9" original="Drive home" ></item>
+</script><script id="82" source="2"><item slot="1" original="Put on bathing suit" ></item>
+<item slot="2" original="Put on sunscreen" ></item>
+<item slot="3" original="Pack sunglasses and towel" ></item>
+<item slot="4" original="Arrive at pool" ></item>
+<item slot="5" original="Spread out towel on a chair" ></item>
+<item slot="6" original="Walk to the deep end" ></item>
+<item slot="7" original="Jump in" ></item>
+</script><script id="83" source="2"><item slot="1" original="get swimming suit ready" ></item>
+<item slot="2" original="pack suit and towel and toiletries in the bag" ></item>
+<item slot="3" original="get in the car after locking up the house" ></item>
+<item slot="4" original="drive to the pool" ></item>
+<item slot="5" original="get out of the car and walk to the pool." ></item>
+<item slot="6" original="go to the locker room and change into swimming suit" ></item>
+<item slot="7" original="get in the pool" ></item>
+</script><script id="84" source="2"><item slot="1" original="change into your swimsuit" ></item>
+<item slot="2" original="put on sunscreen" ></item>
+<item slot="3" original="gather up towels and pool necessities like snacks or toys" ></item>
+<item slot="4" original="get into car" ></item>
+<item slot="5" original="drive to public swimming pool" ></item>
+<item slot="6" original="check in with attendant" ></item>
+<item slot="7" original="find a place to put your things" ></item>
+<item slot="8" original="go into the pool" ></item>
+</script><script id="85" source="2"><item slot="1" original="Pick a day it's sunny." ></item>
+<item slot="2" original="Find your bathing suit." ></item>
+<item slot="3" original="Get a clean towel." ></item>
+<item slot="4" original="Get sunscreen lotion." ></item>
+<item slot="5" original="Put everything into a bag." ></item>
+<item slot="6" original="Put on bathing suit under clothes." ></item>
+<item slot="7" original="Get in car." ></item>
+<item slot="8" original="Drive to favorite pool." ></item>
+<item slot="9" original="Get out of car." ></item>
+<item slot="10" original="Pay cashier to swim." ></item>
+<item slot="11" original="Take clothes off in changing room." ></item>
+<item slot="12" original="Put everything into a locker." ></item>
+<item slot="13" original="Get into pool." ></item>
+<item slot="14" original="Enjoy swimming." ></item>
+</script><script id="87" source="2"><item slot="1" original="Put on swim suit" ></item>
+<item slot="2" original="Go to the pool" ></item>
+<item slot="3" original="Apply sunscreen" ></item>
+<item slot="4" original="Jump in the water" ></item>
+<item slot="5" original="Have fun swimming around in the water" ></item>
+<item slot="6" original="Get out of the pool" ></item>
+<item slot="7" original="Dry off with a towel" ></item>
+<item slot="8" original="Go home" ></item>
+<item slot="9" original="Change out of swim suit and take a shower" ></item>
+<item slot="10" original="Put on normal clothes" ></item>
+</script><script id="88" source="2"><item slot="1" original="Drive to pool" ></item>
+<item slot="2" original="Bring towel" ></item>
+<item slot="3" original="Change into swimming costume" ></item>
+<item slot="4" original="Put on swimming gear (snorkel, goggles)" ></item>
+<item slot="5" original="Step slowly into pool" ></item>
+<item slot="6" original="Start to swim" ></item>
+<item slot="7" original="Swim in pool" ></item>
+<item slot="8" original="Exit when ready" ></item>
+<item slot="9" original="Change back into regular clothing" ></item>
+<item slot="10" original="Drive home" ></item>
+</script><script id="89" source="2"><item slot="1" original="Put on swim trunks" ></item>
+<item slot="2" original="Get sunscreen on" ></item>
+<item slot="3" original="Grab a towel" ></item>
+<item slot="4" original="Go to pool" ></item>
+<item slot="5" original="Start swimming" ></item>
+</script><script id="90" source="2"><item slot="1" original="Get your gear together, swimming suit, towel, shower stuff" ></item>
+<item slot="2" original="Travel to the pool" ></item>
+<item slot="3" original="Pay to use the pool" ></item>
+<item slot="4" original="Get a locker" ></item>
+<item slot="5" original="Take a shower" ></item>
+<item slot="6" original="Put on your swimsuit" ></item>
+<item slot="7" original="Put your stuff in your locker" ></item>
+<item slot="8" original="Go swimming" ></item>
+<item slot="9" original="After swimming, take a shower" ></item>
+<item slot="10" original="Gather all your stuff and leave" ></item>
+</script><script id="91" source="2"><item slot="1" original="Put on swim trunks" ></item>
+<item slot="2" original="Get in your car" ></item>
+<item slot="3" original="Drive to the pool" ></item>
+<item slot="4" original="Pay to swim" ></item>
+<item slot="5" original="Get in the pool" ></item>
+</script><script id="92" source="2"><item slot="1" original="Wear swimming dress" ></item>
+<item slot="2" original="Wear defense glass for eye" ></item>
+<item slot="3" original="Diving into swimming pool" ></item>
+<item slot="4" original="Swimming different style" ></item>
+<item slot="5" original="Get up from the swimming pool" ></item>
+</script><script id="93" source="2"><item slot="1" original="Go into changing room" ></item>
+<item slot="2" original="Remove clothes" ></item>
+<item slot="3" original="Put on swimsuit" ></item>
+<item slot="4" original="Rinse off in shower" ></item>
+<item slot="5" original="Walk out of changing room" ></item>
+<item slot="6" original="Put towel on chair" ></item>
+<item slot="7" original="Dip toe in water" ></item>
+<item slot="8" original="Get in water" ></item>
+<item slot="9" original="Swim" ></item>
+<item slot="10" original="Climb out of water" ></item>
+<item slot="11" original="Dry off with towel" ></item>
+<item slot="12" original="Wrap towel around self" ></item>
+<item slot="13" original="Walk back into changing room" ></item>
+<item slot="14" original="Remove swimsuit" ></item>
+<item slot="15" original="Put on clothes" ></item>
+<item slot="16" original="Leave the swimming pool" ></item>
+</script><script id="94" source="2"><item slot="1" original="Find bathing suit" ></item>
+<item slot="2" original="Put bathing suit on" ></item>
+<item slot="3" original="Get a towel" ></item>
+<item slot="4" original="Get sunscreen" ></item>
+<item slot="5" original="Put sunscreen on" ></item>
+<item slot="6" original="Find goggles, flippers and other pool toys" ></item>
+<item slot="7" original="Get a large container of water to drink" ></item>
+<item slot="8" original="Go to the pool" ></item>
+<item slot="9" original="Find a good location at the pool" ></item>
+<item slot="10" original="Spread out towel" ></item>
+<item slot="11" original="Lay other items down" ></item>
+<item slot="12" original="Jump in" ></item>
+</script><script id="95" source="2"><item slot="1" original="Pack swimsuit" ></item>
+<item slot="2" original="Go to pool" ></item>
+<item slot="3" original="Enter changing room" ></item>
+<item slot="4" original="Change into swimsuit" ></item>
+<item slot="5" original="Shower" ></item>
+<item slot="6" original="Climb into pool" ></item>
+<item slot="7" original="Swim laps, play around, etc." ></item>
+<item slot="8" original="Get out of pool when finished" ></item>
+<item slot="9" original="Go to changing room" ></item>
+<item slot="10" original="Take shower" ></item>
+<item slot="11" original="Change into street clothes" ></item>
+<item slot="12" original="Leave" ></item>
+</script><script id="96" source="2"><item slot="1" original="Get ready" ></item>
+<item slot="2" original="Go to swimming pool" ></item>
+<item slot="3" original="Check in" ></item>
+<item slot="4" original="Go to changing room" ></item>
+<item slot="5" original="Put on swimming suit" ></item>
+<item slot="6" original="Apply sun screen if pool is outdoors" ></item>
+<item slot="7" original="Place personal items in a secure location" ></item>
+<item slot="8" original="Go to the pool" ></item>
+<item slot="9" original="Get in the water" ></item>
+<item slot="10" original="Swim around" ></item>
+<item slot="11" original="Get out when done" ></item>
+<item slot="12" original="Go back to changing room" ></item>
+<item slot="13" original="Get personal belongings" ></item>
+<item slot="14" original="Take shower" ></item>
+<item slot="15" original="Get dressed" ></item>
+<item slot="16" original="Wrap up wet items" ></item>
+</script><script id="97" source="2"><item slot="1" original="Put on your swim suit" ></item>
+<item slot="2" original="grab your towel and slippers" ></item>
+<item slot="3" original="get in the car" ></item>
+<item slot="4" original="drive to pool" ></item>
+<item slot="5" original="go in and pay for a session" ></item>
+<item slot="6" original="go into the locker room" ></item>
+<item slot="7" original="choose a locker" ></item>
+<item slot="8" original="place shoes and other personal items in locker" ></item>
+<item slot="9" original="go out into pool area" ></item>
+<item slot="10" original="swim in the pool" ></item>
+<item slot="11" original="when you're done, get out of the pool" ></item>
+<item slot="12" original="go back into locker room" ></item>
+<item slot="13" original="change into street clothes" ></item>
+<item slot="14" original="leave that pool" ></item>
+<item slot="15" original="get into car" ></item>
+<item slot="16" original="go home" ></item>
+</script><script id="98" source="2"><item slot="1" original="Drive to the swimming pool" ></item>
+<item slot="2" original="Change into swimsuits" ></item>
+<item slot="3" original="Select a place near the pool to place belongings and towels" ></item>
+<item slot="4" original="Get into the water" ></item>
+<item slot="5" original="Swim in the pool" ></item>
+</script><script id="99" source="2"><item slot="1" original="drive to swimming pool" ></item>
+<item slot="2" original="pay admission to pool" ></item>
+<item slot="3" original="go to locker room and change clothes" ></item>
+<item slot="4" original="put belongings in locker" ></item>
+<item slot="5" original="close and lock locker" ></item>
+<item slot="6" original="walk to the pool" ></item>
+<item slot="7" original="jump in the pool" ></item>
+</script><script id="100" source="2"><item slot="1" original="Grab a towel and some sunscreen." ></item>
+<item slot="2" original="Put on your bathing suit." ></item>
+<item slot="3" original="Travel to the pool." ></item>
+<item slot="4" original="Pay or show necessary identification to attendant so you can enter the pool area." ></item>
+<item slot="5" original="Choose a chair near the pool." ></item>
+<item slot="6" original="Put your towel and other belongings on the chair." ></item>
+<item slot="7" original="Enter the water by jumping in or using a ladder." ></item>
+<item slot="8" original="Climb out of the pool by using the ladder when you are finished swimming." ></item>
+<item slot="9" original="Gather your belongings from the chair." ></item>
+<item slot="10" original="Leave the pool area." ></item>
+</script></scripts>

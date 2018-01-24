@@ -1,0 +1,341 @@
+<scripts>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item source="2" script="4" slot="1" total_slots="10" original="Do research on the style you would like"></item>
+<item source="2" script="8" slot="1" total_slots="8" original="Find out what kind of haircut you want."></item>
+
+</label>
+<label type="PARAPHRASE" event="UnRelEv">
+<item source="2" script="23" slot="1" total_slots="7" original="Every man differs by his variety of hair cut."></item>
+
+</label>
+<label type="PARAPHRASE" event="UnRelEv">
+<item source="2" script="23" slot="2" total_slots="7" original="Hair cut differentiate and also out come the beauty in them."></item>
+
+</label>
+<label type="PARAPHRASE" event="UnRelEv">
+<item source="2" script="7" slot="1" total_slots="11" original="Wear old clothes"></item>
+<item source="2" script="16" slot="1" total_slots="13" original="Dress to go out."></item>
+
+</label>
+<label type="PARAPHRASE" event="make_appointment">
+<item source="2" script="12" slot="1" total_slots="9" original="Call hair salon"></item>
+<item source="2" script="4" slot="2" total_slots="10" original="Call salon and make an appointment"></item>
+<item source="2" script="24" slot="1" total_slots="7" original="Call barber"></item>
+<item source="2" script="12" slot="2" total_slots="9" original="Make appointment"></item>
+<item source="2" script="17" slot="1" total_slots="6" original="Make an appointment with your hair stylist"></item>
+<item source="2" script="18" slot="1" total_slots="7" original="Make an appointment with a beauty salon"></item>
+<item source="2" script="19" slot="1" total_slots="11" original="Make appointment at salon"></item>
+<item source="2" script="25" slot="2" total_slots="9" original="Make an appointment."></item>
+<item source="2" script="24" slot="2" total_slots="7" original="Take an appointment"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_wait_appointment">
+<item source="2" script="12" slot="3" total_slots="9" original="Wait for appointment"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_get_in_car">
+<item source="2" script="15" slot="1" total_slots="6" original="Get in car"></item>
+
+</label>
+<label type="PARAPHRASE" event="get_salon">
+<item source="2" script="14" slot="1" total_slots="7" original="Decide which saloon to go , reach and step into it."></item>
+<item source="2" script="25" slot="1" total_slots="9" original="Find a place you trust to get your hair cut."></item>
+<item source="2" script="1" slot="1" total_slots="14" original="go to the barber shop"></item>
+<item source="2" script="2" slot="1" total_slots="9" original="Go to the salon"></item>
+<item source="2" script="3" slot="1" total_slots="16" original="go to hair salon"></item>
+<item source="2" script="4" slot="3" total_slots="10" original="Go to your hair appointment"></item>
+<item source="2" script="6" slot="1" total_slots="5" original="Go to the hair cutting salon"></item>
+<item source="2" script="7" slot="2" total_slots="11" original="Go to Salon"></item>
+<item source="2" script="8" slot="2" total_slots="8" original="Go to barbershop."></item>
+<item source="2" script="9" slot="1" total_slots="8" original="Go to the salon"></item>
+<item source="2" script="12" slot="4" total_slots="9" original="Go to salon"></item>
+<item source="2" script="11" slot="1" total_slots="7" original="Drive to the barber"></item>
+<item source="2" script="15" slot="2" total_slots="6" original="Drive to Beauty Salon"></item>
+<item source="2" script="16" slot="2" total_slots="13" original="Drive to salon or barber."></item>
+<item source="2" script="17" slot="2" total_slots="6" original="Go to salon for appointment"></item>
+<item source="2" script="18" slot="2" total_slots="7" original="Go to the appointment"></item>
+<item source="2" script="19" slot="2" total_slots="11" original="Go to salon at appointment time"></item>
+<item source="2" script="21" slot="1" total_slots="9" original="Go to barber"></item>
+<item source="2" script="22" slot="1" total_slots="7" original="Go to barber shop."></item>
+<item source="2" script="23" slot="3" total_slots="7" original="First go to saloon of your choice."></item>
+<item source="2" script="24" slot="3" total_slots="7" original="Go to barber"></item>
+<item source="2" script="25" slot="3" total_slots="9" original="Show up."></item>
+<item source="2" script="26" slot="1" total_slots="7" original="Go to salon"></item>
+<item source="2" script="27" slot="1" total_slots="12" original="Drive to salon"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_park">
+<item source="2" script="11" slot="2" total_slots="7" original="Park your car and get out"></item>
+
+</label>
+<label type="PARAPHRASE" event="enter">
+<item source="2" script="5" slot="1" total_slots="7" original="entering salon"></item>
+<item source="2" script="3" slot="2" total_slots="16" original="enter salon"></item>
+<item source="2" script="11" slot="3" total_slots="7" original="Walk inside"></item>
+<item source="2" script="15" slot="3" total_slots="6" original="Go inside"></item>
+<item source="2" script="20" slot="1" total_slots="7" original="Walk into a salon"></item>
+
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item source="2" script="1" slot="2" total_slots="14" original="greet the barber"></item>
+
+</label>
+<label type="PARAPHRASE" event="check_in">
+<item source="2" script="16" slot="3" total_slots="13" original="Check in with desk person."></item>
+<item source="2" script="21" slot="2" total_slots="9" original="Sign in"></item>
+<item source="2" script="11" slot="4" total_slots="7" original="Write your name on the sign in paper"></item>
+<item source="2" script="3" slot="4" total_slots="16" original="request haircut"></item>
+<item source="2" script="6" slot="2" total_slots="5" original="Tell the hair stylist that you need a haircut"></item>
+<item source="2" script="20" slot="2" total_slots="7" original="Tell the receptionist you would like a hair cut"></item>
+<item source="2" script="15" slot="4" total_slots="6" original="Ask if they can cut your hair now"></item>
+<item source="2" script="14" slot="2" total_slots="7" original="See whether my regular barber is free and if he is engaged wait for him to finish his work"></item>
+<item source="2" script="27" slot="2" total_slots="12" original="Tell receptionist you want a hair cut"></item>
+
+</label>
+<label type="PARAPHRASE" event="wait">
+<item source="2" script="3" slot="5" total_slots="16" original="wait to be called"></item>
+<item source="2" script="1" slot="3" total_slots="14" original="wait until your turn"></item>
+<item source="2" script="8" slot="3" total_slots="8" original="Wait till their is an available barber."></item>
+<item source="2" script="11" slot="5" total_slots="7" original="Wait for your name to be called"></item>
+<item source="2" script="14" slot="3" total_slots="7" original="In the mean time read magazines for pictures first, then for jokes and news."></item>
+<item source="2" script="16" slot="4" total_slots="13" original="Wait for name to be called."></item>
+<item source="2" script="19" slot="3" total_slots="11" original="Wait to be called"></item>
+<item source="2" script="20" slot="3" total_slots="7" original="Sit in the waiting area and wait for a stylist to greet you"></item>
+<item source="2" script="21" slot="3" total_slots="9" original="Wait in lobby"></item>
+<item source="2" script="22" slot="2" total_slots="7" original="Sit and wait your turn in designated area."></item>
+<item source="2" script="24" slot="4" total_slots="7" original="Wait in line"></item>
+<item source="2" script="27" slot="3" total_slots="12" original="Sit in waiting area"></item>
+
+</label>
+<label type="PARAPHRASE" event="get_called">
+<item source="2" script="27" slot="4" total_slots="12" original="Receptionist calls your name"></item>
+
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item source="2" script="21" slot="4" total_slots="9" original="Barber is ready"></item>
+
+</label>
+<label type="PARAPHRASE" event="UnRelEv">
+<item source="2" script="23" slot="4" total_slots="7" original="You prefer whether short or long hair cut."></item>
+
+</label>
+<label type="PARAPHRASE" event="talk_haircut">
+<item source="2" script="23" slot="6" total_slots="7" original="Also mention the line where you want on your head or not."></item>
+<item source="2" script="1" slot="6" total_slots="14" original="talk with the barber"></item>
+<item source="2" script="22" slot="3" total_slots="7" original="Meet with barber and sit in chair."></item>
+<item source="2" script="1" slot="5" total_slots="14" original="explain how you want your hair cut"></item>
+<item source="2" script="2" slot="2" total_slots="9" original="Show a picture of how you want your hair to look"></item>
+<item source="2" script="4" slot="4" total_slots="10" original="Talk with hairdresser about what style and cut you want"></item>
+<item source="2" script="5" slot="2" total_slots="7" original="telling stylist how to cut hair."></item>
+<item source="2" script="6" slot="3" total_slots="5" original="Choose a hairstyle that you want your hair to be cut"></item>
+<item source="2" script="7" slot="3" total_slots="11" original="Ask barber for desired cut style"></item>
+<item source="2" script="8" slot="5" total_slots="8" original="Ask for haircut you want."></item>
+<item source="2" script="9" slot="3" total_slots="8" original="Choose the style of haircut you want"></item>
+<item source="2" script="16" slot="5" total_slots="13" original="Explain desired cut to stylist."></item>
+<item source="2" script="11" slot="6" total_slots="7" original="Tell the barber what style you want"></item>
+<item source="2" script="17" slot="4" total_slots="6" original="Tell the hair stylist what kind of cut you would like"></item>
+<item source="2" script="18" slot="5" total_slots="7" original="Tell beautician how you want your hair cut"></item>
+<item source="2" script="19" slot="7" total_slots="11" original="Tell hairdresser what you want"></item>
+<item source="2" script="20" slot="6" total_slots="7" original="Tell the stylist what you want done to your hair"></item>
+<item source="2" script="23" slot="5" total_slots="7" original="Before starting tell the hair cutter the style you want."></item>
+<item source="2" script="24" slot="6" total_slots="7" original="Choose a haircut"></item>
+<item source="2" script="26" slot="2" total_slots="7" original="Tell them what you want"></item>
+<item source="2" script="27" slot="6" total_slots="12" original="Tell hairdresser what hair cut you want"></item>
+
+</label>
+<label type="PARAPHRASE" event="sit_down">
+<item source="2" script="3" slot="6" total_slots="16" original="when called, sit in chair"></item>
+<item source="2" script="1" slot="4" total_slots="14" original="sit down in the barber chair"></item>
+<item source="2" script="5" slot="3" total_slots="7" original="sitting in seat"></item>
+<item source="2" script="6" slot="4" total_slots="5" original="Sit on the hair cutting seat"></item>
+<item source="2" script="7" slot="5" total_slots="11" original="Sit on chair in front of mirror"></item>
+<item source="2" script="8" slot="4" total_slots="8" original="Sit in chair."></item>
+<item source="2" script="9" slot="2" total_slots="8" original="Take the seat"></item>
+<item source="2" script="12" slot="5" total_slots="9" original="Sit in chair"></item>
+<item source="2" script="15" slot="5" total_slots="6" original="sit down in the chair"></item>
+<item source="2" script="16" slot="7" total_slots="13" original="Return to barber chair."></item>
+<item source="2" script="17" slot="3" total_slots="6" original="Sit in hair stylist's chair"></item>
+<item source="2" script="18" slot="3" total_slots="7" original="Sit at the chair"></item>
+<item source="2" script="19" slot="5" total_slots="11" original="Be directed to seat"></item>
+<item source="2" script="20" slot="4" total_slots="7" original="Sit in the stylist's chair"></item>
+<item source="2" script="21" slot="5" total_slots="9" original="Sit in chair"></item>
+<item source="2" script="25" slot="4" total_slots="9" original="Sit in the hair dressing chair."></item>
+<item source="2" script="24" slot="5" total_slots="7" original="Get Seated"></item>
+<item source="2" script="26" slot="3" total_slots="7" original="Sit down in chair"></item>
+<item source="2" script="27" slot="5" total_slots="12" original="Sit in Salon Chair"></item>
+
+</label>
+<label type="PARAPHRASE" event="put_on_cape">
+<item source="2" script="3" slot="7" total_slots="16" original="get long drape to cover clothing fastened at neck"></item>
+<item source="2" script="7" slot="4" total_slots="11" original="Wear a napkin like cloth around neck"></item>
+<item source="2" script="19" slot="6" total_slots="11" original="Have apron put across you"></item>
+<item source="2" script="18" slot="4" total_slots="7" original="Put on salon cape"></item>
+<item source="2" script="20" slot="5" total_slots="7" original="Get a cape put on to keep hair off your clothes"></item>
+
+</label>
+<label type="PARAPHRASE" event="wash">
+<item source="2" script="3" slot="8" total_slots="16" original="staff member moistens hair"></item>
+<item source="2" script="2" slot="3" total_slots="9" original="Get your hair washed"></item>
+<item source="2" script="5" slot="4" total_slots="7" original="washing hair"></item>
+<item source="2" script="16" slot="6" total_slots="13" original="Go to sinks to have hair washed."></item>
+<item source="2" script="19" slot="4" total_slots="11" original="Have hair washed and conditioned"></item>
+<item source="2" script="27" slot="7" total_slots="12" original="Hairdresser washes your hair"></item>
+<item source="2" script="25" slot="5" total_slots="9" original="Get your hair shampooed or wet with water for the cut."></item>
+
+</label>
+<label type="PARAPHRASE" event="comb">
+<item source="2" script="2" slot="4" total_slots="9" original="Get your hair combed"></item>
+<item source="2" script="3" slot="9" total_slots="16" original="hair is sectioned"></item>
+
+</label>
+<label type="PARAPHRASE" event="cut">
+<item source="2" script="3" slot="10" total_slots="16" original="hair is cut"></item>
+<item source="2" script="2" slot="5" total_slots="9" original="Beautician cuts hair"></item>
+<item source="2" script="4" slot="5" total_slots="10" original="Wait patiently while your hair is being cut and styled"></item>
+<item source="2" script="5" slot="5" total_slots="7" original="having the stylist cut hair"></item>
+<item source="2" script="6" slot="5" total_slots="5" original="Let the hair stylist cut your hair"></item>
+<item source="2" script="7" slot="6" total_slots="11" original="Let the Barber cut the hair"></item>
+<item source="2" script="8" slot="6" total_slots="8" original="Wait while barber cuts your hair."></item>
+<item source="2" script="9" slot="4" total_slots="8" original="Beautician cuts your hair"></item>
+<item source="2" script="12" slot="6" total_slots="9" original="Get hair cut"></item>
+<item source="2" script="14" slot="4" total_slots="7" original="Get my hair cut in latest style."></item>
+<item source="2" script="16" slot="8" total_slots="13" original="Sit still as stylist cuts hair."></item>
+<item source="2" script="18" slot="6" total_slots="7" original="Get hair cut"></item>
+<item source="2" script="19" slot="8" total_slots="11" original="Hairdressers cuts and styles"></item>
+<item source="2" script="20" slot="7" total_slots="7" original="Sit still while the stylist cuts your hair"></item>
+<item source="2" script="21" slot="6" total_slots="9" original="Get haircut"></item>
+<item source="2" script="22" slot="4" total_slots="7" original="Allow barber to cut and style your hair."></item>
+<item source="2" script="24" slot="7" total_slots="7" original="Get hair cut"></item>
+<item source="2" script="25" slot="6" total_slots="9" original="Wait while the hair dresser cuts, shaves or styles your hair."></item>
+<item source="2" script="26" slot="4" total_slots="7" original="Let them cut your hair"></item>
+<item source="2" script="27" slot="8" total_slots="12" original="Hairdresser cuts your hair"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_get_out_chair">
+<item source="2" script="12" slot="7" total_slots="9" original="Get out of chair"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_check_evenness">
+<item source="2" script="3" slot="11" total_slots="16" original="evenness between sides is checked"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_wash_after">
+<item source="2" script="9" slot="5" total_slots="8" original="Wash the head after hair cut"></item>
+<item source="2" script="23" slot="7" total_slots="7" original="After hair cut wash your head twice applying shampoo to remove any bit of hairs left over."></item>
+
+</label>
+<label type="PARAPHRASE" event="dry">
+<item source="2" script="9" slot="6" total_slots="8" original="Dry your hair"></item>
+<item source="2" script="2" slot="6" total_slots="9" original="Beautician blowdries hair"></item>
+<item source="2" script="16" slot="9" total_slots="13" original="Endure blow dry and styling."></item>
+
+</label>
+<label type="PARAPHRASE" event="make_hair_style">
+<item source="2" script="2" slot="7" total_slots="9" original="Beautician styles hair"></item>
+<item source="2" script="27" slot="9" total_slots="12" original="Hairdresser styles your hair"></item>
+
+</label>
+<label type="PARAPHRASE" event="look_mirror">
+<item source="2" script="1" slot="8" total_slots="14" original="look at yourself in the mirror"></item>
+<item source="2" script="2" slot="8" total_slots="9" original="Look in the mirror"></item>
+<item source="2" script="3" slot="12" total_slots="16" original="look in mirror, remove drape"></item>
+<item source="2" script="16" slot="10" total_slots="13" original="Admire new self in mirror."></item>
+<item source="2" script="19" slot="9" total_slots="11" original="Look in mirror"></item>
+<item source="2" script="26" slot="5" total_slots="7" original="Look at hair"></item>
+
+</label>
+<label type="PARAPHRASE" event="customer_opinion">
+<item source="2" script="1" slot="9" total_slots="14" original="tell barber when you're satisfied"></item>
+<item source="2" script="3" slot="13" total_slots="16" original="approve haircut"></item>
+
+</label>
+<label type="PARAPHRASE" event="remove_cap">
+<item source="2" script="7" slot="7" total_slots="11" original="When finished remove the cloth"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_stand_up">
+<item source="2" script="1" slot="10" total_slots="14" original="stand up"></item>
+
+</label>
+<label type="PARAPHRASE" event="brush_hair">
+<item source="2" script="1" slot="11" total_slots="14" original="brush loose hair off your clothing"></item>
+<item source="2" script="7" slot="8" total_slots="11" original="Clean the pieces of hair on clothes"></item>
+<item source="2" script="25" slot="7" total_slots="9" original="Shake the excess hair off your body."></item>
+
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item source="2" script="3" slot="14" total_slots="16" original="thank staff"></item>
+<item source="2" script="4" slot="10" total_slots="10" original="Thank them"></item>
+<item source="2" script="4" slot="6" total_slots="10" original="When finished thank the stylist"></item>
+
+</label>
+<label type="PARAPHRASE" event="move_in_salon">
+<item source="2" script="1" slot="7" total_slots="14" original="follow the barber's directions"></item>
+<item source="2" script="3" slot="3" total_slots="16" original="go to reception desk"></item>
+<item source="2" script="4" slot="7" total_slots="10" original="Go to front counter"></item>
+
+</label>
+<label type="PARAPHRASE" event="pay">
+<item source="2" script="1" slot="12" total_slots="14" original="pay the barber"></item>
+<item source="2" script="2" slot="9" total_slots="9" original="Pay for haircut"></item>
+<item source="2" script="3" slot="15" total_slots="16" original="pay for haircut"></item>
+<item source="2" script="4" slot="8" total_slots="10" original="Pay for the haircut"></item>
+<item source="2" script="5" slot="6" total_slots="7" original="paying for haircut"></item>
+<item source="2" script="7" slot="9" total_slots="11" original="Pay the fees"></item>
+<item source="2" script="8" slot="7" total_slots="8" original="Pay for haircut."></item>
+<item source="2" script="9" slot="7" total_slots="8" original="Pay for the haircut"></item>
+<item source="2" script="12" slot="8" total_slots="9" original="Pay stylist"></item>
+<item source="2" script="11" slot="7" total_slots="7" original="Pay when the haircut is finished"></item>
+<item source="2" script="14" slot="5" total_slots="7" original="Pay the amount"></item>
+<item source="2" script="15" slot="6" total_slots="6" original="after hair cut pay"></item>
+<item source="2" script="16" slot="11" total_slots="13" original="Pay bill."></item>
+<item source="2" script="17" slot="5" total_slots="6" original="Pay hair stylist when finished"></item>
+<item source="2" script="18" slot="7" total_slots="7" original="Pay and Tip beautician"></item>
+<item source="2" script="19" slot="10" total_slots="11" original="Pay and tip hairdresser"></item>
+<item source="2" script="21" slot="7" total_slots="9" original="Pay at desk"></item>
+<item source="2" script="25" slot="8" total_slots="9" original="Pay and thank the stylist."></item>
+<item source="2" script="22" slot="6" total_slots="7" original="Pay for services."></item>
+<item source="2" script="26" slot="6" total_slots="7" original="Pay for haircut"></item>
+<item source="2" script="27" slot="10" total_slots="12" original="Pay receptionist"></item>
+
+</label>
+<label type="PARAPHRASE" event="UnRelEv">
+<item source="2" script="7" slot="10" total_slots="11" original="Take a shower"></item>
+
+</label>
+<label type="PARAPHRASE" event="UnRelEv">
+<item source="2" script="7" slot="11" total_slots="11" original="Enjoy the fresh look"></item>
+
+</label>
+<label type="PARAPHRASE" event="leave_tip">
+<item source="2" script="1" slot="13" total_slots="14" original="tip the barber if appropriate"></item>
+<item source="2" script="4" slot="9" total_slots="10" original="Offer a small tip to your hair dresser"></item>
+<item source="2" script="8" slot="8" total_slots="8" original="Tip the barber."></item>
+<item source="2" script="16" slot="12" total_slots="13" original="Give stylist cash tip."></item>
+<item source="2" script="14" slot="6" total_slots="7" original="Tip the barber"></item>
+<item source="2" script="21" slot="8" total_slots="9" original="Tip barber"></item>
+<item source="2" script="27" slot="11" total_slots="12" original="Leave tip for hairdresser"></item>
+
+</label>
+<label type="PARAPHRASE" event="leave">
+<item source="2" script="3" slot="16" total_slots="16" original="leave"></item>
+<item source="2" script="1" slot="14" total_slots="14" original="leave the barber shop"></item>
+<item source="2" script="5" slot="7" total_slots="7" original="leaving the salon"></item>
+<item source="2" script="9" slot="8" total_slots="8" original="Leave the salon"></item>
+<item source="2" script="12" slot="9" total_slots="9" original="Leave"></item>
+<item source="2" script="14" slot="7" total_slots="7" original="Leave the saloon"></item>
+<item source="2" script="16" slot="13" total_slots="13" original="Drive home."></item>
+<item source="2" script="17" slot="6" total_slots="6" original="Leave salon"></item>
+<item source="2" script="19" slot="11" total_slots="11" original="Leave salon"></item>
+<item source="2" script="21" slot="9" total_slots="9" original="Leave barbershop/salon"></item>
+<item source="2" script="25" slot="9" total_slots="9" original="Leave."></item>
+<item source="2" script="22" slot="7" total_slots="7" original="Leave shop."></item>
+<item source="2" script="26" slot="7" total_slots="7" original="Leave salon"></item>
+<item source="2" script="27" slot="12" total_slots="12" original="Leave salon"></item>
+
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item source="2" script="22" slot="5" total_slots="7" original="Arrange for next appointment."></item>
+
+</label>
+</scripts>

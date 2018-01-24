@@ -1,0 +1,659 @@
+<scripts><script id="0" source="2"><item slot="1" original="Arrive at airport for scheduled flight" ></item>
+<item slot="2" original="Go to your airline's check-in counter" ></item>
+<item slot="3" original="Place checked luggage on scale." ></item>
+<item slot="4" original="Give employee your ticket and photo ID" ></item>
+<item slot="5" original="Confirm where your flight is headed" ></item>
+<item slot="6" original="Answer questions about your bags" ></item>
+<item slot="7" original="Receive boarding pass and back check receipt." ></item>
+<item slot="8" original="Proceed to airport security" ></item>
+</script><script id="1" source="2"><item slot="1" original="Park your car" ></item>
+<item slot="2" original="Take luggage to terminal" ></item>
+<item slot="3" original="Wait in line" ></item>
+<item slot="4" original="Get tickets" ></item>
+<item slot="5" original="Turn in checked luggage" ></item>
+<item slot="6" original="Find your gate number" ></item>
+</script><script id="2" source="2"><item slot="1" original="Walk up to check in counter" ></item>
+<item slot="2" original="Hand over boarding pass" ></item>
+<item slot="3" original="Give identification" ></item>
+<item slot="4" original="Check in luggage bags" ></item>
+<item slot="5" original="Receive confirmation of boarding" ></item>
+<item slot="6" original="Leave check in counter" ></item>
+<item slot="7" original="Take seat" ></item>
+<item slot="8" original="Wait for plane" ></item>
+</script><script id="3" source="2"><item slot="1" original="Look for your gate number in the flight information board" ></item>
+<item slot="2" original="Go to the respective gate" ></item>
+<item slot="3" original="Take out ticket and ID card" ></item>
+<item slot="4" original="Show them to the security guard" ></item>
+<item slot="5" original="Enter the hall area" ></item>
+<item slot="6" original="Ask receptionist for your airline counter" ></item>
+<item slot="7" original="Go to the airline counter" ></item>
+<item slot="8" original="Show your ticket and passport/ID" ></item>
+<item slot="9" original="Get the boarding pass" ></item>
+<item slot="10" original="Show your baggage" ></item>
+<item slot="11" original="Check in your baggage" ></item>
+<item slot="12" original="Get receipt sticker for baggage" ></item>
+<item slot="13" original="Look for the gate number for your flight" ></item>
+<item slot="14" original="March to your gate" ></item>
+<item slot="15" original="Wait in the sitting area." ></item>
+</script><script id="4" source="2"><item slot="1" original="Arrive at airport" ></item>
+<item slot="2" original="find check-in for your airline" ></item>
+<item slot="3" original="wait in line" ></item>
+<item slot="4" original="give ID to worker" ></item>
+<item slot="5" original="give luggage to worker" ></item>
+<item slot="6" original="go through security" ></item>
+<item slot="7" original="wait at gate" ></item>
+<item slot="8" original="show boarding pass to gate worker" ></item>
+<item slot="9" original="board plane" ></item>
+</script><script id="7" source="2"><item slot="1" original="Take your ticket to front desk" ></item>
+<item slot="2" original="Give ticket to front desk person" ></item>
+<item slot="3" original="Give ID to front desk" ></item>
+<item slot="4" original="Give luggage to persons" ></item>
+<item slot="5" original="Get baggage claim ticket and ID" ></item>
+<item slot="6" original="Go to screening area" ></item>
+</script><script id="8" source="2"><item slot="1" original="Arrive at the airport" ></item>
+<item slot="2" original="Retrieve ticket" ></item>
+<item slot="3" original="Show documents" ></item>
+<item slot="4" original="Check bags" ></item>
+<item slot="5" original="Receive boarding ticket" ></item>
+<item slot="6" original="Pass security" ></item>
+<item slot="7" original="Head to gate" ></item>
+</script><script id="9" source="2"><item slot="1" original="Proceed to airport." ></item>
+<item slot="2" original="Go to gate of the appropriate airline." ></item>
+<item slot="3" original="Stand in line to counter." ></item>
+<item slot="4" original="Give ticket and ID to attendant when called." ></item>
+<item slot="5" original="Hand over luggage and check it." ></item>
+<item slot="6" original="Receive boarding pass." ></item>
+<item slot="7" original="Proceed to gate." ></item>
+</script><script id="10" source="2"><item slot="1" original="Take suitcases from car." ></item>
+<item slot="2" original="Go to check in counter" ></item>
+<item slot="3" original="wait in line" ></item>
+<item slot="4" original="Give ticket and license to airline person" ></item>
+<item slot="5" original="hand over bags to be checked" ></item>
+<item slot="6" original="take board pass and license" ></item>
+<item slot="7" original="Go to security" ></item>
+<item slot="8" original="wait in line" ></item>
+<item slot="9" original="walk through metal detector" ></item>
+<item slot="10" original="go to assigned gate" ></item>
+<item slot="11" original="wait for announcement to board plane" ></item>
+<item slot="12" original="get on plane" ></item>
+</script><script id="12" source="2"><item slot="1" original="Park in airport garage." ></item>
+<item slot="2" original="Take luggage into terminal." ></item>
+<item slot="3" original="Check luggage at departures desk." ></item>
+<item slot="4" original="Print out board pass on kiosk." ></item>
+<item slot="5" original="Walk through security check point." ></item>
+<item slot="6" original="Find gate." ></item>
+<item slot="7" original="Wait for plane." ></item>
+</script><script id="14" source="2"><item slot="1" original="Wait in line" ></item>
+<item slot="2" original="When the attendant motions for you, go to the counter" ></item>
+<item slot="3" original="Show tickets to attendant" ></item>
+<item slot="4" original="Show ID to attendant" ></item>
+<item slot="5" original="When directed by attendant, place baggage on the scale" ></item>
+<item slot="6" original="Collect boarding passes from attendant" ></item>
+<item slot="7" original="Look on the boarding pass to see what gate you need to go to" ></item>
+<item slot="8" original="Follow the signs to get to your gate" ></item>
+</script><script id="15" source="2"><item slot="1" original="Go to airport" ></item>
+<item slot="2" original="Wait in line" ></item>
+<item slot="3" original="Give your passport" ></item>
+<item slot="4" original="Get your luggage checked" ></item>
+<item slot="5" original="Leave luggage" ></item>
+<item slot="6" original="Get your ticket" ></item>
+<item slot="7" original="Leave check in" ></item>
+</script><script id="16" source="2"><item slot="1" original="Enter the airport." ></item>
+<item slot="2" original="Find the correct airline." ></item>
+<item slot="3" original="Wait in line." ></item>
+<item slot="4" original="Hand the employee your drivers license." ></item>
+<item slot="5" original="Give them your confirmation number." ></item>
+<item slot="6" original="Wait for them to confirm your details." ></item>
+<item slot="7" original="Take your ticket when it is handed to you." ></item>
+</script><script id="17" source="2"><item slot="1" original="Pack luggage" ></item>
+<item slot="2" original="Go to airport" ></item>
+<item slot="3" original="Go to check-in station" ></item>
+<item slot="4" original="Give ticket to clerk" ></item>
+<item slot="5" original="Check luggage" ></item>
+<item slot="6" original="Wait for plane" ></item>
+</script><script id="18" source="2"><item slot="1" original="Print your ticket out." ></item>
+<item slot="2" original="Make sure you have your identification and travel documents." ></item>
+<item slot="3" original="Travel to the airport." ></item>
+<item slot="4" original="If needed, park your car." ></item>
+<item slot="5" original="Check any luggage or, if preferred, carry your luggage with you." ></item>
+<item slot="6" original="Go to the appropriate ticket counter for your airline and check in." ></item>
+<item slot="7" original="Use the kiosk if you are comfortable, as they are more efficient." ></item>
+<item slot="8" original="Go to the security line." ></item>
+<item slot="9" original="Follow the instructions for your clothing and bags to be scanned and checked." ></item>
+<item slot="10" original="When the security check is done, go to the appropriate gate for your flight." ></item>
+<item slot="11" original="Wait until your plane is ready to board." ></item>
+<item slot="12" original="Proceed to the gate as directed." ></item>
+<item slot="13" original="Scan your ticket." ></item>
+<item slot="14" original="Board the plane." ></item>
+<item slot="15" original="Find your seat and stow any luggage." ></item>
+<item slot="16" original="Fasten your seatbelt." ></item>
+</script><script id="19" source="2"><item slot="1" original="find where to check in" ></item>
+<item slot="2" original="get into line" ></item>
+<item slot="3" original="have your luggage labeled" ></item>
+<item slot="4" original="have your proper id and ticket ready" ></item>
+<item slot="5" original="when your turn step up to the kiosk" ></item>
+<item slot="6" original="give the attendant your ticket and id" ></item>
+<item slot="7" original="put the luggage on the scale at the counter" ></item>
+<item slot="8" original="wait to get boarding pass." ></item>
+</script><script id="20" source="2"><item slot="1" original="Walk in" ></item>
+<item slot="2" original="Go to counter" ></item>
+<item slot="3" original="Give name and flight" ></item>
+<item slot="4" original="Receive ticket and gate number" ></item>
+<item slot="5" original="Check in bags" ></item>
+<item slot="6" original="Keep carry-on" ></item>
+<item slot="7" original="Walk to gate" ></item>
+</script><script id="21" source="2"><item slot="1" original="Reach the airport" ></item>
+<item slot="2" original="Show the ticket and enter" ></item>
+<item slot="3" original="Go to the boarding counter" ></item>
+<item slot="4" original="Present the ticket to the officer" ></item>
+<item slot="5" original="Get the boarding pass" ></item>
+<item slot="6" original="Pass through the body scanner" ></item>
+<item slot="7" original="Get the luggage scanned" ></item>
+<item slot="8" original="Wait at the lounge" ></item>
+<item slot="9" original="Upon announcement walk to the airplane" ></item>
+<item slot="10" original="Enter the airplane" ></item>
+</script><script id="22" source="2"><item slot="1" original="Drive to airport." ></item>
+<item slot="2" original="Park car in long term parking." ></item>
+<item slot="3" original="Find the right counter for airline you are flying." ></item>
+<item slot="4" original="Stand in line and wait for your turn." ></item>
+<item slot="5" original="At counter, give checked luggage to attendant." ></item>
+<item slot="6" original="Present id and a credit card to attendant." ></item>
+<item slot="7" original="Get boarding pass." ></item>
+<item slot="8" original="Take carry on luggage and boarding pass." ></item>
+<item slot="9" original="Go through security." ></item>
+<item slot="10" original="Wait at gate for airplane." ></item>
+</script><script id="23" source="2"><item slot="1" original="Enter the airport" ></item>
+<item slot="2" original="Locate your flight company's terminal" ></item>
+<item slot="3" original="Approach the counter" ></item>
+<item slot="4" original="Tell the clerk you wish to check in" ></item>
+<item slot="5" original="Hand them your ID" ></item>
+<item slot="6" original="Provide them with the information that they request" ></item>
+<item slot="7" original="Hand over your bag to be checked" ></item>
+<item slot="8" original="Receive ticket from clerk" ></item>
+<item slot="9" original="Thank the clerk" ></item>
+<item slot="10" original="Locate gate on your ticket" ></item>
+<item slot="11" original="Go to the gate and wait for the flight to board." ></item>
+</script><script id="25" source="2"><item slot="1" original="Wait in line." ></item>
+<item slot="2" original="Put information into a machine." ></item>
+<item slot="3" original="Get back in line." ></item>
+<item slot="4" original="Put items in basket." ></item>
+<item slot="5" original="Walk through security check." ></item>
+<item slot="6" original="Get your items back." ></item>
+<item slot="7" original="Look for terminal." ></item>
+</script><script id="26" source="2"><item slot="1" original="Arrive at airport" ></item>
+<item slot="2" original="Take bags out of car" ></item>
+<item slot="3" original="Walk into building" ></item>
+<item slot="4" original="Go to proper boarding area" ></item>
+<item slot="5" original="Wait in line" ></item>
+<item slot="6" original="Talk to clerk" ></item>
+<item slot="7" original="Measure and hand over bags" ></item>
+<item slot="8" original="Receive ticket" ></item>
+<item slot="9" original="Wait for boarding time" ></item>
+<item slot="10" original="Present ticket to clerk" ></item>
+<item slot="11" original="Board airplane" ></item>
+</script><script id="27" source="2"><item slot="1" original="Walk up to check in counter for airline" ></item>
+<item slot="2" original="Hand over reservation information and passport" ></item>
+<item slot="3" original="Put luggage on scales" ></item>
+<item slot="4" original="Find out information on flight" ></item>
+<item slot="5" original="Collect boarding passes" ></item>
+</script><script id="28" source="2"><item slot="1" original="Leave bags with checker at the side of the road" ></item>
+<item slot="2" original="Make your way to the airline's gate" ></item>
+<item slot="3" original="Wait in line to speak with an attendant" ></item>
+<item slot="4" original="Check in to your flight" ></item>
+<item slot="5" original="Walk to your boarding area and wait." ></item>
+</script><script id="30" source="2"><item slot="1" original="arrive airport" ></item>
+<item slot="2" original="present booking information" ></item>
+<item slot="3" original="check in" ></item>
+<item slot="4" original="sit and wait" ></item>
+<item slot="5" original="board flight" ></item>
+</script><script id="31" source="2"><item slot="1" original="arrive at airport" ></item>
+<item slot="2" original="remove luggage from vehicle" ></item>
+<item slot="3" original="walk to ticket counter" ></item>
+<item slot="4" original="wait in line" ></item>
+<item slot="5" original="meet with airline staff" ></item>
+<item slot="6" original="check-in" ></item>
+<item slot="7" original="go through security" ></item>
+<item slot="8" original="arrive at gate" ></item>
+</script><script id="32" source="2"><item slot="1" original="Pack bags" ></item>
+<item slot="2" original="Go to airport" ></item>
+<item slot="3" original="Go to ticket counter" ></item>
+<item slot="4" original="Give attendant your name and identification" ></item>
+<item slot="5" original="Get boarding pass" ></item>
+<item slot="6" original="Go to security line" ></item>
+<item slot="7" original="Go through security" ></item>
+</script><script id="33" source="2"><item slot="1" original="Go to the airport" ></item>
+<item slot="2" original="Find your terminal" ></item>
+<item slot="3" original="Find a seat" ></item>
+<item slot="4" original="Go up to the desk when your flight is called" ></item>
+<item slot="5" original="Get on the plane" ></item>
+</script><script id="34" source="2"><item slot="1" original="get in car" ></item>
+<item slot="2" original="drive to airport" ></item>
+<item slot="3" original="enter airport" ></item>
+<item slot="4" original="go to check in kiosk" ></item>
+<item slot="5" original="present ticket and identification" ></item>
+<item slot="6" original="get flight itinerary" ></item>
+<item slot="7" original="proceed through security to the gates" ></item>
+</script><script id="35" source="2"><item slot="1" original="Go to airport" ></item>
+<item slot="2" original="Park in lot" ></item>
+<item slot="3" original="Get luggage out of trunk" ></item>
+<item slot="4" original="Take shuttle to terminal" ></item>
+<item slot="5" original="Get in line at terminal desk" ></item>
+<item slot="6" original="Give paperwork to desk clerk" ></item>
+<item slot="7" original="Check in luggage" ></item>
+<item slot="8" original="Receive boarding pass" ></item>
+</script><script id="36" source="2"><item slot="1" original="Go through security" ></item>
+<item slot="2" original="Place luggage in designated area" ></item>
+<item slot="3" original="Find designated airplane" ></item>
+<item slot="4" original="Get out the airport ticket" ></item>
+<item slot="5" original="Show receptions your ticket" ></item>
+<item slot="6" original="Get on airplane" ></item>
+</script><script id="37" source="2"><item slot="1" original="Drive to airport" ></item>
+<item slot="2" original="Park at airport" ></item>
+<item slot="3" original="Walk into airport" ></item>
+<item slot="4" original="Find check in desk" ></item>
+<item slot="5" original="Walk to check in desk" ></item>
+<item slot="6" original="Give information to clerk" ></item>
+<item slot="7" original="Wait for further instruction" ></item>
+</script><script id="38" source="2"><item slot="1" original="go to bag drop off" ></item>
+<item slot="2" original="leave bags there" ></item>
+<item slot="3" original="take ticket to check point" ></item>
+<item slot="4" original="have it looked over" ></item>
+<item slot="5" original="wait for your turn to board plane" ></item>
+</script><script id="39" source="2"><item slot="1" original="Go to kiosk." ></item>
+<item slot="2" original="Print boarding pass." ></item>
+<item slot="3" original="Walk up to counter." ></item>
+<item slot="4" original="Check in luggage and get luggage tags." ></item>
+<item slot="5" original="Put tags on luggage." ></item>
+<item slot="6" original="Give luggage to attendant." ></item>
+<item slot="7" original="Find gate and wait for boarding announcement." ></item>
+</script><script id="40" source="2"><item slot="1" original="get dropped off at your airline terminal" ></item>
+<item slot="2" original="sign in and print ticket" ></item>
+<item slot="3" original="walk to counter with ticket" ></item>
+<item slot="4" original="put luggage on weight scale and pay" ></item>
+<item slot="5" original="walk to security" ></item>
+<item slot="6" original="wait" ></item>
+</script><script id="41" source="2"><item slot="1" original="Check in baggage" ></item>
+<item slot="2" original="Get boarding pass" ></item>
+<item slot="3" original="Go through security scan" ></item>
+<item slot="4" original="Find departure gate" ></item>
+<item slot="5" original="Board plane" ></item>
+</script><script id="42" source="2"><item slot="1" original="Go to ticket counter" ></item>
+<item slot="2" original="Give agent your ID." ></item>
+<item slot="3" original="Tell them if you have any bags to check." ></item>
+<item slot="4" original="Give them your bags." ></item>
+<item slot="5" original="Take ticket and ID." ></item>
+<item slot="6" original="Proceed to terminal." ></item>
+</script><script id="43" source="2"><item slot="1" original="Go to the airport" ></item>
+<item slot="2" original="Park the car" ></item>
+<item slot="3" original="Going to the airport" ></item>
+<item slot="4" original="Find my airline check-in" ></item>
+<item slot="5" original="Wait in line" ></item>
+<item slot="6" original="Go to counter" ></item>
+<item slot="7" original="Talk to the receptionist" ></item>
+<item slot="8" original="Check in for my flight" ></item>
+</script><script id="45" source="2"><item slot="1" original="GET TO THE AIRPORT BEFORE YOUR FLIGHT" ></item>
+<item slot="2" original="GO TO THE SELF-CHECK IN DESK" ></item>
+<item slot="3" original="SCAN PASSPORT" ></item>
+<item slot="4" original="FOLLOW ON-SCREEN INSTRUCTIONS" ></item>
+<item slot="5" original="GET PRINTED BOARDING PASS" ></item>
+<item slot="6" original="GO TO COUNTER TO CHECK BAGS" ></item>
+<item slot="7" original="CHECK BAGS" ></item>
+<item slot="8" original="PROCEED TO SECURITY" ></item>
+</script><script id="46" source="2"><item slot="1" original="Get your baggage checked" ></item>
+<item slot="2" original="Go through security checks" ></item>
+<item slot="3" original="Present your ticket and luggage at the counter" ></item>
+<item slot="4" original="Receive your boarding pass" ></item>
+<item slot="5" original="Proceed to the waiting area" ></item>
+<item slot="6" original="Board the plane" ></item>
+</script><script id="47" source="2"><item slot="1" original="Arrive at the airport." ></item>
+<item slot="2" original="Check in." ></item>
+<item slot="3" original="Go through tsa." ></item>
+<item slot="4" original="Find terminal." ></item>
+<item slot="5" original="Wait for plane." ></item>
+</script><script id="48" source="2"><item slot="1" original="arrive at airport" ></item>
+<item slot="2" original="walk to specific airline check in" ></item>
+<item slot="3" original="wait for attendant to help you" ></item>
+<item slot="4" original="present ticket and id to attendant" ></item>
+<item slot="5" original="hand attendant your luggage" ></item>
+<item slot="6" original="walk to security check point" ></item>
+</script><script id="49" source="2"><item slot="1" original="Arrive at airport." ></item>
+<item slot="2" original="Locate airline that you will be flying." ></item>
+<item slot="3" original="Locate line for your class of service." ></item>
+<item slot="4" original="Wait in line." ></item>
+<item slot="5" original="Present your ID to the check in agent." ></item>
+<item slot="6" original="Hand over your luggage." ></item>
+<item slot="7" original="Take the boarding pass from the agent." ></item>
+<item slot="8" original="Find the security checkpoint." ></item>
+<item slot="9" original="Go through security." ></item>
+<item slot="10" original="Find your gate for your flight." ></item>
+</script><script id="50" source="2"><item slot="1" original="Get in line at airline counter" ></item>
+<item slot="2" original="Get ticket for flight" ></item>
+<item slot="3" original="Check luggage" ></item>
+<item slot="4" original="Walk to security check area" ></item>
+<item slot="5" original="Remove shoes and belt" ></item>
+<item slot="6" original="Empty pockets" ></item>
+<item slot="7" original="Wait in security line" ></item>
+<item slot="8" original="Walk through metal detector" ></item>
+<item slot="9" original="Put belongings back in pockets" ></item>
+<item slot="10" original="Put shoes and belt back on" ></item>
+</script><script id="51" source="2"><item slot="1" original="Go to self check-in terminal" ></item>
+<item slot="2" original="Enter all information required" ></item>
+<item slot="3" original="Wait in line with bags to be checked" ></item>
+<item slot="4" original="Hand bags over to staff" ></item>
+<item slot="5" original="Get bag tag receipt" ></item>
+<item slot="6" original="Head over to security" ></item>
+</script><script id="52" source="2"><item slot="1" original="walk into airport" ></item>
+<item slot="2" original="have ticket in hand" ></item>
+<item slot="3" original="walk up to the counter" ></item>
+<item slot="4" original="hand ticket to person" ></item>
+<item slot="5" original="place baggage on baggage counter" ></item>
+<item slot="6" original="hand person id" ></item>
+<item slot="7" original="wait for person to put tags on bags" ></item>
+<item slot="8" original="take ticket and id back from person" ></item>
+<item slot="9" original="walk to security" ></item>
+<item slot="10" original="go through security" ></item>
+<item slot="11" original="walk to gate" ></item>
+</script><script id="53" source="2"><item slot="1" original="Arrive at airport" ></item>
+<item slot="2" original="Have ticket information ready" ></item>
+<item slot="3" original="Go to ticket booth" ></item>
+<item slot="4" original="Give information" ></item>
+<item slot="5" original="Give luggage to be checked" ></item>
+<item slot="6" original="Pay any fees associated with checked luggage" ></item>
+<item slot="7" original="Wait for clerk to give you printed ticket" ></item>
+<item slot="8" original="You are checked in" ></item>
+</script><script id="55" source="2"><item slot="1" original="Depart car in drop off lane." ></item>
+<item slot="2" original="Approach ticket counter line." ></item>
+<item slot="3" original="Give info at ticket counter." ></item>
+<item slot="4" original="Receive info at ticket counter." ></item>
+<item slot="5" original="Go through security checks." ></item>
+<item slot="6" original="Locate departing gate." ></item>
+<item slot="7" original="Wait at gate until departure." ></item>
+</script><script id="56" source="2"><item slot="1" original="Walk into airport." ></item>
+<item slot="2" original="Go to your gate." ></item>
+<item slot="3" original="Check bags with attendant." ></item>
+<item slot="4" original="Go sit down." ></item>
+<item slot="5" original="Wait for airplane." ></item>
+</script><script id="58" source="2"><item slot="1" original="Find correct airline terminal" ></item>
+<item slot="2" original="wait in line" ></item>
+<item slot="3" original="enter information (credit card number, confirmation number or name) into computer" ></item>
+<item slot="4" original="show attendant ID" ></item>
+<item slot="5" original="choose airplane seats" ></item>
+<item slot="6" original="double check flight information" ></item>
+<item slot="7" original="choose if checking luggage" ></item>
+<item slot="8" original="print boarding passes" ></item>
+<item slot="9" original="hand attendant checked luggage, pay extra fees if need be" ></item>
+<item slot="10" original="walk to security line" ></item>
+</script><script id="59" source="2"><item slot="1" original="arrive to airport" ></item>
+<item slot="2" original="walk up to front desk" ></item>
+<item slot="3" original="ask for checking up" ></item>
+<item slot="4" original="grab your ticket" ></item>
+<item slot="5" original="arrive to your port" ></item>
+</script><script id="60" source="2"><item slot="1" original="Wait in line at the correct airlines." ></item>
+<item slot="2" original="Go up to the counter." ></item>
+<item slot="3" original="Put luggage on scale." ></item>
+<item slot="4" original="Give your ticket and ID or passport to the agent." ></item>
+<item slot="5" original="Pay for any over weight luggage." ></item>
+<item slot="6" original="Answer any questions the agent may ask." ></item>
+<item slot="7" original="Take your ticket from the agent." ></item>
+</script><script id="61" source="2"><item slot="1" original="Arrive at airport" ></item>
+<item slot="2" original="Find your airline" ></item>
+<item slot="3" original="Give attendant your ID and order number" ></item>
+<item slot="4" original="Weigh your luggage" ></item>
+<item slot="5" original="Get your tagged luggage" ></item>
+<item slot="6" original="Get printout from attendant" ></item>
+<item slot="7" original="Listen to any directions" ></item>
+<item slot="8" original="Start heading towards your gate" ></item>
+</script><script id="62" source="2"><item slot="1" original="Enter the airport" ></item>
+<item slot="2" original="Go to check in area" ></item>
+<item slot="3" original="Stand in Queue" ></item>
+<item slot="4" original="Give the ticket to check in staff" ></item>
+<item slot="5" original="Show the passport" ></item>
+<item slot="6" original="Weigh the luggage" ></item>
+<item slot="7" original="Hand over the luggage" ></item>
+<item slot="8" original="Collect the boarding pass" ></item>
+<item slot="9" original="Get back the passport" ></item>
+<item slot="10" original="Proceed for security check" ></item>
+</script><script id="63" source="2"><item slot="1" original="go to the airport" ></item>
+<item slot="2" original="deposit your luggage" ></item>
+<item slot="3" original="collect your boarding pass" ></item>
+<item slot="4" original="go through the security check" ></item>
+<item slot="5" original="check into the flight" ></item>
+</script><script id="64" source="2"><item slot="1" original="Obtain luggage tags" ></item>
+<item slot="2" original="Attach tags to bags" ></item>
+<item slot="3" original="Find correct airline check in counter" ></item>
+<item slot="4" original="take luggage and get in line" ></item>
+<item slot="5" original="Give appropriate documents, paperwork and id to employee" ></item>
+<item slot="6" original="Place luggage on scale" ></item>
+<item slot="7" original="Get boarding pass" ></item>
+<item slot="8" original="Go to assigned boarding gate" ></item>
+</script><script id="65" source="2"><item slot="1" original="Get all your identification ready" ></item>
+<item slot="2" original="Go to front desk" ></item>
+<item slot="3" original="Show identification" ></item>
+<item slot="4" original="Check your luggage" ></item>
+<item slot="5" original="Go through security check" ></item>
+<item slot="6" original="Go to your appropriate gate" ></item>
+</script><script id="67" source="2"><item slot="1" original="Enter airport." ></item>
+<item slot="2" original="Find correct ticket counter." ></item>
+<item slot="3" original="Wait in line." ></item>
+<item slot="4" original="Get out ID and ticket." ></item>
+<item slot="5" original="Give ID and ticket to clerk." ></item>
+<item slot="6" original="Confirm flight." ></item>
+<item slot="7" original="Check in any baggage that won't be carried on." ></item>
+<item slot="8" original="Take boarding pass, ticket, and ID." ></item>
+<item slot="9" original="Walk to security checkpoint." ></item>
+</script><script id="68" source="2"><item slot="1" original="Get out of taxi" ></item>
+<item slot="2" original="Walk into terminal" ></item>
+<item slot="3" original="Get into ticket line" ></item>
+<item slot="4" original="Greet airline desk agent" ></item>
+<item slot="5" original="Show identification" ></item>
+<item slot="6" original="Retrieve boarding pass" ></item>
+<item slot="7" original="Set bags on scale" ></item>
+<item slot="8" original="Check in bags" ></item>
+<item slot="9" original="Tag carry-ons" ></item>
+<item slot="10" original="Walk to security gate" ></item>
+<item slot="11" original="Pass through metal detector" ></item>
+<item slot="12" original="Take personal items and bags" ></item>
+<item slot="13" original="Walk to the gate" ></item>
+</script><script id="69" source="2"><item slot="1" original="Walk to the ticket counter for the airline" ></item>
+<item slot="2" original="Wait in line until an agent is available" ></item>
+<item slot="3" original="Approach the agent" ></item>
+<item slot="4" original="Identify self and produce government picture ID" ></item>
+<item slot="5" original="Advise agent of flight information" ></item>
+<item slot="6" original="Advise agent on number of bags to check" ></item>
+<item slot="7" original="If required, pay bag fees" ></item>
+<item slot="8" original="Check bags" ></item>
+<item slot="9" original="Obtain boarding pass" ></item>
+<item slot="10" original="Walk away" ></item>
+</script><script id="70" source="2"><item slot="1" original="Gather luggage" ></item>
+<item slot="2" original="Get in the car" ></item>
+<item slot="3" original="Get driven to the airport" ></item>
+<item slot="4" original="Wait in line" ></item>
+<item slot="5" original="Show identification to get tickets and check baggage" ></item>
+</script><script id="71" source="2"><item slot="1" original="Arrive at airport" ></item>
+<item slot="2" original="Get in line" ></item>
+<item slot="3" original="Present boarding pass and ID" ></item>
+<item slot="4" original="Present your bags" ></item>
+<item slot="5" original="Attendant weighs bags" ></item>
+<item slot="6" original="Attendant rips boarding pass along dotted line" ></item>
+<item slot="7" original="Go to your gate" ></item>
+</script><script id="72" source="2"><item slot="1" original="go to the airline desk" ></item>
+<item slot="2" original="present id and tickets" ></item>
+<item slot="3" original="get boarding pass" ></item>
+<item slot="4" original="wait on security line" ></item>
+<item slot="5" original="go through security" ></item>
+</script><script id="73" source="2"><item slot="1" original="Take all of your luggage and your party to the correct airline" ></item>
+<item slot="2" original="Get in line" ></item>
+<item slot="3" original="Follow line up until it is your turn" ></item>
+<item slot="4" original="Take your luggage up to the desk" ></item>
+<item slot="5" original="Show the clerk a Drivers License for all members of your party" ></item>
+<item slot="6" original="Show the clerk any airline related documents you may have" ></item>
+<item slot="7" original="Put your luggage on the scale" ></item>
+<item slot="8" original="Wait for the clerk to load your luggage on conveyor" ></item>
+<item slot="9" original="Put your boarding pass and Drivers License away" ></item>
+<item slot="10" original="Leave line and head for security checkpoint line" ></item>
+</script><script id="74" source="2"><item slot="1" original="Enter the airport" ></item>
+<item slot="2" original="If there is a self-check-in kiosk, use that to get your boarding pass" ></item>
+<item slot="3" original="Wait in line to check your luggage" ></item>
+<item slot="4" original="Hand the checked luggage" ></item>
+<item slot="5" original="Wait while the luggage is weighed" ></item>
+<item slot="6" original="Get the slip to claim your luggage at your destination" ></item>
+</script><script id="75" source="2"><item slot="1" original="arrive" ></item>
+<item slot="2" original="park" ></item>
+<item slot="3" original="enter" ></item>
+<item slot="4" original="find your service" ></item>
+<item slot="5" original="present your id" ></item>
+<item slot="6" original="pay for baggage or extras" ></item>
+<item slot="7" original="get your ticket" ></item>
+</script><script id="77" source="2"><item slot="1" original="Drive to airport" ></item>
+<item slot="2" original="Print out ticket at machine" ></item>
+<item slot="3" original="Check in" ></item>
+<item slot="4" original="Wait" ></item>
+<item slot="5" original="Check bags" ></item>
+<item slot="6" original="Have carry-on bags X-rayed" ></item>
+<item slot="7" original="Endure humiliating examination" ></item>
+<item slot="8" original="Proceed to departure lounge" ></item>
+<item slot="9" original="Wait a long time for departure" ></item>
+<item slot="10" original="Show ticket to attendant" ></item>
+<item slot="11" original="Board plane" ></item>
+</script><script id="78" source="2"><item slot="1" original="Drive to airport" ></item>
+<item slot="2" original="Park car in parking garage" ></item>
+<item slot="3" original="Get luggage out and go into terminal" ></item>
+<item slot="4" original="Check in luggage at the counter" ></item>
+<item slot="5" original="Get your ticket from the workers" ></item>
+<item slot="6" original="Go through security" ></item>
+<item slot="7" original="Find your gate" ></item>
+<item slot="8" original="Wait for your plane" ></item>
+<item slot="9" original="Get on the plane" ></item>
+</script><script id="79" source="2"><item slot="1" original="Go to the airport" ></item>
+<item slot="2" original="Approach the check in counter" ></item>
+<item slot="3" original="Express desire to check in" ></item>
+<item slot="4" original="Present id" ></item>
+<item slot="5" original="Check bags" ></item>
+<item slot="6" original="Collect receipt" ></item>
+</script><script id="80" source="2"><item slot="1" original="Drive to airport" ></item>
+<item slot="2" original="Park" ></item>
+<item slot="3" original="Find my gate" ></item>
+<item slot="4" original="Get my boarding pass" ></item>
+<item slot="5" original="Wait in line" ></item>
+</script><script id="82" source="2"><item slot="1" original="Walk into the airport" ></item>
+<item slot="2" original="Walk up to the counter" ></item>
+<item slot="3" original="Hand ticket to the person at the counter" ></item>
+<item slot="4" original="Go through security" ></item>
+<item slot="5" original="Sit and wait for flight" ></item>
+</script><script id="83" source="2"><item slot="1" original="walk up to computer" ></item>
+<item slot="2" original="Scan ticket" ></item>
+<item slot="3" original="Enter information" ></item>
+<item slot="4" original="Walk up to check in counter" ></item>
+<item slot="5" original="Give person my luggage" ></item>
+<item slot="6" original="Get confirmation" ></item>
+</script><script id="84" source="2"><item slot="1" original="Arrive at airport" ></item>
+<item slot="2" original="Present ticket and identification at counter" ></item>
+<item slot="3" original="Present luggage at counter" ></item>
+<item slot="4" original="Receive boarding pass" ></item>
+<item slot="5" original="Board plane" ></item>
+</script><script id="85" source="2"><item slot="1" original="Go to kiosk or counter of your airline" ></item>
+<item slot="2" original="Use electronic kiosk or speak to counter agent" ></item>
+<item slot="3" original="Give luggage to airline agent" ></item>
+<item slot="4" original="Check departure gate" ></item>
+<item slot="5" original="Go through security" ></item>
+<item slot="6" original="Go to gate" ></item>
+<item slot="7" original="Board plane" ></item>
+</script><script id="86" source="2"><item slot="1" original="Arrive at the terminal" ></item>
+<item slot="2" original="walk up to the counter or wait in line" ></item>
+<item slot="3" original="Put your bags where they can weight and mark them" ></item>
+<item slot="4" original="give them your ticket and ID's" ></item>
+<item slot="5" original="Answer their questions" ></item>
+<item slot="6" original="Receive your boarding pass and gate number" ></item>
+<item slot="7" original="leave the counter area and proceed to gate." ></item>
+</script><script id="87" source="2"><item slot="1" original="purchase plane ticket" ></item>
+<item slot="2" original="drive to the airport" ></item>
+<item slot="3" original="find a parking spot" ></item>
+<item slot="4" original="get you bags from vehicle" ></item>
+<item slot="5" original="walk to terminal" ></item>
+<item slot="6" original="enter terminal" ></item>
+<item slot="7" original="walk up to ticket counter" ></item>
+<item slot="8" original="hand agent ticket and id" ></item>
+<item slot="9" original="proceed to gate" ></item>
+</script><script id="88" source="2"><item slot="1" original="travel to the airport" ></item>
+<item slot="2" original="get out of your transportation" ></item>
+<item slot="3" original="walk up the ticket booth" ></item>
+<item slot="4" original="check in your luggage if you have it" ></item>
+<item slot="5" original="show your travel information" ></item>
+<item slot="6" original="receive your boarding pass" ></item>
+<item slot="7" original="hand over your bags" ></item>
+<item slot="8" original="walk through the security checkpoint" ></item>
+<item slot="9" original="walk toward you departure gate" ></item>
+</script><script id="89" source="2"><item slot="1" original="Arrive early at airport" ></item>
+<item slot="2" original="find a check in kiosk" ></item>
+<item slot="3" original="check in" ></item>
+<item slot="4" original="Get boarding pass" ></item>
+<item slot="5" original="go thru security" ></item>
+<item slot="6" original="go to gate" ></item>
+</script><script id="90" source="2"><item slot="1" original="Have your ticket number and ID" ></item>
+<item slot="2" original="Approach the ticket counter" ></item>
+<item slot="3" original="Provide the worker with your ID and ticket number" ></item>
+<item slot="4" original="Check any bags you have" ></item>
+<item slot="5" original="Take your ID back" ></item>
+<item slot="6" original="Get the ticket from the worker" ></item>
+</script><script id="91" source="2"><item slot="1" original="Walk into the airport" ></item>
+<item slot="2" original="Go to the check in counter" ></item>
+<item slot="3" original="Say hello to the attendant" ></item>
+<item slot="4" original="Tell them you're checking in" ></item>
+<item slot="5" original="Show your ID" ></item>
+<item slot="6" original="Get your boarding pass" ></item>
+</script><script id="92" source="2"><item slot="1" original="pack id and luggage" ></item>
+<item slot="2" original="take transportation to the airport" ></item>
+<item slot="3" original="print out a boarding pass at airline counter" ></item>
+<item slot="4" original="go through security check-in" ></item>
+<item slot="5" original="go to assigned flight gate" ></item>
+<item slot="6" original="give boarding pass to attendant to check in" ></item>
+</script><script id="93" source="2"><item slot="1" original="Check your flight itinerary in your email or online." ></item>
+<item slot="2" original="Get confirmation number." ></item>
+<item slot="3" original="Make sure you are at the correct terminal." ></item>
+<item slot="4" original="Go up to the airline's computer kiosk or counter." ></item>
+<item slot="5" original="Enter in confirmation number." ></item>
+<item slot="6" original="Confirm flight and identity." ></item>
+<item slot="7" original="Print boarding pass." ></item>
+<item slot="8" original="Prepare to go through security." ></item>
+</script><script id="94" source="2"><item slot="1" original="Arrive at the airport" ></item>
+<item slot="2" original="Find your terminal" ></item>
+<item slot="3" original="Go to a kiosk or desk to sign in for your flight" ></item>
+<item slot="4" original="Check in your luggage" ></item>
+<item slot="5" original="Go through security" ></item>
+</script><script id="95" source="2"><item slot="1" original="Find terminal." ></item>
+<item slot="2" original="Check in with the desk or via phone." ></item>
+<item slot="3" original="Go through security." ></item>
+<item slot="4" original="Make sure you have your proper tickets." ></item>
+<item slot="5" original="Make sure you have proper identification." ></item>
+<item slot="6" original="Be patient." ></item>
+</script><script id="97" source="2"><item slot="1" original="drive to airport" ></item>
+<item slot="2" original="get luggage" ></item>
+<item slot="3" original="walk to kiosk" ></item>
+<item slot="4" original="insert credit card" ></item>
+<item slot="5" original="confirm check in" ></item>
+<item slot="6" original="print flight ticket" ></item>
+<item slot="7" original="retrieve flight ticket" ></item>
+<item slot="8" original="approach security checkpoint" ></item>
+</script><script id="98" source="2"><item slot="1" original="Enter car" ></item>
+<item slot="2" original="Turn on car" ></item>
+<item slot="3" original="Drive car to airport" ></item>
+<item slot="4" original="Park car" ></item>
+<item slot="5" original="Exit car" ></item>
+<item slot="6" original="Walk to gate" ></item>
+<item slot="7" original="Wait on line" ></item>
+<item slot="8" original="Check in" ></item>
+<item slot="9" original="Wait on security line" ></item>
+<item slot="10" original="Pass through security" ></item>
+<item slot="11" original="Gather belongings" ></item>
+<item slot="12" original="Wait for flight" ></item>
+</script><script id="99" source="2"><item slot="1" original="Arrive at the correct terminal" ></item>
+<item slot="2" original="Find a skycap to take luggage." ></item>
+<item slot="3" original="Find correct counter or kiosk" ></item>
+<item slot="4" original="Check bags" ></item>
+<item slot="5" original="Print/ Receive boarding pass" ></item>
+</script><script id="100" source="2"><item slot="1" original="Pass ID screening." ></item>
+<item slot="2" original="Get passed security." ></item>
+<item slot="3" original="Check in for my flight." ></item>
+<item slot="4" original="Sit and wait until plane arrives at my gate." ></item>
+<item slot="5" original="Take luggage and belongings onto my plane." ></item>
+</script></scripts>

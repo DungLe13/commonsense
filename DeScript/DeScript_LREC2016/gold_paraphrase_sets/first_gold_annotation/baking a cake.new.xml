@@ -1,0 +1,370 @@
+<scripts>
+<label type="PARAPHRASE" event="buy_ingredients">
+<item source="1" script="11" slot="1" total_slots="16" original="Enter grocery store."></item>
+<item source="2" script="13" slot="2" total_slots="8" original="Go to store"></item>
+<item source="1" script="6" slot="1" total_slots="14" original="Go to the grocery store and buy a cake mix"></item>
+<item source="1" script="8" slot="3" total_slots="16" original="Go to the supermarket and purchase the ingredients"></item>
+<item source="1" script="6" slot="3" total_slots="14" original="Buy other ingredients if you do not have at home"></item>
+<item source="1" script="11" slot="2" total_slots="16" original="Buy cake ingredients."></item>
+<item source="2" script="1" slot="2" total_slots="15" original="Purchase ingredients"></item>
+<item source="2" script="5" slot="1" total_slots="9" original="Buy proper ingredients"></item>
+<item source="2" script="13" slot="3" total_slots="8" original="Buy ingredients"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_read_instrauctions">
+<item source="1" script="6" slot="2" total_slots="14" original="Before leaving store, read instructions on box for other ingredients needed"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_return_home">
+<item source="1" script="11" slot="3" total_slots="16" original="Return home."></item>
+<item source="1" script="6" slot="4" total_slots="14" original="Go home"></item>
+<item source="1" script="8" slot="4" total_slots="16" original="Come home with the ingredients "></item>
+<item source="2" script="13" slot="4" total_slots="8" original="Go home"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_enter_kitchen">
+<item source="1" script="11" slot="4" total_slots="16" original="Enter kitchen."></item>
+
+</label>
+<label type="PARAPHRASE" event="choose_recipe">
+<item source="1" script="12" slot="1" total_slots="13" original="Read recipe"></item>
+<item source="1" script="3" slot="1" total_slots="6" original="Review desired recipe"></item>
+<item source="1" script="8" slot="1" total_slots="16" original="Look up a cake recipe"></item>
+<item source="2" script="1" slot="1" total_slots="15" original="Look up a recipe"></item>
+<item source="2" script="2" slot="1" total_slots="12" original="Find a recipe."></item>
+<item source="2" script="3" slot="1" total_slots="13" original="Read the recipe"></item>
+<item source="2" script="10" slot="3" total_slots="6" original="Get your recipe"></item>
+<item source="2" script="12" slot="1" total_slots="9" original="Find a recipe"></item>
+<item source="2" script="13" slot="1" total_slots="8" original="Find a cake recipe"></item>
+<item source="1" script="8" slot="2" total_slots="16" original="Print out or write down the recipe"></item>
+
+</label>
+<label type="PARAPHRASE" event="get_ingredients">
+<item source="1" script="2" slot="1" total_slots="7" original="Get a cake mix"></item>
+<item source="1" script="4" slot="1" total_slots="10" original="Purchase cake mix"></item>
+<item source="1" script="10" slot="1" total_slots="16" original="take out box of cake mix from shelf"></item>
+<item source="2" script="4" slot="1" total_slots="15" original="Get out cake mix"></item>
+<item source="2" script="8" slot="1" total_slots="7" original="Get cake mix"></item>
+<item source="2" script="11" slot="2" total_slots="11" original="Take cake mixture of any kind."></item>
+<item source="1" script="5" slot="1" total_slots="10" original="Gather all ingredients."></item>
+<item source="1" script="3" slot="2" total_slots="6" original="Prepare the ingredients listed on the recipe"></item>
+<item source="1" script="7" slot="2" total_slots="12" original="Gather all of your ingredients (varies depending on your recipe)"></item>
+<item source="1" script="9" slot="1" total_slots="12" original="Gather ingredients"></item>
+<item source="1" script="10" slot="2" total_slots="16" original="gather together cake ingredients such as eggs, butter, water, vanilla, milk"></item>
+<item source="1" script="12" slot="2" total_slots="13" original="Gather ingredients"></item>
+<item source="2" script="1" slot="3" total_slots="15" original="Set out ingredients"></item>
+<item source="2" script="3" slot="2" total_slots="13" original="Get the ingredients and materials you need"></item>
+<item source="2" script="5" slot="3" total_slots="9" original="Gather all ingredients"></item>
+<item source="2" script="6" slot="7" total_slots="16" original="other ingredients"></item>
+<item source="2" script="7" slot="1" total_slots="7" original="getting ingredients ready"></item>
+<item source="2" script="9" slot="3" total_slots="13" original="Get baking powder, milk, eggs, vanilla, oil"></item>
+<item source="2" script="10" slot="2" total_slots="6" original="Get you cooking supplies"></item>
+<item source="2" script="12" slot="2" total_slots="9" original="Get all the ingredients together"></item>
+<item source="2" script="9" slot="1" total_slots="13" original="Get flour"></item>
+<item source="2" script="9" slot="2" total_slots="13" original="Get sugar"></item>
+<item source="2" script="6" slot="4" total_slots="16" original="milk"></item>
+<item source="2" script="4" slot="3" total_slots="15" original="Get out eggs"></item>
+<item source="2" script="6" slot="3" total_slots="16" original="take out eggs"></item>
+<item source="2" script="8" slot="2" total_slots="7" original="Get eggs"></item>
+<item source="2" script="8" slot="3" total_slots="7" original="Get water"></item>
+<item source="2" script="4" slot="4" total_slots="15" original="Get out vegetable oil"></item>
+<item source="2" script="8" slot="4" total_slots="7" original="Get oil"></item>
+
+</label>
+<label type="PARAPHRASE" event="get_utensils">
+<item source="1" script="10" slot="4" total_slots="16" original="get mixing tool or spoon or fork"></item>
+<item source="1" script="8" slot="5" total_slots="16" original="Gather all the items I will need to bake the cake such as a mixing bowl, whisk, and cake pan"></item>
+<item source="1" script="9" slot="3" total_slots="12" original="Get mixing bowl"></item>
+<item source="1" script="10" slot="3" total_slots="16" original="get mixing bowl"></item>
+<item source="1" script="12" slot="3" total_slots="13" original="Get cake pan, utensils, mixer "></item>
+<item source="2" script="6" slot="2" total_slots="16" original="cake pans"></item>
+<item source="2" script="10" slot="1" total_slots="6" original="Gather your cooking materials for baking a cake"></item>
+<item source="2" script="6" slot="6" total_slots="16" original="measuring spoons"></item>
+<item source="1" script="9" slot="6" total_slots="12" original="Get cake pan"></item>
+<item source="2" script="6" slot="5" total_slots="16" original="measuring cup"></item>
+<item source="2" script="4" slot="5" total_slots="15" original="Get out measuring cups"></item>
+
+</label>
+<label type="PARAPHRASE" event="preheat">
+<item source="1" script="2" slot="4" total_slots="7" original="Preheat the oven"></item>
+<item source="1" script="3" slot="3" total_slots="6" original="Preheat the oven to instructed temperature"></item>
+<item source="1" script="4" slot="2" total_slots="10" original="Preheat oven"></item>
+<item source="1" script="5" slot="4" total_slots="10" original="Preheat oven. "></item>
+<item source="1" script="6" slot="5" total_slots="14" original="Preheat oven according to box directions"></item>
+<item source="1" script="7" slot="1" total_slots="12" original="Preheat oven"></item>
+<item source="1" script="8" slot="6" total_slots="16" original="Preheat oven to temperature the recipe requires"></item>
+<item source="1" script="9" slot="2" total_slots="12" original="Turn oven on"></item>
+<item source="1" script="10" slot="8" total_slots="16" original="preheat oven"></item>
+<item source="1" script="12" slot="5" total_slots="13" original="Pre-heat oven based on recipes instructions"></item>
+<item source="2" script="1" slot="4" total_slots="15" original="Preheat oven"></item>
+<item source="2" script="2" slot="2" total_slots="12" original="Preheat the oven."></item>
+<item source="2" script="3" slot="4" total_slots="13" original="Preheat the oven"></item>
+<item source="2" script="4" slot="2" total_slots="15" original="Preheat oven"></item>
+<item source="2" script="5" slot="2" total_slots="9" original="Set oven to correct temperature according to box directions"></item>
+<item source="2" script="6" slot="1" total_slots="16" original="pre heat oven"></item>
+<item source="2" script="9" slot="8" total_slots="13" original="Preheat oven"></item>
+<item source="2" script="11" slot="1" total_slots="11" original="First heat oven"></item>
+<item source="2" script="12" slot="3" total_slots="9" original="Preheat oven"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_make_cake">
+<item source="2" script="10" slot="4" total_slots="6" original="Begin the process of making your cake"></item>
+
+</label>
+<label type="PARAPHRASE" event="measure_ingredients">
+<item source="2" script="3" slot="3" total_slots="13" original="Measure each ingredient according to the recipe"></item>
+<item source="1" script="11" slot="5" total_slots="16" original="Measure wet ingredients."></item>
+<item source="1" script="11" slot="6" total_slots="16" original="Measure dry ingredients."></item>
+
+</label>
+<label type="PARAPHRASE" event="add_ingredients">
+<item source="1" script="1" slot="1" total_slots="8" original="Take flour in a bowl"></item>
+<item source="2" script="4" slot="7" total_slots="15" original="Add eggs"></item>
+<item source="2" script="12" slot="5" total_slots="9" original="Put eggs in dry ingredient and mix them in"></item>
+<item source="2" script="4" slot="8" total_slots="15" original="Add vegetable oil"></item>
+<item source="1" script="1" slot="2" total_slots="8" original="Add water, sugar, beaten egg, vanilla essence, butter and salt one by one"></item>
+<item source="1" script="9" slot="4" total_slots="12" original="Add ingredients in mixing bowl "></item>
+<item source="1" script="10" slot="5" total_slots="16" original="add ingredients to bowl"></item>
+<item source="2" script="1" slot="5" total_slots="15" original="Being adding ingredients"></item>
+<item source="2" script="3" slot="8" total_slots="13" original="Add the dry mixture to the wet mixture."></item>
+<item source="2" script="4" slot="6" total_slots="15" original="Pour cake mix in a bowl"></item>
+<item source="2" script="7" slot="2" total_slots="7" original="put all ingredients in bowl"></item>
+<item source="2" script="2" slot="3" total_slots="12" original="Add ingredients to bowl."></item>
+<item source="2" script="9" slot="10" total_slots="13" original="Pour wet mixture into dry mixture"></item>
+<item source="2" script="12" slot="7" total_slots="9" original="Mix wet and dry ingredients together"></item>
+<item source="2" script="13" slot="5" total_slots="8" original="Follow recipe to make the batter"></item>
+
+</label>
+<label type="PARAPHRASE" event="prepare_ingredients">
+<item source="1" script="4" slot="4" total_slots="10" original="Open mix and add required ingredients"></item>
+<item source="1" script="8" slot="7" total_slots="16" original="Open the ingredients"></item>
+<item source="1" script="1" slot="4" total_slots="8" original="stir to combine"></item>
+<item source="1" script="2" slot="2" total_slots="7" original="Mix in the extra ingredients"></item>
+<item source="1" script="3" slot="4" total_slots="6" original="Meanwhile, mix a batter following the recipe"></item>
+<item source="1" script="4" slot="5" total_slots="10" original="Mix well"></item>
+<item source="1" script="5" slot="2" total_slots="10" original="Mix ingredients together in a bowl."></item>
+<item source="1" script="6" slot="7" total_slots="14" original="Combine ingredients according to box directions"></item>
+<item source="1" script="7" slot="5" total_slots="12" original="Mix them together"></item>
+<item source="1" script="8" slot="8" total_slots="16" original="Combine and mix all the ingredients as the recipe delegates"></item>
+<item source="1" script="9" slot="5" total_slots="12" original="Mix ingredients with mixer "></item>
+<item source="1" script="10" slot="6" total_slots="16" original="stir together and mix"></item>
+<item source="1" script="11" slot="7" total_slots="16" original="Mix in a bowl."></item>
+<item source="1" script="12" slot="6" total_slots="13" original="Mix all ingredients together "></item>
+<item source="2" script="1" slot="6" total_slots="15" original="Mix"></item>
+<item source="2" script="2" slot="4" total_slots="12" original="Stir ingredients."></item>
+<item source="2" script="3" slot="9" total_slots="13" original="Beat the mixture on low until the batter comes together and no white bits of flour remain."></item>
+<item source="2" script="4" slot="9" total_slots="15" original="Mix"></item>
+<item source="2" script="5" slot="4" total_slots="9" original="Mix ingredients according to directions on box"></item>
+<item source="2" script="6" slot="8" total_slots="16" original="mix all the ingredients"></item>
+<item source="2" script="7" slot="3" total_slots="7" original="Stir all ingredients until well mixed"></item>
+<item source="2" script="8" slot="5" total_slots="7" original="Combine in bowl"></item>
+<item source="2" script="9" slot="11" total_slots="13" original="Use electric mixer to mix well"></item>
+<item source="1" script="7" slot="3" total_slots="12" original="Mix the dry ingredients in one bowl (flour, baking soda, salt, etc)"></item>
+<item source="2" script="3" slot="7" total_slots="13" original="Mix the dry ingredients in another bowl"></item>
+<item source="2" script="9" slot="5" total_slots="13" original="Mix dry ingredients well"></item>
+<item source="2" script="12" slot="4" total_slots="9" original="Mix all the dry ingredient together"></item>
+<item source="1" script="7" slot="4" total_slots="12" original="Mix the wet ingredients in another (butter, sugars, vanilla, etc)"></item>
+<item source="2" script="3" slot="6" total_slots="13" original="Mix all the wet ingredients together in one bowl"></item>
+<item source="2" script="9" slot="7" total_slots="13" original="Mix wet ingredients together"></item>
+<item source="2" script="12" slot="6" total_slots="9" original="Mix wet ingredients together"></item>
+<item source="2" script="9" slot="6" total_slots="13" original="Place wet ingredients in separate bowl"></item>
+<item source="2" script="9" slot="4" total_slots="13" original="Place dry ingredients in bowl"></item>
+<item source="1" script="10" slot="7" total_slots="16" original="use fork to breakup clumps"></item>
+<item source="1" script="1" slot="3" total_slots="8" original="Whisk after each addition"></item>
+
+</label>
+<label type="PARAPHRASE" event="grease_cake_tin">
+<item source="1" script="2" slot="3" total_slots="7" original="Prepare the cake pan"></item>
+<item source="1" script="4" slot="3" total_slots="10" original="Grease pan"></item>
+<item source="1" script="6" slot="6" total_slots="14" original="Prepare pan according to box directions"></item>
+<item source="1" script="7" slot="6" total_slots="12" original="Grease baking pan"></item>
+<item source="1" script="9" slot="7" total_slots="12" original="Spray cake pan with nonstick spray"></item>
+<item source="1" script="10" slot="9" total_slots="16" original="spray pan with non stick or grease"></item>
+<item source="1" script="12" slot="4" total_slots="13" original="Apply non-stick spray to cake pan"></item>
+<item source="2" script="3" slot="5" total_slots="13" original="Grease the pan"></item>
+<item source="2" script="2" slot="5" total_slots="12" original="Grease pan."></item>
+<item source="2" script="4" slot="10" total_slots="15" original="Grease pan"></item>
+<item source="2" script="6" slot="9" total_slots="16" original="grease the pans"></item>
+<item source="2" script="9" slot="9" total_slots="13" original="Grease and flour cake pans"></item>
+
+</label>
+<label type="PARAPHRASE" event="pour_dough">
+<item source="1" script="1" slot="5" total_slots="8" original="Fill the cake tray"></item>
+<item source="1" script="2" slot="5" total_slots="7" original="Put the mix in the pans"></item>
+<item source="1" script="3" slot="5" total_slots="6" original="Pour the batter into the prepared pan"></item>
+<item source="1" script="4" slot="6" total_slots="10" original="Pour into prepared pan"></item>
+<item source="1" script="5" slot="3" total_slots="10" original="Pour into cake pan."></item>
+<item source="1" script="6" slot="8" total_slots="14" original="Pour batter in pan"></item>
+<item source="1" script="7" slot="7" total_slots="12" original="Pour in batter"></item>
+<item source="1" script="8" slot="9" total_slots="16" original="Pour ingredients into a cake pan"></item>
+<item source="1" script="9" slot="8" total_slots="12" original="Add cake batter to pan"></item>
+<item source="1" script="10" slot="10" total_slots="16" original="pour cake mix into pan"></item>
+<item source="1" script="11" slot="8" total_slots="16" original="Pour batter into cake pan."></item>
+<item source="1" script="12" slot="7" total_slots="13" original="Pour mixture into cake pan"></item>
+<item source="2" script="1" slot="7" total_slots="15" original="Pour batter into pan"></item>
+<item source="2" script="2" slot="6" total_slots="12" original="Add cake batter to pan."></item>
+<item source="2" script="3" slot="10" total_slots="13" original="Pour the batter into the cake pan"></item>
+<item source="2" script="4" slot="11" total_slots="15" original="Pour in pan"></item>
+<item source="2" script="5" slot="5" total_slots="9" original="Pour cake batter into desired pan shape or size"></item>
+<item source="2" script="6" slot="10" total_slots="16" original="add  the cake"></item>
+<item source="2" script="7" slot="4" total_slots="7" original="Pour mixture into a greased pan"></item>
+<item source="2" script="8" slot="6" total_slots="7" original="Pour in pan"></item>
+<item source="2" script="9" slot="12" total_slots="13" original="Pour batter into cake pans"></item>
+<item source="2" script="11" slot="3" total_slots="11" original="Put it inside cake ring which is greased with butter."></item>
+<item source="2" script="13" slot="6" total_slots="8" original="Place batter in a pan"></item>
+
+</label>
+<label type="PARAPHRASE" event="put_cake_oven">
+<item source="1" script="2" slot="6" total_slots="7" original="Put the cake batter in the oven"></item>
+<item source="1" script="5" slot="5" total_slots="10" original="Place pan into oven when preheated. "></item>
+<item source="1" script="6" slot="9" total_slots="14" original="Put pan in oven"></item>
+<item source="1" script="8" slot="10" total_slots="16" original="Put the cake pan with the cake mixture in the oven"></item>
+<item source="1" script="9" slot="9" total_slots="12" original="Put pan in oven"></item>
+<item source="1" script="10" slot="11" total_slots="16" original="put pan into oven"></item>
+<item source="1" script="12" slot="8" total_slots="13" original="Place cake into oven "></item>
+<item source="2" script="1" slot="8" total_slots="15" original="Place pan into oven"></item>
+<item source="2" script="2" slot="7" total_slots="12" original="Put pan in oven."></item>
+<item source="2" script="3" slot="11" total_slots="13" original="Put the pan in the oven and bake the cake according to the recipe"></item>
+<item source="2" script="6" slot="11" total_slots="16" original="put the cake in the oven"></item>
+<item source="2" script="7" slot="5" total_slots="7" original="Put greased pan into preheated stove"></item>
+<item source="2" script="11" slot="6" total_slots="11" original="Put the prepared oven plate inside oven."></item>
+<item source="2" script="12" slot="8" total_slots="9" original="Put cake in oven"></item>
+<item source="2" script="13" slot="7" total_slots="8" original="Place pan in overn"></item>
+<item source="2" script="11" slot="4" total_slots="11" original="Cover it and put it on a oven plate."></item>
+
+</label>
+<label type="PARAPHRASE" event="set_time">
+<item source="1" script="8" slot="11" total_slots="16" original="Set a timer when the recipe states the cake will be done"></item>
+<item source="1" script="9" slot="10" total_slots="12" original="Set timer "></item>
+<item source="1" script="10" slot="12" total_slots="16" original="set timer on oven"></item>
+<item source="1" script="11" slot="9" total_slots="16" original="Set timer."></item>
+<item source="1" script="12" slot="9" total_slots="13" original="Set timer and cook based on recipes instructions"></item>
+<item source="2" script="1" slot="9" total_slots="15" original="Set a timer"></item>
+<item source="2" script="2" slot="8" total_slots="12" original="Set timer."></item>
+<item source="2" script="5" slot="6" total_slots="9" original="Set timer and bake for time directed according to pan size"></item>
+<item source="2" script="6" slot="12" total_slots="16" original="set the timer"></item>
+<item source="2" script="7" slot="6" total_slots="7" original="Set timer"></item>
+<item source="2" script="11" slot="5" total_slots="11" original="Set the oven to required temperature."></item>
+
+</label>
+<label type="PARAPHRASE" event="other_clean">
+<item source="2" script="6" slot="13" total_slots="16" original="clean up the mess"></item>
+
+</label>
+<label type="PARAPHRASE" event="wait">
+<item source="1" script="1" slot="6" total_slots="8" original="Bake in the oven for 14 minutes"></item>
+<item source="1" script="3" slot="6" total_slots="6" original="Bake a cake for the duration of instructed time"></item>
+<item source="1" script="4" slot="7" total_slots="10" original="Bake cake for required time"></item>
+<item source="1" script="5" slot="6" total_slots="10" original="Bake in oven according to time on instructions."></item>
+<item source="1" script="6" slot="10" total_slots="14" original="Bake the minimum time written on box"></item>
+<item source="1" script="7" slot="8" total_slots="12" original="Bake for allotted time"></item>
+<item source="1" script="10" slot="13" total_slots="16" original="bake cake "></item>
+<item source="1" script="11" slot="10" total_slots="16" original="Wait for cake to bake."></item>
+<item source="2" script="4" slot="12" total_slots="15" original="Bake in oven until done"></item>
+<item source="2" script="9" slot="13" total_slots="13" original="Bake until cake is ready"></item>
+<item source="2" script="7" slot="7" total_slots="7" original="Bake cake"></item>
+<item source="2" script="8" slot="7" total_slots="7" original="Bake in oven"></item>
+<item source="2" script="13" slot="8" total_slots="8" original="Bake as indicated on recipe"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_return_oven">
+<item source="1" script="11" slot="11" total_slots="16" original="Return to oven."></item>
+
+</label>
+<label type="PARAPHRASE" event="check">
+<item source="1" script="8" slot="12" total_slots="16" original="When the timer goes off, open the oven and check to see if the cake is fully cooked "></item>
+<item source="1" script="6" slot="11" total_slots="14" original="Check to see if cake is done"></item>
+<item source="1" script="10" slot="15" total_slots="16" original="stick tooth pick into cake to see if done"></item>
+<item source="1" script="11" slot="12" total_slots="16" original="Check cake for doneness."></item>
+<item source="2" script="3" slot="12" total_slots="13" original="Check if the cake is ready"></item>
+<item source="2" script="5" slot="7" total_slots="9" original="When time is up check if cake is cooked by inserting toothpick, it should come out clean"></item>
+<item source="2" script="11" slot="8" total_slots="11" original="Test if it cooked by inserting a toothpick - when it comes clean out it is cooked."></item>
+
+</label>
+<label type="PARAPHRASE" event="other_bake_extra_time">
+<item source="1" script="6" slot="12" total_slots="14" original="If cake is not done, bake additional minutes, up to maximum on box"></item>
+
+</label>
+<label type="PARAPHRASE" event="turn_off_oven">
+<item source="1" script="1" slot="7" total_slots="8" original="Turn off oven and let the cake cool"></item>
+<item source="1" script="9" slot="12" total_slots="12" original="Turn off oven "></item>
+<item source="1" script="8" slot="14" total_slots="16" original="Turn off the oven"></item>
+<item source="2" script="2" slot="10" total_slots="12" original="Turn off oven."></item>
+
+</label>
+<label type="PARAPHRASE" event="take_out_oven">
+<item source="1" script="1" slot="8" total_slots="8" original="Take the cake out of oven "></item>
+<item source="1" script="2" slot="7" total_slots="7" original="Take it out of the oven"></item>
+<item source="1" script="4" slot="8" total_slots="10" original="Remove cake from oven and cool"></item>
+<item source="1" script="5" slot="7" total_slots="10" original="Remove cake from oven. "></item>
+<item source="1" script="6" slot="13" total_slots="14" original="When cake is done, remove from oven"></item>
+<item source="1" script="8" slot="13" total_slots="16" original="Take the cake out of the oven and let it cool"></item>
+<item source="1" script="9" slot="11" total_slots="12" original="Remove finished cake when timer goes off"></item>
+<item source="1" script="10" slot="14" total_slots="16" original="remove cake pan when timer goes off"></item>
+<item source="2" script="1" slot="10" total_slots="15" original="Remove cake"></item>
+<item source="2" script="2" slot="9" total_slots="12" original="Remove cake from oven."></item>
+<item source="2" script="3" slot="13" total_slots="13" original="Take the cake from the oven and let it cool."></item>
+<item source="2" script="6" slot="14" total_slots="16" original="take cake out the oven"></item>
+<item source="2" script="11" slot="7" total_slots="11" original="After the required minutes take off the plate."></item>
+<item source="2" script="12" slot="9" total_slots="9" original="Take cake out of oven"></item>
+
+</label>
+<label type="PARAPHRASE" event="cool_down">
+<item source="1" script="5" slot="8" total_slots="10" original="Allow cake to cool. "></item>
+<item source="1" script="6" slot="14" total_slots="14" original="Follow box directions for cooling"></item>
+<item source="1" script="7" slot="9" total_slots="12" original="Let cool"></item>
+<item source="1" script="8" slot="15" total_slots="16" original="Refrigerate the cake"></item>
+<item source="1" script="10" slot="16" total_slots="16" original="let cake pan cool then remove cake"></item>
+<item source="1" script="11" slot="14" total_slots="16" original="Let cake cool."></item>
+<item source="2" script="1" slot="12" total_slots="15" original="Set cake to cool"></item>
+<item source="2" script="4" slot="13" total_slots="15" original="Let cool"></item>
+<item source="2" script="5" slot="8" total_slots="9" original="Place cake on rack to cool completely"></item>
+<item source="2" script="6" slot="15" total_slots="16" original="let cake cool"></item>
+<item source="1" script="12" slot="10" total_slots="13" original="When cakes is cooked place on cooling rack"></item>
+
+</label>
+<label type="PARAPHRASE" event="take_out_cake_tin">
+<item source="1" script="4" slot="9" total_slots="10" original="Turn cake out onto cake plate"></item>
+<item source="1" script="11" slot="13" total_slots="16" original="Remove from pan."></item>
+<item source="1" script="12" slot="11" total_slots="13" original="Remove cake from cake pan"></item>
+<item source="2" script="11" slot="9" total_slots="11" original="Now Invert the plate on the cake table."></item>
+
+</label>
+<label type="PARAPHRASE" event="decorate">
+<item source="2" script="2" slot="11" total_slots="12" original="Make frosting."></item>
+<item source="1" script="4" slot="10" total_slots="10" original="Apply icing or glaze"></item>
+<item source="1" script="5" slot="9" total_slots="10" original="Frost and decorate cake. "></item>
+<item source="1" script="7" slot="10" total_slots="12" original="Frost your cake"></item>
+<item source="1" script="11" slot="15" total_slots="16" original="Decorate the cake with icing."></item>
+<item source="1" script="12" slot="12" total_slots="13" original="Ice cake with frosting"></item>
+<item source="2" script="1" slot="11" total_slots="15" original="Frost cake"></item>
+<item source="2" script="2" slot="12" total_slots="12" original="Frost cake when it is cool."></item>
+<item source="2" script="4" slot="14" total_slots="15" original="Frost it"></item>
+<item source="2" script="5" slot="9" total_slots="9" original="Ice cake or decorate"></item>
+<item source="2" script="6" slot="16" total_slots="16" original="ice the cake"></item>
+<item source="2" script="11" slot="10" total_slots="11" original="Design it with cream on borders and write name with cone if desired."></item>
+
+</label>
+<label type="PARAPHRASE" event="eat">
+<item source="1" script="7" slot="11" total_slots="12" original="Cut into pieces"></item>
+<item source="1" script="12" slot="13" total_slots="13" original="Serve to family or friends"></item>
+<item source="1" script="7" slot="12" total_slots="12" original="Enjoy"></item>
+<item source="1" script="5" slot="10" total_slots="10" original="Eat Cake. "></item>
+<item source="1" script="8" slot="16" total_slots="16" original="Eat the cake"></item>
+<item source="1" script="11" slot="16" total_slots="16" original="Eat the cake."></item>
+<item source="2" script="1" slot="13" total_slots="15" original="Enjoy a slice of cake"></item>
+<item source="2" script="4" slot="15" total_slots="15" original="Eat it"></item>
+<item source="2" script="10" slot="5" total_slots="6" original="When finished cut and eat"></item>
+<item source="2" script="1" slot="14" total_slots="15" original="Enjoy another slice of cake"></item>
+
+</label>
+<label type="PARAPHRASE" event="UnRelEv">
+<item source="2" script="11" slot="11" total_slots="11" original="Enjoyment doubles when the cake is made by you and it is shared with friends."></item>
+
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item source="2" script="1" slot="15" total_slots="15" original="Place remainder in microwave (to store, not to cook)"></item>
+<item source="2" script="10" slot="6" total_slots="6" original="Store any leftovers in the fridge"></item>
+
+</label>
+</scripts>

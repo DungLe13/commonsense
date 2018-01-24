@@ -1,0 +1,874 @@
+<scripts><script id="0" source="2"><item slot="1" original="Fill a pot with water" ></item>
+<item slot="2" original="Place water on stove" ></item>
+<item slot="3" original="Turn on stove" ></item>
+<item slot="4" original="Get pasta out of pantry" ></item>
+<item slot="5" original="Open pasta" ></item>
+<item slot="6" original="Place pasta in water on stove" ></item>
+<item slot="7" original="Cook in boiling water for 8 minutes" ></item>
+</script><script id="1" source="2"><item slot="1" original="Fill a pan with water." ></item>
+<item slot="2" original="Add some salt and olive oil to the water for flavor." ></item>
+<item slot="3" original="Heat the water to a medium boil." ></item>
+<item slot="4" original="Measure the pasta - a single serving is roughly 2 ounces of dry pasta per person." ></item>
+<item slot="5" original="Add the pasta to the boiling water and stir gently to prevent sticking." ></item>
+<item slot="6" original="Cook the pasta to taste - approx 8 - 12 minutes depending on desired firmness." ></item>
+<item slot="7" original="Pour the pasta into a strainer over the sink to remove the water." ></item>
+</script><script id="2" source="2"><item slot="1" original="Fill a pot with water" ></item>
+<item slot="2" original="Put it on the stove" ></item>
+<item slot="3" original="Turn stove on" ></item>
+<item slot="4" original="Let it come to a boil" ></item>
+<item slot="5" original="Add pasta" ></item>
+<item slot="6" original="Stir" ></item>
+<item slot="7" original="Cook until done" ></item>
+<item slot="8" original="Pour contents in a colander" ></item>
+<item slot="9" original="Put pasta back in pot" ></item>
+</script><script id="3" source="2"><item slot="1" original="get pasta from cupboard" ></item>
+<item slot="2" original="get large pot" ></item>
+<item slot="3" original="fill pot half full of water" ></item>
+<item slot="4" original="add a pinch of salt" ></item>
+<item slot="5" original="bring water to a boil" ></item>
+<item slot="6" original="measure pasta" ></item>
+<item slot="7" original="add pasta to water" ></item>
+<item slot="8" original="cook until done" ></item>
+<item slot="9" original="get colander" ></item>
+<item slot="10" original="drain pasta into colander" ></item>
+<item slot="11" original="rinse" ></item>
+<item slot="12" original="place pasta in serving bowl" ></item>
+<item slot="13" original="serve pasta" ></item>
+</script><script id="4" source="2"><item slot="1" original="getting pan" ></item>
+<item slot="2" original="filling pan up with pasta" ></item>
+<item slot="3" original="putting pan on stove" ></item>
+<item slot="4" original="boiling water" ></item>
+<item slot="5" original="adding pasta to boiling water" ></item>
+<item slot="6" original="stir pasta" ></item>
+<item slot="7" original="cook pasta" ></item>
+<item slot="8" original="drain water from pasta" ></item>
+</script><script id="5" source="2"><item slot="1" original="Look up a pasta recipe" ></item>
+<item slot="2" original="Get all the sauce ingredients" ></item>
+<item slot="3" original="Boil the noodles until well done" ></item>
+<item slot="4" original="Cook the sauce" ></item>
+<item slot="5" original="Combine the sauce and the pasta" ></item>
+</script><script id="6" source="2"><item slot="1" original="Buy pasta" ></item>
+<item slot="2" original="Get pot" ></item>
+<item slot="3" original="Put water in pot" ></item>
+<item slot="4" original="Boil water" ></item>
+<item slot="5" original="Add pasta" ></item>
+<item slot="6" original="Wait for pasta to cook" ></item>
+<item slot="7" original="Drain" ></item>
+<item slot="8" original="Plate the pasta" ></item>
+</script><script id="7" source="2"><item slot="1" original="Open the pasta packet" ></item>
+<item slot="2" original="Pour it in a bowl" ></item>
+<item slot="3" original="Wash it with water" ></item>
+<item slot="4" original="Lit the gas stove" ></item>
+<item slot="5" original="Put the cooking pan on gas" ></item>
+<item slot="6" original="Pour the pasta in the pan" ></item>
+<item slot="7" original="Heat it in full flame" ></item>
+<item slot="8" original="When boiling point is reached put gas on low" ></item>
+<item slot="9" original="Add salt and spices as per taste" ></item>
+<item slot="10" original="Add some peas" ></item>
+<item slot="11" original="Cool down after 10 minutes" ></item>
+<item slot="12" original="Pasta is cooked" ></item>
+</script><script id="8" source="2"><item slot="1" original="boil water" ></item>
+<item slot="2" original="add pasta" ></item>
+<item slot="3" original="wait for pasta to become soft and sticky" ></item>
+<item slot="4" original="strain pasta" ></item>
+<item slot="5" original="add sauce" ></item>
+</script><script id="9" source="2"><item slot="1" original="Put water in a pot" ></item>
+<item slot="2" original="Turn on stove" ></item>
+<item slot="3" original="Let the water boil" ></item>
+<item slot="4" original="Grab pasta and throw it in the water" ></item>
+<item slot="5" original="Wait for pasta to soften" ></item>
+<item slot="6" original="Drain pasta in a strainer" ></item>
+<item slot="7" original="Serve with sauce" ></item>
+</script><script id="11" source="2"><item slot="1" original="Take the pasta you want to cook" ></item>
+<item slot="2" original="Fill a large pan with water" ></item>
+<item slot="3" original="Add salt to the water" ></item>
+<item slot="4" original="Put water on stove" ></item>
+<item slot="5" original="Light stove" ></item>
+<item slot="6" original="Wait for water to come to a boil" ></item>
+<item slot="7" original="Put pasta in water" ></item>
+<item slot="8" original="Wait till pasta is nice and soft" ></item>
+<item slot="9" original="Drain water from pasta" ></item>
+</script><script id="12" source="2"><item slot="1" original="Take out pot." ></item>
+<item slot="2" original="Fill with water" ></item>
+<item slot="3" original="set on stove and turn heat on high" ></item>
+<item slot="4" original="remove pasta from box" ></item>
+<item slot="5" original="dump pasta in pot" ></item>
+<item slot="6" original="watch for water to boil" ></item>
+<item slot="7" original="cook pasta" ></item>
+<item slot="8" original="when pasta is desired texture, remove from stove" ></item>
+<item slot="9" original="turn stove off" ></item>
+<item slot="10" original="drain pasta" ></item>
+<item slot="11" original="season pasta and add sauce" ></item>
+<item slot="12" original="eat" ></item>
+</script><script id="13" source="2"><item slot="1" original="Get pan out" ></item>
+<item slot="2" original="fill about half full with water" ></item>
+<item slot="3" original="heat to a boil" ></item>
+<item slot="4" original="put pasta in water" ></item>
+<item slot="5" original="cook eight mins or until tender" ></item>
+<item slot="6" original="drain water" ></item>
+</script><script id="14" source="2"><item slot="1" original="Find box of pasta." ></item>
+<item slot="2" original="Put large pot of water on stove top." ></item>
+<item slot="3" original="Salt the water." ></item>
+<item slot="4" original="Heat up burner to bring water to boiling." ></item>
+<item slot="5" original="Drop pasta into water." ></item>
+<item slot="6" original="Cook for 7 minutes." ></item>
+<item slot="7" original="Remove from heat and pour into collander." ></item>
+<item slot="8" original="Pasta is ready to eat." ></item>
+</script><script id="15" source="2"><item slot="1" original="Go to the kitchen" ></item>
+<item slot="2" original="Switch on the stove" ></item>
+<item slot="3" original="Pour the water in the pan" ></item>
+<item slot="4" original="Boil the water" ></item>
+<item slot="5" original="Put the pasta into the boiled water" ></item>
+<item slot="6" original="Add salt and ingredients" ></item>
+<item slot="7" original="Add oil to the pasta" ></item>
+<item slot="8" original="Stir the food" ></item>
+<item slot="9" original="Pasta ready" ></item>
+</script><script id="16" source="2"><item slot="1" original="Get ingredients" ></item>
+<item slot="2" original="Boil water" ></item>
+<item slot="3" original="Add pasta" ></item>
+<item slot="4" original="Drain water" ></item>
+<item slot="5" original="Add ingredients" ></item>
+<item slot="6" original="Stir well" ></item>
+<item slot="7" original="Serve pasta" ></item>
+</script><script id="17" source="2"><item slot="1" original="Get a pot." ></item>
+<item slot="2" original="Fill pot with water." ></item>
+<item slot="3" original="Put pot on stove." ></item>
+<item slot="4" original="Turn on heat." ></item>
+<item slot="5" original="Allow the water to begin boiling." ></item>
+<item slot="6" original="Throw pasta in boiling water." ></item>
+<item slot="7" original="Cook pasta as instructed, or until tender." ></item>
+<item slot="8" original="Turn off heat." ></item>
+<item slot="9" original="Drain water." ></item>
+<item slot="10" original="Rinse with cold water." ></item>
+<item slot="11" original="Drain all excess liquid." ></item>
+<item slot="12" original="Serve." ></item>
+</script><script id="18" source="2"><item slot="1" original="Get a large cooking pot" ></item>
+<item slot="2" original="Fill pot with approximately 2 quarts of water" ></item>
+<item slot="3" original="Turn on heat" ></item>
+<item slot="4" original="Bring water to a boil" ></item>
+<item slot="5" original="Pour pasta into water slowly, avoid splashing water" ></item>
+<item slot="6" original="Continue boiling for time specified on package, about 8 minutes" ></item>
+<item slot="7" original="When done, turn off burner" ></item>
+<item slot="8" original="Drain pasta in a colander and serve" ></item>
+</script><script id="20" source="2"><item slot="1" original="Fill a large pot with water." ></item>
+<item slot="2" original="Salt the water." ></item>
+<item slot="3" original="Bring the water to a boil." ></item>
+<item slot="4" original="Add pasta." ></item>
+<item slot="5" original="Cook for 8-10 minutes." ></item>
+<item slot="6" original="Drain pasta." ></item>
+</script><script id="21" source="2"><item slot="1" original="Get pan out." ></item>
+<item slot="2" original="Fill pan with water." ></item>
+<item slot="3" original="Put pan on stove." ></item>
+<item slot="4" original="Turn stove on med/high." ></item>
+<item slot="5" original="Allow water to start boiling." ></item>
+<item slot="6" original="Put pasta in water." ></item>
+<item slot="7" original="Boil until pasta is tender." ></item>
+<item slot="8" original="Remove pasta from water." ></item>
+<item slot="9" original="Serve." ></item>
+</script><script id="22" source="2"><item slot="1" original="Take out a pot" ></item>
+<item slot="2" original="Fill pot with water" ></item>
+<item slot="3" original="Place pot on stove" ></item>
+<item slot="4" original="Turn heat to medium" ></item>
+<item slot="5" original="When water is boiling, fill pot with pasta" ></item>
+<item slot="6" original="Stir after 5 minutes" ></item>
+<item slot="7" original="Remove pot after 10 minutes" ></item>
+<item slot="8" original="Drain pasta" ></item>
+</script><script id="23" source="2"><item slot="1" original="Find a large heavy pot in which to cook." ></item>
+<item slot="2" original="Fill the pot with several quarts of water." ></item>
+<item slot="3" original="Add salt and, if desired, fat." ></item>
+<item slot="4" original="Turn on the stove." ></item>
+<item slot="5" original="Let the water come to a boil." ></item>
+<item slot="6" original="Add pasta to the boiling water." ></item>
+<item slot="7" original="Cook for the recommended time or to personal taste." ></item>
+<item slot="8" original="Drain the pasta." ></item>
+<item slot="9" original="Serve as desired." ></item>
+</script><script id="24" source="2"><item slot="1" original="Take pasta out of cupboard" ></item>
+<item slot="2" original="Fill large pan with water" ></item>
+<item slot="3" original="put water on to boil" ></item>
+<item slot="4" original="when boiling add salt" ></item>
+<item slot="5" original="drop pasta into boiling water" ></item>
+<item slot="6" original="stir and bring back to boil" ></item>
+<item slot="7" original="set timer" ></item>
+<item slot="8" original="wait" ></item>
+<item slot="9" original="drain pasta" ></item>
+</script><script id="25" source="2"><item slot="1" original="Get pan" ></item>
+<item slot="2" original="Fill with water" ></item>
+<item slot="3" original="Turn on burner" ></item>
+<item slot="4" original="Let water come to a boil" ></item>
+<item slot="5" original="Add pasta" ></item>
+<item slot="6" original="Stir" ></item>
+<item slot="7" original="Turn down burner" ></item>
+<item slot="8" original="Cook pasta until tender" ></item>
+<item slot="9" original="Pour pan of pasta into strainer" ></item>
+<item slot="10" original="Shock the pasta with warm/cool water" ></item>
+<item slot="11" original="Turn off burner" ></item>
+<item slot="12" original="Put pasta back in pan" ></item>
+<item slot="13" original="Add seasoning" ></item>
+<item slot="14" original="Dish up pasta" ></item>
+<item slot="15" original="Enjoy" ></item>
+</script><script id="26" source="2"><item slot="1" original="Fill a pan with water" ></item>
+<item slot="2" original="Add a small amount of oil to the water" ></item>
+<item slot="3" original="Place the pan on the stove" ></item>
+<item slot="4" original="Turn the burner on to medium high" ></item>
+<item slot="5" original="Bring the water to a boil" ></item>
+<item slot="6" original="Add the pasta to the boiling water" ></item>
+<item slot="7" original="Turn the burner down to medium" ></item>
+<item slot="8" original="Let the pasta cook for about 12 minutes" ></item>
+<item slot="9" original="Check the pasta to see if it is done" ></item>
+<item slot="10" original="Drain the pasta in a colander" ></item>
+<item slot="11" original="Do not rinse the pasta in cold water" ></item>
+</script><script id="27" source="2"><item slot="1" original="fill up pot with water" ></item>
+<item slot="2" original="put pot with water on stove" ></item>
+<item slot="3" original="wait for water to boil" ></item>
+<item slot="4" original="put pasta in boiling water" ></item>
+<item slot="5" original="wait until pasta  is done" ></item>
+<item slot="6" original="remove pan from stove" ></item>
+<item slot="7" original="drain water from pasta" ></item>
+<item slot="8" original="put pasta  on plate" ></item>
+<item slot="9" original="serve" ></item>
+</script><script id="28" source="2"><item slot="1" original="Get a pan." ></item>
+<item slot="2" original="Fill it halfway with water." ></item>
+<item slot="3" original="Add salt." ></item>
+<item slot="4" original="Wait for water to boil." ></item>
+<item slot="5" original="Add pasta." ></item>
+<item slot="6" original="Stir occasionally." ></item>
+<item slot="7" original="Test pasta by taking a bite of it." ></item>
+<item slot="8" original="When done, drain pasta in a strainer in sink." ></item>
+<item slot="9" original="Put pasta back into pan." ></item>
+<item slot="10" original="Add whatever flavorings you want to it." ></item>
+<item slot="11" original="Eat and enjoy." ></item>
+</script><script id="29" source="2"><item slot="1" original="Purchase pasta from store." ></item>
+<item slot="2" original="Fill pot with water." ></item>
+<item slot="3" original="Put pot onto stovetop." ></item>
+<item slot="4" original="Bring water to boil." ></item>
+<item slot="5" original="Add salt to the water." ></item>
+<item slot="6" original="Add pasta to boiling water." ></item>
+<item slot="7" original="Cook pasta for approximately 7 minutes." ></item>
+<item slot="8" original="Drain pot into colander." ></item>
+<item slot="9" original="Eat the pasta." ></item>
+</script><script id="30" source="2"><item slot="1" original="Fill pot with water" ></item>
+<item slot="2" original="Put on stove" ></item>
+<item slot="3" original="Wait for water to boil" ></item>
+<item slot="4" original="Put pasta in boiling water" ></item>
+<item slot="5" original="Wait for pasta to cook" ></item>
+<item slot="6" original="Drain water from pasta" ></item>
+</script><script id="31" source="2"><item slot="1" original="Grab pot" ></item>
+<item slot="2" original="Grab uncooked pasta" ></item>
+<item slot="3" original="Fill pot with water" ></item>
+<item slot="4" original="Place water filled pot on stove" ></item>
+<item slot="5" original="Turn on stove" ></item>
+<item slot="6" original="Wait until water boils" ></item>
+<item slot="7" original="Throw pasta into boiling water" ></item>
+<item slot="8" original="Wait until pasta is cooked" ></item>
+</script><script id="32" source="2"><item slot="1" original="Fill a large stock pot with water." ></item>
+<item slot="2" original="Place the pot of water on the stove and turn it on high." ></item>
+<item slot="3" original="Add some salt to the water." ></item>
+<item slot="4" original="Allow the water to come to a boil." ></item>
+<item slot="5" original="Pour pasta into the water and stir." ></item>
+<item slot="6" original="Allow the water to return to a boil." ></item>
+<item slot="7" original="Stirring occasionally, allow the pasta to cook for 9 to 11 minutes." ></item>
+<item slot="8" original="Place a colander in the sink." ></item>
+<item slot="9" original="Pour the pasta and water into the colander and allow to drain." ></item>
+<item slot="10" original="Place the pasta into a serving dish." ></item>
+</script><script id="33" source="2"><item slot="1" original="Fill a pot with water." ></item>
+<item slot="2" original="Put the pot on the stove." ></item>
+<item slot="3" original="Turn the stove on high." ></item>
+<item slot="4" original="Wait until the water is boiling." ></item>
+<item slot="5" original="Put desired amount of pasta in the pot." ></item>
+<item slot="6" original="Stir pasta every few minutes until the pasta is soft." ></item>
+<item slot="7" original="After about 10 to 12 minutes pasta will be done." ></item>
+<item slot="8" original="Place a strainer in the sink." ></item>
+<item slot="9" original="Pick up the pot with oven mits on." ></item>
+<item slot="10" original="Pour the contents of the pot in the strainer." ></item>
+<item slot="11" original="After straining pasta, put pasta in a bowl." ></item>
+<item slot="12" original="Put desired sauce on pasta and eat." ></item>
+</script><script id="34" source="2"><item slot="1" original="Buy pasta" ></item>
+<item slot="2" original="Buy sauce" ></item>
+<item slot="3" original="Get large pot" ></item>
+<item slot="4" original="Fill pot with water" ></item>
+<item slot="5" original="Bring water to a boil" ></item>
+<item slot="6" original="Put pasta into water" ></item>
+<item slot="7" original="Cook for 10-15 minutes, until noodles are soft" ></item>
+<item slot="8" original="Stir occasionally" ></item>
+<item slot="9" original="Get a colander" ></item>
+<item slot="10" original="Turn off heat" ></item>
+<item slot="11" original="Pour pot of pasta into colander to drain water" ></item>
+<item slot="12" original="Put pasta back into pot" ></item>
+<item slot="13" original="Open sauce and pour into pot" ></item>
+<item slot="14" original="Stir sauce evenly over pasta" ></item>
+<item slot="15" original="Serve the food" ></item>
+</script><script id="35" source="2"><item slot="1" original="Go to the kitchen" ></item>
+<item slot="2" original="Open cabinet" ></item>
+<item slot="3" original="Grab box of pasta" ></item>
+<item slot="4" original="Grab pot" ></item>
+<item slot="5" original="Fill pot with water" ></item>
+<item slot="6" original="Boil the water" ></item>
+<item slot="7" original="Pour pasta in" ></item>
+<item slot="8" original="Wait" ></item>
+<item slot="9" original="Drain pasta" ></item>
+<item slot="10" original="Put it on a plate" ></item>
+<item slot="11" original="eat" ></item>
+</script><script id="36" source="2"><item slot="1" original="Get pan" ></item>
+<item slot="2" original="Fill pan with water" ></item>
+<item slot="3" original="Add salt to water" ></item>
+<item slot="4" original="Put pan on stove" ></item>
+<item slot="5" original="Turn on burner" ></item>
+<item slot="6" original="Wait for water to boil" ></item>
+<item slot="7" original="When water has boiled, add pasta" ></item>
+<item slot="8" original="Look at time to cook on pasta packet" ></item>
+<item slot="9" original="Test pasta for doneness" ></item>
+<item slot="10" original="Get colander" ></item>
+<item slot="11" original="Drain pasta" ></item>
+<item slot="12" original="Serve" ></item>
+</script><script id="37" source="2"><item slot="1" original="Boil the water." ></item>
+<item slot="2" original="Throw the noodles in there." ></item>
+<item slot="3" original="Open the can of pasta sauce." ></item>
+<item slot="4" original="Warm up the pasta sauce." ></item>
+<item slot="5" original="Put the noodles in a bowl." ></item>
+<item slot="6" original="Pour the pasta sauce on top of the noodles." ></item>
+<item slot="7" original="Cook some chicken." ></item>
+<item slot="8" original="Place the chicken on top." ></item>
+</script><script id="38" source="2"><item slot="1" original="Get out a pot" ></item>
+<item slot="2" original="Fill the pot with water" ></item>
+<item slot="3" original="Put the pot on the stove" ></item>
+<item slot="4" original="Turn on the burner" ></item>
+<item slot="5" original="Bring to a boil" ></item>
+<item slot="6" original="Add pasta" ></item>
+<item slot="7" original="Cook for 8-10 minutes" ></item>
+<item slot="8" original="Drain pasta" ></item>
+</script><script id="39" source="2"><item slot="1" original="Boil a large pot of water" ></item>
+<item slot="2" original="Add a pinch of salt to the water" ></item>
+<item slot="3" original="Heat a smaller pot of your favorite sauce" ></item>
+<item slot="4" original="When the water is boiling, add the pasta to the pot" ></item>
+<item slot="5" original="Cook for several minutes according to the time listed on the package" ></item>
+<item slot="6" original="Drain the pasta into a colander" ></item>
+<item slot="7" original="Put the pasta onto a plate" ></item>
+<item slot="8" original="Pour the heated sauce over the pasta" ></item>
+</script><script id="40" source="2"><item slot="1" original="Get pasta." ></item>
+<item slot="2" original="Get pot." ></item>
+<item slot="3" original="Fill pot with water." ></item>
+<item slot="4" original="Start stove." ></item>
+<item slot="5" original="Place pot on burner." ></item>
+<item slot="6" original="Wait for water to boil." ></item>
+<item slot="7" original="Place pasta in water." ></item>
+</script><script id="41" source="2"><item slot="1" original="Put pot of water on the stove" ></item>
+<item slot="2" original="Turn on stove" ></item>
+<item slot="3" original="Wait for water to boil" ></item>
+<item slot="4" original="Add a spoonful of salt" ></item>
+<item slot="5" original="Get pasta" ></item>
+<item slot="6" original="Put pasta in water" ></item>
+<item slot="7" original="Wait until pasta is done" ></item>
+<item slot="8" original="Get colander" ></item>
+<item slot="9" original="Put colander into sink" ></item>
+<item slot="10" original="Drain pasta" ></item>
+</script><script id="42" source="2"><item slot="1" original="Find a large pan" ></item>
+<item slot="2" original="Add water" ></item>
+<item slot="3" original="Bring water to a boil" ></item>
+<item slot="4" original="Get out your pasta" ></item>
+<item slot="5" original="Add pasta to the water" ></item>
+<item slot="6" original="Boil the pasta until al dente" ></item>
+<item slot="7" original="Strain the pasta" ></item>
+<item slot="8" original="Add sauce" ></item>
+</script><script id="43" source="2"><item slot="1" original="Get pasta out of the cabinet" ></item>
+<item slot="2" original="Turn the stove on to high" ></item>
+<item slot="3" original="Fill pot with water" ></item>
+<item slot="4" original="Put pot of water on to the stove's hot burner" ></item>
+<item slot="5" original="Wait until the water boils" ></item>
+<item slot="6" original="Place pasta in boiling water" ></item>
+<item slot="7" original="Wait 15 minutes" ></item>
+<item slot="8" original="Enjoy pasta" ></item>
+</script><script id="44" source="2"><item slot="1" original="buy pasta" ></item>
+<item slot="2" original="boil pasta in water" ></item>
+<item slot="3" original="switch on the flame" ></item>
+<item slot="4" original="prepare pasta sauce" ></item>
+<item slot="5" original="drain off excess water" ></item>
+<item slot="6" original="add vegetables to pasta sauce" ></item>
+<item slot="7" original="add pasta to sauce" ></item>
+<item slot="8" original="grate cheese on top" ></item>
+<item slot="9" original="switch off the flame" ></item>
+<item slot="10" original="transfer pasta to a dish" ></item>
+</script><script id="45" source="2"><item slot="1" original="Get out pasta pot." ></item>
+<item slot="2" original="Fill with water." ></item>
+<item slot="3" original="Put over heat on the stove." ></item>
+<item slot="4" original="Wait for the water to boil." ></item>
+<item slot="5" original="Get out pasta." ></item>
+<item slot="6" original="Add pasta to water." ></item>
+<item slot="7" original="Set timer." ></item>
+<item slot="8" original="Wait for timer to go off." ></item>
+<item slot="9" original="Remove pasta from cooking water." ></item>
+<item slot="10" original="Turn off stove." ></item>
+</script><script id="46" source="2"><item slot="1" original="get pan out of cupboard" ></item>
+<item slot="2" original="put water in pan" ></item>
+<item slot="3" original="wait for water to boil" ></item>
+<item slot="4" original="add pasta" ></item>
+<item slot="5" original="wait for pasta to soften" ></item>
+<item slot="6" original="drain pasta from water and add toppings to pasta" ></item>
+</script><script id="47" source="2"><item slot="1" original="grab pasta" ></item>
+<item slot="2" original="put pot on a burner" ></item>
+<item slot="3" original="add water" ></item>
+<item slot="4" original="open pasta" ></item>
+<item slot="5" original="put into pot" ></item>
+<item slot="6" original="add salt" ></item>
+<item slot="7" original="add canola oil" ></item>
+<item slot="8" original="cook pasta" ></item>
+<item slot="9" original="serve pasta" ></item>
+</script><script id="48" source="2"><item slot="1" original="Put water in pot" ></item>
+<item slot="2" original="Place pot on stove" ></item>
+<item slot="3" original="Boil water" ></item>
+<item slot="4" original="Pour uncooked pasta in pot" ></item>
+<item slot="5" original="Put butter or oil in pot" ></item>
+<item slot="6" original="Stir occasionally until pasta tender" ></item>
+<item slot="7" original="Pour pasta into strainer" ></item>
+</script><script id="49" source="2"><item slot="1" original="fill pot with water" ></item>
+<item slot="2" original="heat water to boiling" ></item>
+<item slot="3" original="add pasta" ></item>
+<item slot="4" original="wait for 10 to 15 min" ></item>
+<item slot="5" original="drain water" ></item>
+<item slot="6" original="remove pasta" ></item>
+</script><script id="50" source="2"><item slot="1" original="Get pot out of cabinet" ></item>
+<item slot="2" original="Fill pot with water" ></item>
+<item slot="3" original="Place pot on stove" ></item>
+<item slot="4" original="Turn on stove" ></item>
+<item slot="5" original="Get pasta out of cabinet" ></item>
+<item slot="6" original="When water is boiling up pasta in pot" ></item>
+<item slot="7" original="Cook for ten minutes" ></item>
+<item slot="8" original="Remove pot from stove" ></item>
+<item slot="9" original="Drain pasta in sink" ></item>
+</script><script id="51" source="2"><item slot="1" original="fill a pot with water" ></item>
+<item slot="2" original="put pot on the stove" ></item>
+<item slot="3" original="turn the burner onto high" ></item>
+<item slot="4" original="wait for water to boil" ></item>
+<item slot="5" original="put pasta into boiling water" ></item>
+<item slot="6" original="wait for pasta to soften" ></item>
+<item slot="7" original="pour pasta and water into strainer" ></item>
+<item slot="8" original="put pasta in a bowl" ></item>
+<item slot="9" original="eat pasta" ></item>
+</script><script id="52" source="2"><item slot="1" original="Get pasta, water, fork, colander and pot out." ></item>
+<item slot="2" original="Put water into pot." ></item>
+<item slot="3" original="Put pot on burner on stove." ></item>
+<item slot="4" original="Turn heat to high." ></item>
+<item slot="5" original="When water is boiling, add pasta." ></item>
+<item slot="6" original="Cook pasta until it is tender with a fork." ></item>
+<item slot="7" original="Put colander in sink." ></item>
+<item slot="8" original="Drain water and pasta into colander." ></item>
+<item slot="9" original="Turn heat off on oven." ></item>
+</script><script id="53" source="2"><item slot="1" original="Boil large pot of water." ></item>
+<item slot="2" original="Open package of pasta." ></item>
+<item slot="3" original="Put the desired amount of pasta in the pot when water is boiling." ></item>
+<item slot="4" original="Add salt to the water." ></item>
+<item slot="5" original="Wait for pasta to cook." ></item>
+<item slot="6" original="Try a piece of pasta to make sure it is cooked correctly." ></item>
+<item slot="7" original="Turn off the heat." ></item>
+<item slot="8" original="Drain the cooked pasta in the sink." ></item>
+<item slot="9" original="Place drained pasta in a serving dish." ></item>
+</script><script id="54" source="2"><item slot="1" original="fill pot with water" ></item>
+<item slot="2" original="heat water" ></item>
+<item slot="3" original="add pasta" ></item>
+<item slot="4" original="wait for 10 min" ></item>
+<item slot="5" original="check to see if done" ></item>
+<item slot="6" original="if it is done drain water" ></item>
+</script><script id="55" source="2"><item slot="1" original="get out pot" ></item>
+<item slot="2" original="fill pot with water" ></item>
+<item slot="3" original="put pot of water on stove" ></item>
+<item slot="4" original="turn on burner all the way" ></item>
+<item slot="5" original="boil water" ></item>
+<item slot="6" original="salt boiling water" ></item>
+<item slot="7" original="add pasta to water" ></item>
+<item slot="8" original="eat a piece to see if it's done" ></item>
+<item slot="9" original="put colander in sink" ></item>
+<item slot="10" original="drain pasta" ></item>
+<item slot="11" original="eat" ></item>
+</script><script id="56" source="2"><item slot="1" original="Get a pan" ></item>
+<item slot="2" original="Fill it with water" ></item>
+<item slot="3" original="Boil the water" ></item>
+<item slot="4" original="Get the pasta" ></item>
+<item slot="5" original="Put the pasta in" ></item>
+<item slot="6" original="What to cook" ></item>
+</script><script id="57" source="2"><item slot="1" original="Heat up water in pot." ></item>
+<item slot="2" original="Boil water." ></item>
+<item slot="3" original="Add pasta." ></item>
+<item slot="4" original="Bring to boil again." ></item>
+<item slot="5" original="Good for 10min." ></item>
+<item slot="6" original="Drain pasta." ></item>
+</script><script id="58" source="2"><item slot="1" original="Obtain pasta" ></item>
+<item slot="2" original="Remove pasta from packaging" ></item>
+<item slot="3" original="Place water in pot" ></item>
+<item slot="4" original="Boil water" ></item>
+<item slot="5" original="Place pasta in boiling water" ></item>
+<item slot="6" original="Let boiling water cook pasta" ></item>
+<item slot="7" original="Remove pasta" ></item>
+</script><script id="59" source="2"><item slot="1" original="get pot" ></item>
+<item slot="2" original="fill pot with water" ></item>
+<item slot="3" original="open spaghetti box" ></item>
+<item slot="4" original="pour into pot" ></item>
+<item slot="5" original="turn on stove" ></item>
+<item slot="6" original="cook until you can throw a piece of spaghetti against the wall and it sticks" ></item>
+</script><script id="60" source="2"><item slot="1" original="Fill 3/4 water in a cooking bowl" ></item>
+<item slot="2" original="Add 1/2 spoon salt, keep the bowl on the stove and ignite" ></item>
+<item slot="3" original="Keep the flame in high level, add pasta and keep stirring" ></item>
+<item slot="4" original="After 10 minutes boiling turn off the stove" ></item>
+<item slot="5" original="pour out excess water from the bowl" ></item>
+<item slot="6" original="Add little cooking oil to cooked pasta" ></item>
+<item slot="7" original="Add sauces, cheese and some fresh vegetable leaves" ></item>
+<item slot="8" original="Add pasta masala supplied with the pasta pack for additional taste" ></item>
+<item slot="9" original="cook on low level flame with stirring continuously for 5 minutes" ></item>
+<item slot="10" original="Turn off the stove and pasta is ready" ></item>
+</script><script id="61" source="2"><item slot="1" original="TURN THE STOVE ON" ></item>
+<item slot="2" original="BOIL A PAN OF WATER" ></item>
+<item slot="3" original="WHEN THE WATER IS BOILED, ADD PASTA TO THE WATER WITH SALT" ></item>
+<item slot="4" original="COOK THE PASTA ACCORDING TO PACKAGE INSTRUCTIONS" ></item>
+<item slot="5" original="ONCE THE PASTA IS COOKED, DRAIN THE PASTA" ></item>
+<item slot="6" original="EAT THE PASTA." ></item>
+</script><script id="62" source="2"><item slot="1" original="Get a pot" ></item>
+<item slot="2" original="Boil water" ></item>
+<item slot="3" original="Pour pasta into boiling water" ></item>
+<item slot="4" original="Wait for pasta to cook" ></item>
+<item slot="5" original="Drain water from pasta" ></item>
+<item slot="6" original="Add tomato sauce" ></item>
+<item slot="7" original="Serve pasta" ></item>
+</script><script id="63" source="2"><item slot="1" original="Boil a pot of water" ></item>
+<item slot="2" original="Open box of pasta" ></item>
+<item slot="3" original="Add pasta to boiling water" ></item>
+<item slot="4" original="Stir occasionally" ></item>
+<item slot="5" original="Cook pasta until tender" ></item>
+<item slot="6" original="Remove pot from stove" ></item>
+<item slot="7" original="Turn stove burner off" ></item>
+<item slot="8" original="Place colander in sink" ></item>
+<item slot="9" original="Drain pasta in colander" ></item>
+</script><script id="64" source="2"><item slot="1" original="Fill a pot with water." ></item>
+<item slot="2" original="Put the pot on the stove." ></item>
+<item slot="3" original="Boil the water." ></item>
+<item slot="4" original="When the water has boiled, add the pasta to the boiling water." ></item>
+<item slot="5" original="Put the pot with water and pasta back on the stove." ></item>
+<item slot="6" original="Cook until the pasta is the desired consistency." ></item>
+</script><script id="65" source="2"><item slot="1" original="Take out a pot" ></item>
+<item slot="2" original="Boil water" ></item>
+<item slot="3" original="Get pasta out" ></item>
+<item slot="4" original="Open package" ></item>
+<item slot="5" original="Pour pasta in water" ></item>
+<item slot="6" original="Read the instructions" ></item>
+<item slot="7" original="Set the timer" ></item>
+<item slot="8" original="Drain pasta" ></item>
+<item slot="9" original="Pour pasta onto dish" ></item>
+</script><script id="66" source="2"><item slot="1" original="choose pasta you want to cook" ></item>
+<item slot="2" original="obtain deep sized sauce pan" ></item>
+<item slot="3" original="fill sauce pan with water" ></item>
+<item slot="4" original="bring water to a boil on stovetop" ></item>
+<item slot="5" original="add pasta to water when boiling" ></item>
+<item slot="6" original="stir pasta in pan" ></item>
+<item slot="7" original="when pasta is tender, drain water" ></item>
+<item slot="8" original="saute pasta with sauce or olive oil, if desired" ></item>
+<item slot="9" original="serve pasta on plate" ></item>
+</script><script id="67" source="2"><item slot="1" original="Fill a pot with water." ></item>
+<item slot="2" original="Put pot on stove top." ></item>
+<item slot="3" original="Heat water to boiling." ></item>
+<item slot="4" original="Add pasta." ></item>
+<item slot="5" original="Boil pasta until desired firmness." ></item>
+<item slot="6" original="Pour water and pasta into a strainer to strain water." ></item>
+<item slot="7" original="Empty pasta from strainer into serving dish." ></item>
+</script><script id="68" source="2"><item slot="1" original="Get pot" ></item>
+<item slot="2" original="Get package of pasta" ></item>
+<item slot="3" original="Fill pot with water" ></item>
+<item slot="4" original="Bring water to boil" ></item>
+<item slot="5" original="Place pasta in pot of water" ></item>
+<item slot="6" original="Remove pot after desired amount of time" ></item>
+<item slot="7" original="Add sauce to pasta" ></item>
+</script><script id="69" source="2"><item slot="1" original="Fill pot with water" ></item>
+<item slot="2" original="Place over high heat" ></item>
+<item slot="3" original="Add salt to taste" ></item>
+<item slot="4" original="Add pasta to the water" ></item>
+<item slot="5" original="Stir frequently for two minutes" ></item>
+<item slot="6" original="Taste it to see if it is cooked" ></item>
+</script><script id="70" source="2"><item slot="1" original="turn on burner" ></item>
+<item slot="2" original="put pot on burner." ></item>
+<item slot="3" original="fill pot with 2-3 cups of water." ></item>
+<item slot="4" original="wait for water to boil." ></item>
+<item slot="5" original="add pasta." ></item>
+<item slot="6" original="stir pasta occasionally until it becomes as soft as desired." ></item>
+<item slot="7" original="turn off burner." ></item>
+<item slot="8" original="take pot off burner." ></item>
+<item slot="9" original="strain noodles in a strainer over the sink." ></item>
+<item slot="10" original="put noodles back in pot until ready to eat." ></item>
+</script><script id="71" source="2"><item slot="1" original="Put the water into a saucepan." ></item>
+<item slot="2" original="Bring the water to boil." ></item>
+<item slot="3" original="Add pasta into the boiling water." ></item>
+<item slot="4" original="Drain pasta." ></item>
+<item slot="5" original="Put pasta on a plate." ></item>
+<item slot="6" original="Add sauce on the pasta." ></item>
+<item slot="7" original="Serve the food." ></item>
+</script><script id="72" source="2"><item slot="1" original="Get pasta out" ></item>
+<item slot="2" original="Get a pot" ></item>
+<item slot="3" original="Fill pot with water" ></item>
+<item slot="4" original="Place water on stove top" ></item>
+<item slot="5" original="Turn on the stove" ></item>
+<item slot="6" original="Let water begin to boil" ></item>
+<item slot="7" original="Toss pasta into the pot" ></item>
+<item slot="8" original="Stir pasta occasionally" ></item>
+<item slot="9" original="Wait till pasta is done" ></item>
+<item slot="10" original="Remove pasta from pot" ></item>
+<item slot="11" original="Drain pasta" ></item>
+<item slot="12" original="Add other ingredients: sauce, meats, etc" ></item>
+<item slot="13" original="Enjoy" ></item>
+</script><script id="73" source="2"><item slot="1" original="Put water into pot" ></item>
+<item slot="2" original="Bring water to a boil" ></item>
+<item slot="3" original="Add salt to water" ></item>
+<item slot="4" original="Take pasta out of container" ></item>
+<item slot="5" original="Put into boiling water" ></item>
+<item slot="6" original="Stir pasta as it cooks" ></item>
+<item slot="7" original="Take pasta out after 8 minutes" ></item>
+<item slot="8" original="Put into strainer" ></item>
+<item slot="9" original="Rinse with water" ></item>
+</script><script id="74" source="2"><item slot="1" original="Fill pot with water" ></item>
+<item slot="2" original="Put pot on stove and turn on medium high" ></item>
+<item slot="3" original="Add salt to water" ></item>
+<item slot="4" original="Get box of pasta" ></item>
+<item slot="5" original="Open box of pasta" ></item>
+<item slot="6" original="Put strainer in sink" ></item>
+<item slot="7" original="When water on stove is boiling, add pasta" ></item>
+<item slot="8" original="Stir pasta" ></item>
+<item slot="9" original="After 5-7 minutes, test pasta for doneness" ></item>
+<item slot="10" original="If pasta is not done, continue cooking until it is done" ></item>
+<item slot="11" original="Once pasta is done, drain pasta into the strainer in the sink" ></item>
+<item slot="12" original="Return pasta to pot" ></item>
+<item slot="13" original="Enjoy!" ></item>
+</script><script id="75" source="2"><item slot="1" original="Put water in a large pot." ></item>
+<item slot="2" original="Put the water on the stove." ></item>
+<item slot="3" original="Salt the water." ></item>
+<item slot="4" original="Boil the water," ></item>
+<item slot="5" original="Place noodles inside." ></item>
+</script><script id="76" source="2"><item slot="1" original="fill up big pot with water" ></item>
+<item slot="2" original="put pot on stove" ></item>
+<item slot="3" original="turn on burner" ></item>
+<item slot="4" original="put lid on pot" ></item>
+<item slot="5" original="wait for water to boil" ></item>
+<item slot="6" original="after water boils, add pasta" ></item>
+<item slot="7" original="cook until pasta is soft" ></item>
+<item slot="8" original="drain water from pot" ></item>
+<item slot="9" original="rinse pasta with cold water" ></item>
+<item slot="10" original="enjoy" ></item>
+</script><script id="77" source="2"><item slot="1" original="put water into a big pot" ></item>
+<item slot="2" original="salt water" ></item>
+<item slot="3" original="turn burner on high" ></item>
+<item slot="4" original="wait for salted water to boil" ></item>
+<item slot="5" original="take pasta out" ></item>
+<item slot="6" original="once water is boiling place pasta into pot" ></item>
+<item slot="7" original="set timer" ></item>
+<item slot="8" original="wait for timer" ></item>
+<item slot="9" original="get a strainer" ></item>
+<item slot="10" original="put strainer in sink" ></item>
+<item slot="11" original="time goes off" ></item>
+<item slot="12" original="take pot and pour pasta into strainer" ></item>
+</script><script id="78" source="2"><item slot="1" original="Select pasta." ></item>
+<item slot="2" original="Fill pan with water." ></item>
+<item slot="3" original="Place pan in stove." ></item>
+<item slot="4" original="Turn stove on." ></item>
+<item slot="5" original="Wait for water to boil." ></item>
+<item slot="6" original="Place pasta in water." ></item>
+<item slot="7" original="Observe cooking until done." ></item>
+<item slot="8" original="Pour into strainer." ></item>
+<item slot="9" original="Remove from strainer." ></item>
+</script><script id="79" source="2"><item slot="1" original="Fill pot with water" ></item>
+<item slot="2" original="Put pot on stove" ></item>
+<item slot="3" original="Turn heat to high" ></item>
+<item slot="4" original="Wait for water to boil" ></item>
+<item slot="5" original="Get box of pasta" ></item>
+<item slot="6" original="Pour pasta into boiling water" ></item>
+<item slot="7" original="Wait 10 minutes" ></item>
+<item slot="8" original="Turn off heat" ></item>
+<item slot="9" original="Put strainer in sink" ></item>
+<item slot="10" original="Pour water and pasta into strainer" ></item>
+<item slot="11" original="Pasta ready to serve" ></item>
+</script><script id="80" source="2"><item slot="1" original="Put water in pot." ></item>
+<item slot="2" original="Put pot on stove." ></item>
+<item slot="3" original="Turn on stove." ></item>
+<item slot="4" original="Boil water." ></item>
+<item slot="5" original="Put pasta in pot." ></item>
+<item slot="6" original="Stir pasta." ></item>
+<item slot="7" original="Put a strainer in sink." ></item>
+<item slot="8" original="Pour pasta in strainer." ></item>
+<item slot="9" original="Get a big bowl." ></item>
+<item slot="10" original="Pour pasta in bowl." ></item>
+<item slot="11" original="Get sauce." ></item>
+<item slot="12" original="Pour sauce on pasta." ></item>
+<item slot="13" original="Get a plate." ></item>
+<item slot="14" original="Put some on plate." ></item>
+<item slot="15" original="Sit down at table" ></item>
+<item slot="16" original="Eat pasta." ></item>
+</script><script id="81" source="2"><item slot="1" original="Boil about half a soup pot full of water." ></item>
+<item slot="2" original="Add a small amount of salt or olive oil to boiling water." ></item>
+<item slot="3" original="Place uncooked pasta into boiling water." ></item>
+<item slot="4" original="Allow pasta to cook for about 9 minutes." ></item>
+<item slot="5" original="Strain water from pasta using a colander." ></item>
+</script><script id="82" source="2"><item slot="1" original="turn stove on" ></item>
+<item slot="2" original="choose proper pans" ></item>
+<item slot="3" original="grab pasta" ></item>
+<item slot="4" original="put pasta into pan with water" ></item>
+<item slot="5" original="let pasta finish cooking" ></item>
+<item slot="6" original="throw water out of pan" ></item>
+<item slot="7" original="use tomato sauce" ></item>
+<item slot="8" original="mix well" ></item>
+<item slot="9" original="enjoy pasta" ></item>
+</script><script id="83" source="2"><item slot="1" original="Fill pot with water" ></item>
+<item slot="2" original="Turn on burner" ></item>
+<item slot="3" original="Place pot on stove" ></item>
+<item slot="4" original="Wait for water to boil" ></item>
+<item slot="5" original="Put pasta into the boiling water" ></item>
+<item slot="6" original="Set timer for appropriate time" ></item>
+<item slot="7" original="When timer goes off, remove pot from stove" ></item>
+<item slot="8" original="Dump pasta into strainer over sink" ></item>
+</script><script id="84" source="2"><item slot="1" original="Buy favorite brand of pasta" ></item>
+<item slot="2" original="Boil hot water on stove" ></item>
+<item slot="3" original="Put sea salt in water" ></item>
+<item slot="4" original="Add pasta to water" ></item>
+<item slot="5" original="Cook 8 minutes for al dente" ></item>
+<item slot="6" original="Remove pasta from water" ></item>
+<item slot="7" original="Add parmesan cheese" ></item>
+<item slot="8" original="Enjoy!" ></item>
+</script><script id="85" source="2"><item slot="1" original="Put water in a pot." ></item>
+<item slot="2" original="Boil water." ></item>
+<item slot="3" original="Add a little salt." ></item>
+<item slot="4" original="Add pasta to water." ></item>
+<item slot="5" original="Boil until it is cooked the way you like it." ></item>
+<item slot="6" original="Pour water and pasta into a colander." ></item>
+<item slot="7" original="Run cool water over pasta to stop pasta from cooking." ></item>
+</script><script id="86" source="2"><item slot="1" original="Fill pot with water" ></item>
+<item slot="2" original="Place on stove" ></item>
+<item slot="3" original="Turn on burner" ></item>
+<item slot="4" original="Wait for water to boil" ></item>
+<item slot="5" original="Reduce heat" ></item>
+<item slot="6" original="Add pasta" ></item>
+<item slot="7" original="Stir pasta occasionally" ></item>
+<item slot="8" original="When pasta is tender, turn off burner" ></item>
+<item slot="9" original="Remove pot from stove" ></item>
+<item slot="10" original="Drain pasta" ></item>
+<item slot="11" original="Place pasta in serving dish" ></item>
+</script><script id="87" source="2"><item slot="1" original="Choose which pasta you want to cook" ></item>
+<item slot="2" original="Fill a large pot 2/3 with water" ></item>
+<item slot="3" original="Turn the knob on the stove to high" ></item>
+<item slot="4" original="Add salt if desired" ></item>
+<item slot="5" original="Wait for the water to boil" ></item>
+<item slot="6" original="Add pasta to water" ></item>
+<item slot="7" original="Stir with a long spoon" ></item>
+<item slot="8" original="Turn down the stove slightly" ></item>
+<item slot="9" original="Stir well to prevent sticking of pasta" ></item>
+<item slot="10" original="Check the package for suggested cooking time" ></item>
+<item slot="11" original="Take a piece of pasta out and allow it to cool" ></item>
+<item slot="12" original="Bite into the pasta" ></item>
+<item slot="13" original="Turn off the stove and empty the entire pasta into a strainer" ></item>
+<item slot="14" original="Drain the water and add a tablespoon of olive oil" ></item>
+<item slot="15" original="Cover with your favorite sauce and toss it" ></item>
+<item slot="16" original="Add grated cheese and garnishes as desired" ></item>
+</script><script id="89" source="2"><item slot="1" original="Put water in a pot" ></item>
+<item slot="2" original="Put pot on stove" ></item>
+<item slot="3" original="Boil water" ></item>
+<item slot="4" original="Add a little salt and olive oil" ></item>
+<item slot="5" original="Add pasta" ></item>
+<item slot="6" original="Stir slightly as it cooks" ></item>
+<item slot="7" original="Test noodles taste" ></item>
+<item slot="8" original="Don't let them overcook" ></item>
+<item slot="9" original="Remove from heat" ></item>
+<item slot="10" original="Drain water" ></item>
+</script><script id="90" source="2"><item slot="1" original="Gather pasta, large pot, salt, large stirring utensil, and a strainer in kitchen" ></item>
+<item slot="2" original="Boil water in large pot, adding some salt to taste and prevent sticking" ></item>
+<item slot="3" original="When water reaches a rolling boil, add pasta" ></item>
+<item slot="4" original="Cook for however long the instructions call for" ></item>
+<item slot="5" original="Set alarm or timer to ring when the cooking time is up" ></item>
+<item slot="6" original="Pour water and pasta from pot into strainer or colander" ></item>
+<item slot="7" original="Place pasta back into pot" ></item>
+<item slot="8" original="Add sauce and seasonings as desired" ></item>
+<item slot="9" original="Still and serve quickly" ></item>
+</script><script id="91" source="2"><item slot="1" original="Open the pasta packet" ></item>
+<item slot="2" original="Pour some water in a pan" ></item>
+<item slot="3" original="Keep the pan on stove" ></item>
+<item slot="4" original="Light the stove" ></item>
+<item slot="5" original="Boil the water" ></item>
+<item slot="6" original="Add pasta" ></item>
+<item slot="7" original="Take out the pan when pasta is cooked" ></item>
+<item slot="8" original="Drain water" ></item>
+<item slot="9" original="Keep a pan on stove" ></item>
+<item slot="10" original="Add some oil" ></item>
+<item slot="11" original="Add vegetables" ></item>
+<item slot="12" original="Add spices" ></item>
+<item slot="13" original="Add cooked pasta" ></item>
+<item slot="14" original="Stir occasionally" ></item>
+<item slot="15" original="Put off flame when ready" ></item>
+<item slot="16" original="Transfer the pasta to a vessel" ></item>
+</script><script id="92" source="2"><item slot="1" original="Put water into a pasta cooker" ></item>
+<item slot="2" original="Add it to stove" ></item>
+<item slot="3" original="Wait for it to boil" ></item>
+<item slot="4" original="Add the pasta" ></item>
+<item slot="5" original="Put colander in sink" ></item>
+<item slot="6" original="Wait for it to cook" ></item>
+<item slot="7" original="Pour pasta into colander" ></item>
+<item slot="8" original="Lift colander" ></item>
+<item slot="9" original="Put pasta in bowl" ></item>
+<item slot="10" original="Add pasta sauce" ></item>
+<item slot="11" original="Serve" ></item>
+</script><script id="93" source="2"><item slot="1" original="Take out a big pot" ></item>
+<item slot="2" original="Boil water in pot" ></item>
+<item slot="3" original="Add dry pasta into boiling water" ></item>
+<item slot="4" original="Lower temperature" ></item>
+<item slot="5" original="Cover pot" ></item>
+<item slot="6" original="Cook 5-7 minutes" ></item>
+<item slot="7" original="Drain water" ></item>
+<item slot="8" original="Serve cooked pasta" ></item>
+</script><script id="94" source="2"><item slot="1" original="Get large pot from cupboard" ></item>
+<item slot="2" original="Fill with water" ></item>
+<item slot="3" original="Place on stove" ></item>
+<item slot="4" original="Turn on burner" ></item>
+<item slot="5" original="Get pasta from pantry" ></item>
+<item slot="6" original="Wait for water to boil" ></item>
+<item slot="7" original="Open pasta package" ></item>
+<item slot="8" original="Add salt to water" ></item>
+<item slot="9" original="Add pasta to water" ></item>
+<item slot="10" original="Lower heat" ></item>
+<item slot="11" original="Cook pasta for time directed on package" ></item>
+<item slot="12" original="Pour pasta and water into sieve" ></item>
+</script><script id="95" source="2"><item slot="1" original="Fill a pot with water" ></item>
+<item slot="2" original="Set pot on the stove" ></item>
+<item slot="3" original="Salt the water" ></item>
+<item slot="4" original="Turn on stove range" ></item>
+<item slot="5" original="Boil the water" ></item>
+<item slot="6" original="Open pasta box" ></item>
+<item slot="7" original="Put pasta in boiling water" ></item>
+<item slot="8" original="Wait ten minutes" ></item>
+<item slot="9" original="Drain water in sink" ></item>
+<item slot="10" original="Add some butter" ></item>
+</script><script id="96" source="2"><item slot="1" original="Fill a pasta pot about 70 percent full of water." ></item>
+<item slot="2" original="Place the pot on a burner." ></item>
+<item slot="3" original="Turn the burner to a high setting." ></item>
+<item slot="4" original="Wait until the water boils." ></item>
+<item slot="5" original="Add one tablespoon of salt to the boiling water" ></item>
+<item slot="6" original="Add the pasta to the water and let it cook for ten minutes." ></item>
+<item slot="7" original="Drain the water from the pasta." ></item>
+<item slot="8" original="Place the pasta into a bowl with a pat of butter." ></item>
+<item slot="9" original="Stir the pasta to coat it with the butter." ></item>
+</script><script id="97" source="2"><item slot="1" original="Get pot" ></item>
+<item slot="2" original="Fill pot with water" ></item>
+<item slot="3" original="Put pot on burner" ></item>
+<item slot="4" original="Turn burner on" ></item>
+<item slot="5" original="Wait until water boils" ></item>
+<item slot="6" original="Put pasta in water" ></item>
+<item slot="7" original="Cook 8-10 minutes" ></item>
+<item slot="8" original="Stir occasionally" ></item>
+<item slot="9" original="Taste pasta" ></item>
+<item slot="10" original="When done, pour water and pasta into colander" ></item>
+</script><script id="98" source="2"><item slot="1" original="Get a pot" ></item>
+<item slot="2" original="Pour water into pot" ></item>
+<item slot="3" original="Put pot on stove" ></item>
+<item slot="4" original="Turn stove on" ></item>
+<item slot="5" original="Cover pot" ></item>
+<item slot="6" original="Wait until water boils" ></item>
+<item slot="7" original="Put pasta in boiling water" ></item>
+<item slot="8" original="Check and mix pasta until it is cooked" ></item>
+<item slot="9" original="Get strainer" ></item>
+<item slot="10" original="Put strainer into sink" ></item>
+<item slot="11" original="Strain pasta" ></item>
+</script><script id="99" source="2"><item slot="1" original="Put water in a pot" ></item>
+<item slot="2" original="Turn the stove on" ></item>
+<item slot="3" original="Put the pot on the stove" ></item>
+<item slot="4" original="Boil water" ></item>
+<item slot="5" original="Add a pinch of salt" ></item>
+<item slot="6" original="Put pasta in the water" ></item>
+<item slot="7" original="Wait for pasta to cook" ></item>
+</script></scripts>

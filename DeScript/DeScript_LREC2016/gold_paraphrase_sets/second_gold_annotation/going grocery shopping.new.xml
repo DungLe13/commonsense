@@ -1,0 +1,361 @@
+<scripts>
+<label type="PARAPHRASE" event="UnrelEv">
+<item source="2" script="33" slot="1" total_slots="11" original="Plan menu for week."></item>
+<item source="2" script="41" slot="2" total_slots="10" original="Write a list of meals for the week"></item>
+<item source="2" script="49" slot="1" total_slots="16" original="look through recipes"></item>
+
+</label>
+<label type="PARAPHRASE" event="make_list">
+<item source="2" script="26" slot="1" total_slots="6" original="Make a grocery list."></item>
+<item source="2" script="27" slot="1" total_slots="10" original="make a list"></item>
+<item source="2" script="28" slot="1" total_slots="9" original="Make a list of what you need."></item>
+<item source="2" script="30" slot="1" total_slots="9" original="Create list of things to buy"></item>
+<item source="2" script="32" slot="1" total_slots="12" original="review what you have at home and make a list of what you need"></item>
+<item source="2" script="33" slot="2" total_slots="11" original="Make grocery list based off of menu."></item>
+<item source="2" script="35" slot="1" total_slots="5" original="Make a list."></item>
+<item source="2" script="39" slot="1" total_slots="9" original="Make a grocery list of items to buy"></item>
+<item source="2" script="41" slot="1" total_slots="10" original="Inventory your cupboards"></item>
+<item source="2" script="41" slot="3" total_slots="10" original="Make a list of what you need."></item>
+<item source="2" script="42" slot="1" total_slots="12" original="Make a grocery list"></item>
+<item source="2" script="43" slot="1" total_slots="14" original="Make a list."></item>
+<item source="2" script="45" slot="1" total_slots="16" original="Make grocery list"></item>
+<item source="2" script="46" slot="1" total_slots="12" original="Make a list of groceries needed"></item>
+<item source="2" script="48" slot="1" total_slots="11" original="make grocery list"></item>
+<item source="2" script="49" slot="2" total_slots="16" original="make grocery list"></item>
+<item source="2" script="50" slot="1" total_slots="12" original="make a list of needed items"></item>
+
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item source="2" script="43" slot="2" total_slots="14" original="Clip any relevant coupons."></item>
+<item source="2" script="50" slot="2" total_slots="12" original="check for coupons"></item>
+
+</label>
+<label type="PARAPHRASE" event="UnrelEv">
+<item source="2" script="43" slot="3" total_slots="14" original="Get dressed."></item>
+
+</label>
+<label type="PARAPHRASE" event="take_bags">
+<item source="2" script="33" slot="4" total_slots="11" original="Bring reusable grocery bags."></item>
+
+</label>
+<label type="PARAPHRASE" event="other_get_in_car">
+<item source="2" script="30" slot="2" total_slots="9" original="Get in car"></item>
+<item source="2" script="31" slot="1" total_slots="9" original="Get in car and drive to grocery store."></item>
+<item source="2" script="34" slot="1" total_slots="11" original="Get in my car"></item>
+<item source="2" script="36" slot="1" total_slots="7" original="Get in car."></item>
+<item source="2" script="38" slot="1" total_slots="14" original="Get in the car"></item>
+<item source="2" script="39" slot="2" total_slots="9" original="Get in car"></item>
+<item source="2" script="40" slot="1" total_slots="11" original="Get into car"></item>
+<item source="2" script="43" slot="4" total_slots="14" original="Get in the car."></item>
+<item source="2" script="45" slot="2" total_slots="16" original="Get in car"></item>
+<item source="2" script="46" slot="2" total_slots="12" original="Get in your car"></item>
+<item source="2" script="47" slot="1" total_slots="7" original="Get in car"></item>
+<item source="2" script="48" slot="2" total_slots="11" original="get in car"></item>
+<item source="2" script="50" slot="3" total_slots="12" original="get in car"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_turn_car_on">
+<item source="2" script="34" slot="2" total_slots="11" original="Turn the car on"></item>
+
+</label>
+<label type="PARAPHRASE" event="go_grocery">
+<item source="2" script="27" slot="2" total_slots="10" original="drive to grocery store"></item>
+<item source="2" script="28" slot="2" total_slots="9" original="Drive or walk to the store."></item>
+<item source="2" script="30" slot="3" total_slots="9" original="Drive to nearest grocery store"></item>
+<item source="2" script="32" slot="2" total_slots="12" original="go to the store"></item>
+<item source="2" script="33" slot="3" total_slots="11" original="Drive to store."></item>
+<item source="2" script="34" slot="3" total_slots="11" original="Go to the store"></item>
+<item source="2" script="35" slot="2" total_slots="5" original="Go to the store."></item>
+<item source="2" script="36" slot="2" total_slots="7" original="Drive to nearest grocery store."></item>
+<item source="2" script="38" slot="2" total_slots="14" original="Drive to the grocery store."></item>
+<item source="2" script="39" slot="3" total_slots="9" original="Drive to store"></item>
+<item source="2" script="40" slot="2" total_slots="11" original="Drive to grocery store"></item>
+<item source="2" script="41" slot="4" total_slots="10" original="Go to the store"></item>
+<item source="2" script="42" slot="2" total_slots="12" original="Go to the grocery store"></item>
+<item source="2" script="43" slot="5" total_slots="14" original="Drive to store and park."></item>
+<item source="2" script="45" slot="3" total_slots="16" original="Drive to grocery store"></item>
+<item source="2" script="46" slot="3" total_slots="12" original="Drive to store"></item>
+<item source="2" script="47" slot="2" total_slots="7" original="Drive to grocery store of choice"></item>
+<item source="2" script="48" slot="3" total_slots="11" original="drive to grocery store"></item>
+<item source="2" script="49" slot="3" total_slots="16" original="drive to the grocery store"></item>
+<item source="2" script="50" slot="4" total_slots="12" original="drive to store"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_park_car">
+<item source="2" script="30" slot="4" total_slots="9" original="Park car"></item>
+<item source="2" script="31" slot="2" total_slots="9" original="Get out of car and go into grocery store."></item>
+<item source="2" script="34" slot="4" total_slots="11" original="Park"></item>
+<item source="2" script="40" slot="3" total_slots="11" original="Find parking spot"></item>
+<item source="2" script="40" slot="4" total_slots="11" original="Park car"></item>
+<item source="2" script="45" slot="4" total_slots="16" original="Park the car"></item>
+<item source="2" script="47" slot="3" total_slots="7" original="Park car"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_get_list">
+<item source="2" script="40" slot="5" total_slots="11" original="Get list"></item>
+
+</label>
+<label type="PARAPHRASE" event="enter">
+<item source="2" script="29" slot="1" total_slots="15" original="Enter grocery store"></item>
+<item source="2" script="30" slot="5" total_slots="9" original="enter grocery store"></item>
+<item source="2" script="34" slot="5" total_slots="11" original="Go inside"></item>
+<item source="2" script="37" slot="1" total_slots="5" original="Enter store."></item>
+<item source="2" script="38" slot="3" total_slots="14" original="Walk in to the store."></item>
+<item source="2" script="39" slot="4" total_slots="9" original="Go into store and locate items to buy"></item>
+<item source="2" script="40" slot="6" total_slots="11" original="Enter store"></item>
+<item source="2" script="43" slot="7" total_slots="14" original="Go inside and pick up items."></item>
+<item source="2" script="44" slot="2" total_slots="7" original="Go into grocery store"></item>
+<item source="2" script="45" slot="5" total_slots="16" original="Walk into store"></item>
+<item source="2" script="46" slot="4" total_slots="12" original="Enter store"></item>
+<item source="2" script="47" slot="4" total_slots="7" original="Walk in store"></item>
+<item source="2" script="48" slot="5" total_slots="11" original="enter the store"></item>
+<item source="2" script="49" slot="4" total_slots="16" original="go into grocery store"></item>
+<item source="2" script="50" slot="5" total_slots="12" original="go in store"></item>
+
+</label>
+<label type="PARAPHRASE" event="take_shop_cart">
+<item source="2" script="27" slot="3" total_slots="10" original="grab a cart"></item>
+<item source="2" script="28" slot="3" total_slots="9" original="Get a basket if needed."></item>
+<item source="2" script="29" slot="2" total_slots="15" original="Get grocery cart"></item>
+<item source="2" script="30" slot="6" total_slots="9" original="Grab a shopping cart"></item>
+<item source="2" script="31" slot="3" total_slots="9" original="Get a shopping cart from the front store."></item>
+<item source="2" script="32" slot="3" total_slots="12" original="take a shopping cart"></item>
+<item source="2" script="34" slot="6" total_slots="11" original="Grab cart"></item>
+<item source="2" script="37" slot="2" total_slots="5" original="Get grocery cart."></item>
+<item source="2" script="38" slot="4" total_slots="14" original="Get a cart."></item>
+<item source="2" script="42" slot="3" total_slots="12" original="Get a cart"></item>
+<item source="2" script="43" slot="6" total_slots="14" original="Get a shopping cart."></item>
+<item source="2" script="44" slot="1" total_slots="7" original="Get shopping cart"></item>
+<item source="2" script="45" slot="6" total_slots="16" original="Get a shopping cart"></item>
+<item source="2" script="46" slot="5" total_slots="12" original="Get a cart"></item>
+<item source="2" script="47" slot="5" total_slots="7" original="Grab a grocery cart"></item>
+<item source="2" script="48" slot="4" total_slots="11" original="get a cart"></item>
+<item source="2" script="49" slot="5" total_slots="16" original="grab a cart"></item>
+<item source="2" script="50" slot="6" total_slots="12" original="grab shopping cart"></item>
+
+</label>
+<label type="PARAPHRASE" event="move_section">
+<item source="2" script="26" slot="2" total_slots="6" original="Start at the non cold side of the store."></item>
+<item source="2" script="29" slot="3" total_slots="15" original="Walk through store and place items you want into cart"></item>
+<item source="2" script="31" slot="4" total_slots="9" original="Go down each aisle and put the groceries you would like to purchase in your cart."></item>
+<item source="2" script="32" slot="4" total_slots="12" original="walk through the aisles of the store, add items to your cart"></item>
+<item source="2" script="33" slot="5" total_slots="11" original="Push cart around store, getting items from list."></item>
+<item source="2" script="36" slot="3" total_slots="7" original="Browse the store."></item>
+<item source="2" script="37" slot="3" total_slots="5" original="Go down aisles and retrieve items."></item>
+<item source="2" script="38" slot="5" total_slots="14" original="Go aisle by aisle putting the items I want in the cart."></item>
+<item source="2" script="44" slot="3" total_slots="7" original="Find what aisles you need to go to"></item>
+<item source="2" script="46" slot="6" total_slots="12" original="Proceed through the store picking up needed items"></item>
+<item source="2" script="48" slot="6" total_slots="11" original="walk through aisles"></item>
+<item source="2" script="50" slot="7" total_slots="12" original="stroll through store and get needed items"></item>
+
+</label>
+<label type="PARAPHRASE" event="get_groceries">
+<item source="2" script="26" slot="3" total_slots="6" original="Get the boxed, bagged, jarred food from your list."></item>
+<item source="2" script="26" slot="4" total_slots="6" original="Get the cold, frozen and produce."></item>
+<item source="2" script="27" slot="4" total_slots="10" original="consult list and find products"></item>
+<item source="2" script="27" slot="5" total_slots="10" original="put products in your cart"></item>
+<item source="2" script="28" slot="4" total_slots="9" original="Select the items on your list, trying to stay on the perimeter of the store."></item>
+<item source="2" script="30" slot="7" total_slots="9" original="Find groceries"></item>
+<item source="2" script="33" slot="6" total_slots="11" original="Pick up refridgerated and frozen items last."></item>
+<item source="2" script="34" slot="7" total_slots="11" original="Find groceries"></item>
+<item source="2" script="34" slot="8" total_slots="11" original="Put them in the cart"></item>
+<item source="2" script="35" slot="3" total_slots="5" original="Gather items from shelves."></item>
+<item source="2" script="36" slot="4" total_slots="7" original="Put items I need in cart."></item>
+<item source="2" script="40" slot="7" total_slots="11" original="Find items on list"></item>
+<item source="2" script="41" slot="5" total_slots="10" original="Get what you need from the aisles"></item>
+<item source="2" script="42" slot="4" total_slots="12" original="Find items from list"></item>
+<item source="2" script="42" slot="5" total_slots="12" original="Put items from list into cart"></item>
+<item source="2" script="43" slot="8" total_slots="14" original="Put them in the cart."></item>
+<item source="2" script="44" slot="4" total_slots="7" original="Find the food you need and put in cart"></item>
+<item source="2" script="45" slot="7" total_slots="16" original="Add groceries from list to cart"></item>
+<item source="2" script="47" slot="6" total_slots="7" original="Put food in cart"></item>
+<item source="2" script="48" slot="7" total_slots="11" original="pick up everything from list and put into your cart"></item>
+<item source="2" script="49" slot="6" total_slots="16" original="get fruits and veggies on list"></item>
+<item source="2" script="49" slot="7" total_slots="16" original="get meat that is on list"></item>
+<item source="2" script="49" slot="8" total_slots="16" original="go through the rest of the store getting everything on list"></item>
+<item source="2" script="49" slot="9" total_slots="16" original="see a nice cake put it in cart"></item>
+
+</label>
+<label type="PARAPHRASE" event="UnrelEv">
+<item source="2" script="33" slot="7" total_slots="11" original="Try not to purchase things not on list."></item>
+
+</label>
+<label type="PARAPHRASE" event="check_list">
+<item source="2" script="32" slot="5" total_slots="12" original="check your list at each aisle to ensure you haven't missed anything"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_checkout">
+<item source="2" script="34" slot="9" total_slots="11" original="Check out"></item>
+<item source="2" script="46" slot="7" total_slots="12" original="Go through a check out line"></item>
+
+</label>
+<label type="PARAPHRASE" event="go_checkout">
+<item source="2" script="27" slot="6" total_slots="10" original="go to checkout"></item>
+<item source="2" script="28" slot="5" total_slots="9" original="Take your items to the checkout counter."></item>
+<item source="2" script="29" slot="4" total_slots="15" original="Take cart to cash register"></item>
+<item source="2" script="30" slot="8" total_slots="9" original="Go to cash register"></item>
+<item source="2" script="31" slot="5" total_slots="9" original="When you are finished picking out what you want to purchase, go to the check out line."></item>
+<item source="2" script="32" slot="6" total_slots="12" original="take the full cart to the checkout lane"></item>
+<item source="2" script="33" slot="8" total_slots="11" original="Bring items to cashier at front of store."></item>
+<item source="2" script="37" slot="4" total_slots="5" original="Go to checkout line."></item>
+<item source="2" script="38" slot="6" total_slots="14" original="Go up to the cashier."></item>
+<item source="2" script="39" slot="5" total_slots="9" original="Go to check out stand and pay for items"></item>
+<item source="2" script="40" slot="8" total_slots="11" original="Proceed to checkout"></item>
+<item source="2" script="41" slot="6" total_slots="10" original="Take your purchase to the front"></item>
+<item source="2" script="42" slot="6" total_slots="12" original="Take cart to checkout line"></item>
+<item source="2" script="43" slot="9" total_slots="14" original="Go to the checkout and pay."></item>
+<item source="2" script="44" slot="5" total_slots="7" original="After finding everything you need, go to cashier"></item>
+<item source="2" script="45" slot="8" total_slots="16" original="Get in checkout line"></item>
+<item source="2" script="47" slot="7" total_slots="7" original="Go to check out line in front of store"></item>
+<item source="2" script="48" slot="8" total_slots="11" original="go to cashier"></item>
+<item source="2" script="49" slot="10" total_slots="16" original="go to check out"></item>
+
+</label>
+<label type="PARAPHRASE" event="wait">
+<item source="2" script="32" slot="7" total_slots="12" original="wait your turn"></item>
+<item source="2" script="36" slot="5" total_slots="7" original="Line up to pay."></item>
+<item source="2" script="42" slot="7" total_slots="12" original="Wait in line"></item>
+<item source="2" script="49" slot="11" total_slots="16" original="wait in line at checkout"></item>
+
+</label>
+<label type="PARAPHRASE" event="put_conveyor">
+<item source="2" script="27" slot="7" total_slots="10" original="remove items from cart"></item>
+<item source="2" script="29" slot="5" total_slots="15" original="Place items onto conveyor belt"></item>
+<item source="2" script="31" slot="6" total_slots="9" original="Put all of your groceries on the belt for the cashier to ring up and bag."></item>
+<item source="2" script="32" slot="8" total_slots="12" original="load items from the cart onto the checkout lane's belt"></item>
+<item source="2" script="38" slot="7" total_slots="14" original="Put items on belt."></item>
+<item source="2" script="42" slot="8" total_slots="12" original="Place items on conveyer belt"></item>
+<item source="2" script="45" slot="9" total_slots="16" original="Put groceries on conveyor belt"></item>
+<item source="2" script="49" slot="12" total_slots="16" original="put groceries on belt"></item>
+
+</label>
+<label type="PARAPHRASE" event="cashier_scan/weight">
+<item source="2" script="28" slot="6" total_slots="9" original="Let the cashier ring up your items."></item>
+<item source="2" script="29" slot="6" total_slots="15" original="Cashier rings up items"></item>
+<item source="2" script="38" slot="8" total_slots="14" original="Wait for the cashier to ring the order up."></item>
+<item source="2" script="49" slot="13" total_slots="16" original="watch prices as the checker scans."></item>
+
+</label>
+<label type="PARAPHRASE" event="other_get_total">
+<item source="2" script="29" slot="7" total_slots="15" original="Cashier gives you total"></item>
+<item source="2" script="42" slot="9" total_slots="12" original="Wait for total"></item>
+
+</label>
+<label type="PARAPHRASE" event="pay">
+<item source="2" script="26" slot="5" total_slots="6" original="Pay and check out."></item>
+<item source="2" script="27" slot="8" total_slots="10" original="pay cashier"></item>
+<item source="2" script="28" slot="7" total_slots="9" original="Pay for your groceries."></item>
+<item source="2" script="29" slot="8" total_slots="15" original="Pay for items with cash or credit"></item>
+<item source="2" script="30" slot="9" total_slots="9" original="Pay for items"></item>
+<item source="2" script="31" slot="7" total_slots="9" original="Pay for your groceries."></item>
+<item source="2" script="32" slot="10" total_slots="12" original="once all items are bagged, pay the cashier"></item>
+<item source="2" script="33" slot="9" total_slots="11" original="Pay for your items."></item>
+<item source="2" script="35" slot="4" total_slots="5" original="Pay for them at the register."></item>
+<item source="2" script="36" slot="6" total_slots="7" original="Pay for my groceries."></item>
+<item source="2" script="37" slot="5" total_slots="5" original="Pay for groceries."></item>
+<item source="2" script="38" slot="9" total_slots="14" original="Pay for the groceries."></item>
+<item source="2" script="41" slot="7" total_slots="10" original="Pay the cashier"></item>
+<item source="2" script="42" slot="10" total_slots="12" original="Pay for groceries"></item>
+<item source="2" script="44" slot="6" total_slots="7" original="Pay for grocery"></item>
+<item source="2" script="45" slot="10" total_slots="16" original="Pay for groceries"></item>
+<item source="2" script="46" slot="8" total_slots="12" original="Pay for groceries"></item>
+<item source="2" script="48" slot="9" total_slots="11" original="pay the cashier"></item>
+<item source="2" script="49" slot="14" total_slots="16" original="pay for groceries"></item>
+<item source="2" script="50" slot="8" total_slots="12" original="pay for items at check out"></item>
+
+</label>
+<label type="PARAPHRASE" event="pack_groceries">
+<item source="2" script="28" slot="8" total_slots="9" original="If necessary, bag your items."></item>
+<item source="2" script="29" slot="9" total_slots="15" original="Bagger places items into bags"></item>
+<item source="2" script="41" slot="8" total_slots="10" original="bag the groceries"></item>
+<item source="2" script="48" slot="10" total_slots="11" original="put groceries in a bag"></item>
+
+</label>
+<label type="PARAPHRASE" event="get_receipt">
+<item source="2" script="42" slot="11" total_slots="12" original="Get receipt"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_take_bags">
+<item source="2" script="27" slot="9" total_slots="10" original="pick up bags"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_put_bags_cart">
+<item source="2" script="29" slot="10" total_slots="15" original="Place bags of groceries into cart"></item>
+<item source="2" script="32" slot="9" total_slots="12" original="as the cashier bags items, place them back into your cart"></item>
+<item source="2" script="38" slot="10" total_slots="14" original="Put the bagged items in the cart."></item>
+
+</label>
+<label type="PARAPHRASE" event="bring_vehicle">
+<item source="2" script="26" slot="6" total_slots="6" original="Put bags in car and go home."></item>
+<item source="2" script="27" slot="10" total_slots="10" original="take bags to car"></item>
+<item source="2" script="29" slot="11" total_slots="15" original="Take cart to car"></item>
+<item source="2" script="29" slot="12" total_slots="15" original="Take bags out of cart and place into car"></item>
+<item source="2" script="31" slot="8" total_slots="9" original="Take your groceries to your car and place them in the car."></item>
+<item source="2" script="33" slot="10" total_slots="11" original="Put items into car and drive home."></item>
+<item source="2" script="34" slot="10" total_slots="11" original="Put bags in car"></item>
+<item source="2" script="38" slot="11" total_slots="14" original="Walk out to the car."></item>
+<item source="2" script="38" slot="12" total_slots="14" original="Put the items in the car."></item>
+<item source="2" script="39" slot="6" total_slots="9" original="put bought items in car"></item>
+<item source="2" script="40" slot="9" total_slots="11" original="Go back to car"></item>
+<item source="2" script="40" slot="10" total_slots="11" original="Load groceries in trunk"></item>
+<item source="2" script="43" slot="10" total_slots="14" original="Go back to the car."></item>
+<item source="2" script="43" slot="11" total_slots="14" original="Put the bags in the car."></item>
+<item source="2" script="44" slot="7" total_slots="7" original="Unload grocery into your car"></item>
+<item source="2" script="45" slot="11" total_slots="16" original="Push cart back to car"></item>
+<item source="2" script="45" slot="12" total_slots="16" original="Put groceries in trunk"></item>
+<item source="2" script="46" slot="9" total_slots="12" original="Push cart to your car"></item>
+<item source="2" script="46" slot="10" total_slots="12" original="Put groceries in your trunk"></item>
+<item source="2" script="48" slot="11" total_slots="11" original="take bags to your car"></item>
+<item source="2" script="49" slot="15" total_slots="16" original="walk out of store"></item>
+<item source="2" script="49" slot="16" total_slots="16" original="put groceries in car."></item>
+<item source="2" script="50" slot="9" total_slots="12" original="take groceries to car"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_place_cart_into_cart_corral">
+<item source="2" script="29" slot="13" total_slots="15" original="Place cart into cart corral"></item>
+<item source="2" script="45" slot="13" total_slots="16" original="Return cart to store"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_get_in_car">
+<item source="2" script="29" slot="14" total_slots="15" original="Get in car"></item>
+
+</label>
+<label type="PARAPHRASE" event="leave">
+<item source="2" script="28" slot="9" total_slots="9" original="Leave the store."></item>
+<item source="2" script="29" slot="15" total_slots="15" original="Leave grocery store"></item>
+<item source="2" script="31" slot="9" total_slots="9" original="Drive home."></item>
+<item source="2" script="32" slot="11" total_slots="12" original="take items home in bags"></item>
+<item source="2" script="34" slot="11" total_slots="11" original="Go home"></item>
+<item source="2" script="35" slot="5" total_slots="5" original="Take groceries home."></item>
+<item source="2" script="36" slot="7" total_slots="7" original="Drive home."></item>
+<item source="2" script="38" slot="13" total_slots="14" original="Drive home."></item>
+<item source="2" script="39" slot="7" total_slots="9" original="Drive home"></item>
+<item source="2" script="40" slot="11" total_slots="11" original="Drive back home"></item>
+<item source="2" script="41" slot="9" total_slots="10" original="Go home"></item>
+<item source="2" script="42" slot="12" total_slots="12" original="Leave grocery store"></item>
+<item source="2" script="43" slot="12" total_slots="14" original="Drive home."></item>
+<item source="2" script="45" slot="14" total_slots="16" original="Drive home"></item>
+<item source="2" script="46" slot="11" total_slots="12" original="Drive home"></item>
+<item source="2" script="50" slot="10" total_slots="12" original="drive items home"></item>
+
+</label>
+<label type="PARAPHRASE" event="UnrelEv">
+<item source="2" script="32" slot="12" total_slots="12" original="put items away"></item>
+<item source="2" script="33" slot="11" total_slots="11" original="Put items away at home."></item>
+<item source="2" script="38" slot="14" total_slots="14" original="Put the groceries away."></item>
+<item source="2" script="39" slot="8" total_slots="9" original="take grocery items into house"></item>
+<item source="2" script="39" slot="9" total_slots="9" original="put groceries away"></item>
+<item source="2" script="41" slot="10" total_slots="10" original="Put groceries away"></item>
+<item source="2" script="43" slot="13" total_slots="14" original="Take the purchases in the house."></item>
+<item source="2" script="43" slot="14" total_slots="14" original="Put the purchases away."></item>
+<item source="2" script="45" slot="15" total_slots="16" original="Bring groceries in the house"></item>
+<item source="2" script="45" slot="16" total_slots="16" original="Put groceries away"></item>
+<item source="2" script="46" slot="12" total_slots="12" original="Put groceries away"></item>
+<item source="2" script="50" slot="11" total_slots="12" original="put items away"></item>
+
+</label>
+<label type="PARAPHRASE" event="UnrelEv">
+<item source="2" script="50" slot="12" total_slots="12" original="enjoy items"></item>
+
+</label>
+</scripts>

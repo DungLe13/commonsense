@@ -1,0 +1,708 @@
+<scripts><script id="0" source="2"><item slot="1" original="Walk into library" ></item>
+<item slot="2" original="Find book on shelf" ></item>
+<item slot="3" original="Walk to check out desk" ></item>
+<item slot="4" original="Hand book to librarian" ></item>
+<item slot="5" original="Take book back from librarian" ></item>
+<item slot="6" original="Leave library with book" ></item>
+</script><script id="1" source="2"><item slot="1" original="go to the library" ></item>
+<item slot="2" original="find a book to borrow in the aisles or stacks" ></item>
+<item slot="3" original="bring the book to the front desk" ></item>
+<item slot="4" original="give the book to the librarian" ></item>
+<item slot="5" original="give your library card" ></item>
+<item slot="6" original="receive the book back" ></item>
+<item slot="7" original="be told when the book is due" ></item>
+<item slot="8" original="leave the library" ></item>
+</script><script id="2" source="2"><item slot="1" original="Drive to the library." ></item>
+<item slot="2" original="Look through the books at library." ></item>
+<item slot="3" original="Check out book at service desk." ></item>
+<item slot="4" original="Note when to return the book." ></item>
+<item slot="5" original="Leave the library." ></item>
+</script><script id="3" source="2"><item slot="1" original="Find a book you like" ></item>
+<item slot="2" original="Take it to the check out desk" ></item>
+<item slot="3" original="Show your library card" ></item>
+<item slot="4" original="Library card gets scanned" ></item>
+<item slot="5" original="Get library card back" ></item>
+<item slot="6" original="Book gets scanned" ></item>
+<item slot="7" original="Book gets stamped" ></item>
+<item slot="8" original="Take book from librarian" ></item>
+<item slot="9" original="Go home and read it" ></item>
+</script><script id="4" source="2"><item slot="1" original="get library card" ></item>
+<item slot="2" original="place card in pocket" ></item>
+<item slot="3" original="walk to library" ></item>
+<item slot="4" original="enter library" ></item>
+<item slot="5" original="walk to book shelves" ></item>
+<item slot="6" original="browse titles" ></item>
+<item slot="7" original="select book" ></item>
+<item slot="8" original="go to checkout desk" ></item>
+<item slot="9" original="give card to librarian" ></item>
+<item slot="10" original="wait while book is checked out" ></item>
+<item slot="11" original="get return date slip" ></item>
+<item slot="12" original="thank librarian" ></item>
+<item slot="13" original="leave with book" ></item>
+</script><script id="5" source="2"><item slot="1" original="Go to library" ></item>
+<item slot="2" original="Browse books or look through index on computer" ></item>
+<item slot="3" original="Bring books up to front desk clerk" ></item>
+<item slot="4" original="Show your library card" ></item>
+<item slot="5" original="Wait for the clerk to check the books out to you" ></item>
+<item slot="6" original="Take back your library card and books" ></item>
+<item slot="7" original="Exit the library" ></item>
+</script><script id="6" source="2"><item slot="1" original="entering the library" ></item>
+<item slot="2" original="looking through the shelves" ></item>
+<item slot="3" original="picking a book" ></item>
+<item slot="4" original="bringing book to circulation desk" ></item>
+<item slot="5" original="handing book and library card to librarian" ></item>
+<item slot="6" original="checking book out" ></item>
+<item slot="7" original="leaving the library" ></item>
+</script><script id="7" source="2"><item slot="1" original="Find the local library" ></item>
+<item slot="2" original="drive to the library" ></item>
+<item slot="3" original="enter the library" ></item>
+<item slot="4" original="get to know the librarian" ></item>
+<item slot="5" original="ask for instructions" ></item>
+<item slot="6" original="get to know the library" ></item>
+<item slot="7" original="go back to the desk" ></item>
+<item slot="8" original="apply for a card." ></item>
+<item slot="9" original="have identification" ></item>
+<item slot="10" original="Register for a library card" ></item>
+<item slot="11" original="Find the books" ></item>
+<item slot="12" original="find a seat" ></item>
+<item slot="13" original="read books" ></item>
+<item slot="14" original=" renew books" ></item>
+<item slot="15" original="check out books" ></item>
+<item slot="16" original="leave library" ></item>
+</script><script id="8" source="2"><item slot="1" original="Go to the library" ></item>
+<item slot="2" original="Browse the books on the shelf" ></item>
+<item slot="3" original="Select a book that you would like to read" ></item>
+<item slot="4" original="Select other books that you like" ></item>
+<item slot="5" original="Go to the librarian's desk" ></item>
+<item slot="6" original="Give the librarian your library card" ></item>
+<item slot="7" original="Check out the books" ></item>
+</script><script id="9" source="2"><item slot="1" original="Apply for a library card. (If you do not already have one.)" ></item>
+<item slot="2" original="Use the card catalog, or computer reference to find the book of your choice." ></item>
+<item slot="3" original="Find the book using the numbered system." ></item>
+<item slot="4" original="Approach the library with book(s) and your library card." ></item>
+<item slot="5" original="Take your (now checked out) book back from the librarian." ></item>
+<item slot="6" original="Thank them." ></item>
+<item slot="7" original="Leave the library." ></item>
+</script><script id="10" source="2"><item slot="1" original="Go to library" ></item>
+<item slot="2" original="Go to the appropriate shelf" ></item>
+<item slot="3" original="Choose your desired book" ></item>
+<item slot="4" original="Show your membership card to the librarian" ></item>
+<item slot="5" original="After the book is stamped take it with you" ></item>
+</script><script id="11" source="2"><item slot="1" original="find book" ></item>
+<item slot="2" original="take to counter" ></item>
+<item slot="3" original="show library card" ></item>
+<item slot="4" original="sign out the book" ></item>
+<item slot="5" original="take the book home" ></item>
+<item slot="6" original="return book before due date" ></item>
+</script><script id="12" source="2"><item slot="1" original="Go to the library" ></item>
+<item slot="2" original="Sign in using your membership card" ></item>
+<item slot="3" original="Select a book you want to borrow" ></item>
+<item slot="4" original="Take the book to the librarian" ></item>
+<item slot="5" original="Librarian enter the book details" ></item>
+<item slot="6" original="Sign out the membership card" ></item>
+<item slot="7" original="Take the book with you" ></item>
+<item slot="8" original="Leave the library" ></item>
+</script><script id="13" source="2"><item slot="1" original="Drive to library" ></item>
+<item slot="2" original="Park and walk inside" ></item>
+<item slot="3" original="Look for a book" ></item>
+<item slot="4" original="Bring book to front desk" ></item>
+<item slot="5" original="Check out the book" ></item>
+</script><script id="14" source="2"><item slot="1" original="Go to library" ></item>
+<item slot="2" original="Apply for library card" ></item>
+<item slot="3" original="Pick out book" ></item>
+<item slot="4" original="Bring book to librarian" ></item>
+<item slot="5" original="Give librarian library card" ></item>
+<item slot="6" original="Take book and library card" ></item>
+<item slot="7" original="Leave" ></item>
+</script><script id="15" source="2"><item slot="1" original="Get a library card" ></item>
+<item slot="2" original="Find the book you want" ></item>
+<item slot="3" original="Take book to the librarian" ></item>
+<item slot="4" original="Show librarian your library card" ></item>
+<item slot="5" original="Give the librarian your book" ></item>
+<item slot="6" original="Get book back" ></item>
+<item slot="7" original="Go home" ></item>
+</script><script id="17" source="2"><item slot="1" original="Go to library" ></item>
+<item slot="2" original="Select a book'" ></item>
+<item slot="3" original="Get in line at check out desk" ></item>
+<item slot="4" original="hand librarian book and library card" ></item>
+<item slot="5" original="take both back back and make note of due date" ></item>
+<item slot="6" original="take book home from library" ></item>
+<item slot="7" original="read book" ></item>
+<item slot="8" original="return book to library before due date" ></item>
+</script><script id="18" source="2"><item slot="1" original="Go to the library" ></item>
+<item slot="2" original="Become a member" ></item>
+<item slot="3" original="Refer the index for my required book" ></item>
+<item slot="4" original="Take the book to the clerk" ></item>
+<item slot="5" original="He will make an entry in his ledger" ></item>
+<item slot="6" original="Get the book stamped on the back page for return date" ></item>
+<item slot="7" original="Exit the library" ></item>
+</script><script id="19" source="2"><item slot="1" original="Go to the library" ></item>
+<item slot="2" original="go in" ></item>
+<item slot="3" original="go to desk and sign up for a card" ></item>
+<item slot="4" original="pick out book" ></item>
+<item slot="5" original="take it to the desk" ></item>
+<item slot="6" original="check out the book" ></item>
+</script><script id="20" source="2"><item slot="1" original="Go into library" ></item>
+<item slot="2" original="Ask to get a library card" ></item>
+<item slot="3" original="Look for preferred book" ></item>
+<item slot="4" original="Take to front desk" ></item>
+<item slot="5" original="Check the book out with your library card" ></item>
+<item slot="6" original="Leave library with borrowed book" ></item>
+<item slot="7" original="Return book to library when finished" ></item>
+</script><script id="21" source="2"><item slot="1" original="Find library card." ></item>
+<item slot="2" original="Drive to library." ></item>
+<item slot="3" original="Peruse book shelves." ></item>
+<item slot="4" original="Select a book." ></item>
+<item slot="5" original="Go to check out desk." ></item>
+<item slot="6" original="Librarian will scan book and card with scanner." ></item>
+<item slot="7" original="Take note of return date." ></item>
+<item slot="8" original="Leave library with book." ></item>
+</script><script id="22" source="2"><item slot="1" original="Go to library" ></item>
+<item slot="2" original="Enter library" ></item>
+<item slot="3" original="Find a book to borrow" ></item>
+<item slot="4" original="Bring book to librarian at desk" ></item>
+<item slot="5" original="Show librarian your library card" ></item>
+<item slot="6" original="Leave with your book" ></item>
+</script><script id="23" source="2"><item slot="1" original="Go to library" ></item>
+<item slot="2" original="Skim books" ></item>
+<item slot="3" original="Choose best book" ></item>
+<item slot="4" original="Go to counter" ></item>
+<item slot="5" original="Show library card" ></item>
+<item slot="6" original="Check out book" ></item>
+<item slot="7" original="Leave library" ></item>
+</script><script id="24" source="2"><item slot="1" original="Find a local library." ></item>
+<item slot="2" original="Go to the main desk." ></item>
+<item slot="3" original="Sign up for a library card." ></item>
+<item slot="4" original="Receive card." ></item>
+<item slot="5" original="Find a subject of interest" ></item>
+<item slot="6" original="Pick a book." ></item>
+<item slot="7" original="Take the book to the desk." ></item>
+<item slot="8" original="Let the librarian scan the book." ></item>
+<item slot="9" original="Go home and read the book." ></item>
+</script><script id="25" source="2"><item slot="1" original="Go to the library." ></item>
+<item slot="2" original="Ask the librarian or use the library's computer to find the availability of a book." ></item>
+<item slot="3" original="Find the book you want on the shelves." ></item>
+<item slot="4" original="Remove the book from the shelf." ></item>
+<item slot="5" original="Walk up to the circular desk." ></item>
+<item slot="6" original="Wait in line." ></item>
+<item slot="7" original="Present the librarian with the book you'd like to borrow." ></item>
+<item slot="8" original="Give the librarian your library card." ></item>
+<item slot="9" original="Check out the book." ></item>
+<item slot="10" original="Leave." ></item>
+</script><script id="26" source="2"><item slot="1" original="Leave house" ></item>
+<item slot="2" original="Go to library" ></item>
+<item slot="3" original="Talk to library attendant" ></item>
+<item slot="4" original="Get a library card" ></item>
+<item slot="5" original="Find a book" ></item>
+<item slot="6" original="Check out book" ></item>
+<item slot="7" original="Go home Read book" ></item>
+</script><script id="27" source="2"><item slot="1" original="Drive to the library." ></item>
+<item slot="2" original="Look up the book." ></item>
+<item slot="3" original="Walk to the correct area of the library." ></item>
+<item slot="4" original="Take the book from the shelf." ></item>
+<item slot="5" original="Go to the checkout line." ></item>
+<item slot="6" original="Hand the librarian your library card." ></item>
+<item slot="7" original="Hand the librarian the book." ></item>
+</script><script id="28" source="2"><item slot="1" original="Go to library." ></item>
+<item slot="2" original="Look through books on shelves." ></item>
+<item slot="3" original="Find book to check out." ></item>
+<item slot="4" original="Get out library card." ></item>
+<item slot="5" original="Scan library card at computer." ></item>
+<item slot="6" original="Scan book to borrow." ></item>
+<item slot="7" original="Take book and leave library." ></item>
+</script><script id="29" source="2"><item slot="1" original="Go to library." ></item>
+<item slot="2" original="Search for any books that you'd like to borrow." ></item>
+<item slot="3" original="Go to counter." ></item>
+<item slot="4" original="Show library card." ></item>
+<item slot="5" original="Check out books with librarian." ></item>
+<item slot="6" original="Take home and read." ></item>
+<item slot="7" original="Return by said date on receipt." ></item>
+</script><script id="30" source="2"><item slot="1" original="choose library" ></item>
+<item slot="2" original="find a book you want to read" ></item>
+<item slot="3" original="take book to counter" ></item>
+<item slot="4" original="find library card" ></item>
+<item slot="5" original="give card and book to librarian" ></item>
+<item slot="6" original="remember the date book is due back" ></item>
+<item slot="7" original="take book from librarian" ></item>
+<item slot="8" original="enjoy" ></item>
+</script><script id="31" source="2"><item slot="1" original="Walk into library" ></item>
+<item slot="2" original="Find book" ></item>
+<item slot="3" original="Go to counter" ></item>
+<item slot="4" original="Give the person book and library card" ></item>
+<item slot="5" original="They give you book, library card and a receipt" ></item>
+<item slot="6" original="They tell you when it's due back" ></item>
+<item slot="7" original="Leave library" ></item>
+</script><script id="32" source="2"><item slot="1" original="Enter library" ></item>
+<item slot="2" original="Look through books" ></item>
+<item slot="3" original="Find a book you want to read" ></item>
+<item slot="4" original="Take book to counter" ></item>
+<item slot="5" original="Give librarian the book and your library card" ></item>
+<item slot="6" original="Librarian stamps book" ></item>
+<item slot="7" original="Take book" ></item>
+<item slot="8" original="Leave Library" ></item>
+</script><script id="33" source="2"><item slot="1" original="Enter library" ></item>
+<item slot="2" original="Select book" ></item>
+<item slot="3" original="Bring to librarian at desk" ></item>
+<item slot="4" original="Show library card" ></item>
+<item slot="5" original="Wait for barcode to be scanned" ></item>
+<item slot="6" original="Take books from librarian" ></item>
+<item slot="7" original="Leave library" ></item>
+</script><script id="34" source="2"><item slot="1" original="Enter library" ></item>
+<item slot="2" original="Find desired book" ></item>
+<item slot="3" original="Look for librarian" ></item>
+<item slot="4" original="Ask to borrow book" ></item>
+<item slot="5" original="Leave library with book" ></item>
+</script><script id="36" source="2"><item slot="1" original="Walk into library" ></item>
+<item slot="2" original="Browse the books and pick whatever interests you" ></item>
+<item slot="3" original="Take book to the front desk" ></item>
+<item slot="4" original="Show the librarian your library card" ></item>
+<item slot="5" original="Be told when the book is due back" ></item>
+<item slot="6" original="Take the book home" ></item>
+<item slot="7" original="Read the book for the next 2 weeks" ></item>
+</script><script id="37" source="2"><item slot="1" original="Walk to library." ></item>
+<item slot="2" original="Browse through books." ></item>
+<item slot="3" original="Make a selection." ></item>
+<item slot="4" original="Walk up to librarian." ></item>
+<item slot="5" original="Give librarian my library card." ></item>
+<item slot="6" original="Wait for librarian to approve." ></item>
+<item slot="7" original="Get the books." ></item>
+<item slot="8" original="Walk home." ></item>
+</script><script id="38" source="2"><item slot="1" original="Get in the car" ></item>
+<item slot="2" original="Turn the car on" ></item>
+<item slot="3" original="Drive to library" ></item>
+<item slot="4" original="Park car" ></item>
+<item slot="5" original="Go inside" ></item>
+<item slot="6" original="Find a book I want" ></item>
+<item slot="7" original="Check it out" ></item>
+</script><script id="39" source="2"><item slot="1" original="Walk into library" ></item>
+<item slot="2" original="Browse new book release section" ></item>
+<item slot="3" original="Choose new book to read" ></item>
+<item slot="4" original="Carry book to counter" ></item>
+<item slot="5" original="Give library card to borrow book" ></item>
+<item slot="6" original="Pick up book" ></item>
+<item slot="7" original="Walk out of the library" ></item>
+</script><script id="40" source="2"><item slot="1" original="get into library" ></item>
+<item slot="2" original="find book" ></item>
+<item slot="3" original="grab book off shelf" ></item>
+<item slot="4" original="sign book out" ></item>
+<item slot="5" original="leave" ></item>
+</script><script id="41" source="2"><item slot="1" original="Go to the library" ></item>
+<item slot="2" original="Enter the library" ></item>
+<item slot="3" original="Pick out a book" ></item>
+<item slot="4" original="Take book to counter" ></item>
+<item slot="5" original="Give librarian library card" ></item>
+<item slot="6" original="Take book from library" ></item>
+<item slot="7" original="Return home with book" ></item>
+</script><script id="42" source="2"><item slot="1" original="enter into the library" ></item>
+<item slot="2" original="search for interesting book" ></item>
+<item slot="3" original="take book to front desk" ></item>
+<item slot="4" original="give book and library card to librarian" ></item>
+<item slot="5" original="librarian scans book" ></item>
+<item slot="6" original="take book back from librarian" ></item>
+<item slot="7" original="leave library" ></item>
+</script><script id="43" source="2"><item slot="1" original="Go to the library" ></item>
+<item slot="2" original="Browse books" ></item>
+<item slot="3" original="Choose book" ></item>
+<item slot="4" original="Take book to front desk" ></item>
+<item slot="5" original="Give book and library card to librarian" ></item>
+<item slot="6" original="Get book and receipt from librarian" ></item>
+<item slot="7" original="Leave library with book" ></item>
+</script><script id="44" source="2"><item slot="1" original="Find book." ></item>
+<item slot="2" original="Go to check out." ></item>
+<item slot="3" original="Give library card and book." ></item>
+<item slot="4" original="Find out day book is due back." ></item>
+<item slot="5" original="Leave library." ></item>
+</script><script id="45" source="2"><item slot="1" original="Make sure you have library card." ></item>
+<item slot="2" original="Drive to library." ></item>
+<item slot="3" original="Park." ></item>
+<item slot="4" original="Go inside." ></item>
+<item slot="5" original="Look for a book." ></item>
+<item slot="6" original="Take it to check out counter." ></item>
+<item slot="7" original="Go back to the car." ></item>
+<item slot="8" original="Drive home." ></item>
+</script><script id="46" source="2"><item slot="1" original="walk to the library" ></item>
+<item slot="2" original="select an interesting book" ></item>
+<item slot="3" original="take it to the desk" ></item>
+<item slot="4" original="present library card" ></item>
+<item slot="5" original="check out" ></item>
+<item slot="6" original="go home" ></item>
+<item slot="7" original="read book" ></item>
+</script><script id="47" source="2"><item slot="1" original="Visit library" ></item>
+<item slot="2" original="Find a book you would like to borrow" ></item>
+<item slot="3" original="Take book up to the counter" ></item>
+<item slot="4" original="Pull out library card and present it to the worker" ></item>
+<item slot="5" original="Watch as they scan your card and authorize it" ></item>
+<item slot="6" original="Grab book and library card and go home" ></item>
+</script><script id="48" source="2"><item slot="1" original="enter the library" ></item>
+<item slot="2" original="look up book in catalog" ></item>
+<item slot="3" original="write the number down to the book" ></item>
+<item slot="4" original="search for book in shelves" ></item>
+<item slot="5" original="locate the book" ></item>
+<item slot="6" original="pick book up" ></item>
+<item slot="7" original="walk up to counter" ></item>
+<item slot="8" original="hand book to person" ></item>
+<item slot="9" original="take book back" ></item>
+<item slot="10" original="walk out of the library" ></item>
+</script><script id="49" source="2"><item slot="1" original="Walk in library" ></item>
+<item slot="2" original="Find desired book" ></item>
+<item slot="3" original="Walk up to check-out counter" ></item>
+<item slot="4" original="Hand book and library card to desk attendant" ></item>
+<item slot="5" original="Take book and card home with you" ></item>
+<item slot="6" original="Bring book back before/on return date" ></item>
+</script><script id="50" source="2"><item slot="1" original="find a book  you want to read" ></item>
+<item slot="2" original="take it to the front" ></item>
+<item slot="3" original="show card" ></item>
+<item slot="4" original="take book home" ></item>
+<item slot="5" original="return it by the date shown" ></item>
+</script><script id="51" source="2"><item slot="1" original="Go to the library" ></item>
+<item slot="2" original="Search for a book" ></item>
+<item slot="3" original="Get the book" ></item>
+<item slot="4" original="Go to the librarian's desk" ></item>
+<item slot="5" original="Present my library card" ></item>
+<item slot="6" original="Check out" ></item>
+</script><script id="52" source="2"><item slot="1" original="enter library" ></item>
+<item slot="2" original="look for book" ></item>
+<item slot="3" original="locate book" ></item>
+<item slot="4" original="bring book to front desk" ></item>
+<item slot="5" original="present library card" ></item>
+<item slot="6" original="check out book" ></item>
+<item slot="7" original="leave library" ></item>
+</script><script id="53" source="2"><item slot="1" original="Walk into the library" ></item>
+<item slot="2" original="Choose a book" ></item>
+<item slot="3" original="Take book to clerk" ></item>
+<item slot="4" original="Get out your library card" ></item>
+<item slot="5" original="Hand to clerk" ></item>
+<item slot="6" original="Take card back from clerk" ></item>
+<item slot="7" original="Put away your card" ></item>
+<item slot="8" original="Take book from clerk" ></item>
+<item slot="9" original="Walk out of library" ></item>
+</script><script id="54" source="2"><item slot="1" original="Drive or walk to library" ></item>
+<item slot="2" original="Browse through the books in the sections you like" ></item>
+<item slot="3" original="Find a book that interests you" ></item>
+<item slot="4" original="Go to the librarian" ></item>
+<item slot="5" original="Show the librarian your library card" ></item>
+<item slot="6" original="Get confirmation from librarian" ></item>
+<item slot="7" original="Head home to enjoy your book!" ></item>
+</script><script id="55" source="2"><item slot="1" original="Choose book to borrow" ></item>
+<item slot="2" original="Take to the library counter" ></item>
+<item slot="3" original="Give librarian library card with the book" ></item>
+<item slot="4" original="Check out the book" ></item>
+<item slot="5" original="Leave library" ></item>
+</script><script id="56" source="2"><item slot="1" original="GO TO THE LIBRARY" ></item>
+<item slot="2" original="CHOOSE THE BOOK YOU WANT TO READ" ></item>
+<item slot="3" original="GO TO THE COUNTER AND CHECK OUT THE BOOK" ></item>
+<item slot="4" original="READ THE BOOK" ></item>
+<item slot="5" original="RETURN THE BOOK TO THE LIBRARY" ></item>
+</script><script id="57" source="2"><item slot="1" original="Enter the library" ></item>
+<item slot="2" original="Browse the book selection" ></item>
+<item slot="3" original="Pick a book" ></item>
+<item slot="4" original="Check out the book with the librarian" ></item>
+<item slot="5" original="Get the return slip" ></item>
+<item slot="6" original="Leave the library" ></item>
+<item slot="7" original="Return the book on the intended date." ></item>
+</script><script id="58" source="2"><item slot="1" original="Decide that you would like to borrow a book." ></item>
+<item slot="2" original="Go to the library." ></item>
+<item slot="3" original="Walk around the library." ></item>
+<item slot="4" original="Go to the section of books that you are interested in." ></item>
+<item slot="5" original="Browse the selection of books." ></item>
+<item slot="6" original="Find a book that interests you." ></item>
+<item slot="7" original="Take the book from the shelf." ></item>
+<item slot="8" original="Go to the checkout counter." ></item>
+<item slot="9" original="Give library worker the book and library card." ></item>
+<item slot="10" original="Library worker checks the book out for you." ></item>
+<item slot="11" original="Library workers gives you the book and your library card back." ></item>
+</script><script id="59" source="2"><item slot="1" original="Go to the library" ></item>
+<item slot="2" original="Find the book you are looking for" ></item>
+<item slot="3" original="Take the book to the librarian with your membership card" ></item>
+<item slot="4" original="Get the book issued on your name" ></item>
+<item slot="5" original="Take the book" ></item>
+</script><script id="60" source="2"><item slot="1" original="drive to library" ></item>
+<item slot="2" original="go to computer" ></item>
+<item slot="3" original="type book into computer" ></item>
+<item slot="4" original="find book at destination" ></item>
+<item slot="5" original="take book to checkout desk" ></item>
+<item slot="6" original="present library card" ></item>
+<item slot="7" original="have book scanned" ></item>
+<item slot="8" original="take book" ></item>
+<item slot="9" original="drive home" ></item>
+</script><script id="61" source="2"><item slot="1" original="Find book in library database" ></item>
+<item slot="2" original="Consult library map for location of book" ></item>
+<item slot="3" original="Find book on shelf" ></item>
+<item slot="4" original="Take book to checkout area" ></item>
+<item slot="5" original="Present library card to clerk for checkout" ></item>
+<item slot="6" original="Take card and book" ></item>
+</script><script id="62" source="2"><item slot="1" original="Go to the library" ></item>
+<item slot="2" original="If you don't have a library card, apply for one. One will be issued right there" ></item>
+<item slot="3" original="Look for the book you would like to borrow" ></item>
+<item slot="4" original="The librarian can help you find what you need" ></item>
+<item slot="5" original="When you have made your selection, take your book to the counter" ></item>
+<item slot="6" original="Present your card" ></item>
+<item slot="7" original="The librarian will check your book" ></item>
+<item slot="8" original="Take your book home" ></item>
+<item slot="9" original="Return your borrowed book on or before the date specified" ></item>
+</script><script id="63" source="2"><item slot="1" original="Enter the library" ></item>
+<item slot="2" original="Look at the shelves" ></item>
+<item slot="3" original="Pick out the book you like" ></item>
+<item slot="4" original="Take the book to the front desk" ></item>
+<item slot="5" original="Show them your library card" ></item>
+<item slot="6" original="Have the book stamped" ></item>
+<item slot="7" original="Leave the library" ></item>
+</script><script id="65" source="2"><item slot="1" original="Go to the library." ></item>
+<item slot="2" original="Find the catalog." ></item>
+<item slot="3" original="Look up the appropriate book." ></item>
+<item slot="4" original="Find the book on the shelves." ></item>
+<item slot="5" original="Take the book to a librarian to check out." ></item>
+<item slot="6" original="Give her your library card." ></item>
+<item slot="7" original="Scan the book." ></item>
+<item slot="8" original="Leave the library with the book." ></item>
+</script><script id="66" source="2"><item slot="1" original="Get in the car." ></item>
+<item slot="2" original="Drive to the library," ></item>
+<item slot="3" original="Read the back of book descriptions." ></item>
+<item slot="4" original="Choose a novel." ></item>
+<item slot="5" original="Sign out at the checkout desk." ></item>
+<item slot="6" original="Go home." ></item>
+</script><script id="67" source="2"><item slot="1" original="browse book category" ></item>
+<item slot="2" original="decide what book you want to check out" ></item>
+<item slot="3" original="bring to library counter" ></item>
+<item slot="4" original="show librarian your library card" ></item>
+<item slot="5" original="Librarian will show you receipt when book is due" ></item>
+<item slot="6" original="take book home and enjoy" ></item>
+</script><script id="68" source="2"><item slot="1" original="Walk into library." ></item>
+<item slot="2" original="Look at books." ></item>
+<item slot="3" original="Pick a book you like." ></item>
+<item slot="4" original="Take book to register." ></item>
+<item slot="5" original="Get out library card." ></item>
+<item slot="6" original="Hand card to lady." ></item>
+<item slot="7" original="Lady stamps book." ></item>
+<item slot="8" original="Lady gives you card back." ></item>
+<item slot="9" original="Put card in purse." ></item>
+<item slot="10" original="Take book and leave." ></item>
+</script><script id="69" source="2"><item slot="1" original="Select a book that you would like to check out at the library." ></item>
+<item slot="2" original="Take the book to the checkout counter inside the library." ></item>
+<item slot="3" original="Present your library card to the person at the checkout counter." ></item>
+<item slot="4" original="The person at the counter will check each of the books out." ></item>
+<item slot="5" original="Make a note of when the books should be returned." ></item>
+<item slot="6" original="Take the books from the library." ></item>
+</script><script id="70" source="2"><item slot="1" original="Enter library" ></item>
+<item slot="2" original="Browse books" ></item>
+<item slot="3" original="Select a book" ></item>
+<item slot="4" original="Take book up to front desk" ></item>
+<item slot="5" original="Give book and library card to librarian" ></item>
+<item slot="6" original="Take book and library card back" ></item>
+<item slot="7" original="Leave library" ></item>
+</script><script id="71" source="2"><item slot="1" original="Pick the book from the library shelf." ></item>
+<item slot="2" original="Bring the book and your library card to librarian." ></item>
+<item slot="3" original="Check out the book by librarian." ></item>
+<item slot="4" original="Get a receipt." ></item>
+<item slot="5" original="Leave the library with the desired book." ></item>
+</script><script id="72" source="2"><item slot="1" original="have a library card available" ></item>
+<item slot="2" original="walk or drive to local library" ></item>
+<item slot="3" original="walk in and look for desired book" ></item>
+<item slot="4" original="go to main desk and check the book out" ></item>
+<item slot="5" original="walk out the library" ></item>
+</script><script id="73" source="2"><item slot="1" original="go to the library" ></item>
+<item slot="2" original="find book that you want to borrow" ></item>
+<item slot="3" original="bring book to the librarian at the desk" ></item>
+<item slot="4" original="show librarian library card" ></item>
+<item slot="5" original="librarian stamps book with return date" ></item>
+<item slot="6" original="leave with book" ></item>
+</script><script id="74" source="2"><item slot="1" original="Go to library" ></item>
+<item slot="2" original="Enter library" ></item>
+<item slot="3" original="Look up book location" ></item>
+<item slot="4" original="Write down book location" ></item>
+<item slot="5" original="Find shelf in library" ></item>
+<item slot="6" original="Find book on shelf" ></item>
+<item slot="7" original="Take book to circulation desk" ></item>
+<item slot="8" original="Give book to librarian" ></item>
+<item slot="9" original="Give library card to librarian" ></item>
+<item slot="10" original="Wait for librarian to check out book" ></item>
+<item slot="11" original="Receive book and card from librarian" ></item>
+<item slot="12" original="Leave library" ></item>
+</script><script id="75" source="2"><item slot="1" original="Enter the library" ></item>
+<item slot="2" original="Register name" ></item>
+<item slot="3" original="See catalog" ></item>
+<item slot="4" original="See the displays" ></item>
+<item slot="5" original="Select the books" ></item>
+<item slot="6" original="Bring selected books to librarian" ></item>
+<item slot="7" original="Hand over membership card to librarian" ></item>
+<item slot="8" original="Enter your code" ></item>
+<item slot="9" original="Librarian make entries in computer" ></item>
+<item slot="10" original="Collect the books" ></item>
+<item slot="11" original="Collect the membership card" ></item>
+<item slot="12" original="Leave the library" ></item>
+</script><script id="76" source="2"><item slot="1" original="go to the library" ></item>
+<item slot="2" original="select the book" ></item>
+<item slot="3" original="go to the librarian" ></item>
+<item slot="4" original="issue the book" ></item>
+<item slot="5" original="take the book home" ></item>
+</script><script id="77" source="2"><item slot="1" original="Go to library" ></item>
+<item slot="2" original="Look through books and pick out the one you want" ></item>
+<item slot="3" original="Take it up to counter" ></item>
+<item slot="4" original="Librarian scans book and your library card" ></item>
+<item slot="5" original="Take book home" ></item>
+<item slot="6" original="Read book" ></item>
+</script><script id="78" source="2"><item slot="1" original="Get books to be returned" ></item>
+<item slot="2" original="Go to library" ></item>
+<item slot="3" original="Return books in proper bin" ></item>
+<item slot="4" original="Go to shelves of interest" ></item>
+<item slot="5" original="Browse to find books to borrow" ></item>
+<item slot="6" original="Take books to check out counter" ></item>
+<item slot="7" original="Get library card and scan barcode" ></item>
+<item slot="8" original="Scan barcodes on each book to be borrowed" ></item>
+<item slot="9" original="Get receipt of books borrowed" ></item>
+<item slot="10" original="Leave library" ></item>
+</script><script id="79" source="2"><item slot="1" original="Go to library" ></item>
+<item slot="2" original="Look up book in catalogue" ></item>
+<item slot="3" original="Locate book on shelf" ></item>
+<item slot="4" original="Get book" ></item>
+<item slot="5" original="Take book to circulation desk" ></item>
+<item slot="6" original="Give librarian your library card" ></item>
+<item slot="7" original="Check out book" ></item>
+<item slot="8" original="Take card and book" ></item>
+<item slot="9" original="Leave library" ></item>
+<item slot="10" original="Read book" ></item>
+<item slot="11" original="Return book to library before due date, or call to extend/renew term" ></item>
+</script><script id="80" source="2"><item slot="1" original="Go to library" ></item>
+<item slot="2" original="Enter stacks of library" ></item>
+<item slot="3" original="Find book that you want to get" ></item>
+<item slot="4" original="Take book to check out line" ></item>
+<item slot="5" original="Sign out (or electronically scan) book at check out station" ></item>
+<item slot="6" original="Thank librarian" ></item>
+<item slot="7" original="Leave library" ></item>
+</script><script id="81" source="2"><item slot="1" original="Decide which book you would like" ></item>
+<item slot="2" original="Go to front counter" ></item>
+<item slot="3" original="Give your book to the librarian" ></item>
+<item slot="4" original="Give her your library card" ></item>
+<item slot="5" original="Take note of when the books are due back" ></item>
+<item slot="6" original="Receive your book" ></item>
+<item slot="7" original="Go home and enjoy" ></item>
+</script><script id="82" source="2"><item slot="1" original="Travel to the library." ></item>
+<item slot="2" original="Search the library for the book that you want." ></item>
+<item slot="3" original="Remove the book from the shelf." ></item>
+<item slot="4" original="Take the book to the front desk." ></item>
+<item slot="5" original="Show the librarian your library card." ></item>
+<item slot="6" original="Advise the librarian that you want to check the book out." ></item>
+<item slot="7" original="Receive the book and your card when given to you." ></item>
+<item slot="8" original="Walk out with the book." ></item>
+</script><script id="83" source="2"><item slot="1" original="Go to library" ></item>
+<item slot="2" original="Find book" ></item>
+<item slot="3" original="Go to check out desk" ></item>
+<item slot="4" original="Show clerk your library card" ></item>
+<item slot="5" original="Clerk scans library card" ></item>
+<item slot="6" original="Clerk scans book" ></item>
+<item slot="7" original="Clerk gives due date" ></item>
+</script><script id="84" source="2"><item slot="1" original="Go to the library" ></item>
+<item slot="2" original="Browse the shelves" ></item>
+<item slot="3" original="Select a book" ></item>
+<item slot="4" original="Bring book to front desk" ></item>
+<item slot="5" original="Hand book to librarian" ></item>
+<item slot="6" original="Present library card" ></item>
+<item slot="7" original="Wait for librarian to check out book" ></item>
+<item slot="8" original="Take book from librarian" ></item>
+<item slot="9" original="Check due date" ></item>
+<item slot="10" original="Put book in bag" ></item>
+<item slot="11" original="Leave library" ></item>
+</script><script id="85" source="2"><item slot="1" original="Go to library." ></item>
+<item slot="2" original="Find book." ></item>
+<item slot="3" original="Take book to checkout counter." ></item>
+<item slot="4" original="Type in library card number and PIN number." ></item>
+<item slot="5" original="Scan barcode of book." ></item>
+<item slot="6" original="Get receipt." ></item>
+<item slot="7" original="Take book." ></item>
+<item slot="8" original="Leave library." ></item>
+</script><script id="86" source="2"><item slot="1" original="Pick a book" ></item>
+<item slot="2" original="Get in car" ></item>
+<item slot="3" original="Drive to library" ></item>
+<item slot="4" original="Find book" ></item>
+<item slot="5" original="Check out book from library" ></item>
+<item slot="6" original="Drive home" ></item>
+</script><script id="87" source="2"><item slot="1" original="Enter Library." ></item>
+<item slot="2" original="Use catalog to find book you want." ></item>
+<item slot="3" original="Take book to checkout." ></item>
+<item slot="4" original="Give book and card to librarian." ></item>
+<item slot="5" original="Once they return book to you leave library." ></item>
+<item slot="6" original="Return book by the due date." ></item>
+</script><script id="88" source="2"><item slot="1" original="Go to the library." ></item>
+<item slot="2" original="Look up the book that you want to borrow on the card catalog." ></item>
+<item slot="3" original="Write down the number of the book." ></item>
+<item slot="4" original="Find the book using the number to help you." ></item>
+<item slot="5" original="Take the book to the check out desk." ></item>
+<item slot="6" original="Show your library card to the librarian." ></item>
+<item slot="7" original="Take your book and leave." ></item>
+</script><script id="89" source="2"><item slot="1" original="Go to library" ></item>
+<item slot="2" original="Browse the shelves" ></item>
+<item slot="3" original="Take a book out" ></item>
+<item slot="4" original="Read the back" ></item>
+<item slot="5" original="Decide to borrow the book" ></item>
+<item slot="6" original="Go to the librarian" ></item>
+<item slot="7" original="Place book on counter" ></item>
+<item slot="8" original="Librarian scans barcode" ></item>
+<item slot="9" original="Librarian stamps due date" ></item>
+<item slot="10" original="Present library card" ></item>
+<item slot="11" original="Librarian swipes card" ></item>
+<item slot="12" original="Get card back" ></item>
+<item slot="13" original="Leave with book" ></item>
+</script><script id="90" source="2"><item slot="1" original="research the book that you want" ></item>
+<item slot="2" original="go to the library" ></item>
+<item slot="3" original="find the book" ></item>
+<item slot="4" original="bring the book to the counter" ></item>
+<item slot="5" original="scan the book and your card" ></item>
+</script><script id="91" source="2"><item slot="1" original="Go to library" ></item>
+<item slot="2" original="Sign up for library card" ></item>
+<item slot="3" original="Look up desired book on handy computer system" ></item>
+<item slot="4" original="Find book in the aisles" ></item>
+<item slot="5" original="Take book to check-out desk" ></item>
+<item slot="6" original="Give librarian your library card" ></item>
+<item slot="7" original="Get card placed in book bearing return date" ></item>
+<item slot="8" original="Get receipt for book" ></item>
+<item slot="9" original="Exit library" ></item>
+</script><script id="92" source="2"><item slot="1" original="Got to library" ></item>
+<item slot="2" original="Acquire library card" ></item>
+<item slot="3" original="Browse library for books" ></item>
+<item slot="4" original="Select desired books" ></item>
+<item slot="5" original="Bring to librarian to check out" ></item>
+<item slot="6" original="Present library card along with books" ></item>
+</script><script id="93" source="2"><item slot="1" original="Go to the library" ></item>
+<item slot="2" original="Find a book you like" ></item>
+<item slot="3" original="Bring it to the librarian" ></item>
+<item slot="4" original="Give librarian your library card" ></item>
+<item slot="5" original="Take the book home and read it" ></item>
+<item slot="6" original="Go back to the library" ></item>
+<item slot="7" original="Return the book" ></item>
+</script><script id="94" source="2"><item slot="1" original="go to the library" ></item>
+<item slot="2" original="select a book" ></item>
+<item slot="3" original="wait at the desk" ></item>
+<item slot="4" original="present your card" ></item>
+<item slot="5" original="take your book home" ></item>
+</script><script id="95" source="2"><item slot="1" original="Go to the library" ></item>
+<item slot="2" original="Find a book you would like to read" ></item>
+<item slot="3" original="Bring the book to the librarian" ></item>
+<item slot="4" original="If needed open a library account" ></item>
+<item slot="5" original="Check out the book" ></item>
+<item slot="6" original="Leave the library." ></item>
+</script><script id="96" source="2"><item slot="1" original="Go to the library" ></item>
+<item slot="2" original="Browse various sections" ></item>
+<item slot="3" original="Find a book you like" ></item>
+<item slot="4" original="Pick up the book" ></item>
+<item slot="5" original="Approach the counter" ></item>
+<item slot="6" original="Pay to check out the book" ></item>
+<item slot="7" original="Leave" ></item>
+</script><script id="97" source="2"><item slot="1" original="Go to the library" ></item>
+<item slot="2" original="Hunt for a book you would like to borrow" ></item>
+<item slot="3" original="Take book to the front" ></item>
+<item slot="4" original="Use library card to borrow book" ></item>
+<item slot="5" original="Leave library" ></item>
+</script><script id="98" source="2"><item slot="1" original="Go to the library" ></item>
+<item slot="2" original="Find a book you want to borrow" ></item>
+<item slot="3" original="Take the book to the counter" ></item>
+<item slot="4" original="Show the librarian your library card" ></item>
+<item slot="5" original="Wait while the librarian makes notes and puts the return date inside the cover" ></item>
+<item slot="6" original="Leave with the book" ></item>
+<item slot="7" original="Return the book to the library no later than the return date" ></item>
+</script><script id="102" source="2"><item slot="1" original="Go to library" ></item>
+<item slot="2" original="Walk in door" ></item>
+<item slot="3" original="Find book" ></item>
+<item slot="4" original="Go to counter" ></item>
+<item slot="5" original="Give book and card to librarian" ></item>
+<item slot="6" original="Go home" ></item>
+</script></scripts>

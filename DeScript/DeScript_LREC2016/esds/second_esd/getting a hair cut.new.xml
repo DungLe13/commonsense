@@ -1,0 +1,851 @@
+<scripts><script id="1" source="2"><item slot="1" original="go to the barber shop" ></item>
+<item slot="2" original="greet the barber" ></item>
+<item slot="3" original="wait until your turn" ></item>
+<item slot="4" original="sit down in the barber chair" ></item>
+<item slot="5" original="explain how you want your hair cut" ></item>
+<item slot="6" original="talk with the barber" ></item>
+<item slot="7" original="follow the barber's directions" ></item>
+<item slot="8" original="look at yourself in the mirror" ></item>
+<item slot="9" original="tell barber when you're satisfied" ></item>
+<item slot="10" original="stand up" ></item>
+<item slot="11" original="brush loose hair off your clothing" ></item>
+<item slot="12" original="pay the barber" ></item>
+<item slot="13" original="tip the barber if appropriate" ></item>
+<item slot="14" original="leave the barber shop" ></item>
+</script><script id="2" source="2"><item slot="1" original="Go to the salon" ></item>
+<item slot="2" original="Show a picture of how you want your hair to look" ></item>
+<item slot="3" original="Get your hair washed" ></item>
+<item slot="4" original="Get your hair combed" ></item>
+<item slot="5" original="Beautician cuts hair" ></item>
+<item slot="6" original="Beautician blowdries hair" ></item>
+<item slot="7" original="Beautician styles hair" ></item>
+<item slot="8" original="Look in the mirror" ></item>
+<item slot="9" original="Pay for haircut" ></item>
+</script><script id="3" source="2"><item slot="1" original="go to hair salon" ></item>
+<item slot="2" original="enter salon" ></item>
+<item slot="3" original="go to reception desk" ></item>
+<item slot="4" original="request haircut" ></item>
+<item slot="5" original="wait to be called" ></item>
+<item slot="6" original="when called, sit in chair" ></item>
+<item slot="7" original="get long drape to cover clothing fastened at neck" ></item>
+<item slot="8" original="staff member moistens hair" ></item>
+<item slot="9" original="hair is sectioned" ></item>
+<item slot="10" original="hair is cut" ></item>
+<item slot="11" original="evenness between sides is checked" ></item>
+<item slot="12" original="look in mirror, remove drape" ></item>
+<item slot="13" original="approve haircut" ></item>
+<item slot="14" original="thank staff" ></item>
+<item slot="15" original="pay for haircut" ></item>
+<item slot="16" original="leave" ></item>
+</script><script id="4" source="2"><item slot="1" original="Do research on the style you would like" ></item>
+<item slot="2" original="Call salon and make an appointment" ></item>
+<item slot="3" original="Go to your hair appointment" ></item>
+<item slot="4" original="Talk with hairdresser about what style and cut you want" ></item>
+<item slot="5" original="Wait patiently while your hair is being cut and styled" ></item>
+<item slot="6" original="When finished thank the stylist" ></item>
+<item slot="7" original="Go to front counter" ></item>
+<item slot="8" original="Pay for the haircut" ></item>
+<item slot="9" original="Offer a small tip to your hair dresser" ></item>
+<item slot="10" original="Thank them" ></item>
+</script><script id="5" source="2"><item slot="1" original="entering salon" ></item>
+<item slot="2" original="telling stylist how to cut hair." ></item>
+<item slot="3" original="sitting in seat" ></item>
+<item slot="4" original="washing hair" ></item>
+<item slot="5" original="having the stylist cut hair" ></item>
+<item slot="6" original="paying for haircut" ></item>
+<item slot="7" original="leaving the salon" ></item>
+</script><script id="6" source="2"><item slot="1" original="Go to the hair cutting salon" ></item>
+<item slot="2" original="Tell the hair stylist that you need a haircut" ></item>
+<item slot="3" original="Choose a hairstyle that you want your hair to be cut" ></item>
+<item slot="4" original="Sit on the hair cutting seat" ></item>
+<item slot="5" original="Let the hair stylist cut your hair" ></item>
+</script><script id="7" source="2"><item slot="1" original="Wear old clothes" ></item>
+<item slot="2" original="Go to Salon" ></item>
+<item slot="3" original="Ask barber for desired cut style" ></item>
+<item slot="4" original="Wear a napkin like cloth around neck" ></item>
+<item slot="5" original="Sit on chair in front of mirror" ></item>
+<item slot="6" original="Let the Barber cut the hair" ></item>
+<item slot="7" original="When finished remove the cloth" ></item>
+<item slot="8" original="Clean the pieces of hair on clothes" ></item>
+<item slot="9" original="Pay the fees" ></item>
+<item slot="10" original="Take a shower" ></item>
+<item slot="11" original="Enjoy the fresh look" ></item>
+</script><script id="8" source="2"><item slot="1" original="Find out what kind of haircut you want." ></item>
+<item slot="2" original="Go to barbershop." ></item>
+<item slot="3" original="Wait till their is an available barber." ></item>
+<item slot="4" original="Sit in chair." ></item>
+<item slot="5" original="Ask for haircut you want." ></item>
+<item slot="6" original="Wait while barber cuts your hair." ></item>
+<item slot="7" original="Pay for haircut." ></item>
+<item slot="8" original="Tip the barber." ></item>
+</script><script id="9" source="2"><item slot="1" original="Go to the salon" ></item>
+<item slot="2" original="Take the seat" ></item>
+<item slot="3" original="Choose the style of haircut you want" ></item>
+<item slot="4" original="Beautician cuts your hair" ></item>
+<item slot="5" original="Wash the head after hair cut" ></item>
+<item slot="6" original="Dry your hair" ></item>
+<item slot="7" original="Pay for the haircut" ></item>
+<item slot="8" original="Leave the salon" ></item>
+</script><script id="11" source="2"><item slot="1" original="Drive to the barber" ></item>
+<item slot="2" original="Park your car and get out" ></item>
+<item slot="3" original="Walk inside" ></item>
+<item slot="4" original="Write your name on the sign in paper" ></item>
+<item slot="5" original="Wait for your name to be called" ></item>
+<item slot="6" original="Tell the barber what style you want" ></item>
+<item slot="7" original="Pay when the haircut is finished" ></item>
+</script><script id="12" source="2"><item slot="1" original="Call hair salon" ></item>
+<item slot="2" original="Make appointment" ></item>
+<item slot="3" original="Wait for appointment" ></item>
+<item slot="4" original="Go to salon" ></item>
+<item slot="5" original="Sit in chair" ></item>
+<item slot="6" original="Get hair cut" ></item>
+<item slot="7" original="Get out of chair" ></item>
+<item slot="8" original="Pay stylist" ></item>
+<item slot="9" original="Leave" ></item>
+</script><script id="14" source="2"><item slot="1" original="Decide which saloon to go , reach and step into it." ></item>
+<item slot="2" original="See whether my regular barber is free and if he is engaged wait for him to finish his work" ></item>
+<item slot="3" original="In the mean time read magazines for pictures first, then for jokes and news." ></item>
+<item slot="4" original="Get my hair cut in latest style." ></item>
+<item slot="5" original="Pay the amount" ></item>
+<item slot="6" original="Tip the barber" ></item>
+<item slot="7" original="Leave the saloon" ></item>
+</script><script id="15" source="2"><item slot="1" original="Get in car" ></item>
+<item slot="2" original="Drive to Beauty Salon" ></item>
+<item slot="3" original="Go inside" ></item>
+<item slot="4" original="Ask if they can cut your hair now" ></item>
+<item slot="5" original="sit down in the chair" ></item>
+<item slot="6" original="after hair cut pay" ></item>
+</script><script id="16" source="2"><item slot="1" original="Dress to go out." ></item>
+<item slot="2" original="Drive to salon or barber." ></item>
+<item slot="3" original="Check in with desk person." ></item>
+<item slot="4" original="Wait for name to be called." ></item>
+<item slot="5" original="Explain desired cut to stylist." ></item>
+<item slot="6" original="Go to sinks to have hair washed." ></item>
+<item slot="7" original="Return to barber chair." ></item>
+<item slot="8" original="Sit still as stylist cuts hair." ></item>
+<item slot="9" original="Endure blow dry and styling." ></item>
+<item slot="10" original="Admire new self in mirror." ></item>
+<item slot="11" original="Pay bill." ></item>
+<item slot="12" original="Give stylist cash tip." ></item>
+<item slot="13" original="Drive home." ></item>
+</script><script id="17" source="2"><item slot="1" original="Make an appointment with your hair stylist" ></item>
+<item slot="2" original="Go to salon for appointment" ></item>
+<item slot="3" original="Sit in hair stylist's chair" ></item>
+<item slot="4" original="Tell the hair stylist what kind of cut you would like" ></item>
+<item slot="5" original="Pay hair stylist when finished" ></item>
+<item slot="6" original="Leave salon" ></item>
+</script><script id="18" source="2"><item slot="1" original="Make an appointment with a beauty salon" ></item>
+<item slot="2" original="Go to the appointment" ></item>
+<item slot="3" original="Sit at the chair" ></item>
+<item slot="4" original="Put on salon cape" ></item>
+<item slot="5" original="Tell beautician how you want your hair cut" ></item>
+<item slot="6" original="Get hair cut" ></item>
+<item slot="7" original="Pay and Tip beautician" ></item>
+</script><script id="19" source="2"><item slot="1" original="Make appointment at salon" ></item>
+<item slot="2" original="Go to salon at appointment time" ></item>
+<item slot="3" original="Wait to be called" ></item>
+<item slot="4" original="Have hair washed and conditioned" ></item>
+<item slot="5" original="Be directed to seat" ></item>
+<item slot="6" original="Have apron put across you" ></item>
+<item slot="7" original="Tell hairdresser what you want" ></item>
+<item slot="8" original="Hairdressers cuts and styles" ></item>
+<item slot="9" original="Look in mirror" ></item>
+<item slot="10" original="Pay and tip hairdresser" ></item>
+<item slot="11" original="Leave salon" ></item>
+</script><script id="20" source="2"><item slot="1" original="Walk into a salon" ></item>
+<item slot="2" original="Tell the receptionist you would like a hair cut" ></item>
+<item slot="3" original="Sit in the waiting area and wait for a stylist to greet you" ></item>
+<item slot="4" original="Sit in the stylist's chair" ></item>
+<item slot="5" original="Get a cape put on to keep hair off your clothes" ></item>
+<item slot="6" original="Tell the stylist what you want done to your hair" ></item>
+<item slot="7" original="Sit still while the stylist cuts your hair" ></item>
+</script><script id="21" source="2"><item slot="1" original="Go to barber" ></item>
+<item slot="2" original="Sign in" ></item>
+<item slot="3" original="Wait in lobby" ></item>
+<item slot="4" original="Barber is ready" ></item>
+<item slot="5" original="Sit in chair" ></item>
+<item slot="6" original="Get haircut" ></item>
+<item slot="7" original="Pay at desk" ></item>
+<item slot="8" original="Tip barber" ></item>
+<item slot="9" original="Leave barbershop/salon" ></item>
+</script><script id="22" source="2"><item slot="1" original="Go to barber shop." ></item>
+<item slot="2" original="Sit and wait your turn in designated area." ></item>
+<item slot="3" original="Meet with barber and sit in chair." ></item>
+<item slot="4" original="Allow barber to cut and style your hair." ></item>
+<item slot="5" original="Arrange for next appointment." ></item>
+<item slot="6" original="Pay for services." ></item>
+<item slot="7" original="Leave shop." ></item>
+</script><script id="23" source="2"><item slot="1" original="Every man differs by his variety of hair cut." ></item>
+<item slot="2" original="Hair cut differentiate and also out come the beauty in them." ></item>
+<item slot="3" original="First go to saloon of your choice." ></item>
+<item slot="4" original="You prefer whether short or long hair cut." ></item>
+<item slot="5" original="Before starting tell the hair cutter the style you want." ></item>
+<item slot="6" original="Also mention the line where you want on your head or not." ></item>
+<item slot="7" original="After hair cut wash your head twice applying shampoo to remove any bit of hairs left over." ></item>
+</script><script id="24" source="2"><item slot="1" original="Call barber" ></item>
+<item slot="2" original="Take an appointment" ></item>
+<item slot="3" original="Go to barber" ></item>
+<item slot="4" original="Wait in line" ></item>
+<item slot="5" original="Get Seated" ></item>
+<item slot="6" original="Choose a haircut" ></item>
+<item slot="7" original="Get hair cut" ></item>
+</script><script id="25" source="2"><item slot="1" original="Find a place you trust to get your hair cut." ></item>
+<item slot="2" original="Make an appointment." ></item>
+<item slot="3" original="Show up." ></item>
+<item slot="4" original="Sit in the hair dressing chair." ></item>
+<item slot="5" original="Get your hair shampooed or wet with water for the cut." ></item>
+<item slot="6" original="Wait while the hair dresser cuts, shaves or styles your hair." ></item>
+<item slot="7" original="Shake the excess hair off your body." ></item>
+<item slot="8" original="Pay and thank the stylist." ></item>
+<item slot="9" original="Leave." ></item>
+</script><script id="26" source="2"><item slot="1" original="Go to salon" ></item>
+<item slot="2" original="Tell them what you want" ></item>
+<item slot="3" original="Sit down in chair" ></item>
+<item slot="4" original="Let them cut your hair" ></item>
+<item slot="5" original="Look at hair" ></item>
+<item slot="6" original="Pay for haircut" ></item>
+<item slot="7" original="Leave salon" ></item>
+</script><script id="27" source="2"><item slot="1" original="Drive to salon" ></item>
+<item slot="2" original="Tell receptionist you want a hair cut" ></item>
+<item slot="3" original="Sit in waiting area" ></item>
+<item slot="4" original="Receptionist calls your name" ></item>
+<item slot="5" original="Sit in Salon Chair" ></item>
+<item slot="6" original="Tell hairdresser what hair cut you want" ></item>
+<item slot="7" original="Hairdresser washes your hair" ></item>
+<item slot="8" original="Hairdresser cuts your hair" ></item>
+<item slot="9" original="Hairdresser styles your hair" ></item>
+<item slot="10" original="Pay receptionist" ></item>
+<item slot="11" original="Leave tip for hairdresser" ></item>
+<item slot="12" original="Leave salon" ></item>
+</script><script id="28" source="2"><item slot="1" original="Choose a style that you like." ></item>
+<item slot="2" original="Choose a salon or barber, as appropriate." ></item>
+<item slot="3" original="Show the stylist what you would like." ></item>
+<item slot="4" original="Sit still in the chair and let the stylist cut your hair." ></item>
+<item slot="5" original="Tell the stylist if you are pleased or if he or she missed any spots." ></item>
+<item slot="6" original="Let the stylist brush any stray hair off your neck and shoulders." ></item>
+<item slot="7" original="Pay for your haircut." ></item>
+<item slot="8" original="Tip the stylist." ></item>
+</script><script id="29" source="2"><item slot="1" original="Find a picture of your desired haircut in a magazine" ></item>
+<item slot="2" original="Tear out of magazine" ></item>
+<item slot="3" original="call beauty shop to make appt." ></item>
+<item slot="4" original="go to beauty shop" ></item>
+<item slot="5" original="show beautician your pic" ></item>
+<item slot="6" original="allow her to work her magic" ></item>
+<item slot="7" original="oooh and ahhhh when she shows you the final result" ></item>
+<item slot="8" original="pay and tip generously and leave shop" ></item>
+</script><script id="30" source="2"><item slot="1" original="choose where you want to get a hair cut" ></item>
+<item slot="2" original="make an appointment" ></item>
+<item slot="3" original="go to hair dresser" ></item>
+<item slot="4" original="tell hair dresser the style you want" ></item>
+<item slot="5" original="have the hair dresser cut your hair" ></item>
+<item slot="6" original="pay the hair dresser" ></item>
+<item slot="7" original="give a tip" ></item>
+</script><script id="31" source="2"><item slot="1" original="Get in car" ></item>
+<item slot="2" original="Drive to hair salon" ></item>
+<item slot="3" original="Ask hair stylist for a hair cut" ></item>
+<item slot="4" original="Sit in chair" ></item>
+<item slot="5" original="Wait for hair cut" ></item>
+</script><script id="32" source="2"><item slot="1" original="Call the hair salon." ></item>
+<item slot="2" original="Make an appointment with the stylist." ></item>
+<item slot="3" original="Drive to the hair salon." ></item>
+<item slot="4" original="Get the hair washed by stylist." ></item>
+<item slot="5" original="Pick a hair style from the book." ></item>
+<item slot="6" original="Cut the hair." ></item>
+<item slot="7" original="Blow the hair with a hair drier." ></item>
+<item slot="8" original="Pay the stylist." ></item>
+<item slot="9" original="Leave the hair salon." ></item>
+</script><script id="33" source="2"><item slot="1" original="make appointment at hair salon" ></item>
+<item slot="2" original="go to hair salon" ></item>
+<item slot="3" original="give name and check in" ></item>
+<item slot="4" original="sit in chair" ></item>
+<item slot="5" original="describe how you want hair to be cut to hair dresser" ></item>
+<item slot="6" original="let hairdresser put cape on you" ></item>
+<item slot="7" original="let hairdresser cut hair" ></item>
+<item slot="8" original="check the haircut in mirror" ></item>
+<item slot="9" original="approve or ask for changes" ></item>
+<item slot="10" original="pay for haircut" ></item>
+<item slot="11" original="tip hairdresser" ></item>
+<item slot="12" original="leave salon" ></item>
+</script><script id="34" source="2"><item slot="1" original="go to the barber" ></item>
+<item slot="2" original="sign in" ></item>
+<item slot="3" original="wait until you are called" ></item>
+<item slot="4" original="sit in the barber's chair" ></item>
+<item slot="5" original="tell them how you'd like your hair cut" ></item>
+<item slot="6" original="wait patiently whilst they cut your hair" ></item>
+<item slot="7" original="make small talk with the barber" ></item>
+<item slot="8" original="once they are finished, review their work" ></item>
+<item slot="9" original="pay the barber" ></item>
+</script><script id="35" source="2"><item slot="1" original="Make appointment at hair salon." ></item>
+<item slot="2" original="Drive to salon and check in with receptionist." ></item>
+<item slot="3" original="Discuss desired cut with your stylist." ></item>
+<item slot="4" original="Get hair washed by stylist." ></item>
+<item slot="5" original="Sit still in chair while stylist cuts hair." ></item>
+<item slot="6" original="Wait while stylist dries and styles your hair." ></item>
+<item slot="7" original="Pay for hair cut at front desk." ></item>
+<item slot="8" original="Leave tip for stylist." ></item>
+<item slot="9" original="Go home." ></item>
+</script><script id="36" source="2"><item slot="1" original="Drive to beauty shop" ></item>
+<item slot="2" original="sign in with clerk" ></item>
+<item slot="3" original="Wait for your name to be called" ></item>
+<item slot="4" original="Go to clerk's chair" ></item>
+<item slot="5" original="Sit while she cuts your hair" ></item>
+<item slot="6" original="Pay and tip the clerk when finished" ></item>
+</script><script id="37" source="2"><item slot="1" original="Drive to the hair salon." ></item>
+<item slot="2" original="Wait in line." ></item>
+<item slot="3" original="Sit down on the salon chair." ></item>
+<item slot="4" original="Tell the hair stylist what i want." ></item>
+<item slot="5" original="Wait until the stylist is finished." ></item>
+<item slot="6" original="Pay for my hair cut." ></item>
+<item slot="7" original="Drive home." ></item>
+</script><script id="38" source="2"><item slot="1" original="Drive to the salon." ></item>
+<item slot="2" original="Make an appointment." ></item>
+<item slot="3" original="Sit in the hair cutting chair." ></item>
+<item slot="4" original="Tell the stylist what haircut I want." ></item>
+<item slot="5" original="Have her cut my hair." ></item>
+</script><script id="39" source="2"><item slot="1" original="Wash my hair" ></item>
+<item slot="2" original="Get dressed" ></item>
+<item slot="3" original="Get keys and wallet" ></item>
+<item slot="4" original="Go to car" ></item>
+<item slot="5" original="Get in and start it" ></item>
+<item slot="6" original="Drive to barber shop" ></item>
+<item slot="7" original="Park" ></item>
+<item slot="8" original="Go in" ></item>
+<item slot="9" original="Get hair cut" ></item>
+</script><script id="40" source="2"><item slot="1" original="Go to hair salon" ></item>
+<item slot="2" original="Wait for stylist" ></item>
+<item slot="3" original="Get hair washed" ></item>
+<item slot="4" original="Sit in stylist's chair" ></item>
+<item slot="5" original="Get bib put on" ></item>
+<item slot="6" original="Show stylist what I want" ></item>
+<item slot="7" original="Make small talk with stylist" ></item>
+<item slot="8" original="Get hair blow dried" ></item>
+<item slot="9" original="Look at haircut" ></item>
+<item slot="10" original="Tell stylist I like my hair" ></item>
+<item slot="11" original="Pay for haircut" ></item>
+<item slot="12" original="Tip stylist" ></item>
+</script><script id="41" source="2"><item slot="1" original="Make appointment for haircut" ></item>
+<item slot="2" original="Go to hair cut" ></item>
+<item slot="3" original="Sit in chair" ></item>
+<item slot="4" original="Have hair cut by person who cuts hair" ></item>
+<item slot="5" original="Pay and tip hair stylist when done" ></item>
+</script><script id="42" source="2"><item slot="1" original="Make appointment at salon" ></item>
+<item slot="2" original="Wait for appointment" ></item>
+<item slot="3" original="Go to salon" ></item>
+<item slot="4" original="Tell stylist what haircut you want" ></item>
+<item slot="5" original="Let stylist wash your hair" ></item>
+<item slot="6" original="Sit in chair" ></item>
+<item slot="7" original="Watch stylist cut your hair" ></item>
+<item slot="8" original="Watch stylist dry your hair" ></item>
+<item slot="9" original="Pay for haircut" ></item>
+<item slot="10" original="Leave salon" ></item>
+</script><script id="43" source="2"><item slot="1" original="arrive salon" ></item>
+<item slot="2" original="sit in a chair" ></item>
+<item slot="3" original="get cape on" ></item>
+<item slot="4" original="get hair cut" ></item>
+<item slot="5" original="get up" ></item>
+<item slot="6" original="pay for cut" ></item>
+<item slot="7" original="leave" ></item>
+</script><script id="44" source="2"><item slot="1" original="Drive to hair salon" ></item>
+<item slot="2" original="Wait your turn" ></item>
+<item slot="3" original="Describe what hair style you would like" ></item>
+<item slot="4" original="Sit in salon chair and be still" ></item>
+<item slot="5" original="Converse with stylist as necessary" ></item>
+<item slot="6" original="When finished, pay for services" ></item>
+<item slot="7" original="Smile and say thank you" ></item>
+<item slot="8" original="Leave hair salon" ></item>
+</script><script id="45" source="2"><item slot="1" original="Sit down in barber chair." ></item>
+<item slot="2" original="The barber wraps the little collar around your neck." ></item>
+<item slot="3" original="The barber wraps a cape around you." ></item>
+<item slot="4" original="The barber cuts hair." ></item>
+<item slot="5" original="The barber buzzes the back of the neck." ></item>
+<item slot="6" original="The barber brushes off stray hairs." ></item>
+<item slot="7" original="The barber takes the cape off." ></item>
+<item slot="8" original="You pay for the hair cut." ></item>
+</script><script id="46" source="2"><item slot="1" original="Enter barber shop" ></item>
+<item slot="2" original="Wait to be seated" ></item>
+<item slot="3" original="Take seat on chair" ></item>
+<item slot="4" original="Tell barber which hairstyle" ></item>
+<item slot="5" original="Talk awkwardly during haircut" ></item>
+<item slot="6" original="Inspect haircut when shown" ></item>
+<item slot="7" original="Get up off chair" ></item>
+<item slot="8" original="Brush off stray hairs" ></item>
+<item slot="9" original="Tip barber" ></item>
+<item slot="10" original="Pay for service" ></item>
+<item slot="11" original="Exit barber shop" ></item>
+</script><script id="47" source="2"><item slot="1" original="Go to the barber shop" ></item>
+<item slot="2" original="Wait and read magazines" ></item>
+<item slot="3" original="When called sit in the barber's chair" ></item>
+<item slot="4" original="Tell barber what you want" ></item>
+<item slot="5" original="Do what the barber tells you" ></item>
+<item slot="6" original="Look in the mirror and tell barber if he has cut enough" ></item>
+<item slot="7" original="Pay the barber" ></item>
+<item slot="8" original="Leave barber shop" ></item>
+</script><script id="48" source="2"><item slot="1" original="Find a style you like" ></item>
+<item slot="2" original="Go to a hair salon" ></item>
+<item slot="3" original="Show the stylist the cut you like." ></item>
+<item slot="4" original="Sit down and let them cut" ></item>
+<item slot="5" original="Look in the mirror to see if you like it." ></item>
+<item slot="6" original="Pay the stylist" ></item>
+<item slot="7" original="Tip the stylist" ></item>
+<item slot="8" original="Leave the salon." ></item>
+</script><script id="49" source="2"><item slot="1" original="Enter barber shop" ></item>
+<item slot="2" original="Wait for empty seat" ></item>
+<item slot="3" original="Sit in barber chair" ></item>
+<item slot="4" original="Tell barber how to cut hair" ></item>
+<item slot="5" original="Pay barber" ></item>
+<item slot="6" original="Leave barber shop" ></item>
+</script><script id="50" source="2"><item slot="1" original="Get in car" ></item>
+<item slot="2" original="Drive to beauty salon" ></item>
+<item slot="3" original="Sign in at beauty salon desk" ></item>
+<item slot="4" original="Wait for my turn" ></item>
+<item slot="5" original="Sit in barber chair" ></item>
+<item slot="6" original="Relax" ></item>
+<item slot="7" original="Enjoy hair cut" ></item>
+<item slot="8" original="Get back in car" ></item>
+<item slot="9" original="Drive home" ></item>
+</script><script id="51" source="2"><item slot="1" original="going to get your hair cut" ></item>
+<item slot="2" original="getting a hair style" ></item>
+<item slot="3" original="going to the hairdresser" ></item>
+<item slot="4" original="going to the barber" ></item>
+<item slot="5" original="getting a trim" ></item>
+<item slot="6" original="getting a cut" ></item>
+</script><script id="52" source="2"><item slot="1" original="go to the saloon" ></item>
+<item slot="2" original="sit in the chair" ></item>
+<item slot="3" original="talk to the hairstylist" ></item>
+<item slot="4" original="tell him what cut you want" ></item>
+<item slot="5" original="get the haircut done" ></item>
+<item slot="6" original="check in the mirror once done" ></item>
+<item slot="7" original="pay the hair stylist" ></item>
+</script><script id="53" source="2"><item slot="1" original="go do barber" ></item>
+<item slot="2" original="tell them what you want" ></item>
+<item slot="3" original="sit down" ></item>
+<item slot="4" original="enjoy hair cut" ></item>
+<item slot="5" original="pay for their time" ></item>
+<item slot="6" original="go home" ></item>
+</script><script id="54" source="2"><item slot="1" original="call barber and make appointment" ></item>
+<item slot="2" original="show up on time for appointment" ></item>
+<item slot="3" original="tell barber how you want your hair cut" ></item>
+<item slot="4" original="wait for them to finish" ></item>
+<item slot="5" original="pay for hair cut" ></item>
+<item slot="6" original="go home" ></item>
+</script><script id="55" source="2"><item slot="1" original="Open salon door." ></item>
+<item slot="2" original="Sit in salon chair." ></item>
+<item slot="3" original="Put on cape." ></item>
+<item slot="4" original="Look straight ahead and sit up straight." ></item>
+<item slot="5" original="look at hair dresser cut hair in mirror." ></item>
+<item slot="6" original="Enjoy new dew." ></item>
+</script><script id="56" source="2"><item slot="1" original="Schedule appointment at hair salon." ></item>
+<item slot="2" original="Arrive at hair salon." ></item>
+<item slot="3" original="Go to hairdresser." ></item>
+<item slot="4" original="Sit in chair." ></item>
+<item slot="5" original="Tell hairdresser what you want." ></item>
+<item slot="6" original="Sit still while hair is cut." ></item>
+<item slot="7" original="Pay." ></item>
+<item slot="8" original="Leave hair salon." ></item>
+</script><script id="57" source="2"><item slot="1" original="enter barber shop" ></item>
+<item slot="2" original="sit in chair" ></item>
+<item slot="3" original="chit-chat" ></item>
+<item slot="4" original="check out new 'do" ></item>
+<item slot="5" original="tip barber" ></item>
+<item slot="6" original="pay at desk" ></item>
+<item slot="7" original="leave barber shop" ></item>
+<item slot="8" original="get dates" ></item>
+</script><script id="58" source="2"><item slot="1" original="Decide how you want it cut." ></item>
+<item slot="2" original="Go to salon." ></item>
+<item slot="3" original="Sit in chair." ></item>
+<item slot="4" original="Put cape on." ></item>
+<item slot="5" original="Have hair cut by stylist." ></item>
+<item slot="6" original="Take cape off." ></item>
+<item slot="7" original="Brush off hair." ></item>
+<item slot="8" original="Pay for haircut." ></item>
+</script><script id="59" source="2"><item slot="1" original="arrive at salon" ></item>
+<item slot="2" original="check in at front desk" ></item>
+<item slot="3" original="sit down in hair dresser's chair" ></item>
+<item slot="4" original="explain how you would like to have your hair cut" ></item>
+<item slot="5" original="make small talk during the hair cut" ></item>
+<item slot="6" original="thank the hair dresser" ></item>
+<item slot="7" original="pay at front desk" ></item>
+<item slot="8" original="exit salon" ></item>
+</script><script id="60" source="2"><item slot="1" original="Arrive at the salon" ></item>
+<item slot="2" original="Get hair washed" ></item>
+<item slot="3" original="Get hair cut" ></item>
+<item slot="4" original="Get hair blow dried and styled" ></item>
+<item slot="5" original="Pay stylist" ></item>
+<item slot="6" original="Leave the salon" ></item>
+</script><script id="61" source="2"><item slot="1" original="Call salon to make an appointment" ></item>
+<item slot="2" original="Drive to salon" ></item>
+<item slot="3" original="Enter salon" ></item>
+<item slot="4" original="Check in with receptionist" ></item>
+<item slot="5" original="Sit in stylist chair" ></item>
+<item slot="6" original="Tell stylist what haircut you want" ></item>
+<item slot="7" original="Stylist washes your hair" ></item>
+<item slot="8" original="Stylist combs your hair" ></item>
+<item slot="9" original="Stylist cuts your hair" ></item>
+<item slot="10" original="Stylist dries your hair" ></item>
+<item slot="11" original="Walk back to reception to pay" ></item>
+<item slot="12" original="Tip the stylist" ></item>
+<item slot="13" original="Leave the salon" ></item>
+</script><script id="62" source="2"><item slot="1" original="Schedule an appointment" ></item>
+<item slot="2" original="Go to salon" ></item>
+<item slot="3" original="Pick out hairstyle" ></item>
+<item slot="4" original="Wait for my turn" ></item>
+<item slot="5" original="Tell the stylist what I want" ></item>
+<item slot="6" original="Get hair washed" ></item>
+<item slot="7" original="Get hair cut" ></item>
+<item slot="8" original="Blow dry" ></item>
+<item slot="9" original="Pay" ></item>
+<item slot="10" original="Tip stylist" ></item>
+<item slot="11" original="Go home" ></item>
+</script><script id="63" source="2"><item slot="1" original="Go to the restaurant." ></item>
+<item slot="2" original="To get my clippers" ></item>
+<item slot="3" original="Shave my head." ></item>
+<item slot="4" original="Clean up the clippings" ></item>
+<item slot="5" original="Take a shower" ></item>
+</script><script id="64" source="2"><item slot="1" original="Make an appointment with barber" ></item>
+<item slot="2" original="Go to the barber shop" ></item>
+<item slot="3" original="Give them a description of what hair cut you want" ></item>
+<item slot="4" original="Let the barber work his magic" ></item>
+<item slot="5" original="Pay barber" ></item>
+</script><script id="65" source="2"><item slot="1" original="GO TO THE HAIR SALON" ></item>
+<item slot="2" original="SIT DOWN AND HAVE HAIR WASHED" ></item>
+<item slot="3" original="GET THE HAIRDRESSER TO CUT AND STYLE YOUR HAIR" ></item>
+<item slot="4" original="HAVE HER DRY YOUR HAIR" ></item>
+<item slot="5" original="PAY FOR THE SERVICE" ></item>
+<item slot="6" original="BUY ANY PRODUCTS YOU WANT TO TAKE HOME" ></item>
+<item slot="7" original="TIP THE HAIRDRESSER" ></item>
+</script><script id="66" source="2"><item slot="1" original="Drive to the salon" ></item>
+<item slot="2" original="Enter the salon" ></item>
+<item slot="3" original="Tell the beautician what I want" ></item>
+<item slot="4" original="Sit in a chair" ></item>
+<item slot="5" original="Get my hair washed" ></item>
+<item slot="6" original="Go to another chair" ></item>
+<item slot="7" original="Get my hair cut" ></item>
+<item slot="8" original="Pay for the haircut" ></item>
+<item slot="9" original="Tip the beautician" ></item>
+<item slot="10" original="Leave the salon" ></item>
+</script><script id="67" source="2"><item slot="1" original="Go to a saloon" ></item>
+<item slot="2" original="Wait for your turn" ></item>
+<item slot="3" original="Sit on the barbers chair" ></item>
+<item slot="4" original="Describe the kind of hair cut you need" ></item>
+<item slot="5" original="Pay the barber" ></item>
+<item slot="6" original="Leave from the saloon" ></item>
+</script><script id="68" source="2"><item slot="1" original="Drive or walk to the barber shop" ></item>
+<item slot="2" original="Enter and make an appointment" ></item>
+<item slot="3" original="Sit down and wait for your turn" ></item>
+<item slot="4" original="When it's your turn get up and sit in the barber seat" ></item>
+<item slot="5" original="Tell the barber what type of hair cut you are looking for" ></item>
+<item slot="6" original="Enjoy the hair cut" ></item>
+<item slot="7" original="Pay the barber and leave" ></item>
+</script><script id="69" source="2"><item slot="1" original="choose hair style desired" ></item>
+<item slot="2" original="choose business to cute hair" ></item>
+<item slot="3" original="at business choose stylist" ></item>
+<item slot="4" original="advise stylist to what hair style is desired" ></item>
+<item slot="5" original="have hair shampooed, if applicable" ></item>
+<item slot="6" original="have hair cut by stylist" ></item>
+<item slot="7" original="after cut view hair" ></item>
+<item slot="8" original="verbalize if happy with hair cut" ></item>
+<item slot="9" original="pay stylist" ></item>
+<item slot="10" original="leave business" ></item>
+</script><script id="70" source="2"><item slot="1" original="Go to barber shop." ></item>
+<item slot="2" original="Sit in barber chair." ></item>
+<item slot="3" original="Tell barber how you would like your hair cut." ></item>
+<item slot="4" original="Allow barber to cut your hair." ></item>
+<item slot="5" original="Get up from the chair." ></item>
+<item slot="6" original="Pay for your hair cut." ></item>
+<item slot="7" original="Go home." ></item>
+</script><script id="71" source="2"><item slot="1" original="Get in car" ></item>
+<item slot="2" original="Drive to Haircut place" ></item>
+<item slot="3" original="Order a hair cut" ></item>
+<item slot="4" original="Sit in chair" ></item>
+<item slot="5" original="get hair cut" ></item>
+<item slot="6" original="Pay for hair cut" ></item>
+<item slot="7" original="Get receipt" ></item>
+<item slot="8" original="Leave haircut place" ></item>
+</script><script id="72" source="2"><item slot="1" original="Decide on type of cut desired" ></item>
+<item slot="2" original="Wait in line" ></item>
+<item slot="3" original="Get in stylist's chair when your name is called" ></item>
+<item slot="4" original="Tell stylist the type of cut you want" ></item>
+<item slot="5" original="Make conversation with stylist" ></item>
+<item slot="6" original="Check if hair cut is acceptable when stylist is finished" ></item>
+<item slot="7" original="Pay stylist" ></item>
+<item slot="8" original="Leave tip" ></item>
+<item slot="9" original="Leave hair cut salon" ></item>
+</script><script id="73" source="2"><item slot="1" original="Check your hair" ></item>
+<item slot="2" original="Select a beauty parlor or saloon" ></item>
+<item slot="3" original="Fix appointment" ></item>
+<item slot="4" original="Enter on or before into saloon" ></item>
+<item slot="5" original="Select hair style" ></item>
+<item slot="6" original="Cooperate to hair cutter for best finish" ></item>
+<item slot="7" original="Wash hair" ></item>
+<item slot="8" original="Pay money" ></item>
+</script><script id="74" source="2"><item slot="1" original="Walk in hair salon." ></item>
+<item slot="2" original="Talk to receptionist." ></item>
+<item slot="3" original="Sit down and wait." ></item>
+<item slot="4" original="Go to lady who calls your name." ></item>
+<item slot="5" original="Sit in chair." ></item>
+<item slot="6" original="Tell lady how you want your haircut." ></item>
+<item slot="7" original="Lady cuts hair." ></item>
+<item slot="8" original="You look in mirror." ></item>
+<item slot="9" original="You get up and give her a tip." ></item>
+<item slot="10" original="You pay bill." ></item>
+<item slot="11" original="You leave salon." ></item>
+</script><script id="75" source="2"><item slot="1" original="Walk into salon of your choice." ></item>
+<item slot="2" original="Tell the stylist you would like to get a hair cut." ></item>
+<item slot="3" original="They will direct you to their station." ></item>
+<item slot="4" original="They will put a cape over you to keep you clean." ></item>
+<item slot="5" original="Let them know exactly how you would like them to cut your hair." ></item>
+<item slot="6" original="They will cut your hair." ></item>
+<item slot="7" original="They will ask you if you like the way it looks." ></item>
+<item slot="8" original="Let them know if it is to your liking." ></item>
+<item slot="9" original="If not let them know and they will fix it." ></item>
+<item slot="10" original="After they are done cutting they will brush the cut hair off." ></item>
+<item slot="11" original="They will remove the cape." ></item>
+<item slot="12" original="Get out of the chair." ></item>
+<item slot="13" original="Walk up to the cash register." ></item>
+<item slot="14" original="The stylist will tell you a balance." ></item>
+<item slot="15" original="Pay the balance and thank the stylist." ></item>
+<item slot="16" original="Leave the salon." ></item>
+</script><script id="76" source="2"><item slot="1" original="Make an appointment" ></item>
+<item slot="2" original="Go to your appointment" ></item>
+<item slot="3" original="Wait for your turn" ></item>
+<item slot="4" original="Sit in the barbers chair once your name is called" ></item>
+<item slot="5" original="Allow the barber to place smock around you" ></item>
+<item slot="6" original="Tell the barber what kind of cut you want" ></item>
+<item slot="7" original="Relax" ></item>
+<item slot="8" original="Sit still" ></item>
+<item slot="9" original="Allow barber to do the rest" ></item>
+</script><script id="77" source="2"><item slot="1" original="Schedule appointment" ></item>
+<item slot="2" original="Go to hair salon" ></item>
+<item slot="3" original="Wait for hair cutter to call for you" ></item>
+<item slot="4" original="Put on the cape they give you" ></item>
+<item slot="5" original="Go get hair washed by staff" ></item>
+<item slot="6" original="Sit in chair and go over what you want" ></item>
+<item slot="7" original="Sit as you get your hair cut" ></item>
+<item slot="8" original="Pay for service" ></item>
+<item slot="9" original="Leave a tip for hair cutter" ></item>
+<item slot="10" original="Thank the staff" ></item>
+</script><script id="78" source="2"><item slot="1" original="Look up nearby places." ></item>
+<item slot="2" original="Make an appointment." ></item>
+<item slot="3" original="Drive to the hair salon." ></item>
+<item slot="4" original="Check in." ></item>
+<item slot="5" original="Get my hair cut." ></item>
+</script><script id="79" source="2"><item slot="1" original="Decide what haircut you want" ></item>
+<item slot="2" original="Go to hair salon" ></item>
+<item slot="3" original="Check in at hair salon" ></item>
+<item slot="4" original="Wait until you are called" ></item>
+<item slot="5" original="Follow hair stylist to seat" ></item>
+<item slot="6" original="Sit" ></item>
+<item slot="7" original="Describe what hair cut you want" ></item>
+<item slot="8" original="Let stylist cut your hair" ></item>
+<item slot="9" original="Look at haircut in mirror" ></item>
+<item slot="10" original="Decide if you like it" ></item>
+<item slot="11" original="Pay for haircut" ></item>
+<item slot="12" original="Tip stylist" ></item>
+<item slot="13" original="Go home" ></item>
+</script><script id="80" source="2"><item slot="1" original="Make an appointment." ></item>
+<item slot="2" original="Go to the salon at the time of the appointment." ></item>
+<item slot="3" original="Tell your hairdresser how you would like your hair cut." ></item>
+<item slot="4" original="Wait for him/her to cut your hair." ></item>
+<item slot="5" original="Pay for your haircut." ></item>
+<item slot="6" original="Enjoy your new hair." ></item>
+</script><script id="81" source="2"><item slot="1" original="Make an appointment with the person who will cut your hair." ></item>
+<item slot="2" original="Drive to the hair salon." ></item>
+<item slot="3" original="Choose a hair cut." ></item>
+<item slot="4" original="Tell the hair dresser how you would like to have your hair cut." ></item>
+<item slot="5" original="Have your hair washed by the hair dresser." ></item>
+<item slot="6" original="The hair dresser will now cut your hair." ></item>
+<item slot="7" original="Let the hair dresser know if there is a way that they can cut your hair better." ></item>
+<item slot="8" original="Pay the hair dresser." ></item>
+<item slot="9" original="Leave the hair salon." ></item>
+</script><script id="82" source="2"><item slot="1" original="Enter hair salon" ></item>
+<item slot="2" original="Check in at reception desk" ></item>
+<item slot="3" original="Wait for them to call your name" ></item>
+<item slot="4" original="Follow stylist to a chair" ></item>
+<item slot="5" original="Sit in chair" ></item>
+<item slot="6" original="Tell stylist how you want your hair cut" ></item>
+<item slot="7" original="When they finish, go back to reception" ></item>
+<item slot="8" original="Pay your bill" ></item>
+<item slot="9" original="Leave hair salon" ></item>
+</script><script id="83" source="2"><item slot="1" original="Go to the barber" ></item>
+<item slot="2" original="Wait for your turn" ></item>
+<item slot="3" original="Sit in chair" ></item>
+<item slot="4" original="Tell them what kind of cut you want" ></item>
+<item slot="5" original="Let them wash hair" ></item>
+<item slot="6" original="Wait for the cut to be done" ></item>
+<item slot="7" original="Pay" ></item>
+<item slot="8" original="Leave barber" ></item>
+</script><script id="84" source="2"><item slot="1" original="go to barbershop" ></item>
+<item slot="2" original="wait to be assisted" ></item>
+<item slot="3" original="when called sit on the barbers chair" ></item>
+<item slot="4" original="get haircut" ></item>
+<item slot="5" original="pay for the service" ></item>
+<item slot="6" original="walk out of barbershop" ></item>
+</script><script id="85" source="2"><item slot="1" original="Call the salon to make an appointment" ></item>
+<item slot="2" original="Arrive at the salon at your scheduled time" ></item>
+<item slot="3" original="Check in with the receptionist" ></item>
+<item slot="4" original="Wait for the stylist to call your name" ></item>
+<item slot="5" original="Follow the stylist to the chair" ></item>
+<item slot="6" original="Tell the stylist how you would like your hair cut" ></item>
+<item slot="7" original="Sit still and follow the stylist's directions while she cuts your hair" ></item>
+<item slot="8" original="When the cut is finished, take a good look from all angles" ></item>
+<item slot="9" original="If you'd like anything changed, tell the stylist" ></item>
+<item slot="10" original="When satisfied, tell the stylist" ></item>
+<item slot="11" original="Get up from the chair" ></item>
+<item slot="12" original="Pay for your haircut" ></item>
+<item slot="13" original="Tip the stylist" ></item>
+<item slot="14" original="Leave the salon" ></item>
+</script><script id="86" source="2"><item slot="1" original="Go to the Saloon" ></item>
+<item slot="2" original="Wait for your turn" ></item>
+<item slot="3" original="Sit on the barber's chair when called" ></item>
+<item slot="4" original="Instruct the barber about the style" ></item>
+<item slot="5" original="Follow the instructions of the barber" ></item>
+<item slot="6" original="Get up from chair when finished" ></item>
+<item slot="7" original="Pay the fee" ></item>
+<item slot="8" original="Leave the Saloon" ></item>
+</script><script id="87" source="2"><item slot="1" original="Enter salon" ></item>
+<item slot="2" original="Check in at receptionist" ></item>
+<item slot="3" original="Sit in chair" ></item>
+<item slot="4" original="Wait for stylist" ></item>
+<item slot="5" original="Have a seat at shampoo station" ></item>
+<item slot="6" original="Get hair washed" ></item>
+<item slot="7" original="Have a seat in stylist station" ></item>
+<item slot="8" original="Explain how hair should be cut" ></item>
+<item slot="9" original="Get hair cut and styled" ></item>
+<item slot="10" original="Return to receptionist" ></item>
+<item slot="11" original="Pay for haircut" ></item>
+<item slot="12" original="Tip stylist" ></item>
+<item slot="13" original="Leave salon" ></item>
+</script><script id="88" source="2"><item slot="1" original="Enter into the barber shop" ></item>
+<item slot="2" original="Announce your arrival to notify the barber" ></item>
+<item slot="3" original="Sit in the barber chair" ></item>
+<item slot="4" original="Barber covers you with the cape" ></item>
+<item slot="5" original="Go to the hair washing station" ></item>
+<item slot="6" original="Have barber wash hair" ></item>
+<item slot="7" original="Go to the barber chair" ></item>
+<item slot="8" original="Tell barber what haircut you want" ></item>
+<item slot="9" original="Have smalltalk while barber cuts hair" ></item>
+<item slot="10" original="Go to the washing station" ></item>
+<item slot="11" original="Wash off cut hair" ></item>
+<item slot="12" original="Go to barber chair" ></item>
+<item slot="13" original="Barber styles hair" ></item>
+<item slot="14" original="Pay the barber" ></item>
+<item slot="15" original="Tip the barber" ></item>
+<item slot="16" original="Leave the barber shop" ></item>
+</script><script id="89" source="2"><item slot="1" original="Go to saloon" ></item>
+<item slot="2" original="Find a seat" ></item>
+<item slot="3" original="Occupy the seat" ></item>
+<item slot="4" original="Tell your hair cut style to barber" ></item>
+<item slot="5" original="Barber makes your hair wet" ></item>
+<item slot="6" original="Barber takes scissor and comb" ></item>
+<item slot="7" original="Barber cut your hair" ></item>
+<item slot="8" original="Wait till barbar cut your hair" ></item>
+<item slot="9" original="Clean yourself" ></item>
+<item slot="10" original="Pay the fare" ></item>
+<item slot="11" original="Leave the saloon" ></item>
+</script><script id="90" source="2"><item slot="1" original="Make appointment about a week in advance" ></item>
+<item slot="2" original="Go to appointment" ></item>
+<item slot="3" original="Sit in chair" ></item>
+<item slot="4" original="Hairdresser will cut and style hair" ></item>
+<item slot="5" original="Pay for haircut" ></item>
+</script><script id="91" source="2"><item slot="1" original="Make an appointment with barber or stylist" ></item>
+<item slot="2" original="Arrive at barber shop or salon" ></item>
+<item slot="3" original="Wait to be greeted and seated" ></item>
+<item slot="4" original="Have a seat" ></item>
+<item slot="5" original="Let hairstylist take you in a different area to wash your hair" ></item>
+<item slot="6" original="Let hair be washed" ></item>
+<item slot="7" original="Return to chair with hairstylist" ></item>
+<item slot="8" original="Explain to stylist how you want your hair cut" ></item>
+<item slot="9" original="Relax while stylist cuts hair" ></item>
+<item slot="10" original="Go to register and pay for haircut" ></item>
+<item slot="11" original="Leave" ></item>
+</script><script id="92" source="2"><item slot="1" original="Go to salon" ></item>
+<item slot="2" original="Sign check in list" ></item>
+<item slot="3" original="wait for name to be called" ></item>
+<item slot="4" original="Accompany stylist to chair" ></item>
+<item slot="5" original="Have protective cape put on" ></item>
+<item slot="6" original="Describe to stylish cut / length desired" ></item>
+<item slot="7" original="Look at and approve cut after stylish finished" ></item>
+<item slot="8" original="Pay and tip stylist" ></item>
+<item slot="9" original="Leave salon" ></item>
+</script><script id="93" source="2"><item slot="1" original="Go to barber shop" ></item>
+<item slot="2" original="Sit down into seat" ></item>
+<item slot="3" original="Tell barber how you would like hair cut" ></item>
+<item slot="4" original="Watch barber cut your hair" ></item>
+<item slot="5" original="Look at back of your head when barber shows it with mirror" ></item>
+<item slot="6" original="Get out of seat" ></item>
+<item slot="7" original="Pay barber" ></item>
+<item slot="8" original="Leave barber shop" ></item>
+</script><script id="94" source="2"><item slot="1" original="Travel to the barber shop." ></item>
+<item slot="2" original="Enter the shop and sit in the empty barber's chair in front of your barber." ></item>
+<item slot="3" original="Tell your barber how you want your hair cut." ></item>
+<item slot="4" original="Sit while the barber cuts your hair" ></item>
+<item slot="5" original="Stand when he or she is finished." ></item>
+<item slot="6" original="Pay the barber including a tip." ></item>
+<item slot="7" original="Leave the shop." ></item>
+</script><script id="95" source="2"><item slot="1" original="Go to barber" ></item>
+<item slot="2" original="Wait for an opening" ></item>
+<item slot="3" original="Sit in barber's chair" ></item>
+<item slot="4" original="Watch barber put on bib" ></item>
+<item slot="5" original="Tell barber what you want" ></item>
+<item slot="6" original="Sit still as barber works" ></item>
+<item slot="7" original="Check cut in the mirror" ></item>
+<item slot="8" original="Get excess hair brushed off" ></item>
+<item slot="9" original="Pay the barber" ></item>
+<item slot="10" original="Tip the barber" ></item>
+<item slot="11" original="Get out of chair" ></item>
+<item slot="12" original="Exit barber shop" ></item>
+</script><script id="96" source="2"><item slot="1" original="Drive to the haircut place" ></item>
+<item slot="2" original="Reserve your place" ></item>
+<item slot="3" original="Wait to get your haircut" ></item>
+<item slot="4" original="Go sit in the haircut chair when called" ></item>
+<item slot="5" original="Tell the hairdresser what kind of haircut you want" ></item>
+<item slot="6" original="Watch your hair get cut in the mirror" ></item>
+<item slot="7" original="Tell the hairdresser to make any adjustments" ></item>
+<item slot="8" original="Pay for haircut" ></item>
+</script><script id="97" source="2"><item slot="1" original="Wash hair" ></item>
+<item slot="2" original="Comb hair" ></item>
+<item slot="3" original="Get in car" ></item>
+<item slot="4" original="Go to hair stylist" ></item>
+<item slot="5" original="Wait" ></item>
+<item slot="6" original="Name called" ></item>
+<item slot="7" original="Get in chair" ></item>
+<item slot="8" original="Tell how you want your hair cut" ></item>
+<item slot="9" original="Hair is cut" ></item>
+<item slot="10" original="Look in mirror" ></item>
+<item slot="11" original="Pay" ></item>
+</script><script id="98" source="2"><item slot="1" original="Head to the barber nearby." ></item>
+<item slot="2" original="Make an appointment or let them know if you're waiting for a particular barber." ></item>
+<item slot="3" original="Explain what you'd like done with your hair" ></item>
+<item slot="4" original="Decide if your hair should be washed and shampooed first" ></item>
+<item slot="5" original="Have them cut your hair based on your request" ></item>
+<item slot="6" original="Pay for your haircut" ></item>
+</script><script id="99" source="2"><item slot="1" original="Enter the hair salon." ></item>
+<item slot="2" original="Talk to front desk." ></item>
+<item slot="3" original="Sit and wait." ></item>
+<item slot="4" original="Get in hair cutting chair." ></item>
+<item slot="5" original="Sit and get hair cut." ></item>
+<item slot="6" original="Talk about your hair." ></item>
+<item slot="7" original="Thank the person cutting your hair." ></item>
+<item slot="8" original="Pay at the front desk." ></item>
+<item slot="9" original="Leave the salon." ></item>
+<item slot="10" original="getting a hair cut" ></item>
+</script><script id="100" source="2"><item slot="1" original="drive to hair cutting place" ></item>
+<item slot="2" original="sign in " ></item>
+<item slot="3" original="wait for call" ></item>
+<item slot="4" original="sit down " ></item>
+<item slot="5" original="tell them how you want hair styled" ></item>
+<item slot="6" original="wait until they are finished" ></item>
+<item slot="7" original="check work" ></item>
+<item slot="8" original="tip them" ></item>
+<item slot="9" original="walk to counter" ></item>
+<item slot="10" original="pay" ></item>
+<item slot="11" original="exit building" ></item>
+</script><script id="101" source="2"><item slot="1" original="Decide what style you want." ></item>
+<item slot="2" original="You may want to prepare a picture for your hairdresser." ></item>
+<item slot="3" original="Call your hairdresser and schedule an appointment." ></item>
+<item slot="4" original="Go to the appointment and show him/her your style you want." ></item>
+<item slot="5" original="Sit and wait as the hairdresser prepares your style." ></item>
+<item slot="6" original="When you're finished, pay the hairdresser." ></item>
+<item slot="8" original="It is customary to give a 15% tip." ></item>
+<item slot="9" original="Thank him or her and enjoy your new look!" ></item>
+</script></scripts>

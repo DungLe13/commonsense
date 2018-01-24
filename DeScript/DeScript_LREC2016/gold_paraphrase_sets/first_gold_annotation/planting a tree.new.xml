@@ -1,0 +1,258 @@
+<scripts>
+<label type="PARAPHRASE" event="other_go_garden_center">
+<item source="2" script="3" slot="1" total_slots="11" original="Go to garden center"></item>
+<item source="2" script="6" slot="1" total_slots="8" original="Go to nursery"></item>
+
+</label>
+<label type="PARAPHRASE" event="choose_tree">
+<item source="2" script="5" slot="1" total_slots="6" original="Choose a tree that you want to grow"></item>
+<item source="2" script="23" slot="1" total_slots="9" original="Choose type of tree."></item>
+
+</label>
+<label type="PARAPHRASE" event="get_tree">
+<item source="2" script="17" slot="1" total_slots="8" original="Get a sapling, shovel and garden gloves."></item>
+<item source="2" script="1" slot="2" total_slots="8" original="Get tree in pot"></item>
+<item source="2" script="0" slot="1" total_slots="6" original="Purchase a tree to plant"></item>
+<item source="2" script="3" slot="2" total_slots="11" original="Pick out a sapling that you like"></item>
+<item source="2" script="5" slot="2" total_slots="6" original="Purchase the tree"></item>
+<item source="2" script="6" slot="2" total_slots="8" original="Buy sapling"></item>
+<item source="2" script="8" slot="1" total_slots="5" original="get seeds, seedling, or bush"></item>
+<item source="2" script="10" slot="1" total_slots="6" original="Buy a young tree."></item>
+<item source="2" script="11" slot="1" total_slots="5" original="Buy a tree sapling"></item>
+<item source="2" script="13" slot="1" total_slots="12" original="Buy some seeds of desired tree"></item>
+<item source="2" script="16" slot="1" total_slots="6" original="Obtain seedling."></item>
+<item source="2" script="19" slot="1" total_slots="8" original="Buy a sapling from nursery"></item>
+<item source="2" script="20" slot="1" total_slots="5" original="go buy a tree"></item>
+<item source="2" script="21" slot="1" total_slots="7" original="Get a tree"></item>
+<item source="2" script="22" slot="1" total_slots="7" original="Buy a small tree at a nursery"></item>
+<item source="2" script="23" slot="2" total_slots="9" original="Purchase tree."></item>
+<item source="2" script="24" slot="1" total_slots="7" original="Get baby tree to plant or seed"></item>
+<item source="2" script="25" slot="1" total_slots="6" original="Buy a tree"></item>
+
+</label>
+<label type="PARAPHRASE" event="take_home">
+<item source="2" script="10" slot="2" total_slots="6" original="Take it home."></item>
+<item source="2" script="25" slot="2" total_slots="6" original="Transport it home"></item>
+
+</label>
+<label type="PARAPHRASE" event="UnRelEv">
+<item source="2" script="14" slot="2" total_slots="11" original="Get sunglasses"></item>
+
+</label>
+<label type="PARAPHRASE" event="UnRelEv">
+<item source="2" script="14" slot="3" total_slots="11" original="Put on hat"></item>
+
+</label>
+<label type="PARAPHRASE" event="find_place">
+<item source="2" script="6" slot="3" total_slots="8" original="Go outside"></item>
+<item source="2" script="14" slot="6" total_slots="11" original="Walk outside"></item>
+<item source="2" script="21" slot="3" total_slots="7" original="Go to a field or a yard"></item>
+<item source="2" script="3" slot="3" total_slots="11" original="Go home and pick out a nice place to plant your tree"></item>
+<item source="2" script="1" slot="3" total_slots="8" original="Find a spot to plant tree"></item>
+<item source="2" script="0" slot="2" total_slots="6" original="Find a location to plant tree"></item>
+<item source="2" script="2" slot="1" total_slots="5" original="Locate the spot to plant the tree"></item>
+<item source="2" script="13" slot="2" total_slots="12" original="Select a spot where to plant a tree preferably in good exposure to sunlight"></item>
+<item source="2" script="16" slot="2" total_slots="6" original="Choose spot for planting."></item>
+<item source="2" script="19" slot="2" total_slots="8" original="Select a correct place in my backyard"></item>
+<item source="2" script="23" slot="3" total_slots="9" original="Pick location."></item>
+<item source="2" script="24" slot="2" total_slots="7" original="Find spot to plant tree"></item>
+
+</label>
+<label type="PARAPHRASE" event="RelNScrEv">
+<item source="2" script="3" slot="4" total_slots="11" original="Make sure your spot is not too close to your house, allowing roots plenty of room"></item>
+
+</label>
+<label type="PARAPHRASE" event="get_tools">
+<item source="2" script="14" slot="1" total_slots="11" original="Get gloves"></item>
+<item source="2" script="9" slot="1" total_slots="6" original="Get shovel and tree sapling"></item>
+<item source="2" script="13" slot="3" total_slots="12" original="Take a shovel"></item>
+<item source="2" script="14" slot="4" total_slots="11" original="Get garden supplies"></item>
+<item source="2" script="15" slot="1" total_slots="6" original="Find a shovel."></item>
+<item source="2" script="21" slot="2" total_slots="7" original="Get a shovel"></item>
+<item source="2" script="22" slot="2" total_slots="7" original="Get a shovel"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_put_on_gloves">
+<item source="2" script="14" slot="5" total_slots="11" original="Put on gloves and sunglasses"></item>
+<item source="2" script="17" slot="2" total_slots="8" original="Put on gloves"></item>
+
+</label>
+<label type="PARAPHRASE" event="dug_hole">
+<item source="2" script="1" slot="4" total_slots="8" original="Dig a hole with shovel"></item>
+<item source="2" script="0" slot="3" total_slots="6" original="Dig hole in ground about 16 inches deep"></item>
+<item source="2" script="2" slot="2" total_slots="5" original="Dig the soil about two fingers deep"></item>
+<item source="2" script="3" slot="5" total_slots="11" original="Dig a hole deep and wide enough to accommodate the roots"></item>
+<item source="2" script="4" slot="1" total_slots="5" original="digging in the ground"></item>
+<item source="2" script="5" slot="3" total_slots="6" original="Use a shovel to dig a hole into the ground"></item>
+<item source="2" script="6" slot="4" total_slots="8" original="Dig hole"></item>
+<item source="2" script="7" slot="2" total_slots="6" original="Dig the hole for the tree."></item>
+<item source="2" script="8" slot="2" total_slots="5" original="dig hole"></item>
+<item source="2" script="9" slot="2" total_slots="6" original="Dig a hole into the ground"></item>
+<item source="2" script="10" slot="3" total_slots="6" original="Dig a hole where you want to plant tree."></item>
+<item source="2" script="11" slot="2" total_slots="5" original="Dig a hole"></item>
+<item source="2" script="13" slot="4" total_slots="12" original="Dig about 6 inches deep or as desired"></item>
+<item source="2" script="14" slot="7" total_slots="11" original="Dig hole"></item>
+<item source="2" script="15" slot="2" total_slots="6" original="Dig a hole the same size as the container holding the tree."></item>
+<item source="2" script="16" slot="3" total_slots="6" original="Dig hole big enough for seedling."></item>
+<item source="2" script="17" slot="3" total_slots="8" original="dig hole for tree"></item>
+<item source="2" script="18" slot="2" total_slots="6" original="With small shovel dig hole."></item>
+<item source="2" script="19" slot="3" total_slots="8" original="Dig a hole according to the size of the sapling"></item>
+<item source="2" script="20" slot="2" total_slots="5" original="dig a hole twice as wide as the pot"></item>
+<item source="2" script="21" slot="4" total_slots="7" original="Dig a hole deep enough to plant the tree roots"></item>
+<item source="2" script="22" slot="3" total_slots="7" original="Dig a hole large enough to place the tree into"></item>
+<item source="2" script="23" slot="4" total_slots="9" original="Dig a very deep hole with a shovel."></item>
+<item source="2" script="24" slot="3" total_slots="7" original="Dig a hole"></item>
+<item source="2" script="25" slot="3" total_slots="6" original="Make a hole"></item>
+<item source="2" script="13" slot="5" total_slots="12" original="Dig in a circle all around the spot"></item>
+<item source="2" script="20" slot="3" total_slots="5" original="dig hole deep enough for the roots"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_check_hole">
+<item source="2" script="19" slot="4" total_slots="8" original="Ensure the hole is not too deep and not too narrow"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_secure_tree">
+<item source="2" script="13" slot="6" total_slots="12" original="Secure the boundary of the circle with fence of rounded river stones"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_get_soil">
+<item source="2" script="1" slot="1" total_slots="8" original="Get soil"></item>
+<item source="2" script="4" slot="2" total_slots="5" original="preparing the dirt"></item>
+<item source="2" script="7" slot="1" total_slots="6" original="Prepare soil."></item>
+
+</label>
+<label type="PARAPHRASE" event="place_fertilizers">
+<item source="2" script="5" slot="4" total_slots="6" original="Put fertilizer in the hole"></item>
+<item source="2" script="23" slot="7" total_slots="9" original="If you like you can add a fertilizer."></item>
+
+</label>
+<label type="PARAPHRASE" event="unwrap_root">
+<item source="2" script="18" slot="1" total_slots="6" original="Take tree seed outside."></item>
+<item source="2" script="13" slot="7" total_slots="12" original="Take the seed"></item>
+<item source="2" script="15" slot="3" total_slots="6" original="Take the tree out of the container."></item>
+
+</label>
+<label type="PARAPHRASE" event="place_root">
+<item source="2" script="1" slot="5" total_slots="8" original="Place tree in hole"></item>
+<item source="2" script="0" slot="4" total_slots="6" original="Place tree in hole"></item>
+<item source="2" script="2" slot="3" total_slots="5" original="Plant the seed in the soil"></item>
+<item source="2" script="3" slot="6" total_slots="11" original="Place sapling into hole"></item>
+<item source="2" script="4" slot="3" total_slots="5" original="placing the seeds in the ground"></item>
+<item source="2" script="5" slot="5" total_slots="6" original="Place the tree inside the whole"></item>
+<item source="2" script="6" slot="5" total_slots="8" original="Put sapling in hole"></item>
+<item source="2" script="7" slot="3" total_slots="6" original="Place tree in hole."></item>
+<item source="2" script="8" slot="3" total_slots="5" original="plant seed, seedling, or bush"></item>
+<item source="2" script="9" slot="3" total_slots="6" original="Place tree sapling into hole"></item>
+<item source="2" script="10" slot="4" total_slots="6" original="Put the tree in the hole."></item>
+<item source="2" script="11" slot="3" total_slots="5" original="Place sapling in hole"></item>
+<item source="2" script="13" slot="8" total_slots="12" original="Gently insert it under the soil about 6 inches deep"></item>
+<item source="2" script="14" slot="8" total_slots="11" original="Put tree in hole"></item>
+<item source="2" script="15" slot="4" total_slots="6" original="Place the tree in the hole."></item>
+<item source="2" script="16" slot="4" total_slots="6" original="Place seedling into hole."></item>
+<item source="2" script="17" slot="4" total_slots="8" original="put sapling in hole"></item>
+<item source="2" script="18" slot="3" total_slots="6" original="Place seed in hole."></item>
+<item source="2" script="19" slot="5" total_slots="8" original="Place the tree sapling into the hole"></item>
+<item source="2" script="21" slot="5" total_slots="7" original="Put the tree in the hole"></item>
+<item source="2" script="22" slot="4" total_slots="7" original="Put tree into hole"></item>
+<item source="2" script="23" slot="5" total_slots="9" original="Place tree in hole."></item>
+<item source="2" script="24" slot="4" total_slots="7" original="Place tree or seed in hole"></item>
+<item source="2" script="25" slot="4" total_slots="6" original="Plant the tree"></item>
+
+</label>
+<label type="PARAPHRASE" event="refill_hole">
+<item source="2" script="19" slot="6" total_slots="8" original="Hold it with one hand firmly and refill the soil"></item>
+<item source="2" script="1" slot="6" total_slots="8" original="Fill hole with soil"></item>
+<item source="2" script="0" slot="5" total_slots="6" original="Fill hole back in with dirt"></item>
+<item source="2" script="2" slot="4" total_slots="5" original="Cover the seed loosely with soil"></item>
+<item source="2" script="3" slot="7" total_slots="11" original="Fill in space around the roots with dirt or potting soil"></item>
+<item source="2" script="4" slot="4" total_slots="5" original="putting dirt over the seeds"></item>
+<item source="2" script="5" slot="6" total_slots="6" original="Cover the hole with topsoil"></item>
+<item source="2" script="6" slot="6" total_slots="8" original="Cover hole"></item>
+<item source="2" script="7" slot="4" total_slots="6" original="Cover hole with soil."></item>
+<item source="2" script="8" slot="4" total_slots="5" original="fill hole with dirt around the tree"></item>
+<item source="2" script="9" slot="4" total_slots="6" original="Put dirt back into hole"></item>
+<item source="2" script="10" slot="5" total_slots="6" original="Fill the hole back with dirt."></item>
+<item source="2" script="11" slot="4" total_slots="5" original="Fill hole with dirt"></item>
+<item source="2" script="13" slot="9" total_slots="12" original="Cover with soil"></item>
+<item source="2" script="14" slot="9" total_slots="11" original="Pack dirt back in"></item>
+<item source="2" script="15" slot="5" total_slots="6" original="Fill in any gaps in the hole with soil."></item>
+<item source="2" script="16" slot="5" total_slots="6" original="Cover roots with dirt."></item>
+<item source="2" script="17" slot="5" total_slots="8" original="cover with dirt"></item>
+<item source="2" script="18" slot="4" total_slots="6" original="cover with soil."></item>
+<item source="2" script="19" slot="8" total_slots="8" original="Refill some more soil to fill the gap if any"></item>
+<item source="2" script="20" slot="4" total_slots="5" original="fill in with dirt"></item>
+<item source="2" script="21" slot="6" total_slots="7" original="Fill up the rest of the hole with dirt"></item>
+<item source="2" script="22" slot="5" total_slots="7" original="Cover tree roots with dirt"></item>
+<item source="2" script="23" slot="6" total_slots="9" original="Cover with dirt."></item>
+<item source="2" script="24" slot="5" total_slots="7" original="Put soil back in hole around tree"></item>
+
+</label>
+<label type="PARAPHRASE" event="tamp_dirt">
+<item source="2" script="3" slot="8" total_slots="11" original="Firmly but gently pack down around roots"></item>
+<item source="2" script="1" slot="7" total_slots="8" original="Flatten soil with shovel"></item>
+<item source="2" script="9" slot="5" total_slots="6" original="Press dirt firmly around root ball as hole is filled in"></item>
+<item source="2" script="21" slot="7" total_slots="7" original="Pat the dirt down with the shovel"></item>
+<item source="2" script="22" slot="6" total_slots="7" original="Pack down the dirt around the tree"></item>
+<item source="2" script="24" slot="6" total_slots="7" original="Pat lightly"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_check_stability">
+<item source="2" script="25" slot="5" total_slots="6" original="Make sure it is stable"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_put_mulch">
+<item source="2" script="3" slot="9" total_slots="11" original="Place mulch around bottom of sapling"></item>
+
+</label>
+<label type="PARAPHRASE" event="other_put_away_tools">
+<item source="2" script="17" slot="6" total_slots="8" original="take off gloves and put away with shovel"></item>
+
+</label>
+<label type="PARAPHRASE" event="water">
+<item source="2" script="0" slot="6" total_slots="6" original="Water tree"></item>
+<item source="2" script="2" slot="5" total_slots="5" original="Pour some water over the covered seed"></item>
+<item source="2" script="3" slot="10" total_slots="11" original="Water your tree"></item>
+<item source="2" script="4" slot="5" total_slots="5" original="watering the dirt"></item>
+<item source="2" script="6" slot="7" total_slots="8" original="Water sapling"></item>
+<item source="2" script="7" slot="5" total_slots="6" original="Water it."></item>
+<item source="2" script="8" slot="5" total_slots="5" original="water the tree"></item>
+<item source="2" script="9" slot="6" total_slots="6" original="Water the tree generously"></item>
+<item source="2" script="13" slot="11" total_slots="12" original="Water it daily 2 times"></item>
+<item source="2" script="11" slot="5" total_slots="5" original="Water the tree every day"></item>
+<item source="2" script="14" slot="10" total_slots="11" original="Water"></item>
+<item source="2" script="16" slot="6" total_slots="6" original="Water regularly."></item>
+<item source="2" script="17" slot="7" total_slots="8" original="come back regularly to water sapling"></item>
+<item source="2" script="13" slot="10" total_slots="12" original="Water it lightly"></item>
+<item source="2" script="18" slot="5" total_slots="6" original="Water."></item>
+<item source="2" script="19" slot="7" total_slots="8" original="Water the plant"></item>
+<item source="2" script="20" slot="5" total_slots="5" original="water very well"></item>
+<item source="2" script="23" slot="8" total_slots="9" original="Water well."></item>
+<item source="2" script="22" slot="7" total_slots="7" original="Water tree"></item>
+<item source="2" script="25" slot="6" total_slots="6" original="Water the tree"></item>
+
+</label>
+<label type="PARAPHRASE" event="tie_stakes_up">
+<item source="2" script="7" slot="6" total_slots="6" original="Stake the tree."></item>
+
+</label>
+<label type="PARAPHRASE" event="UnRelEv">
+<item source="2" script="13" slot="12" total_slots="12" original="The plant will come out in some days"></item>
+
+</label>
+<label type="PARAPHRASE" event="UnRelEv">
+<item source="2" script="3" slot="11" total_slots="11" original="Watch it grow through the years"></item>
+<item source="2" script="6" slot="8" total_slots="8" original="Wait for growth"></item>
+
+</label>
+<label type="PARAPHRASE" event="UnRelEv">
+<item source="2" script="1" slot="8" total_slots="8" original="Admire tree"></item>
+<item source="2" script="14" slot="11" total_slots="11" original="Watch grow"></item>
+<item source="2" script="10" slot="6" total_slots="6" original="Watch tree grow."></item>
+<item source="2" script="15" slot="6" total_slots="6" original="Watch your tree grow over the years."></item>
+<item source="2" script="17" slot="8" total_slots="8" original="watch tree grow"></item>
+<item source="2" script="18" slot="6" total_slots="6" original="Wait patiently."></item>
+<item source="2" script="23" slot="9" total_slots="9" original="Wait patiently for tree to grow."></item>
+<item source="2" script="24" slot="7" total_slots="7" original="Watch tree grow (years)"></item>
+
+</label>
+</scripts>

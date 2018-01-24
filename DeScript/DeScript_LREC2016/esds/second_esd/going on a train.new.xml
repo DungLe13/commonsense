@@ -1,0 +1,687 @@
+<scripts><script id="0" source="2"><item slot="1" original="Buy a ticket online." ></item>
+<item slot="2" original="Go to the train station." ></item>
+<item slot="3" original="Confirm your ticket with an employee." ></item>
+<item slot="4" original="Wait for your train to be announced." ></item>
+<item slot="5" original="Wait in line to board train." ></item>
+<item slot="6" original="Put carry on luggage in overhead bin." ></item>
+<item slot="7" original="Sit down." ></item>
+<item slot="8" original="When your destination is called, get off train." ></item>
+</script><script id="1" source="2"><item slot="1" original="Go to train station" ></item>
+<item slot="2" original="Check train schedules" ></item>
+<item slot="3" original="Go to counter" ></item>
+<item slot="4" original="Pay for ticket" ></item>
+<item slot="5" original="Wait for train to arrive" ></item>
+<item slot="6" original="Get on the train" ></item>
+<item slot="7" original="Take a seat" ></item>
+<item slot="8" original="Arrive at destination" ></item>
+<item slot="9" original="Get off destination" ></item>
+</script><script id="2" source="2"><item slot="1" original="Determine a location to go to by train." ></item>
+<item slot="2" original="Locate a train schedule" ></item>
+<item slot="3" original="Purchase ticket(s) for train" ></item>
+<item slot="4" original="Secure transportation to the train station" ></item>
+<item slot="5" original="Use transportation to train station." ></item>
+<item slot="6" original="Ensure transportation is secured in lot." ></item>
+<item slot="7" original="Enter train station." ></item>
+<item slot="8" original="Pray your train is on schedule" ></item>
+<item slot="9" original="Wait for train" ></item>
+<item slot="10" original="When train arrives, board the train." ></item>
+</script><script id="4" source="2"><item slot="1" original="going to the train station" ></item>
+<item slot="2" original="buying a ticket" ></item>
+<item slot="3" original="waiting on train platform for train" ></item>
+<item slot="4" original="getting into train when arrives" ></item>
+<item slot="5" original="taking a seat" ></item>
+</script><script id="5" source="2"><item slot="1" original="Go to train station" ></item>
+<item slot="2" original="Buy ticket" ></item>
+<item slot="3" original="Wait for train" ></item>
+<item slot="4" original="Get on train" ></item>
+<item slot="5" original="Sit down" ></item>
+<item slot="6" original="Wait for stop" ></item>
+<item slot="7" original="Get off train" ></item>
+</script><script id="6" source="2"><item slot="1" original="Book train tickets" ></item>
+<item slot="2" original="Pack necessary luggage" ></item>
+<item slot="3" original="Go to train station" ></item>
+<item slot="4" original="Get on train" ></item>
+<item slot="5" original="Depart when you arrive" ></item>
+</script><script id="7" source="2"><item slot="1" original="Decide where to go on a train" ></item>
+<item slot="2" original="Purchase ticket for the destination station" ></item>
+<item slot="3" original="Go to the platform where the train is expected" ></item>
+<item slot="4" original="When train arrives, ride up the train compartment as per ticket" ></item>
+<item slot="5" original="Look for the seat number as in ticket" ></item>
+<item slot="6" original="Keep bag under the seat" ></item>
+<item slot="7" original="Sit on the seat" ></item>
+<item slot="8" original="Relax or read favorite magazine" ></item>
+<item slot="9" original="Alight at the destination station" ></item>
+<item slot="10" original="Take all the luggage out" ></item>
+<item slot="11" original="Go out of the station" ></item>
+</script><script id="9" source="2"><item slot="1" original="Drive to train station" ></item>
+<item slot="2" original="Park car" ></item>
+<item slot="3" original="Get out" ></item>
+<item slot="4" original="Walk to ticket counter" ></item>
+<item slot="5" original="Buy ticket" ></item>
+<item slot="6" original="Wait for train to arrive" ></item>
+<item slot="7" original="Board train" ></item>
+</script><script id="10" source="2"><item slot="1" original="Get a ticket for the train" ></item>
+<item slot="2" original="Go to the train station" ></item>
+<item slot="3" original="Wait for your train to pull up to station" ></item>
+<item slot="4" original="Get on train" ></item>
+<item slot="5" original="Show the ticket checker your ticket" ></item>
+<item slot="6" original="Wait till your stop" ></item>
+<item slot="7" original="Get off train at your stop" ></item>
+</script><script id="12" source="2"><item slot="1" original="Purchase train ticket" ></item>
+<item slot="2" original="Look on schedule board for departure information" ></item>
+<item slot="3" original="Go to the assigned track" ></item>
+<item slot="4" original="board train when it arrives" ></item>
+<item slot="5" original="show conductor ticket" ></item>
+<item slot="6" original="find a seat" ></item>
+<item slot="7" original="ride train" ></item>
+<item slot="8" original="when train reaches destination, exit train" ></item>
+</script><script id="13" source="2"><item slot="1" original="Call and check departure time" ></item>
+<item slot="2" original="Go to train station" ></item>
+<item slot="3" original="Pay for your ticket" ></item>
+<item slot="4" original="get on the train" ></item>
+<item slot="5" original="enjoy the ride" ></item>
+</script><script id="14" source="2"><item slot="1" original="Purchase train ticket for destination" ></item>
+<item slot="2" original="Go to train station a few minutes before scheduled departure" ></item>
+<item slot="3" original="Find rail for your train" ></item>
+<item slot="4" original="Give ticket to attendant" ></item>
+<item slot="5" original="Board train and be seated" ></item>
+</script><script id="15" source="2"><item slot="1" original="Go to train station." ></item>
+<item slot="2" original="Buy ticket at window." ></item>
+<item slot="3" original="Go on platform." ></item>
+<item slot="4" original="When train arrives, board a car." ></item>
+<item slot="5" original="Find an empty seat." ></item>
+<item slot="6" original="Relax." ></item>
+<item slot="7" original="Wait for correct stop." ></item>
+</script><script id="16" source="2"><item slot="1" original="Wait at station" ></item>
+<item slot="2" original="Retrieve ticket from machine" ></item>
+<item slot="3" original="Train arrives" ></item>
+<item slot="4" original="Get on train" ></item>
+<item slot="5" original="Swipe ticket" ></item>
+<item slot="6" original="Ride train" ></item>
+<item slot="7" original="Get off at destination" ></item>
+</script><script id="17" source="2"><item slot="1" original="Go to the railway station" ></item>
+<item slot="2" original="Stand in queue in front of a ticket counter" ></item>
+<item slot="3" original="Buy ticket to the travel destination" ></item>
+<item slot="4" original="Go to the platform where the train arrives" ></item>
+<item slot="5" original="Upon arrival get into the compartment" ></item>
+<item slot="6" original="Find a vacant window seat" ></item>
+<item slot="7" original="Enjoy the outside sceneries while on the move" ></item>
+<item slot="8" original="De-train upon reaching the destination" ></item>
+</script><script id="18" source="2"><item slot="1" original="Look up train information online" ></item>
+<item slot="2" original="Purchase tickets online" ></item>
+<item slot="3" original="Go to the train station" ></item>
+<item slot="4" original="Show ticket pass" ></item>
+<item slot="5" original="Board train" ></item>
+</script><script id="19" source="2"><item slot="1" original="Drive to the train station." ></item>
+<item slot="2" original="Buy a train ticket." ></item>
+<item slot="3" original="Go to the correct train platform." ></item>
+<item slot="4" original="Wait for the train to arrive." ></item>
+<item slot="5" original="Walk onto the train." ></item>
+<item slot="6" original="Hand the attendant your ticket." ></item>
+</script><script id="20" source="2"><item slot="1" original="Go to train station" ></item>
+<item slot="2" original="Choose a destination" ></item>
+<item slot="3" original="Buy ticket" ></item>
+<item slot="4" original="Wait for train" ></item>
+<item slot="5" original="Get in train" ></item>
+<item slot="6" original="Arrive at destination" ></item>
+</script><script id="21" source="2"><item slot="1" original="Enter train station" ></item>
+<item slot="2" original="Buy train ticket" ></item>
+<item slot="3" original="Wait for train" ></item>
+<item slot="4" original="Train arrives" ></item>
+<item slot="5" original="Enter train" ></item>
+<item slot="6" original="Find a seat" ></item>
+<item slot="7" original="Hand ticket to ticket taker" ></item>
+<item slot="8" original="Enjoy train ride" ></item>
+</script><script id="22" source="2"><item slot="1" original="decide the route you want take" ></item>
+<item slot="2" original="go to station" ></item>
+<item slot="3" original="purchase tickets" ></item>
+<item slot="4" original="wait for train at the platform" ></item>
+<item slot="5" original="get on train" ></item>
+<item slot="6" original="find a seat" ></item>
+<item slot="7" original="give ticket to conductor" ></item>
+<item slot="8" original="enjoy the view" ></item>
+<item slot="9" original="get off at your stop" ></item>
+</script><script id="25" source="2"><item slot="1" original="purchase a ticket" ></item>
+<item slot="2" original="wait for the train at the platform" ></item>
+<item slot="3" original="when train arrives, board train" ></item>
+<item slot="4" original="give ticket to steward when asked" ></item>
+<item slot="5" original="choose a seat" ></item>
+<item slot="6" original="wait patiently while the train travels" ></item>
+<item slot="7" original="leave train" ></item>
+</script><script id="26" source="2"><item slot="1" original="Drive to train station." ></item>
+<item slot="2" original="Purchase train tickets." ></item>
+<item slot="3" original="Wait for train to arrive." ></item>
+<item slot="4" original="Board train and choose a seat." ></item>
+<item slot="5" original="Sit back and relax." ></item>
+<item slot="6" original="Get off at your correct stop." ></item>
+</script><script id="27" source="2"><item slot="1" original="Get to station" ></item>
+<item slot="2" original="Enter into the station" ></item>
+<item slot="3" original="Wait in line" ></item>
+<item slot="4" original="Get to ticket booth" ></item>
+<item slot="5" original="Purchase ticket" ></item>
+<item slot="6" original="Leave to designated area" ></item>
+<item slot="7" original="Wait for train" ></item>
+<item slot="8" original="Board train when it arrives" ></item>
+<item slot="9" original="Take a seat if possible" ></item>
+</script><script id="28" source="2"><item slot="1" original="Walk to the subway." ></item>
+<item slot="2" original="Get in line." ></item>
+<item slot="3" original="Pay for train ticket." ></item>
+<item slot="4" original="Walk through roundabout." ></item>
+<item slot="5" original="Wait for train." ></item>
+<item slot="6" original="Get on train." ></item>
+</script><script id="29" source="2"><item slot="1" original="Get dressed." ></item>
+<item slot="2" original="Go to the car." ></item>
+<item slot="3" original="Drive to the train station" ></item>
+<item slot="4" original="Pay for the ticket" ></item>
+<item slot="5" original="Wait for the train" ></item>
+<item slot="6" original="Board train" ></item>
+</script><script id="30" source="2"><item slot="1" original="Go to station" ></item>
+<item slot="2" original="Buy a ticket at the window" ></item>
+<item slot="3" original="Wait on platform for train" ></item>
+<item slot="4" original="Get on train" ></item>
+<item slot="5" original="Find a seat" ></item>
+<item slot="6" original="Give ticket to conductor" ></item>
+<item slot="7" original="Ride and enjoy the countryside" ></item>
+<item slot="8" original="Arrive" ></item>
+<item slot="9" original="Leave train" ></item>
+</script><script id="31" source="2"><item slot="1" original="drive to train station" ></item>
+<item slot="2" original="buy ticket" ></item>
+<item slot="3" original="wait for train" ></item>
+<item slot="4" original="board train" ></item>
+<item slot="5" original="give conductor ticket" ></item>
+<item slot="6" original="find a seat" ></item>
+<item slot="7" original="sit down" ></item>
+<item slot="8" original="arrive at destination" ></item>
+<item slot="9" original="exit train" ></item>
+</script><script id="32" source="2"><item slot="1" original="arrive train station" ></item>
+<item slot="2" original="wait for train" ></item>
+<item slot="3" original="enter train" ></item>
+<item slot="4" original="find seat" ></item>
+<item slot="5" original="enjoy ride" ></item>
+</script><script id="33" source="2"><item slot="1" original="Enter the train station" ></item>
+<item slot="2" original="Get tickets from ticket counter" ></item>
+<item slot="3" original="find out what platform the train will be on" ></item>
+<item slot="4" original="walk to the train platform" ></item>
+<item slot="5" original="wait until time to board train" ></item>
+<item slot="6" original="step up to train" ></item>
+<item slot="7" original="hand your ticket to the conductor" ></item>
+<item slot="8" original="get on train." ></item>
+</script><script id="34" source="2"><item slot="1" original="get dress and go to train station" ></item>
+<item slot="2" original="go to ticket window" ></item>
+<item slot="3" original="tell the clerk where you want to travel to" ></item>
+<item slot="4" original="pay the clerk for ticket" ></item>
+<item slot="5" original="wait for boarding time for train" ></item>
+<item slot="6" original="get on the train and enjoy" ></item>
+</script><script id="35" source="2"><item slot="1" original="First you have to plan where you want to go." ></item>
+<item slot="2" original="Then, you have to buy your ticket." ></item>
+<item slot="3" original="Then, you have to buy your ticket." ></item>
+<item slot="4" original="You have to pack your bags and go to train station." ></item>
+<item slot="5" original="Next, you check in and wait to board your plane." ></item>
+<item slot="6" original="You board your train and find your seat." ></item>
+<item slot="7" original="You ride the train to your destination." ></item>
+<item slot="8" original="If you're going on a long trip, you may receive a meal." ></item>
+<item slot="9" original="You arrive to your destination, and take your luggage." ></item>
+<item slot="10" original="Then, you enjoy your destination." ></item>
+</script><script id="36" source="2"><item slot="1" original="Packing/Gathering luggage." ></item>
+<item slot="2" original="Gathering ticket and required identification." ></item>
+<item slot="3" original="Driving to the train station." ></item>
+<item slot="4" original="Giving ticket to conductor/ticket taker." ></item>
+<item slot="5" original="Board the train." ></item>
+<item slot="6" original="Relax while you reach your destination." ></item>
+</script><script id="37" source="2"><item slot="1" original="Drive to station" ></item>
+<item slot="2" original="Park at station" ></item>
+<item slot="3" original="Walk into station" ></item>
+<item slot="4" original="Purchase train tickets" ></item>
+<item slot="5" original="Walk to correct platform" ></item>
+<item slot="6" original="Wait for train" ></item>
+<item slot="7" original="Enter train" ></item>
+<item slot="8" original="Find correct seat" ></item>
+<item slot="9" original="Sit in seat" ></item>
+<item slot="10" original="Enjoy train ride" ></item>
+</script><script id="38" source="2"><item slot="1" original="Find the nearest train station" ></item>
+<item slot="2" original="Look at all the times and pick a destination" ></item>
+<item slot="3" original="Pay for the ticket at the ticket counter" ></item>
+<item slot="4" original="Board the train" ></item>
+<item slot="5" original="Enjoy the ride on the train" ></item>
+</script><script id="39" source="2"><item slot="1" original="Go to train station." ></item>
+<item slot="2" original="Buy ticket." ></item>
+<item slot="3" original="Wait in line." ></item>
+<item slot="4" original="Board train." ></item>
+<item slot="5" original="Sit down and ride." ></item>
+</script><script id="40" source="2"><item slot="1" original="get to train stop" ></item>
+<item slot="2" original="buy pass" ></item>
+<item slot="3" original="get on train" ></item>
+<item slot="4" original="find seat" ></item>
+<item slot="5" original="ride to your stop" ></item>
+<item slot="6" original="get off train" ></item>
+</script><script id="41" source="2"><item slot="1" original="Obtain train ticket" ></item>
+<item slot="2" original="Drive to train station" ></item>
+<item slot="3" original="Show receptionist train ticket" ></item>
+<item slot="4" original="Get on train" ></item>
+<item slot="5" original="Find a seat" ></item>
+<item slot="6" original="Place luggage down" ></item>
+<item slot="7" original="Arrive at destination" ></item>
+<item slot="8" original="Get off train" ></item>
+</script><script id="42" source="2"><item slot="1" original="Purchase train ticket." ></item>
+<item slot="2" original="Pack clothes." ></item>
+<item slot="3" original="Get a snack for the train ride." ></item>
+<item slot="4" original="Go to train station." ></item>
+<item slot="5" original="Board train." ></item>
+<item slot="6" original="Give ticket to conductor." ></item>
+<item slot="7" original="Find a seat." ></item>
+<item slot="8" original="Wait until you reach your destination." ></item>
+</script><script id="43" source="2"><item slot="1" original="Check train schedule" ></item>
+<item slot="2" original="Purchase ticket" ></item>
+<item slot="3" original="Give ticket to the attendant" ></item>
+<item slot="4" original="Get on the correct train" ></item>
+<item slot="5" original="Find a seat" ></item>
+<item slot="6" original="Sit down and enjoy the ride" ></item>
+<item slot="7" original="Get off at correct destination" ></item>
+</script><script id="44" source="2"><item slot="1" original="Buy ticket to train." ></item>
+<item slot="2" original="Give ticket to conductor." ></item>
+<item slot="3" original="Board train." ></item>
+<item slot="4" original="Find a seat." ></item>
+<item slot="5" original="Enjoy train ride." ></item>
+<item slot="6" original="Leave train at destination." ></item>
+</script><script id="45" source="2"><item slot="1" original="Go to station" ></item>
+<item slot="2" original="Go to ticket office" ></item>
+<item slot="3" original="Purchase ticket" ></item>
+<item slot="4" original="Go to platform" ></item>
+<item slot="5" original="Wait for train" ></item>
+<item slot="6" original="When train arrives, get on train" ></item>
+<item slot="7" original="Find a seat" ></item>
+<item slot="8" original="Wait until your station" ></item>
+<item slot="9" original="Get off train" ></item>
+<item slot="10" original="Leave station" ></item>
+</script><script id="46" source="2"><item slot="1" original="wait at train stop" ></item>
+<item slot="2" original="board correct train" ></item>
+<item slot="3" original="find a seat or stand" ></item>
+<item slot="4" original="listen to music or read etc while riding" ></item>
+<item slot="5" original="look at window if you haven't seen the surroundings" ></item>
+<item slot="6" original="exit train at correct stop" ></item>
+</script><script id="47" source="2"><item slot="1" original="Pack bags" ></item>
+<item slot="2" original="Go to train station" ></item>
+<item slot="3" original="Purchase ticket" ></item>
+<item slot="4" original="Get on train" ></item>
+<item slot="5" original="Find seat" ></item>
+<item slot="6" original="Sit and relax" ></item>
+<item slot="7" original="Look out window" ></item>
+<item slot="8" original="Order meal" ></item>
+<item slot="9" original="Eat" ></item>
+<item slot="10" original="Get to destination" ></item>
+<item slot="11" original="Leave train" ></item>
+</script><script id="48" source="2"><item slot="1" original="go to train station" ></item>
+<item slot="2" original="purchase tickets" ></item>
+<item slot="3" original="wait for train" ></item>
+<item slot="4" original="board train" ></item>
+<item slot="5" original="ride train" ></item>
+<item slot="6" original="arrive at destination" ></item>
+<item slot="7" original="disembark train" ></item>
+</script><script id="49" source="2"><item slot="1" original="Go to the train station" ></item>
+<item slot="2" original="Buy a ticket" ></item>
+<item slot="3" original="Wait for my train" ></item>
+<item slot="4" original="Get on my train" ></item>
+<item slot="5" original="Go to my destination" ></item>
+</script><script id="50" source="2"><item slot="1" original="GET TO STATION" ></item>
+<item slot="2" original="PURCHASE TICKET" ></item>
+<item slot="3" original="CHECK TRAIN TIME" ></item>
+<item slot="4" original="WAIT FOR TRAIN TO ARRIVE" ></item>
+<item slot="5" original="BOARD TRAIN" ></item>
+<item slot="6" original="FIND SEAT" ></item>
+<item slot="7" original="SIT DOWN" ></item>
+</script><script id="51" source="2"><item slot="1" original="go to train station" ></item>
+<item slot="2" original="buy ticket" ></item>
+<item slot="3" original="wait for train" ></item>
+<item slot="4" original="get on train" ></item>
+<item slot="5" original="sit" ></item>
+<item slot="6" original="wait until train reaches destination" ></item>
+<item slot="7" original="get off train" ></item>
+<item slot="8" original="repeat for return trip if needed" ></item>
+</script><script id="52" source="2"><item slot="1" original="Go to the train station" ></item>
+<item slot="2" original="sit or stand and wait for your train" ></item>
+<item slot="3" original="when the train comes , get up and enter the train" ></item>
+<item slot="4" original="sit down" ></item>
+<item slot="5" original="wait for attendant to walk by and pay for your ticket" ></item>
+<item slot="6" original="enjoy train ride" ></item>
+<item slot="7" original="get off at destination" ></item>
+</script><script id="53" source="2"><item slot="1" original="Arrive at the station." ></item>
+<item slot="2" original="Purchase ticket." ></item>
+<item slot="3" original="Wait on platform." ></item>
+<item slot="4" original="Board train." ></item>
+<item slot="5" original="Enjoy the journey." ></item>
+</script><script id="54" source="2"><item slot="1" original="Plan your train trip." ></item>
+<item slot="2" original="Go to the station." ></item>
+<item slot="3" original="Purchase your train ticket." ></item>
+<item slot="4" original="Find the correct platform." ></item>
+<item slot="5" original="Wait for your train to arrive." ></item>
+<item slot="6" original="Enter the appropriate train car." ></item>
+<item slot="7" original="Find your seat or compartment." ></item>
+<item slot="8" original="Enjoy the train trip." ></item>
+</script><script id="55" source="2"><item slot="1" original="Check train schedule for departure time" ></item>
+<item slot="2" original="Arrive at train station" ></item>
+<item slot="3" original="Buy ticket for train" ></item>
+<item slot="4" original="Present ticket to clerk" ></item>
+<item slot="5" original="Board train" ></item>
+<item slot="6" original="Find correct seat" ></item>
+<item slot="7" original="Enjoy train ride" ></item>
+<item slot="8" original="Leave train" ></item>
+</script><script id="56" source="2"><item slot="1" original="drive to train station" ></item>
+<item slot="2" original="look at schedule on monitor" ></item>
+<item slot="3" original="choose destination" ></item>
+<item slot="4" original="go to attendant and buy ticket" ></item>
+<item slot="5" original="walk to loading station" ></item>
+<item slot="6" original="await for train to arrive" ></item>
+<item slot="7" original="when train arrives, present ticket to employee" ></item>
+<item slot="8" original="board train" ></item>
+<item slot="9" original="sit at designated seat" ></item>
+</script><script id="57" source="2"><item slot="1" original="Go to train station" ></item>
+<item slot="2" original="Buy train ticket" ></item>
+<item slot="3" original="Wait for train to arrive" ></item>
+<item slot="4" original="Get onto train" ></item>
+<item slot="5" original="Find seat" ></item>
+<item slot="6" original="Wait for person to come take your ticket" ></item>
+<item slot="7" original="Sit on train until you reach destination" ></item>
+<item slot="8" original="Get off of train" ></item>
+</script><script id="58" source="2"><item slot="1" original="Go to train station" ></item>
+<item slot="2" original="Get train ticket" ></item>
+<item slot="3" original="Go to train platform" ></item>
+<item slot="4" original="Wait for train" ></item>
+<item slot="5" original="When train arrives, let people get off train first" ></item>
+<item slot="6" original="Get on train" ></item>
+<item slot="7" original="Find a seat" ></item>
+<item slot="8" original="Sit" ></item>
+<item slot="9" original="Ride train" ></item>
+<item slot="10" original="When ticket taker comes by, give them your ticket" ></item>
+<item slot="11" original="Ride train to destination" ></item>
+<item slot="12" original="When arriving at destination, prepare your belongings" ></item>
+<item slot="13" original="Get off train at destination" ></item>
+</script><script id="59" source="2"><item slot="1" original="Go online to check prices." ></item>
+<item slot="2" original="Buy a ticket." ></item>
+<item slot="3" original="Pack luggage." ></item>
+<item slot="4" original="Go to the train station." ></item>
+<item slot="5" original="Board the train." ></item>
+</script><script id="60" source="2"><item slot="1" original="Go to train station" ></item>
+<item slot="2" original="Walk up to ticket counter" ></item>
+<item slot="3" original="Purchase a ticket for your destination" ></item>
+<item slot="4" original="Walk to train platform" ></item>
+<item slot="5" original="Wait for train to arrive" ></item>
+<item slot="6" original="Board train" ></item>
+<item slot="7" original="Find unoccupied seat" ></item>
+<item slot="8" original="Sit in the seat" ></item>
+<item slot="9" original="Wait until the train stops at your destination" ></item>
+<item slot="10" original="Stand up" ></item>
+<item slot="11" original="Walk off train" ></item>
+</script><script id="61" source="2"><item slot="1" original="Go to train station." ></item>
+<item slot="2" original="Buy a ticket from attendant." ></item>
+<item slot="3" original="Check bags." ></item>
+<item slot="4" original="Walk to train." ></item>
+<item slot="5" original="Hand attendant your ticket." ></item>
+<item slot="6" original="Get on train." ></item>
+<item slot="7" original="Look for your seat." ></item>
+<item slot="8" original="Sit down." ></item>
+<item slot="9" original="Train leaves station." ></item>
+</script><script id="62" source="2"><item slot="1" original="pack clothes inside suitcase" ></item>
+<item slot="2" original="arrive to train station" ></item>
+<item slot="3" original="check in main desk to see what time it will arrive" ></item>
+<item slot="4" original="wait for train" ></item>
+<item slot="5" original="walk into train" ></item>
+<item slot="6" original="show tickets to employees" ></item>
+<item slot="7" original="relax train ride" ></item>
+</script><script id="63" source="2"><item slot="1" original="Check the train schedule" ></item>
+<item slot="2" original="Go to the railway station" ></item>
+<item slot="3" original="Purchase a ticket for the journey" ></item>
+<item slot="4" original="Check the display for platform number" ></item>
+<item slot="5" original="Go to the right platform" ></item>
+<item slot="6" original="Board the train" ></item>
+<item slot="7" original="Sit on your seat as per the ticket" ></item>
+<item slot="8" original="Get down at the destination" ></item>
+</script><script id="64" source="2"><item slot="1" original="Go to the train station." ></item>
+<item slot="2" original="Purchase a ticket to your destination." ></item>
+<item slot="3" original="Inquire where they want you to put your baggage." ></item>
+<item slot="4" original="Give your ticket to the conductor." ></item>
+<item slot="5" original="Board the train." ></item>
+<item slot="6" original="Find your seat." ></item>
+<item slot="7" original="Enjoy the trip." ></item>
+</script><script id="66" source="2"><item slot="1" original="Fix the place" ></item>
+<item slot="2" original="Go to railway station" ></item>
+<item slot="3" original="Get your ticket" ></item>
+<item slot="4" original="Pay the fare" ></item>
+<item slot="5" original="Check the platform number and arrival time" ></item>
+<item slot="6" original="Go to the platform" ></item>
+<item slot="7" original="Wait for train" ></item>
+<item slot="8" original="Get on the train" ></item>
+<item slot="9" original="Search your coach" ></item>
+<item slot="10" original="Find your seat" ></item>
+<item slot="11" original="Occupy the seat" ></item>
+<item slot="12" original="Travel to your place" ></item>
+<item slot="13" original="Leave the train" ></item>
+</script><script id="67" source="2"><item slot="1" original="book the train ticket" ></item>
+<item slot="2" original="go to the train station" ></item>
+<item slot="3" original="board the train" ></item>
+<item slot="4" original="find your compartment" ></item>
+<item slot="5" original="go and sit on your seat" ></item>
+</script><script id="68" source="2"><item slot="1" original="Go to train station" ></item>
+<item slot="2" original="Buy ticket" ></item>
+<item slot="3" original="Board train" ></item>
+<item slot="4" original="find your seat" ></item>
+<item slot="5" original="enjoy the ride" ></item>
+</script><script id="69" source="2"><item slot="1" original="Arrive at train station/ depot" ></item>
+<item slot="2" original="Purchase ticket for destination desired" ></item>
+<item slot="3" original="Wait for train arrival" ></item>
+<item slot="4" original="Wait for arriving passengers to get off train" ></item>
+<item slot="5" original="Prepare any items taking on train" ></item>
+<item slot="6" original="Get ticket ready" ></item>
+<item slot="7" original="Present ticket to tickettaker" ></item>
+<item slot="8" original="Get on train" ></item>
+<item slot="9" original="Find a seat" ></item>
+<item slot="10" original="Wait for train to depart" ></item>
+</script><script id="70" source="2"><item slot="1" original="Pack luggage (if necessary)" ></item>
+<item slot="2" original="Go to train station" ></item>
+<item slot="3" original="Buy tickets" ></item>
+<item slot="4" original="Wait for train to arrive" ></item>
+<item slot="5" original="Give luggage to porter" ></item>
+<item slot="6" original="Get on train when instructed" ></item>
+<item slot="7" original="Sit in assigned seat, or select seat" ></item>
+<item slot="8" original="Travel to destination" ></item>
+<item slot="9" original="Get off train" ></item>
+<item slot="10" original="Retrieve luggage" ></item>
+<item slot="11" original="Leave train station" ></item>
+</script><script id="71" source="2"><item slot="1" original="Book the tickets for your journey" ></item>
+<item slot="2" original="Board the train" ></item>
+<item slot="3" original="Secure your luggage in the racks" ></item>
+<item slot="4" original="Take your seat" ></item>
+<item slot="5" original="Get down at your destination" ></item>
+</script><script id="72" source="2"><item slot="1" original="Go to train station before train arrival." ></item>
+<item slot="2" original="Buy a train ticket (one way or round-trip)" ></item>
+<item slot="3" original="Find appropriate platform that your train will arrive on." ></item>
+<item slot="4" original="Wait on platform for train to arrive" ></item>
+<item slot="5" original="Board train." ></item>
+<item slot="6" original="Pick a seat and sit down" ></item>
+<item slot="7" original="When conductor walks by, offer ticket to conductor to be punched or scanned." ></item>
+<item slot="8" original="Enjoy your train trip" ></item>
+<item slot="9" original="At your train stop, get up and walk off train." ></item>
+<item slot="10" original="Leave train station." ></item>
+</script><script id="73" source="2"><item slot="1" original="Board the train" ></item>
+<item slot="2" original="Put your luggage in the proper compartments" ></item>
+<item slot="3" original="Take your seat" ></item>
+<item slot="4" original="Listen to music, read a book or watch the scenery outside" ></item>
+<item slot="5" original="Eat a snack" ></item>
+<item slot="6" original="Wait to arrive at your destination" ></item>
+</script><script id="74" source="2"><item slot="1" original="Go to train station" ></item>
+<item slot="2" original="Buy train tickets" ></item>
+<item slot="3" original="Wait for train" ></item>
+<item slot="4" original="Show ticket" ></item>
+<item slot="5" original="Board train" ></item>
+</script><script id="75" source="2"><item slot="1" original="Go to the train station" ></item>
+<item slot="2" original="Look at the map to determine where you need to go" ></item>
+<item slot="3" original="Purchase a ticket from the machine" ></item>
+<item slot="4" original="Scan your ticket in the turnstile" ></item>
+<item slot="5" original="Go to the waiting area for your train" ></item>
+<item slot="6" original="Get on the train when it comes" ></item>
+<item slot="7" original="Get off at your correct destination" ></item>
+</script><script id="76" source="2"><item slot="1" original="Buy ticket." ></item>
+<item slot="2" original="Pack things to bring." ></item>
+<item slot="3" original="Go to train station." ></item>
+<item slot="4" original="Check in at station." ></item>
+<item slot="5" original="Wait for train to arrive." ></item>
+<item slot="6" original="Board train." ></item>
+<item slot="7" original="Find seat or compartment." ></item>
+</script><script id="77" source="2"><item slot="1" original="Pack a bag" ></item>
+<item slot="2" original="Take personal documents" ></item>
+<item slot="3" original="Go to train station" ></item>
+<item slot="4" original="Buy a ticket" ></item>
+<item slot="5" original="Wait for the train to arrive" ></item>
+<item slot="6" original="Board the train" ></item>
+<item slot="7" original="Show ticket to conductor" ></item>
+<item slot="8" original="Find a seat" ></item>
+<item slot="9" original="Sit down in seat" ></item>
+<item slot="10" original="Wait for train to depart" ></item>
+</script><script id="78" source="2"><item slot="1" original="Go the the ticket dispenser." ></item>
+<item slot="2" original="Select destination and enter information into the device." ></item>
+<item slot="3" original="Place the credit or debit card into the device." ></item>
+<item slot="4" original="Withdraw the ticket." ></item>
+<item slot="5" original="Go to the gate at the correct time." ></item>
+<item slot="6" original="Board the train when it arrives." ></item>
+<item slot="7" original="Show the ticket when the conductor requests it." ></item>
+<item slot="8" original="Disembark at the destination." ></item>
+</script><script id="79" source="2"><item slot="1" original="Get in a car" ></item>
+<item slot="2" original="Drive to a train station" ></item>
+<item slot="3" original="Wait for train" ></item>
+<item slot="4" original="Board train" ></item>
+<item slot="5" original="Look outside train windows" ></item>
+</script><script id="80" source="2"><item slot="1" original="Step into train station" ></item>
+<item slot="2" original="Walk to ticket window" ></item>
+<item slot="3" original="Purchase a ticket" ></item>
+<item slot="4" original="Locate the terminal" ></item>
+<item slot="5" original="Wait for the train" ></item>
+<item slot="6" original="Enter the train" ></item>
+<item slot="7" original="Find your seat" ></item>
+</script><script id="81" source="2"><item slot="1" original="Enter station." ></item>
+<item slot="2" original="Decide on destination." ></item>
+<item slot="3" original="Purchase ticket." ></item>
+<item slot="4" original="At appropriate time, board train." ></item>
+<item slot="5" original="Find a seat." ></item>
+<item slot="6" original="Present ticket when asked" ></item>
+<item slot="7" original="Exit train at destination." ></item>
+</script><script id="82" source="2"><item slot="1" original="Go to the station." ></item>
+<item slot="2" original="Buy a ticket." ></item>
+<item slot="3" original="Wait on the curb." ></item>
+<item slot="4" original="Board the train." ></item>
+<item slot="5" original="Sit down." ></item>
+</script><script id="83" source="2"><item slot="1" original="Arrive early at the station just in case" ></item>
+<item slot="2" original="Purchase tickets at the station for the train you want" ></item>
+<item slot="3" original="When you hear that the train is arriving, stand a safe distance form the platform" ></item>
+<item slot="4" original="Board the train once it stops" ></item>
+<item slot="5" original="Present your ticket to the conductor" ></item>
+</script><script id="84" source="2"><item slot="1" original="Plan your trip" ></item>
+<item slot="2" original="Buy a ticket" ></item>
+<item slot="3" original="Print your ticket" ></item>
+<item slot="4" original="Go to train station" ></item>
+<item slot="5" original="Present your ticket to board train" ></item>
+<item slot="6" original="Find your seat" ></item>
+<item slot="7" original="Sit down and enjoy your trip" ></item>
+</script><script id="85" source="2"><item slot="1" original="Take luggage into train station" ></item>
+<item slot="2" original="Board train" ></item>
+<item slot="3" original="Find seat" ></item>
+<item slot="4" original="Ride train to destination" ></item>
+<item slot="5" original="Disembark train" ></item>
+<item slot="6" original="Gather luggage" ></item>
+<item slot="7" original="Leave train station" ></item>
+</script><script id="86" source="2"><item slot="1" original="Figure out a destination." ></item>
+<item slot="2" original="Go to train station." ></item>
+<item slot="3" original="Buy a ticket." ></item>
+<item slot="4" original="Wait at train stop for train." ></item>
+<item slot="5" original="Wait on passengers to get off." ></item>
+<item slot="6" original="Show them ticket." ></item>
+<item slot="7" original="Get on train." ></item>
+<item slot="8" original="Ride train to destination." ></item>
+</script><script id="87" source="2"><item slot="1" original="plan your route" ></item>
+<item slot="2" original="ready your fair" ></item>
+<item slot="3" original="go to the station" ></item>
+<item slot="4" original="check the schedule" ></item>
+<item slot="5" original="wait for the train" ></item>
+</script><script id="88" source="2"><item slot="1" original="Go to train station" ></item>
+<item slot="2" original="Pay for a ticket" ></item>
+<item slot="3" original="Wait on platform for train" ></item>
+<item slot="4" original="Board train when it arrives" ></item>
+<item slot="5" original="Find a seat" ></item>
+<item slot="6" original="Sit down" ></item>
+<item slot="7" original="Give ticket to conductor" ></item>
+<item slot="8" original="Take train ride" ></item>
+<item slot="9" original="Disembark when train reaches your station" ></item>
+</script><script id="89" source="2"><item slot="1" original="Go to the train station" ></item>
+<item slot="2" original="Buy a ticket" ></item>
+<item slot="3" original="Wait for a train" ></item>
+<item slot="4" original="Board the train" ></item>
+<item slot="5" original="Find a seat" ></item>
+<item slot="6" original="Sit and ride" ></item>
+</script><script id="90" source="2"><item slot="1" original="Go to the train station" ></item>
+<item slot="2" original="Buy a ticket" ></item>
+<item slot="3" original="Wait for the train" ></item>
+<item slot="4" original="When the train arrives, get on" ></item>
+<item slot="5" original="Find a seat" ></item>
+<item slot="6" original="Travel to your destination" ></item>
+</script><script id="91" source="2"><item slot="1" original="Go to station" ></item>
+<item slot="2" original="Buy a ticket" ></item>
+<item slot="3" original="Wait for train to arrive" ></item>
+<item slot="4" original="Show man on train ticket" ></item>
+<item slot="5" original="Sit down on train" ></item>
+<item slot="6" original="take train to destination" ></item>
+</script><script id="92" source="2"><item slot="1" original="Drive to train station" ></item>
+<item slot="2" original="Park" ></item>
+<item slot="3" original="Go to ticket booth" ></item>
+<item slot="4" original="Purchase ticket" ></item>
+<item slot="5" original="Wait" ></item>
+<item slot="6" original="Board train" ></item>
+<item slot="7" original="Ride train" ></item>
+</script><script id="93" source="2"><item slot="1" original="Plan to the trip" ></item>
+<item slot="2" original="Buy the ticket" ></item>
+<item slot="3" original="Going to the platform" ></item>
+<item slot="4" original="Enter the train" ></item>
+<item slot="5" original="Find the seat" ></item>
+<item slot="6" original="Occupy the seat" ></item>
+<item slot="7" original="Relax" ></item>
+<item slot="8" original="Waiting for our place" ></item>
+<item slot="9" original="Leave the train" ></item>
+</script><script id="95" source="2"><item slot="1" original="Select destination" ></item>
+<item slot="2" original="Purchase ticket for train" ></item>
+<item slot="3" original="Take taxi to train station" ></item>
+<item slot="4" original="Present ticket to conductor" ></item>
+<item slot="5" original="Board train" ></item>
+<item slot="6" original="Ride to destination" ></item>
+<item slot="7" original="Exit train" ></item>
+</script><script id="96" source="2"><item slot="1" original="Go into the station and buy a ticket" ></item>
+<item slot="2" original="Go through the turnstiles" ></item>
+<item slot="3" original="walk out onto the platform" ></item>
+<item slot="4" original="wait for the train" ></item>
+<item slot="5" original="when train arrives, board the car" ></item>
+<item slot="6" original="allow the doors to close" ></item>
+<item slot="7" original="ride the train to your destination" ></item>
+<item slot="8" original="when you arrive at your destination" ></item>
+<item slot="9" original="get off the train onto the platform" ></item>
+<item slot="10" original="leave the station" ></item>
+</script><script id="97" source="2"><item slot="1" original="Go to the train station." ></item>
+<item slot="2" original="Find the ticket booth." ></item>
+<item slot="3" original="Purchase a ticket." ></item>
+<item slot="4" original="Board the train" ></item>
+<item slot="5" original="Show your ticket to the conductor." ></item>
+<item slot="6" original="Find your seat written on the ticket." ></item>
+<item slot="7" original="Sit down." ></item>
+<item slot="8" original="Exit the train when you get to your destination." ></item>
+</script><script id="98" source="2"><item slot="1" original="travel to train station" ></item>
+<item slot="2" original="enter train station" ></item>
+<item slot="3" original="go to ticket booth" ></item>
+<item slot="4" original="buy a ticket" ></item>
+<item slot="5" original="go to the area where the train is boarding" ></item>
+<item slot="6" original="board the train" ></item>
+<item slot="7" original="find a seat" ></item>
+<item slot="8" original="sit in seat" ></item>
+<item slot="9" original="allow conductor to check the ticket" ></item>
+<item slot="10" original="enjoy the ride" ></item>
+</script><script id="99" source="2"><item slot="1" original="Choose a destination." ></item>
+<item slot="2" original="Travel to the train station." ></item>
+<item slot="3" original="Purchase your ticket at the designated ticket window." ></item>
+<item slot="4" original="Board the train when it arrives." ></item>
+<item slot="5" original="Give your ticket to the ticket-taker when they pass your seat." ></item>
+<item slot="6" original="Exit the train at your destination." ></item>
+</script></scripts>

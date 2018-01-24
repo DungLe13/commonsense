@@ -1,0 +1,706 @@
+<scripts><script id="0" source="2"><item slot="1" original="Get a button to match" ></item>
+<item slot="2" original="Find a needle" ></item>
+<item slot="3" original="Find thread that matches" ></item>
+<item slot="4" original="Thread needle" ></item>
+<item slot="5" original="Tie knot" ></item>
+<item slot="6" original="Use needle to go through button holes" ></item>
+<item slot="7" original="Repeat until button is tight" ></item>
+<item slot="8" original="Tie off thread" ></item>
+<item slot="9" original="Cut off excess thread" ></item>
+<item slot="10" original="Put away needle and thread" ></item>
+</script><script id="1" source="2"><item slot="1" original="getting out needle" ></item>
+<item slot="2" original="getting out thread" ></item>
+<item slot="3" original="threading the needle" ></item>
+<item slot="4" original="moving the needle in and out of the fabric" ></item>
+<item slot="5" original="tying a knot with thread" ></item>
+</script><script id="2" source="2"><item slot="1" original="Choose button that I like" ></item>
+<item slot="2" original="Get sewing kit" ></item>
+<item slot="3" original="Remove thread and needle from kit" ></item>
+<item slot="4" original="Hook thread through needle" ></item>
+<item slot="5" original="Push needle through fabric and button hole" ></item>
+<item slot="6" original="Repeat procedure until button is secure" ></item>
+<item slot="7" original="Cut off excess thread" ></item>
+</script><script id="3" source="2"><item slot="1" original="Get a needle" ></item>
+<item slot="2" original="Put thread in it" ></item>
+<item slot="3" original="Take a button" ></item>
+<item slot="4" original="Place the button at right place" ></item>
+<item slot="5" original="Insert the needle with thread in button hole and shirt" ></item>
+<item slot="6" original="Pull the needle until thread is completely on the other side of shirt" ></item>
+<item slot="7" original="Repeat the inserting as above for about 10 times" ></item>
+<item slot="8" original="break the thread" ></item>
+<item slot="9" original="Take out the needle" ></item>
+</script><script id="4" source="2"><item slot="1" original="gathering thread" ></item>
+<item slot="2" original="gather needle" ></item>
+<item slot="3" original="gather button" ></item>
+<item slot="4" original="gather garment for buttoning" ></item>
+<item slot="5" original="tie the thread to the sewing needle" ></item>
+<item slot="6" original="sew the button on the garment" ></item>
+<item slot="7" original="cut the thread when finished" ></item>
+<item slot="8" original="put back all the materials" ></item>
+</script><script id="5" source="2"><item slot="1" original="Get sewing basket" ></item>
+<item slot="2" original="Select needle" ></item>
+<item slot="3" original="Select thread" ></item>
+<item slot="4" original="Thread the needle" ></item>
+<item slot="5" original="Make a knot at end" ></item>
+<item slot="6" original="Push needle through hole" ></item>
+<item slot="7" original="Then push needle through material" ></item>
+<item slot="8" original="Push needle under material to next hole" ></item>
+<item slot="9" original="Repeat for remaining holes" ></item>
+<item slot="10" original="Repeat for all holes to reinforce" ></item>
+<item slot="11" original="Triple knot tie the thread" ></item>
+<item slot="12" original="Cut to knot" ></item>
+</script><script id="6" source="2"><item slot="1" original="Get thread and needle" ></item>
+<item slot="2" original="Thread the needle" ></item>
+<item slot="3" original="Take button and put it on shirt where you want it" ></item>
+<item slot="4" original="Put thread through buttonhole" ></item>
+<item slot="5" original="Pull thread through opposite button hole" ></item>
+<item slot="6" original="Repeat 5 times" ></item>
+<item slot="7" original="Do this with other two button holes" ></item>
+</script><script id="7" source="2"><item slot="1" original="Find a suitable button" ></item>
+<item slot="2" original="Find needle and thread" ></item>
+<item slot="3" original="Tie thread to needle" ></item>
+<item slot="4" original="Use needle and thread to sew button" ></item>
+<item slot="5" original="Make sure it's secure" ></item>
+</script><script id="8" source="2"><item slot="1" original="Take a needle and required thread" ></item>
+<item slot="2" original="Insert the thread into the needle hole" ></item>
+<item slot="3" original="Take the dress in the left hand" ></item>
+<item slot="4" original="Insert the needle from the bottom where the button is to be sewn" ></item>
+<item slot="5" original="Insert the needle into the button hole" ></item>
+<item slot="6" original="Insert the needle back into the garment from the top of the button" ></item>
+<item slot="7" original="Repeat 4 or 5 times" ></item>
+<item slot="8" original="Tie the thread round in between the garment and button" ></item>
+<item slot="9" original="Cut the thread." ></item>
+</script><script id="9" source="2"><item slot="1" original="Lay down garment" ></item>
+<item slot="2" original="Align button" ></item>
+<item slot="3" original="Get needle and thread" ></item>
+<item slot="4" original="Thread needle" ></item>
+<item slot="5" original="Sew button onto garment" ></item>
+</script><script id="10" source="2"><item slot="1" original="Get out sewing kit." ></item>
+<item slot="2" original="Pick thread to use" ></item>
+<item slot="3" original="Mark on clothing where button is to go" ></item>
+<item slot="4" original="measure and cut length of thread" ></item>
+<item slot="5" original="thread needle" ></item>
+<item slot="6" original="sew button into fabric making sure stitches are secure" ></item>
+<item slot="7" original="knot thread" ></item>
+<item slot="8" original="cut remaining thread away" ></item>
+<item slot="9" original="put sewing kit away" ></item>
+</script><script id="11" source="2"><item slot="1" original="Get needle and thread" ></item>
+<item slot="2" original="Push thread through needle and tie in a knot" ></item>
+<item slot="3" original="Place button on fabric and hold with thumb and index finger" ></item>
+<item slot="4" original="With other hand, push needle through button hole" ></item>
+<item slot="5" original="Pull til it stops at the knot, push through fabric and another button hole" ></item>
+<item slot="6" original="Repeat through each button hole" ></item>
+<item slot="7" original="Make a knot in fabric with thread behind the button" ></item>
+<item slot="8" original="Cut loose ends" ></item>
+</script><script id="12" source="2"><item slot="1" original="Get your sewing kit" ></item>
+<item slot="2" original="find the needle" ></item>
+<item slot="3" original="thread the needle" ></item>
+<item slot="4" original="tie a knot in thread" ></item>
+<item slot="5" original="place botton where you want it" ></item>
+<item slot="6" original="put the needle in and out through the holes" ></item>
+</script><script id="13" source="2"><item slot="1" original="Determine proper placement for button" ></item>
+<item slot="2" original="Thread a needle" ></item>
+<item slot="3" original="Sow the thread through the button holes quite a few times" ></item>
+<item slot="4" original="Tie off the end of the thread" ></item>
+<item slot="5" original="Check to make sure the button is securely sowed on" ></item>
+</script><script id="14" source="2"><item slot="1" original="Get out sewing kit." ></item>
+<item slot="2" original="Find thread that matches button color." ></item>
+<item slot="3" original="Thread needle." ></item>
+<item slot="4" original="Place button on desired spot on shirt." ></item>
+<item slot="5" original="Move needle in and out of button holes to secure to shirt." ></item>
+<item slot="6" original="When done knot end." ></item>
+<item slot="7" original="Cut." ></item>
+<item slot="8" original="Put everything away." ></item>
+</script><script id="15" source="2"><item slot="1" original="Get a replacement button." ></item>
+<item slot="2" original="Find thread and needle." ></item>
+<item slot="3" original="Hold button to material." ></item>
+<item slot="4" original="Thread needle." ></item>
+<item slot="5" original="Pass thread through button holes." ></item>
+<item slot="6" original="Secure button to material." ></item>
+<item slot="7" original="Tie off knot with thread." ></item>
+</script><script id="16" source="2"><item slot="1" original="Get a needle." ></item>
+<item slot="2" original="Get some thread." ></item>
+<item slot="3" original="Grab the garment that you would like to sew the button to." ></item>
+<item slot="4" original="Insert the thread into the eye of the needle and tie a knot so it's attached." ></item>
+<item slot="5" original="Sew the button onto the garment by passing the needle through all 4 button holes." ></item>
+<item slot="6" original="Tie another knot at the end of the thread." ></item>
+<item slot="7" original="Cut the needle off of the thread." ></item>
+</script><script id="17" source="2"><item slot="1" original="Get the proper colored thread" ></item>
+<item slot="2" original="Get a needle" ></item>
+<item slot="3" original="Place the thread inside the needle" ></item>
+<item slot="4" original="Place the button on the cloth" ></item>
+<item slot="5" original="Sew the button on the cloth using the needle" ></item>
+</script><script id="18" source="2"><item slot="1" original="Get needle and thread" ></item>
+<item slot="2" original="Get button" ></item>
+<item slot="3" original="Get shirt" ></item>
+<item slot="4" original="Thread needle" ></item>
+<item slot="5" original="Put button on shirt" ></item>
+<item slot="6" original="Push needle through button hole" ></item>
+<item slot="7" original="Pull through" ></item>
+<item slot="8" original="Push through other holes" ></item>
+<item slot="9" original="Tie thread at end" ></item>
+</script><script id="19" source="2"><item slot="1" original="Take shirt" ></item>
+<item slot="2" original="Find similar button" ></item>
+<item slot="3" original="Find a thread" ></item>
+<item slot="4" original="Take a needle" ></item>
+<item slot="5" original="Sew the button" ></item>
+<item slot="6" original="Wrap the thread" ></item>
+</script><script id="20" source="2"><item slot="1" original="Find a button" ></item>
+<item slot="2" original="Find a needle" ></item>
+<item slot="3" original="Find some thread" ></item>
+<item slot="4" original="Thread the needle" ></item>
+<item slot="5" original="Start to sew on button" ></item>
+<item slot="6" original="Crisscross on the button" ></item>
+<item slot="7" original="Tie off finishing knot" ></item>
+</script><script id="21" source="2"><item slot="1" original="locate needle and thread" ></item>
+<item slot="2" original="put button where other button was located" ></item>
+<item slot="3" original="put needle with thread into clothes" ></item>
+<item slot="4" original="pull through on the other side" ></item>
+<item slot="5" original="repeat the same way" ></item>
+<item slot="6" original="repeat 6 more times" ></item>
+<item slot="7" original="make sure button is secure" ></item>
+</script><script id="23" source="2"><item slot="1" original="Get needle and thread" ></item>
+<item slot="2" original="Place button in desired position" ></item>
+<item slot="3" original="Push needle through back of clothes and through hole of button" ></item>
+<item slot="4" original="Push needle through other hole of button and through clothes" ></item>
+<item slot="5" original="Repeat until button is secure" ></item>
+<item slot="6" original="Tie knot in thread" ></item>
+<item slot="7" original="Use scissors to cut thread" ></item>
+<item slot="8" original="Put needle away" ></item>
+</script><script id="24" source="2"><item slot="1" original="Get extra button" ></item>
+<item slot="2" original="Get thread and needle" ></item>
+<item slot="3" original="Put thread through needle" ></item>
+<item slot="4" original="Place button on shirt" ></item>
+<item slot="5" original="Put needle through button and shirt" ></item>
+<item slot="6" original="Do this through all holes of button" ></item>
+<item slot="7" original="Tie of thread on inside" ></item>
+<item slot="8" original="Cut thread from spindle" ></item>
+</script><script id="25" source="2"><item slot="1" original="Grab thread and needle" ></item>
+<item slot="2" original="Put thread through needle hole" ></item>
+<item slot="3" original="Grab button" ></item>
+<item slot="4" original="Put needle through one hole" ></item>
+<item slot="5" original="Sew needle through other holes in an X formation" ></item>
+</script><script id="26" source="2"><item slot="1" original="Get the sewing kit." ></item>
+<item slot="2" original="Get the button." ></item>
+<item slot="3" original="Get the piece of apparel that needs to sew the button on." ></item>
+<item slot="4" original="Thread a needle." ></item>
+<item slot="5" original="Start to sew." ></item>
+<item slot="6" original="Clean up." ></item>
+</script><script id="28" source="2"><item slot="1" original="Get a sewing needle." ></item>
+<item slot="2" original="Get thread." ></item>
+<item slot="3" original="Cut about 16 inches worth of thread." ></item>
+<item slot="4" original="Put one end of thread through the eye of the needle." ></item>
+<item slot="5" original="Knot the ends of the thread together." ></item>
+<item slot="6" original="Start sewing going into the back of the garment." ></item>
+<item slot="7" original="Put the needle thorough the back of the button hole." ></item>
+<item slot="8" original="Sew through the diagonal hole of the button and the garment." ></item>
+<item slot="9" original="Continue sewing in an X pattern until the button is secure." ></item>
+<item slot="10" original="Ending again in the back of the garment cut off the thread." ></item>
+<item slot="11" original="Tie a tight knot as close to the garment as you can." ></item>
+</script><script id="29" source="2"><item slot="1" original="Take out sewing kit." ></item>
+<item slot="2" original="Find button that matches lost button." ></item>
+<item slot="3" original="Thread a needle with thread that matches shirt that needs a new button." ></item>
+<item slot="4" original="Find the location where button needs to be sewn." ></item>
+<item slot="5" original="Holding button at appropriate location, press needle through first hole on button." ></item>
+<item slot="6" original="Bring the needle up through another hole on button." ></item>
+<item slot="7" original="Continue crisscrossing thread between holes of button until button is tight." ></item>
+<item slot="8" original="Loop thread to create knot in thread." ></item>
+<item slot="9" original="Cut thread close to knot." ></item>
+<item slot="10" original="Button shirt." ></item>
+</script><script id="30" source="2"><item slot="1" original="carefully cut off old button if exists" ></item>
+<item slot="2" original="thread needle" ></item>
+<item slot="3" original="Tie knot in other end of thread" ></item>
+<item slot="4" original="line new button up with corresponding button hole" ></item>
+<item slot="5" original="insert needle through cloth" ></item>
+<item slot="6" original="pass needle through needle hole in button" ></item>
+<item slot="7" original="pass thread through hole until knot hits cloth" ></item>
+<item slot="8" original="pass needle and thread back through another of the button's needle holes" ></item>
+<item slot="9" original="repeat 5-8 several times until button is secure" ></item>
+<item slot="10" original="tie off thread" ></item>
+<item slot="11" original="cut off excess thread" ></item>
+</script><script id="31" source="2"><item slot="1" original="Look through sewing kit for a button that matches clothing." ></item>
+<item slot="2" original="Find similar color thread to use." ></item>
+<item slot="3" original="Thread the needle and tie a knot at end of thread." ></item>
+<item slot="4" original="Hold button in place on clothing." ></item>
+<item slot="5" original="Sew in a pattern that looks like an X through the holes of the button." ></item>
+<item slot="6" original="Make 4 x's in button." ></item>
+<item slot="7" original="Pull thread tight on back of clothing." ></item>
+<item slot="8" original="Make knot between thread and clothing." ></item>
+<item slot="9" original="Cut off any excess thread." ></item>
+</script><script id="32" source="2"><item slot="1" original="Get item that needs a button" ></item>
+<item slot="2" original="Get button, thread, needle and scissors" ></item>
+<item slot="3" original="Thread needle" ></item>
+<item slot="4" original="Sew on button" ></item>
+<item slot="5" original="tie off the thread and cut the thread" ></item>
+<item slot="6" original="Put all the items away" ></item>
+</script><script id="33" source="2"><item slot="1" original="Choose button and thread" ></item>
+<item slot="2" original="Get scissors and needle" ></item>
+<item slot="3" original="Thread needle" ></item>
+<item slot="4" original="Place button where it belongs on garment" ></item>
+<item slot="5" original="Sew button into place" ></item>
+<item slot="6" original="Tie off thread" ></item>
+<item slot="7" original="Cut thread" ></item>
+</script><script id="35" source="2"><item slot="1" original="grab a needle" ></item>
+<item slot="2" original="slide thread through hole" ></item>
+<item slot="3" original="knot thread" ></item>
+<item slot="4" original="stick in button hole" ></item>
+<item slot="5" original="make few passes" ></item>
+<item slot="6" original="knot thread" ></item>
+<item slot="7" original="cut loose thread" ></item>
+</script><script id="36" source="2"><item slot="1" original="Acquire new button" ></item>
+<item slot="2" original="Find right color string" ></item>
+<item slot="3" original="Cut away old strings" ></item>
+<item slot="4" original="Place new button where I want it to go" ></item>
+<item slot="5" original="Sew through the holes of the button" ></item>
+<item slot="6" original="Tie the end of the string" ></item>
+<item slot="7" original="Cut away any extra string" ></item>
+</script><script id="37" source="2"><item slot="1" original="Get thread" ></item>
+<item slot="2" original="Get needle" ></item>
+<item slot="3" original="Thread needle" ></item>
+<item slot="4" original="Sew button" ></item>
+<item slot="5" original="Put needle and thread back in drawer" ></item>
+</script><script id="38" source="2"><item slot="1" original="Find sewing kit." ></item>
+<item slot="2" original="Find replacement button." ></item>
+<item slot="3" original="Take out right colored thread." ></item>
+<item slot="4" original="Take out needle." ></item>
+<item slot="5" original="Thread needle." ></item>
+<item slot="6" original="Place needle through button eyelets." ></item>
+<item slot="7" original="Place needle through clothing." ></item>
+</script><script id="39" source="2"><item slot="1" original="Take button." ></item>
+<item slot="2" original="Get a piece of clothing." ></item>
+<item slot="3" original="Get needle." ></item>
+<item slot="4" original="Get thread." ></item>
+<item slot="5" original="Put thread through needle." ></item>
+<item slot="6" original="Place button close to clothing." ></item>
+<item slot="7" original="Put needle through button and clothing." ></item>
+<item slot="8" original="Repeat until sewed on." ></item>
+</script><script id="40" source="2"><item slot="1" original="Find a button that matches the others on your garment" ></item>
+<item slot="2" original="Line the button up in the place where the old one would have been" ></item>
+<item slot="3" original="Thread one hole with the needle" ></item>
+<item slot="4" original="Thread the opposite diagonal hole with the needle and tighten the string" ></item>
+<item slot="5" original="Repeat this until the button is secure" ></item>
+</script><script id="41" source="2"><item slot="1" original="Get sewing kit" ></item>
+<item slot="2" original="Get proper button" ></item>
+<item slot="3" original="Place item on flat surface" ></item>
+<item slot="4" original="Place button on item" ></item>
+<item slot="5" original="Take out thread and needle" ></item>
+<item slot="6" original="Thread the needle" ></item>
+<item slot="7" original="Sew button onto item" ></item>
+<item slot="8" original="Knot and cut thread" ></item>
+<item slot="9" original="Put away needle and thread" ></item>
+<item slot="10" original="Check new button" ></item>
+<item slot="11" original="Put away sewing kit" ></item>
+</script><script id="42" source="2"><item slot="1" original="Find a button" ></item>
+<item slot="2" original="Get some thread" ></item>
+<item slot="3" original="Pick a needle" ></item>
+<item slot="4" original="Put the button up to the garment" ></item>
+<item slot="5" original="Insert the thread through the button" ></item>
+<item slot="6" original="Continue until the button is on tight" ></item>
+<item slot="7" original="Tie the thread" ></item>
+<item slot="8" original="Snip excess thread off" ></item>
+</script><script id="43" source="2"><item slot="1" original="find the button" ></item>
+<item slot="2" original="line it up with the hole" ></item>
+<item slot="3" original="thread the needle" ></item>
+<item slot="4" original="put the needle into the fabric" ></item>
+<item slot="5" original="pull the needle through" ></item>
+<item slot="6" original="repeat" ></item>
+<item slot="7" original="cut the thread" ></item>
+<item slot="8" original="put the supplies away" ></item>
+</script><script id="44" source="2"><item slot="1" original="Find some thread and needle" ></item>
+<item slot="2" original="Find a button" ></item>
+<item slot="3" original="Thread the needle" ></item>
+<item slot="4" original="Push the needle through the fabric" ></item>
+<item slot="5" original="tie a small knot at the end so the thread doesn't go through." ></item>
+<item slot="6" original="Pull the needle through a hole in the button, then back into the fabric" ></item>
+<item slot="7" original="Repeat several times, going through a different hole each time." ></item>
+<item slot="8" original="Tie off your thread." ></item>
+</script><script id="45" source="2"><item slot="1" original="Find needle" ></item>
+<item slot="2" original="Find thread" ></item>
+<item slot="3" original="Find a button" ></item>
+<item slot="4" original="Thread the needle" ></item>
+<item slot="5" original="Stitch the button on" ></item>
+<item slot="6" original="Cut excess thread" ></item>
+</script><script id="46" source="2"><item slot="1" original="Collect thread and needle." ></item>
+<item slot="2" original="Find a button to sew." ></item>
+<item slot="3" original="Cut away any loose threads." ></item>
+<item slot="4" original="Thread needle with some thread." ></item>
+<item slot="5" original="Tie knot on needle." ></item>
+<item slot="6" original="Pull out a length of thread." ></item>
+<item slot="7" original="Start to sew the button onto the fabric." ></item>
+<item slot="8" original="Push needle through button and fabric." ></item>
+<item slot="9" original="Tie knot on thread." ></item>
+<item slot="10" original="Cut loose ends." ></item>
+</script><script id="47" source="2"><item slot="1" original="take the button" ></item>
+<item slot="2" original="take the needle and matching thread" ></item>
+<item slot="3" original="pull the thread through the eye of needle" ></item>
+<item slot="4" original="take the cloth to be sewed" ></item>
+<item slot="5" original="sew the button with criss-cross movement of needle" ></item>
+<item slot="6" original="tie thread at the end" ></item>
+<item slot="7" original="cut thread from button" ></item>
+</script><script id="48" source="2"><item slot="1" original="Get the button" ></item>
+<item slot="2" original="Get the needle" ></item>
+<item slot="3" original="Get the thread" ></item>
+<item slot="4" original="Get the garment" ></item>
+<item slot="5" original="Thread the needle" ></item>
+<item slot="6" original="Tie a knot a the end of the thread" ></item>
+<item slot="7" original="Push the needle through the garment into the button" ></item>
+<item slot="8" original="Repeat several times until button is secure" ></item>
+<item slot="9" original="Tie off the thread" ></item>
+</script><script id="49" source="2"><item slot="1" original="Get item that needs button sewing on" ></item>
+<item slot="2" original="Get button" ></item>
+<item slot="3" original="Get sewing kit" ></item>
+<item slot="4" original="Take needle from sewing kit" ></item>
+<item slot="5" original="Take thread from sewing kit" ></item>
+<item slot="6" original="Thread needle" ></item>
+<item slot="7" original="Tie knot in end of thread" ></item>
+<item slot="8" original="With needle and thread push needle through cloth and through button hole" ></item>
+<item slot="9" original="Repeat step 8 until button is sewn on" ></item>
+<item slot="10" original="Tie off thread" ></item>
+<item slot="11" original="Cut thread" ></item>
+</script><script id="50" source="2"><item slot="1" original="get a new button" ></item>
+<item slot="2" original="get sewing kit" ></item>
+<item slot="3" original="place button where you want it" ></item>
+<item slot="4" original="use the string to make it stay in place" ></item>
+<item slot="5" original="put items away when done" ></item>
+</script><script id="51" source="2"><item slot="1" original="find a button" ></item>
+<item slot="2" original="get some thread" ></item>
+<item slot="3" original="thread a needle" ></item>
+<item slot="4" original="place the button" ></item>
+<item slot="5" original="sew onto fabric securely" ></item>
+<item slot="6" original="tie a knot in the thread" ></item>
+</script><script id="52" source="2"><item slot="1" original="gather needle and thread" ></item>
+<item slot="2" original="thread the needle" ></item>
+<item slot="3" original="push the needle through the button" ></item>
+<item slot="4" original="push the needle through the fabric" ></item>
+<item slot="5" original="tug to make sure it is secure" ></item>
+</script><script id="53" source="2"><item slot="1" original="Find an extra button" ></item>
+<item slot="2" original="Find a needle and thread" ></item>
+<item slot="3" original="Place the button in the right spot" ></item>
+<item slot="4" original="Sew the button in place with the needle and thread" ></item>
+<item slot="5" original="Tie the thread in a knot to secure it" ></item>
+<item slot="6" original="Cut off excess thread" ></item>
+</script><script id="54" source="2"><item slot="1" original="get item to be sewn" ></item>
+<item slot="2" original="get button" ></item>
+<item slot="3" original="get thread" ></item>
+<item slot="4" original="get needle" ></item>
+<item slot="5" original="thread needle" ></item>
+<item slot="6" original="attach button" ></item>
+<item slot="7" original="put needle away" ></item>
+<item slot="8" original="put thread away" ></item>
+</script><script id="55" source="2"><item slot="1" original="Find button that matches others." ></item>
+<item slot="2" original="Thread needle." ></item>
+<item slot="3" original="Pick up shirt missing button." ></item>
+<item slot="4" original="Sew thread on needle through hole of button." ></item>
+<item slot="5" original="Continue sewing." ></item>
+<item slot="6" original="Test button for strength." ></item>
+</script><script id="56" source="2"><item slot="1" original="find needle and thread" ></item>
+<item slot="2" original="find button" ></item>
+<item slot="3" original="put thread through needle" ></item>
+<item slot="4" original="attach button to shirt" ></item>
+<item slot="5" original="use needle and thread to sew button onto shirt" ></item>
+<item slot="6" original="tie a knot at the end of the string" ></item>
+</script><script id="57" source="2"><item slot="1" original="Thread needle" ></item>
+<item slot="2" original="Place button where desired" ></item>
+<item slot="3" original="Insert needle through one side of button" ></item>
+<item slot="4" original="Insert needle through other side of button on back side" ></item>
+<item slot="5" original="Insert needle through first side of button (step 3)" ></item>
+<item slot="6" original="Repeat step 4" ></item>
+<item slot="7" original="Tie off thread" ></item>
+</script><script id="59" source="2"><item slot="1" original="Get a needle and thread." ></item>
+<item slot="2" original="Thread the needle." ></item>
+<item slot="3" original="Place button where you want it." ></item>
+<item slot="4" original="Stick needle through hole and secure with thread" ></item>
+<item slot="5" original="Tie a knot." ></item>
+</script><script id="60" source="2"><item slot="1" original="Find button" ></item>
+<item slot="2" original="Find shirt" ></item>
+<item slot="3" original="Obtain needle and thread" ></item>
+<item slot="4" original="Position needle with thread" ></item>
+<item slot="5" original="Position button on shirt" ></item>
+<item slot="6" original="Apply button by driving needle through button" ></item>
+</script><script id="61" source="2"><item slot="1" original="Choose thread color" ></item>
+<item slot="2" original="Cut thread string to how much is needed" ></item>
+<item slot="3" original="Thread the needle" ></item>
+<item slot="4" original="Tie a knot at the end of thread" ></item>
+<item slot="5" original="Place button where it is to be sewed" ></item>
+<item slot="6" original="Pass the needle in and out of holes on button" ></item>
+<item slot="7" original="Make a knot on last pass" ></item>
+<item slot="8" original="Cut excess thread" ></item>
+</script><script id="63" source="2"><item slot="1" original="GET SOME NEEDLE AND THREAD" ></item>
+<item slot="2" original="THREAD THE THREAD ONTO THE NEEDLE" ></item>
+<item slot="3" original="FIND THE REPLACEMENT BUTTON" ></item>
+<item slot="4" original="ATTACH BUTTON USING NEEDLE AND THREAD" ></item>
+<item slot="5" original="MAKE SURE BUTTON IS SECURE" ></item>
+<item slot="6" original="TIE A KNOT IN THE END OF THE THREAD SO THE BUTTON DOESN'T COME OFF" ></item>
+<item slot="7" original="PUT NEEDLE AND THREAD AWAY" ></item>
+</script><script id="64" source="2"><item slot="1" original="Find a button" ></item>
+<item slot="2" original="Find thread that matches" ></item>
+<item slot="3" original="Thread the needle" ></item>
+<item slot="4" original="Start sewing" ></item>
+<item slot="5" original="Secure the button with a knot" ></item>
+<item slot="6" original="Cut the excess thread" ></item>
+</script><script id="66" source="2"><item slot="1" original="find shirt with missing button" ></item>
+<item slot="2" original="get thread and needle" ></item>
+<item slot="3" original="put thread in needle" ></item>
+<item slot="4" original="push needle through button and shirt" ></item>
+<item slot="5" original="pull thread forward" ></item>
+<item slot="6" original="repeat steps 4-5 until button is secured to shirt" ></item>
+<item slot="7" original="tie knot on thread" ></item>
+<item slot="8" original="cut thread so that need will detach" ></item>
+</script><script id="67" source="2"><item slot="1" original="Find a button" ></item>
+<item slot="2" original="Get needle" ></item>
+<item slot="3" original="Get thread" ></item>
+<item slot="4" original="Get in a well-lit spot" ></item>
+<item slot="5" original="Poke a hole in the fabric" ></item>
+<item slot="6" original="Pull thread through and secure button" ></item>
+</script><script id="68" source="2"><item slot="1" original="Grab a needle and thread" ></item>
+<item slot="2" original="Grab the fabric and button" ></item>
+<item slot="3" original="Thread the needle" ></item>
+<item slot="4" original="Put the thread through the button and start threading" ></item>
+<item slot="5" original="Use the needle to guide the thread" ></item>
+<item slot="6" original="Keep threading until the button is firmly attached" ></item>
+</script><script id="69" source="2"><item slot="1" original="Put thread through a needle." ></item>
+<item slot="2" original="Insert needle through button and into fabric where the button belongs." ></item>
+<item slot="3" original="Continue to loop the needle and thread through the button holes." ></item>
+<item slot="4" original="Tie the end with a knot." ></item>
+<item slot="5" original="Cut off any loose threads with a scissors." ></item>
+</script><script id="70" source="2"><item slot="1" original="Find a button." ></item>
+<item slot="2" original="Find sewing kit." ></item>
+<item slot="3" original="Find a piece of clothing." ></item>
+<item slot="4" original="Thread the needle." ></item>
+<item slot="5" original="Sew on the button." ></item>
+</script><script id="71" source="2"><item slot="1" original="get thread, needle, button to be sewn" ></item>
+<item slot="2" original="thread needle with thread" ></item>
+<item slot="3" original="place button on cloth where it needs to go" ></item>
+<item slot="4" original="tie knot at end of thread" ></item>
+<item slot="5" original="take needle bring up through the back of the item" ></item>
+<item slot="6" original="pull needle through to knot" ></item>
+<item slot="7" original="put needle into adjoining hole" ></item>
+<item slot="8" original="push needle to back of the item" ></item>
+<item slot="9" original="pull all the way through" ></item>
+<item slot="10" original="repeat until button is secure" ></item>
+<item slot="11" original="make sure you end up in back of item" ></item>
+<item slot="12" original="thread needle through the thread to secure" ></item>
+</script><script id="72" source="2"><item slot="1" original="Get a needle and thread." ></item>
+<item slot="2" original="Get a shirt." ></item>
+<item slot="3" original="Get a button." ></item>
+<item slot="4" original="Put button on shirt." ></item>
+<item slot="5" original="Thread needle." ></item>
+<item slot="6" original="Tie knot at end of thread." ></item>
+<item slot="7" original="Put needle into one button hole through shirt." ></item>
+<item slot="8" original="Pull needle out other side." ></item>
+<item slot="9" original="Put needle in other button hole." ></item>
+<item slot="10" original="Pull through other side." ></item>
+<item slot="11" original="Do this a couple times." ></item>
+<item slot="12" original="Tie a knot with thread." ></item>
+<item slot="13" original="Cut thread." ></item>
+<item slot="14" original="Button is done." ></item>
+</script><script id="73" source="2"><item slot="1" original="Choose a button." ></item>
+<item slot="2" original="Choose thread to sew button on with." ></item>
+<item slot="3" original="Thread sewing needle with chosen thread." ></item>
+<item slot="4" original="Get garment which you would like to sew button on to." ></item>
+<item slot="5" original="Using threaded needle, sew button on to garment." ></item>
+</script><script id="74" source="2"><item slot="1" original="Stick the head through the needle eye" ></item>
+<item slot="2" original="Knot the end to make it stay" ></item>
+<item slot="3" original="Line the button back into place" ></item>
+<item slot="4" original="Stick the needle through" ></item>
+<item slot="5" original="Pull it back out the other hole" ></item>
+<item slot="6" original="Repeat until it's stable" ></item>
+<item slot="7" original="Break off thread from spool" ></item>
+<item slot="8" original="Tie end in a knot" ></item>
+<item slot="9" original="Pull it tighter" ></item>
+<item slot="10" original="Cut off end from needle" ></item>
+<item slot="11" original="Tie the knot on that end" ></item>
+</script><script id="75" source="2"><item slot="1" original="Get supplies - shirt, new button, thread, needle" ></item>
+<item slot="2" original="Sit comfortably" ></item>
+<item slot="3" original="Thread needle" ></item>
+<item slot="4" original="Hold shirt with non-dominant hand" ></item>
+<item slot="5" original="Place button where you want it to go" ></item>
+<item slot="6" original="Sew button into place" ></item>
+</script><script id="76" source="2"><item slot="1" original="grab a needle and string" ></item>
+<item slot="2" original="attach string to needle" ></item>
+<item slot="3" original="grab object the button is being sewed" ></item>
+<item slot="4" original="sew the button on carefully" ></item>
+<item slot="5" original="when done tie the end properly" ></item>
+</script><script id="77" source="2"><item slot="1" original="Get out sewing kit" ></item>
+<item slot="2" original="Thread needle with matching thread" ></item>
+<item slot="3" original="Starting on inside of garment, push through with needle." ></item>
+<item slot="4" original="Pull thread through" ></item>
+<item slot="5" original="Slide button onto needle and thread." ></item>
+<item slot="6" original="Hold button in place" ></item>
+<item slot="7" original="Push needle down through other button on hole" ></item>
+<item slot="8" original="Continue repeating pushing up and pushing thread back down" ></item>
+<item slot="9" original="When button is securely in place tie knot in thread at back of garment" ></item>
+<item slot="10" original="Cut thread" ></item>
+</script><script id="78" source="2"><item slot="1" original="Take the cloth to be sewed" ></item>
+<item slot="2" original="Take a matching button" ></item>
+<item slot="3" original="Take a needle" ></item>
+<item slot="4" original="Pull a thread of a matching color through the needle's eye" ></item>
+<item slot="5" original="Align the button on the correct place on the cloth" ></item>
+<item slot="6" original="Pass the needle through one of the button holes" ></item>
+<item slot="7" original="Get back the needle through the third button hole" ></item>
+<item slot="8" original="Pass the needle through the second button hole" ></item>
+<item slot="9" original="Get back the needle through the fourth button hole" ></item>
+<item slot="10" original="Tie the thread at the bottom of the button" ></item>
+<item slot="11" original="Cut the remaining thread" ></item>
+</script><script id="79" source="2"><item slot="1" original="Get needle" ></item>
+<item slot="2" original="Get thread" ></item>
+<item slot="3" original="Get your button" ></item>
+<item slot="4" original="Get the item of clothing the button is to go on" ></item>
+<item slot="5" original="Place the thread through the needle" ></item>
+<item slot="6" original="Tie a knot in the thread" ></item>
+<item slot="7" original="Place button onto item of clothing" ></item>
+<item slot="8" original="Push needle through the button holes" ></item>
+<item slot="9" original="Continue to push and pull needle through button holes until button is secure" ></item>
+<item slot="10" original="Tie knot to secure thread and button to clothes" ></item>
+<item slot="11" original="Cut excessive thread" ></item>
+</script><script id="80" source="2"><item slot="1" original="Gather supplies" ></item>
+<item slot="2" original="Cut length of thread" ></item>
+<item slot="3" original="Insert thread in needle" ></item>
+<item slot="4" original="Tie a knot in the end of thread" ></item>
+<item slot="5" original="Put button in proper place" ></item>
+<item slot="6" original="Starting from the bottom, poke needle through hole in button" ></item>
+<item slot="7" original="Pull needle and thread" ></item>
+<item slot="8" original="Poke needle through opposite hole" ></item>
+<item slot="9" original="Pull needle and thread" ></item>
+<item slot="10" original="Continue until button is secure" ></item>
+<item slot="11" original="Poke needle through to underside" ></item>
+<item slot="12" original="Pull needle and thread" ></item>
+<item slot="13" original="Tie a knot to secure thread" ></item>
+<item slot="14" original="Cut thread" ></item>
+</script><script id="81" source="2"><item slot="1" original="Find a button that matches" ></item>
+<item slot="2" original="Sew button onto fabric through the first hole" ></item>
+<item slot="3" original="Sew button through second hole" ></item>
+<item slot="4" original="Sew button through third hole" ></item>
+<item slot="5" original="Sew button through fourth and final hole" ></item>
+<item slot="6" original="Sew a hole on the other piece of fabric that will be connecting" ></item>
+</script><script id="82" source="2"><item slot="1" original="Find button to be sewn" ></item>
+<item slot="2" original="Find thread color to match button or item requiring the button" ></item>
+<item slot="3" original="Get needle" ></item>
+<item slot="4" original="thread the needle" ></item>
+<item slot="5" original="Proceed to insert needle into button holes and through clothing/ item until securely sewn" ></item>
+<item slot="6" original="Knot thread" ></item>
+<item slot="7" original="Cut off remaining thread" ></item>
+</script><script id="83" source="2"><item slot="1" original="Get button" ></item>
+<item slot="2" original="Get needle" ></item>
+<item slot="3" original="Get thread" ></item>
+<item slot="4" original="Put thread in needle" ></item>
+<item slot="5" original="Tie knot in end of thread" ></item>
+<item slot="6" original="Pass needle through shirt and button holes" ></item>
+<item slot="7" original="Tie off thread" ></item>
+<item slot="8" original="Cut thread" ></item>
+</script><script id="84" source="2"><item slot="1" original="Get a thread and a needle" ></item>
+<item slot="2" original="Fix the thread in the needle" ></item>
+<item slot="3" original="Use the needle to sew the broken button" ></item>
+<item slot="4" original="Tighten the stitch nicely" ></item>
+<item slot="5" original="Break the thread and tie a final knot" ></item>
+</script><script id="86" source="2"><item slot="1" original="Select a button" ></item>
+<item slot="2" original="Get thread" ></item>
+<item slot="3" original="Put thread end through eye of needle" ></item>
+<item slot="4" original="Tie knot with thread" ></item>
+<item slot="5" original="Poke hole with needle through button hole and fabric" ></item>
+<item slot="6" original="Run needle and thread through button hole and fabric hole" ></item>
+<item slot="7" original="Repeat to make loop and knot it." ></item>
+<item slot="8" original="Repeat several times until button is attached solidly to the fabric." ></item>
+</script><script id="87" source="2"><item slot="1" original="Get clothing" ></item>
+<item slot="2" original="Get needle and thread" ></item>
+<item slot="3" original="Get button" ></item>
+<item slot="4" original="Thread needle" ></item>
+<item slot="5" original="Tie knot in thread" ></item>
+<item slot="6" original="Place button on clothing" ></item>
+<item slot="7" original="Put needle and thread through holes" ></item>
+</script><script id="88" source="2"><item slot="1" original="Get out needle, thread, button, and clothing item." ></item>
+<item slot="2" original="Thread needle." ></item>
+<item slot="3" original="Tie knot in thread." ></item>
+<item slot="4" original="Position button in correct place." ></item>
+<item slot="5" original="Sew through holes or shank in button." ></item>
+<item slot="6" original="Keep sewing until the button is secure." ></item>
+<item slot="7" original="End with needle at back of clothing item." ></item>
+<item slot="8" original="Tie knot." ></item>
+<item slot="9" original="Cut thread." ></item>
+</script><script id="89" source="2"><item slot="1" original="Remove the old button" ></item>
+<item slot="2" original="Find button replacement" ></item>
+<item slot="3" original="Get out thread" ></item>
+<item slot="4" original="Get out needle" ></item>
+<item slot="5" original="Thread the needle" ></item>
+<item slot="6" original="Cut excess thread" ></item>
+<item slot="7" original="Thread button onto clothing" ></item>
+</script><script id="91" source="2"><item slot="1" original="Find matching button, or old button." ></item>
+<item slot="2" original="Prepare needle and thread." ></item>
+<item slot="3" original="Find placement for new button." ></item>
+<item slot="4" original="Sew button onto garment." ></item>
+<item slot="5" original="Cut thread" ></item>
+<item slot="6" original="Tie ends." ></item>
+<item slot="7" original="Clean up." ></item>
+</script><script id="92" source="2"><item slot="1" original="Select thread of correct color" ></item>
+<item slot="2" original="Thread a needle" ></item>
+<item slot="3" original="Get a thimble" ></item>
+<item slot="4" original="Push needle through the button hole into the fabric" ></item>
+<item slot="5" original="Return the needle through the fabric and through a different button hole" ></item>
+<item slot="6" original="Use the thimble to push the needle if required" ></item>
+<item slot="7" original="Repeat steps 4 through 6 about 30 times" ></item>
+<item slot="8" original="Tie the end of the string so it will not unravel" ></item>
+</script><script id="93" source="2"><item slot="1" original="Drive to fabric store" ></item>
+<item slot="2" original="Purchase buttons" ></item>
+<item slot="3" original="Purchase thread" ></item>
+<item slot="4" original="Prepare garment for sewing" ></item>
+<item slot="5" original="Thread needle" ></item>
+<item slot="6" original="Measure button holes for accuracy" ></item>
+<item slot="7" original="Place button on fabric" ></item>
+<item slot="8" original="Push needle through first hole" ></item>
+<item slot="9" original="Cross over to perpendicular hole, push needle back through" ></item>
+<item slot="10" original="Move needle down to hole opposite first hole" ></item>
+<item slot="11" original="Cross over to perpendicular hole, push needle back through" ></item>
+<item slot="12" original="Continue until button is attached with an X pattern at the back" ></item>
+<item slot="13" original="Tie off and knot thread" ></item>
+<item slot="14" original="Cut thread" ></item>
+<item slot="15" original="Repeat with other buttons" ></item>
+</script><script id="94" source="2"><item slot="1" original="Take out sewing kit" ></item>
+<item slot="2" original="Thread needle" ></item>
+<item slot="3" original="Put thread through button" ></item>
+<item slot="4" original="Put needle and thread through shirt" ></item>
+<item slot="5" original="Pull tight" ></item>
+<item slot="6" original="Pull through other end" ></item>
+<item slot="7" original="Make a knot" ></item>
+<item slot="8" original="Cut off the extra thread" ></item>
+</script><script id="95" source="2"><item slot="1" original="Find a spare button that matches the other buttons" ></item>
+<item slot="2" original="Find a needle and thread" ></item>
+<item slot="3" original="Thread the needle" ></item>
+<item slot="4" original="Sew the button through the button holes onto the shirt" ></item>
+<item slot="5" original="Keep repeating the sewing to reinforce the strength" ></item>
+<item slot="6" original="Cut the thread near the needle to finish" ></item>
+<item slot="7" original="Put supplies away" ></item>
+<item slot="8" original="Wear shirt when convenient" ></item>
+</script><script id="96" source="2"><item slot="1" original="taking the right button out" ></item>
+<item slot="2" original="threading a needle with thread" ></item>
+<item slot="3" original="putting the button on the fabric" ></item>
+<item slot="4" original="moving the needle in and out of the button holes" ></item>
+<item slot="5" original="stitching the button on" ></item>
+</script><script id="97" source="2"><item slot="1" original="Get a needle and thread" ></item>
+<item slot="2" original="Put an end of the thread through the eye of the needle" ></item>
+<item slot="3" original="Use the needle to go through the button holes and the fabric" ></item>
+<item slot="4" original="Do this several times until the button is secure" ></item>
+<item slot="5" original="Tie the thread so the button will not come loose" ></item>
+<item slot="6" original="Cut the thread" ></item>
+<item slot="7" original="Put the needle and thread away" ></item>
+</script><script id="98" source="2"><item slot="1" original="Get thread." ></item>
+<item slot="2" original="Get needle." ></item>
+<item slot="3" original="Thread needle." ></item>
+<item slot="4" original="Sew button." ></item>
+<item slot="5" original="Put away thread." ></item>
+<item slot="6" original="Put away needle." ></item>
+</script><script id="99" source="2"><item slot="1" original="Find a matching button" ></item>
+<item slot="2" original="Find matching thread" ></item>
+<item slot="3" original="Get a needle" ></item>
+<item slot="4" original="Cut a length of thread more than double what you will need" ></item>
+<item slot="5" original="Thread the needle, double it up and tie a knot at the end" ></item>
+<item slot="6" original="Put the button in the correct spot." ></item>
+<item slot="7" original="Push the needle through one button hole and back out another hole" ></item>
+<item slot="8" original="Continue until the button is securely on the clothing" ></item>
+<item slot="9" original="Tie off the thread on the underside of the garment" ></item>
+</script><script id="100" source="2"><item slot="1" original="Find sewing kit" ></item>
+<item slot="2" original="Get button" ></item>
+<item slot="3" original="Get clothes" ></item>
+<item slot="4" original="Put thread in needle" ></item>
+<item slot="5" original="Put button in the right area" ></item>
+<item slot="6" original="Sew on" ></item>
+</script></scripts>
