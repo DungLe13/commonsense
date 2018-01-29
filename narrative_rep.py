@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-    data_test.py - Extract data from xml file + most simple method
+    narrative_rep.py - Narrative representation of event chain (based on Chambers and Jurafsky)
     Author: Dung Le (dungle@bennington.edu)
     Date: 01/21/2017
 """
@@ -10,7 +10,7 @@ import spacy
 import json
 from stanford_parser_wrapper import StanfordCoreNLP
 
-tree = ET.parse('data/train-data.xml')
+tree = ET.parse('data/small-data.xml')
 root = tree.getroot()
 parser = spacy.load('en')
 '''
