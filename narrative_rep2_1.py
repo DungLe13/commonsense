@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-    narrative_rep2.py - Narrative representation of event chain
+    narrative_rep2_1.py - Narrative representation of event chain
     Author: Dung Le (dungle@bennington.edu)
     Date: 01/26/2017
 """
@@ -10,7 +10,7 @@ import spacy
 import nltk
 from stanford_parser_wrapper import StanfordCoreNLP
 
-tree = ET.parse('data/dev-data.xml')
+tree = ET.parse('data/train-data.xml')
 root = tree.getroot()
 parser = spacy.load('en')
 '''
@@ -38,27 +38,7 @@ def get_phrasal_verb(list_deps, verb):
 for instance in root:
     sentences = nltk.sent_tokenize(instance[0].text)
 
-    for sent in sentences:
-        # using spacy package to find POS
-        sent_text = parser(sent)
-
-        sent_verbs = []
-        sent_pos = []
-        for token in sent_text:
-            sent_pos.append(str(token.pos_))
-            if str(token.pos_) == 'VERB' and token.text not in modal_verbs:
-                sent_verbs.append(token.text.lower())
-
-        # Checking for special case: is/am/are/was/were + (NOT) + V_ing
-        # If yes, remove 'is/am/are/was/were' and keep the V_ing
-        if len(sent_verbs) > 1:
-            for i in range(len(sent_verbs)-1):
-                if sent_verbs[i] == 'is' or sent_verbs[i] == 'am' or sent_verbs[i] == 'are' \
-                   or sent_verbs[i] == 'was' or sent_verbs[i] == 'were':
-                    if 'ing' in sent_verbs[i+1]:
-                        sent_verbs.remove(sent_verbs[i])
-        #print(sent_verbs)               
-
+    for sent in sentences:              
         # using Stanford CoreNLP to get dependency parsing
         output = nlp.annotate(sent, properties={
                     'annotators': 'tokenize,ssplit,pos,depparse,parse',
@@ -75,20 +55,24 @@ for instance in root:
         '''
         narrative_array = []
         for dependency in dependencies:
-            for verb in sent_verbs:
-                narrative_dict = {}
-                # Find dependency of type nsubj to get arg_1
-                # Set arg_2 to None temporarily
-                if (dependency['dep'] == 'nsubj' or dependency['dep'] == 'nsubj:xsubj') \
-                   and dependency['governorGloss'] == verb:
-                    narrative_dict['verb'] = verb
-                    narrative_dict['arg_1'] = dependency['dependentGloss']
-                    narrative_dict['arg_2'] = None
-                    narrative_array.append(narrative_dict)
+            narrative_dict = {}
+            # Find dependency of type nsubj to get arg_1
+            # Set arg_2 to None temporarily
+            if dependency['dep'] == 'nsubj' or dependency['dep'] == 'nsubj:xsubj':
+                narrative_dict['verb'] = dependency['governorGloss']
+                narrative_dict['arg_1'] = dependency['dependentGloss']
+                narrative_dict['arg_2'] = None
+                narrative_array.append(narrative_dict)
         #print(narrative_array)
 
-        # For arg_2, go through the next 3-4 words after current verb
+        # For arg_2, go through the next 3 words after current verb
         # append any NN found into a string, and set it as arg_2
+        # using spacy package to find POS
+        sent_text = parser(sent)
+        sent_pos = []
+        for token in sent_text:
+            sent_pos.append(str(token.pos_))
+        
         words = nltk.word_tokenize(sent)
         for narr_dict in narrative_array:
             verb = narr_dict['verb']
@@ -103,17 +87,12 @@ for instance in root:
             # Replace None with argument_2 in narrative_dict
             narr_dict['arg_2'] = argument_2.strip()
 
-        # For each verb in sent_verbs, check for phrasal verb
-        for verb in sent_verbs:
+        # For each verb in each narrative dictionary, check for phrasal verb
+        for narr_dict in narrative_array:
+            verb = narr_dict['verb']
             phrasal_verb = get_phrasal_verb(dependencies, verb)
-            
-            if phrasal_verb:
-                # Replace verb with phrasal_verb in sent_verbs
-                sent_verbs.remove(verb)
-                sent_verbs.append(phrasal_verb)
 
+            if phrasal_verb:
                 # Replace verb with phrasal_verb in narrative_dict
-                for narr_dict in narrative_array:
-                    if narr_dict['verb'] == verb:
-                        narr_dict['verb'] = phrasal_verb
+                narr_dict['verb'] = phrasal_verb
         print(narrative_array)

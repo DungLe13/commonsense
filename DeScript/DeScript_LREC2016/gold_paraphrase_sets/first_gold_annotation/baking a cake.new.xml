@@ -11,7 +11,7 @@
 <item source="2" script="13" slot="3" total_slots="8" original="Buy ingredients"></item>
 
 </label>
-<label type="PARAPHRASE" event="other_read_instrauctions">
+<label type="PARAPHRASE" event="other_read_instructions">
 <item source="1" script="6" slot="2" total_slots="14" original="Before leaving store, read instructions on box for other ingredients needed"></item>
 
 </label>

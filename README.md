@@ -18,4 +18,6 @@ All the files and folders are described below:
 - **test_OMCS.py**: Open Mind Common Sense is another commonsense database by the MIT Lab; this file explores the coverage of this database against train data. More information on the database can be found in **literature** folder.
 - **stanford_parser\_wrapper.py**: A Python wrapper for the usage of Stanford CoreNLP 3.8.0.
 - **narrative_rep.py**: narrative representation of events chain (as described by Chambers and Jurafsky, 2008). Format: `protagonist(verb, dependency)`.
-- **narrarive_rep2.py**: another approach on narrative representation. Format: (for transitive verb) `verb(predicate_1, predicate_2)`; (for intransitive verb) `verb(predicate_1)`
+- **narrarive_rep2.py**: another approach on narrative representation. Format: (for transitive verb) `verb(arg_1, arg_2)`; (for intransitive verb) `verb(arg_1)`
+- **narrarive_rep2\_1.py**: similar to **narrarive_rep2.py**, but instead of using SpaCy to find verbs before hand, run Stanford CoreNLP right away.
+- **narrarive_rep3.py**: narrative representation of events chain (keeping the whole phrase). Format: `['I went into my bedroom', 'I flipped the light switch']`
